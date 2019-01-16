@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <link rel="stylesheet" href="main.css">
+
+    <title>Factorymarket</title>
+  </head>
+  <body>
+
+    <div class="qrq-header">
+      <img src="headerLogo.svg" />
+    </div>
+
+    <div class="qrq-product container-fluid hidden">
+      <h5 class="qrq-headline"></h5>
+      <img src="" class="qrq-product-img img-thumbnail rounded" alt="">
+      <div class="qrq-product-price-container container-fluid">
+        Preis: <span class="qrq-product-price color-price"></span>
+      </div>
+    </div>
+    <div class="qrq-product-loader d-flex justify-content-center">
+      <div class="spinner-grow text-warning" role="status">
+        <span class="sr-only">Loading...</span>
+      </div>
+    </div>
+
+
+
+    <div class="error-no-product hidden">
+      <div class="alert alert-danger" role="alert">
+        Produkt wurde nicht gefunden.
+      </div>
+    </div>
+
+
+    <div class="qrq-debug">
+      EAN: <span class="qrq-ean"></span><br />
+      Store: <span class="qrq-store"></span>
+    </div>
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
+    <script src="main.js"></script>
+  </body>
+</html>
