@@ -7,14 +7,15 @@
     "build": "webpack",
     "start": "webpack-dev-server --open",
     "server": "node dev-server.js",
-    "deploy": "webpack && gsutil rsync -d -r ~/workspace/fm/qrq.me/dist/  gs://m.qrq.me"
+    "deploy": "webpack && gsutil rsync -r ~/workspace/fm/qrq.me/dist/  gs://m.qrq.me"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "webpack": "^4.20.2",
-    "webpack-cli": "^3.1.2"
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.14"
   },
   "dependencies": {
     "bootstrap": "^4.2.1",
