@@ -12,7 +12,7 @@ Clone repository
 Install dependencies
 `npm install`
 
-h3. Workflow
+# Workflow #
 Pull recent changes from remote branch
 `git pull origin`
 
@@ -20,16 +20,16 @@ Create a feature branch
 `git -b <feature_branch_name>`
 
 Start local dev server
-`npm run server`
-open `http://localhost:5000`
+* `npm run server`
+* open `http://localhost:5000`
 
 Write code
 
 Commit changes
-`git add <file>` // add a file
-`git add .` // add everything
-`git status` // check status
-`git commit -m "short description"` // commit changes to local repository
+* `git add <file>` // add a file
+* `git add .` // add everything
+* `git status` // check status
+* `git commit -m "short description"` // commit changes to local repository
 
 Push to remote
 `git push <feature_branch_name>`
