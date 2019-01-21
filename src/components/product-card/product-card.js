@@ -9,5 +9,8 @@ module.exports = function(data) {
     category: data.level_0_item_group,
     image: 'https://fama-erp.strongops.de/' + data.image,
     price: String(data.current_gross_selling_price).replace('.', ','),
+    appPrice: (data.current_gross_selling_price * 0.9)
+      .toFixed(2)
+      .replace('.', ','),
   });
 };

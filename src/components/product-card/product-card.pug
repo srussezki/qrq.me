@@ -4,7 +4,12 @@
 
     .price-box.container
         .row
-            .col-2.price-color-label Preis:
-            .col-10.price-color-value EUR #{price}
-
-    #{_data}
+            .col-4.price-color-label Preis:
+            .col-8
+                .price-color-value EUR #{price}
+        .row
+            .col-4.price-color-label Mit Apprabatt:
+            .col-8
+                .price-color-value EUR #{appPrice}              
+                .disclaimer Alle Angabe inkl. MwSt.
+              

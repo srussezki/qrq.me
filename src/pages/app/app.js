@@ -3,6 +3,7 @@ import '../../scss/index.scss';
 import './app.scss';
 
 const ProductCard = require('./../../components/product-card/product-card');
+const YoutubeVideosCard = require('./../../components/youtube-video/youtube-video');
 const renderFn = require('./app.pug');
 
 const urlParams = new URLSearchParams(window.location.search);
@@ -17,7 +18,12 @@ if (ean && ean.match(/^\d+$/)) {
     render();
   });
   $.get(`./public/data/insights/${ean}.json`).then(data => {
-    console.log(data);
+    var productData = data && data.product_external_data;
+
+    if (productData['youtube-videos']) {
+      appData.youtubeVideo = YoutubeVideosCard(productData['youtube-videos']);
+    }
+
     render();
   });
 }
