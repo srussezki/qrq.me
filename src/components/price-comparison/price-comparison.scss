@@ -1,0 +1,15 @@
+.price-comparison {
+    .comp-row {
+      min-height: 40px;
+      padding: 7px 0;
+    }
+
+    .comp-row:nth-child(odd) {
+      background-color: #eee;
+    }
+
+    .comp-logo {
+      max-width: 100%;
+      max-height: 100%;
+    }
+}

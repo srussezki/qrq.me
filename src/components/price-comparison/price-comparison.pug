@@ -1,0 +1,12 @@
+.price-comparison.container
+    h5.title Preisvergleich
+    
+    .comparison-box.container
+    each offer, i in offers
+        .row.comp-row
+            .col-3
+                img.comp-logo(src=offer['shop-logo']) 
+            .col-3
+                span= 'EUR ' + (offer['offer-price']*1).toFixed(2).replace('.',',')
+            .col-6
+                a(href=offer['offer-link'])= offer['shop-name']
