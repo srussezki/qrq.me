@@ -1,39 +1,85 @@
-# qrq.me
+# Boostrap + Webpack + JQuery Boilerplate
 
-Install:
-- git
-- npm
-- gcloud
+> Build landing page with **Boostrap** and **jQuery** is so easy.
 
+<a target="_blank" href="https://opensource.org/licenses/MIT" title="License: MIT">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg">
+</a>
+<a href="#badge">
+  <img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg">
+</a>
+<a target="_blank" href="http://makeapullrequest.com" title="PRs Welcome"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></a>
 
-Clone repository
-`git clone git@github.com:srussezki/qrq.me.git`
+## Why ?
 
-Install dependencies
-`npm install`
+React is awesome, and I use it everyday.
 
-# Workflow #
-Pull recent changes from remote branch
-`git pull origin`
+However, not each project needs such a complicated library. jQuery and bootstrap are good enough.
 
-Create a feature branch 
-`git -b <feature_branch_name>`
+Hence, this repo is suitable for simple projects.
 
-Start local dev server
-* `npm run server`
-* open `http://localhost:5000`
+## About DOM manipulation, all you need is...
 
-Write code
+#### 🤩 jQuery
 
-Commit changes
-* `git add <file>` // add a file
-* `git add .` // add everything
-* `git status` // check status
-* `git commit -m "short description"` // commit changes to local repository
+#### ❌ No React
 
-Push to remote
-`git push <feature_branch_name>`
+#### ❌ No Vue
 
-Switch between branches 
-`git checkout <branch_name>`
+#### ❌ No Angular
 
+## About CSS, all you need is...
+
+#### 🤩 Bootstrap + CSS
+
+#### ❌ No CSS Modules
+
+#### ❌ No styled-components
+
+## Features
+
+- **Bootstrap** and **jQuery** installed
+- Hot Module Replacement (**HMR**)
+- Support **ES6** Syntax (**Babel 7**)
+- **ESLint** + **Prettier** = **Neat Coding Style**
+- Webpack production building (**code splitting, cache, lazy-loading**)
+
+## Download and Install
+
+Let's go!
+
+```
+$ git clone https://github.com/xxhomey19/bootstrap-webpack-jquery-boilerplate.git
+$ cd bootstrap-webpack-jquery-boilerplate
+$ yarn // or npm install
+```
+
+## Development
+
+Run development page on **localhost:8080**
+
+```
+$ npm run dev
+```
+
+## Build
+
+Build for production.
+
+```
+$ npm run build
+```
+
+## Deploy
+
+Deploy to `gh-pages` branch on GitHub.
+
+**[DEMO](https://xxhomey19.github.io/bootstrap-webpack-jquery-boilerplate/)**
+
+```
+$ npm run deploy
+```
+
+## License
+
+MIT © [xxhomey19](https://github.com/xxhomey19)
