@@ -1,10 +1,18 @@
 .app {
   .header {
     width: 100%;
-    background-color: rgba(220,220,220,0.9);
+    background-color: rgba(255, 242, 0,0.9);
+    text-align: center;
 
     img {
-      width: 100%;
+      width: 80%;
+      margin: 5px;
     }
+  }
+
+  .card {
+    margin-bottom: 10px;
+    padding-top: 10px;
+    // background-color: #f9f9f9;
   }
 }

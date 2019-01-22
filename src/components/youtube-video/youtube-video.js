@@ -2,13 +2,21 @@ require('./youtube-video.scss');
 var tpl = require('./youtube-video.pug');
 
 module.exports = function(data) {
-  var ids = (data || []).map(getId).filter(id => id != undefined);
+  let videos;
+
+  if (data && data['youtube-videos'] && Array.isArray(data['youtube-videos'])) {
+    videos = data['youtube-videos'];
+  } else {
+    return;
+  }
+
+  var ids = videos.map(getId).filter(id => id != undefined);
 
   if (ids.length > 0) {
-    var randomId = ids[Math.floor(Math.random() * ids.length)];
+    // var randomId = ids[Math.floor(Math.random() * ids.length)];
 
     return tpl({
-      video: 'http://www.youtube.com/embed/' + randomId,
+      video: 'http://www.youtube.com/embed/' + ids[0],
     });
   }
 };

@@ -2,12 +2,20 @@ require('./price-comparison.scss');
 var tpl = require('./price-comparison.pug');
 
 module.exports = function(data) {
-  if (!data || data.length === 0) {
+  let offers;
+
+  if (
+    data &&
+    Array.isArray(data['third-party-offers']) &&
+    data['third-party-offers'].length > 0
+  ) {
+    offers = data['third-party-offers'];
+  } else {
     return;
   }
 
   return tpl({
-    offers: data.sort(byPrice),
+    offers: offers.sort(byPrice),
   });
 };
 

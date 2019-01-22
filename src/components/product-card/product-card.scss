@@ -1,13 +1,9 @@
 .product-card {
-  margin-top: 10px;
-  margin-bottom: 10px;
-
   .price-box {
     margin: 10px 0;
   }
 
-  img {
-    max-width: 300px;
-    max-height: 300px;
+  .img-wrapper img {
+    max-height: 200px;
   }
 }

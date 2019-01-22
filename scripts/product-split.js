@@ -1,7 +1,7 @@
 const fs = require('fs');
 
-const fileIn = './products.json';
-const dir = '../src/public/data/core/';
+const fileIn = '../data/products.json';
+const dir = '../data/core/';
 
 var data = JSON.parse(fs.readFileSync(fileIn)),
   rows = data.query_result.data.rows;

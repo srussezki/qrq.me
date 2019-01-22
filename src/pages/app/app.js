@@ -15,23 +15,27 @@ const ean = urlParams.get('e');
 var appData = {};
 
 if (ean && ean.match(/^\d+$/)) {
-  $.get(`./public/data/core/${ean}.json`).then(data => {
+  var $productRequest = $.get(`./public/data/core/${ean}.json`),
+    $externalDataRequest = $.get(`./public/data/insights/${ean}.json`);
+
+  $productRequest.then(data => {
     appData.productData = ProductCard(data);
     render();
   });
 
-  $.get(`./public/data/insights/${ean}.json`).then(data => {
+  $externalDataRequest.then(data => {
     var productData = data && data.product_external_data;
     console.log(productData);
-    if (productData['youtube-videos']) {
-      appData.youtubeVideo = YoutubeVideosCard(productData['youtube-videos']);
-    }
-    if (productData['third-party-offers']) {
-      appData.priceComparison = PriceComparisonCard(
-        productData['third-party-offers']
-      );
-    }
 
+    appData.youtubeVideo = YoutubeVideosCard(productData);
+    appData.priceComparison = PriceComparisonCard(productData);
+
+    render();
+  });
+
+  $.when($productRequest, $externalDataRequest).then((d1, d2) => {
+    var productData = d2[0] && d2[0].product_external_data;
+    appData.productData = ProductCard(d1[0], productData);
     render();
   });
 }

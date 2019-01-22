@@ -1,8 +1,17 @@
 require('./product-card.scss');
 var tpl = require('./product-card.pug');
 
-module.exports = function(data) {
-  console.log(data);
+module.exports = function(data, externalData) {
+  var otherImages =
+      externalData && externalData['external-images']
+        ? externalData['external-images']
+        : null,
+    images = [];
+
+  if (data.image) {
+    images.push('https://fama-erp.strongops.de/' + data.image);
+    images = images.concat(otherImages);
+  }
 
   return tpl({
     name: data.item_name,
@@ -12,5 +21,6 @@ module.exports = function(data) {
     appPrice: (data.current_gross_selling_price * 0.9)
       .toFixed(2)
       .replace('.', ','),
+    images: images,
   });
 };
