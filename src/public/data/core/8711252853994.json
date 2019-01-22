@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 13,
+	"item_group": "Spielwaren Mädchen",
+	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/8711252853994.jpg",
 	"creation": "2018-02-13T18:49:04.969986",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 5,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 105,
 	"item_name": "Pferd-Spielset 6stk",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d8fae78d-9548-4a88-aa71-9609f35e397d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252853994",
 	"item_code": "PP-000000377",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000000377",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Spielwaren Mädchen",
+	"BARCODE": "8711252853994",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "6.49",
 	"current_gross_selling_price": 3.99,
-	"base_price": "6.49"
+	"ORDERS_30D": 23
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Wolle",
 	"current_stock_003_halle_altstadt": 15,
 	"image": null,
 	"creation": "2018-11-05T10:41:10.635163",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 7,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 64,
 	"item_name": "Wolle Lisa Premium uni neonkoralle 50gr",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f4469e84-b980-4861-bdf4-9cc5d6d32e6d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4036014095554",
 	"item_code": "PP-000015240",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000015240",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Wolle",
+	"BARCODE": "4036014095554",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 22
 }

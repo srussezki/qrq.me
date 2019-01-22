@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 4,
 	"image": "/files/8718158328625.jpg",
 	"creation": "2018-02-14T09:13:43.858104",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 235,
 	"item_name": "Geschenkklammern 50 Stk 4,5cm",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5750a596-5596-40d0-b606-9164cc0a5a23",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158328625",
 	"item_code": "PP-000003106",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000003106",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": "8718158328625",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.15",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.15"
+	"ORDERS_30D": 8
 }

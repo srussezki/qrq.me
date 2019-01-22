@@ -1,12 +1,15 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 14,
 	"image": null,
 	"creation": "2018-02-13T18:48:27.331092",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 96,
+	"current_stock_wh_ludwigsfelde": 72,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 0,
 	"marketing_text": "308.401 weitere Kinderartikel online",
+	"ORDERS_ALLTIME": 110,
 	"item_name": "Turbo Ball",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a797fb84-f063-40ee-9a5d-edb3b30b5746",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627357622",
 	"item_code": "PP-000001465",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000001465",
+	"current_stock_001_kaufpark_eiche": 32,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8714627357622",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 1
 }

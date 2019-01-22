@@ -1,12 +1,15 @@
 {
+	"item_group": "Salzige Snacks",
 	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/4000522064302.jpg",
 	"creation": "2018-04-30T15:26:13.458593",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 12,
+	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-27",
+	"ORDERS_7D": 18,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 127,
 	"item_name": "Funny-Frisch Pom Bär 75g",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=79f149a4-41ed-45cf-80e6-cb561f10d585",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4000522064302",
 	"item_code": "PP-000008262",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000008262",
+	"current_stock_001_kaufpark_eiche": 16,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Salzige Snacks",
+	"BARCODE": "4000522064302",
+	"ORDERS_YESTERDAY": 4,
+	"base_price": "1.18",
 	"current_gross_selling_price": 0.89,
-	"base_price": "1.18"
+	"ORDERS_30D": 29
 }

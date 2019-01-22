@@ -1,4 +1,5 @@
 {
+	"item_group": "Plüschtiere",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/8714627371550.jpg",
 	"creation": "2018-03-14T16:33:12.348241",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 3,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 147,
 	"item_name": "Plüsch Einhorn in Tragekoffer",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=70bfd103-dd9f-4c48-a269-39170559f0d7",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627371550",
 	"item_code": "PP-000005817",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000005817",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Plüschtiere",
+	"BARCODE": "8714627371550",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 11
 }

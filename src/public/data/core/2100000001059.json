@@ -1,4 +1,5 @@
 {
+	"item_group": "Badtextilien",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-03-14T16:33:07.028775",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-12",
+	"ORDERS_7D": null,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Duschhandtuch Für Die Haare",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7bb074e4-b0d8-4559-93fd-5cdcbeb96da0",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000005127",
 	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000005127",
+	"_timestamp": "20190122 150229.607",
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Badtextilien",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": null
 }

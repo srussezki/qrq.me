@@ -1,4 +1,5 @@
 {
+	"item_group": "Taschen & Rucksäcke",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-08-10T10:58:44.982023",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-08-08",
+	"ORDERS_7D": 3,
 	"marketing_text": "App, App Hura! Noch mehr Auswahl!",
+	"ORDERS_ALLTIME": 36,
 	"item_name": "Frida Schultertasche Nylon",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=21a4b473-6bd2-4cd1-af83-5d270741dc88",
@@ -14,7 +17,7 @@
 	"current_stock_002_halle_neustadt": 4,
 	"rack_number": null,
 	"item_group_level_0": null,
-	"base_price_text": "7.99 € je 1 Stück",
+	"base_price_text": "3.99 je 1 Stück",
 	"strike_price": 0,
 	"description": "PP-000012467",
 	"parent": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4047445270854",
 	"item_code": "PP-000012467",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000012467",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Taschen & Rucksäcke",
-	"current_gross_selling_price": 7.99,
-	"base_price": "7.99"
+	"BARCODE": "4047445270854",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
+	"current_gross_selling_price": 3.99,
+	"ORDERS_30D": 6
 }

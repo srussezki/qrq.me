@@ -1,4 +1,5 @@
 {
+	"item_group": "Kleinmöbel",
 	"current_stock_003_halle_altstadt": 18,
 	"image": "/files/8719202484601.jpg",
 	"creation": "2018-03-23T21:08:15.064292",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-15",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 35,
 	"item_name": "Klappstuhl Versch. Varianten",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4f1f6e14-fc1e-457b-9444-94871565e2aa",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202484601",
 	"item_code": "PP-000006039",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000006039",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kleinmöbel",
+	"BARCODE": "8719202484601",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 0
 }

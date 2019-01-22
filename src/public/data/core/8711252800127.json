@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 79,
+	"item_group": "OTC / Gesundheit",
+	"current_stock_003_halle_altstadt": 77,
 	"image": "/files/8711252800127.png",
 	"creation": "2018-02-14T16:00:24.451161",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 264,
 	"first_time_ordered_on_": "2017-11-01",
+	"ORDERS_7D": 4,
 	"marketing_text": "Pflege für Sie & Ihn in der App",
+	"ORDERS_ALLTIME": 51,
 	"item_name": "Pflaster Sensitiv 14stk",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a854e9f3-ee36-4b4e-924e-9dc48ca610fd",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252800127",
 	"item_code": "PP-000002513",
-	"current_stock_001_kaufpark_eiche": 21,
 	"name": "PP-000002513",
+	"current_stock_001_kaufpark_eiche": 21,
+	"ORDERS_TODAY": 2,
 	"shelf_number": "4",
-	"item_group": "OTC / Gesundheit",
+	"BARCODE": "8711252800127",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 7
 }

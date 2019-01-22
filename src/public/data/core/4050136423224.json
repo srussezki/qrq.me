@@ -1,4 +1,5 @@
 {
+	"item_group": "Damenbekleidung",
 	"current_stock_003_halle_altstadt": 45,
 	"image": null,
 	"creation": "2018-09-05T12:14:28.174336",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": 27,
 	"item_name": "Damen Herbst Oberteile versch. Modelle L",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=982dbd27-6e71-46b3-abd8-78d9a28a5b3e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4050136423224",
 	"item_code": "PP-000013104",
-	"current_stock_001_kaufpark_eiche": 48,
 	"name": "PP-000013104",
+	"current_stock_001_kaufpark_eiche": 48,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Damenbekleidung",
+	"BARCODE": "4050136423224",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "6.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "6.99"
+	"ORDERS_30D": 20
 }

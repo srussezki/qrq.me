@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 13,
+	"item_group": "Pflegende Kosmetik",
+	"current_stock_003_halle_altstadt": 12,
 	"image": null,
 	"creation": "2018-02-13T18:58:45.412657",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 260,
 	"first_time_ordered_on_": "2018-01-04",
+	"ORDERS_7D": 5,
 	"marketing_text": "Pflege für Sie & Ihn in der App",
+	"ORDERS_ALLTIME": 83,
 	"item_name": "Laser Twin Rasierklingen für Herren 10stk",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=79175c24-8a88-4fe5-82cd-0a5ec667fe3a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5015911101154",
 	"item_code": "PP-000003651",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000003651",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "5015911101154",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 24
 }

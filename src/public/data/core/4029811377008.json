@@ -1,4 +1,5 @@
 {
+	"item_group": "Beautyaccessoires",
 	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/4029811377008.png",
 	"creation": "2018-07-18T11:48:19.102172",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Die neusten Beautyprodukte jetzt bei uns",
+	"ORDERS_ALLTIME": 161,
 	"item_name": "Kunststoff-Kosmetikschwamm Egg",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a22e2fb4-2e6e-4e83-bdec-bb616c835b8e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4029811377008",
 	"item_code": "PP-000011090",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000011090",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Beautyaccessoires",
+	"BARCODE": "4029811377008",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 16
 }

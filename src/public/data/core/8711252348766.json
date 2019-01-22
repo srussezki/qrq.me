@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Reinigungsmittel",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/8711252348766.jpg",
 	"creation": "2018-02-14T16:00:22.242674",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 96,
 	"first_time_ordered_on_": "2017-11-02",
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 51,
 	"item_name": "Insektenfalle",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e92c2fe6-bbcb-44d9-a519-788e89d1ccd3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252348766",
 	"item_code": "PP-000001937",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000001937",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "FMCG Reinigungsmittel",
+	"BARCODE": "8711252348766",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.45",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.45"
+	"ORDERS_30D": 0
 }

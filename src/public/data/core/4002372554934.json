@@ -1,4 +1,5 @@
 {
+	"item_group": "Hefte & Blöcke",
 	"current_stock_003_halle_altstadt": 19,
 	"image": "/files/4002372554934.jpg",
 	"creation": "2018-03-23T21:05:38.686058",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-23",
+	"ORDERS_7D": 0,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 27,
 	"item_name": "Zeichenblock A3 10 Blatt",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7ba39783-5063-4781-82bc-9b58e0853e35",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002372554934",
 	"item_code": "PP-000006284",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006284",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hefte & Blöcke",
+	"BARCODE": "4002372554934",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 4
 }

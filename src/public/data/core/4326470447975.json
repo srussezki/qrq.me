@@ -1,4 +1,5 @@
 {
+	"item_group": "Reinigung hart",
 	"current_stock_003_halle_altstadt": 13,
 	"image": "/files/4326470447975.jpg",
 	"creation": "2018-02-13T18:51:28.845675",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-27",
+	"ORDERS_7D": 2,
 	"marketing_text": "Wecke den Putzteufel in Dir!",
+	"ORDERS_ALLTIME": 161,
 	"item_name": "Flaschenbürste Set",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f3f82cb8-d510-47bd-bc3c-cca5b4bdacb0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470447975",
 	"item_code": "PP-000001086",
-	"current_stock_001_kaufpark_eiche": 24,
 	"name": "PP-000001086",
+	"current_stock_001_kaufpark_eiche": 24,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Reinigung hart",
+	"BARCODE": "4326470447975",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 7
 }

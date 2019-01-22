@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Jungs",
 	"current_stock_003_halle_altstadt": 30,
 	"image": "/files/8711252788029.jpg",
 	"creation": "2018-02-13T18:57:43.454281",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 3,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 67,
 	"item_name": "Car Rescue 1:48 German",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=450a3cf7-60d9-46b1-9362-07ae62384ca4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252788029",
 	"item_code": "PP-000003441",
-	"current_stock_001_kaufpark_eiche": 28,
 	"name": "PP-000003441",
+	"current_stock_001_kaufpark_eiche": 28,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Jungs",
+	"BARCODE": "8711252788029",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.29",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.29"
+	"ORDERS_30D": 8
 }

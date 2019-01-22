@@ -1,4 +1,5 @@
 {
+	"item_group": "Aufbewahrung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4022222149844.png",
 	"creation": "2018-02-14T16:00:24.871902",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-06",
+	"ORDERS_7D": 3,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 61,
 	"item_name": "Aufbewahrungsbox Mit Deckel 27x28x30cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9747f1e5-439f-4b37-b635-b99a966bae2b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4022222149844",
 	"item_code": "PP-000004627",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000004627",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Aufbewahrung",
+	"BARCODE": "4022222149844",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 19
 }

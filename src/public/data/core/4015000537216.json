@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 14,
 	"image": "/files/4015000537216.jpg",
 	"creation": "2018-05-25T15:28:23.615134",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 18,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Pflege für Sie & Ihn in der App",
+	"ORDERS_ALLTIME": 52,
 	"item_name": "Syoss Shine Spray 200ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9ad15bc9-6ed0-4b81-a150-f28da4ece8bc",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4015000537216",
 	"item_code": "PP-000009252",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000009252",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "4015000537216",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 10
 }

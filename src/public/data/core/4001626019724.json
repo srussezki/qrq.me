@@ -1,4 +1,5 @@
 {
+	"item_group": "Bettwaren",
 	"current_stock_003_halle_altstadt": 9,
 	"image": null,
 	"creation": "2018-08-24T09:17:38.775417",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 28,
 	"item_name": "Nässeschutzauflage 140x200 cm",
 	"level_0_item_group": "Heimtextilien ",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6b75b655-700e-4888-924e-d37ca9677f2a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4001626019724",
 	"item_code": "PP-000012845",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000012845",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Bettwaren",
+	"BARCODE": "4001626019724",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": null,
 	"current_gross_selling_price": 3.99,
-	"base_price": null
+	"ORDERS_30D": 10
 }

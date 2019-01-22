@@ -1,4 +1,5 @@
 {
+	"item_group": "Kerzen & -zubehör",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4020607411739.jpg",
 	"creation": "2018-03-14T16:32:24.181836",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-12",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 65,
 	"item_name": "Windlicht Trax 9cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d1dc64dd-cb75-43c9-abea-d2bc8f41a96c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4020607411739",
 	"item_code": "PP-000005283",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000005283",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": "4020607411739",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.83",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.83"
+	"ORDERS_30D": 2
 }

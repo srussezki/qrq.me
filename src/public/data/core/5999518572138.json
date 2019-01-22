@@ -1,4 +1,5 @@
 {
+	"item_group": "Mundpflege",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5999518572138.png",
 	"creation": "2018-08-17T10:09:51.004135",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "120.800 weitere Beautyartikel in der App",
+	"ORDERS_ALLTIME": 58,
 	"item_name": "Sensodyne Pronamel classic 75ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=cc8f2636-ec07-4bc9-88a6-7506167acd4e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5999518572138",
 	"item_code": "PP-000012631",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000012631",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Mundpflege",
+	"BARCODE": "5999518572138",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 0
 }

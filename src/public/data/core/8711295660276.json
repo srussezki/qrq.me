@@ -1,4 +1,5 @@
 {
+	"item_group": "Hunde",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711295660276.jpg",
 	"creation": "2018-03-23T21:08:14.235779",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-15",
+	"ORDERS_7D": 0,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 68,
 	"item_name": "Ballwerfer Mit Ball Versch. Varianten",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=17098d70-3f3c-4633-b4c2-9f5b149ee2e4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295660276",
 	"item_code": "PP-000006020",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000006020",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hunde",
+	"BARCODE": "8711295660276",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.49"
+	"ORDERS_30D": 0
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Keramik & Porzellan",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4010385155802.jpg",
 	"creation": "2018-10-04T12:38:08.620345",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 215,
 	"item_name": "ELCH Becher",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=01c4ee68-fb74-4733-826c-953d9c11f5f3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4010385155802",
 	"item_code": "PP-000014256",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000014256",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Keramik & Porzellan",
+	"BARCODE": "4010385155802",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.99"
+	"ORDERS_30D": 0
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Bad hart",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711252922331.jpg",
 	"creation": "2018-02-13T18:56:39.232764",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-28",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 102,
 	"item_name": "Eckregal Dusche",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=86c6667b-f86c-4aeb-9ba5-af771dc2f82d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252922331",
 	"item_code": "PP-000001735",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000001735",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "6",
-	"item_group": "Bad hart",
+	"BARCODE": "8711252922331",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 11
 }

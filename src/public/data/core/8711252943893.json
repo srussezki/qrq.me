@@ -1,4 +1,5 @@
 {
+	"item_group": "Grußkarten",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-14T16:00:13.841298",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 1,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 53,
 	"item_name": "Geburtstagskarte   ",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ef4d00b8-cc19-4274-89c0-aedf86a1348a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252943893",
 	"item_code": "PP-000003484",
-	"current_stock_001_kaufpark_eiche": 43,
 	"name": "PP-000003484",
+	"current_stock_001_kaufpark_eiche": 43,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Grußkarten",
+	"BARCODE": "8711252943893",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 4
 }

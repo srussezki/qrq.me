@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 10,
 	"image": null,
 	"creation": "2018-05-02T18:34:03.153975",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-05-02",
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 81,
 	"item_name": "Mikrowellendose 20x20x9,5 cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=52fef131-b3db-44b8-822e-6c66b0c70b0b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718827071791",
 	"item_code": "PP-000008431",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000008431",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Küchenhelfer",
+	"BARCODE": "8718827071791",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 22
 }

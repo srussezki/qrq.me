@@ -1,4 +1,5 @@
 {
+	"item_group": "Weihnachtsschokolade",
 	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/4000539750304.jpg",
 	"creation": "2018-11-01T12:48:02.849577",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Alles für die Naschkatzen bei factorymarket",
+	"ORDERS_ALLTIME": 153,
 	"item_name": "Lindt Weihnachtsnuss Haselnuss 100gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=51959bb9-0654-4c97-95a4-fc9a05be1322",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4000539750304",
 	"item_code": "PP-000015051",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000015051",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Weihnachtsschokolade",
+	"BARCODE": "4000539750304",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.24",
 	"current_gross_selling_price": 1.24,
-	"base_price": "1.24"
+	"ORDERS_30D": 0
 }

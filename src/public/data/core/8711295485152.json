@@ -1,4 +1,5 @@
 {
+	"item_group": "Kostüme",
 	"current_stock_003_halle_altstadt": 48,
 	"image": "/files/8711295485152.jpg",
 	"creation": "2018-07-22T21:42:58.639293",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 96,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Noch mehr Auswahl online",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Vampirzähne",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=daed2651-852e-4045-8c91-0bccb63eb5f4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295485152",
 	"item_code": "PP-000011353",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000011353",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Kostüme",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": null,
 	"current_gross_selling_price": 0.99,
-	"base_price": null
+	"ORDERS_30D": null
 }

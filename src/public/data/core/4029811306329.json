@@ -1,4 +1,5 @@
 {
+	"item_group": "Schuhe",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4029811306329.jpg",
 	"creation": "2018-02-14T16:00:44.580830",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-06",
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 51,
 	"item_name": "Damen Komfort-Hausschuhe 36-37 Schleife",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d2c143b9-ed6e-41ea-88aa-15999912915b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4029811306329",
 	"item_code": "PP-000004614",
-	"current_stock_001_kaufpark_eiche": 16,
 	"name": "PP-000004614",
+	"current_stock_001_kaufpark_eiche": 16,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schuhe",
+	"BARCODE": "4029811306329",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 4
 }

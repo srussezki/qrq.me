@@ -1,4 +1,5 @@
 {
+	"item_group": "Elektronikgeräte",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-10-22T11:19:40.661171",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 60,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Bosch Dampfbügeleisen Sensixx'x",
 	"level_0_item_group": "Elektro",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=23d0bb23-554e-43e6-b0f3-93bd4cba50cb",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4242002953625",
 	"item_code": "PP-000014890",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000014890",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Elektronikgeräte",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "39.99",
 	"current_gross_selling_price": 29.99,
-	"base_price": "39.99"
+	"ORDERS_30D": null
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 53,
+	"item_group": "Geschenkverpackungen",
+	"current_stock_003_halle_altstadt": 52,
 	"image": "/files/8719202039283.jpg",
 	"creation": "2018-02-13T18:49:30.700950",
 	"website_image": "/files/8719202039283.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-20",
+	"ORDERS_7D": 1,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 296,
 	"item_name": "Flaschen Geschenktasche",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8a6850b0-088b-4ef8-b1bd-374ba86d2f2d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202039283",
 	"item_code": "PP-000002748",
-	"current_stock_001_kaufpark_eiche": 97,
 	"name": "PP-000002748",
+	"current_stock_001_kaufpark_eiche": 97,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "Geschenkverpackungen",
+	"BARCODE": "8719202039283",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 5
 }

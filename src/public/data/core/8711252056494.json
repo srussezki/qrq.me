@@ -1,4 +1,5 @@
 {
+	"item_group": "Office",
 	"current_stock_003_halle_altstadt": 36,
 	"image": "/files/8711252056494.jpg",
 	"creation": "2018-03-14T16:33:28.958440",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 10,
 	"item_name": "Memo Magnete 2/3/4stk",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=90192f3b-3225-415c-965d-4af531a0f608",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252056494",
 	"item_code": "PP-000005409",
-	"current_stock_001_kaufpark_eiche": 26,
 	"name": "PP-000005409",
+	"current_stock_001_kaufpark_eiche": 26,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Office",
+	"BARCODE": "8711252056494",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.24",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.24"
+	"ORDERS_30D": 0
 }

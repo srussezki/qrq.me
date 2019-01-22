@@ -1,4 +1,5 @@
 {
+	"item_group": "Kleinmöbel",
 	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/612615078383.png",
 	"creation": "2018-02-14T16:00:28.232422",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 69,
 	"first_time_ordered_on_": "2018-02-02",
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 16,
 	"item_name": "Beistelltisch",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ef8bc33c-0c85-456e-a657-bca5eea9fa0e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "612615078383",
 	"item_code": "PP-000004107",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000004107",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kleinmöbel",
+	"BARCODE": "612615078383",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "7.99",
 	"current_gross_selling_price": 17.99,
-	"base_price": "7.99"
+	"ORDERS_30D": 3
 }

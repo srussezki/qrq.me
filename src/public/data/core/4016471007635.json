@@ -1,12 +1,15 @@
 {
+	"item_group": "Badtextilien",
 	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/4016471007635.jpg",
 	"creation": "2018-10-29T10:28:10.227255",
 	"website_image": "/files/4016471007635.jpg",
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 92,
+	"current_stock_wh_ludwigsfelde": 88,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 19,
 	"item_name": "Multifunktions-Handtuch 90x40cm rot",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a43960bc-f5ab-42c9-bb82-340bd5899484",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4016471007635",
 	"item_code": "PP-000014997",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000014997",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Badtextilien",
+	"BARCODE": "4016471007635",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 8
 }

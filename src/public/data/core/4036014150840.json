@@ -1,4 +1,5 @@
 {
+	"item_group": "Wolle",
 	"current_stock_003_halle_altstadt": 48,
 	"image": null,
 	"creation": "2018-11-02T13:11:29.387693",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 7,
 	"item_name": "Wolle Baby uni rosa 50gr",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4c19fc8e-eb38-421f-b46c-aa3947ade4fa",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4036014150840",
 	"item_code": "PP-000015195",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000015195",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Wolle",
+	"BARCODE": "4036014150840",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 5
 }

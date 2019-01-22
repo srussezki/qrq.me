@@ -1,4 +1,5 @@
 {
+	"item_group": "Bastelbedarf",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8681379310123.png",
 	"creation": "2018-03-14T16:33:07.918517",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-01",
+	"ORDERS_7D": 0,
 	"marketing_text": "Spielzeug für Groß und Klein auch online",
+	"ORDERS_ALLTIME": 9,
 	"item_name": "Funny Mat - Vehicles 48x33.5 cm",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d387caed-0136-4c68-8cd8-0bb64adc9046",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8681379310123",
 	"item_code": "PP-000005106",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000005106",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Bastelbedarf",
+	"BARCODE": "8681379310123",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 0
 }

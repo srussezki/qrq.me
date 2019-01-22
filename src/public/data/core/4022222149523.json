@@ -1,4 +1,5 @@
 {
+	"item_group": "Aufbewahrung",
 	"current_stock_003_halle_altstadt": 28,
 	"image": "/files/4022222149523.jpg",
 	"creation": "2018-02-14T16:00:24.786103",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": "2018-02-06",
+	"ORDERS_7D": 4,
 	"marketing_text": "Billiger gehts immer, mehr Artikel in der App",
+	"ORDERS_ALLTIME": 195,
 	"item_name": "Kleiderbügel Vollkunststoff 10er-Set",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=24005692-d33b-482e-9adc-22844eab75ce",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4022222149523",
 	"item_code": "PP-000004637",
-	"current_stock_001_kaufpark_eiche": 78,
 	"name": "PP-000004637",
+	"current_stock_001_kaufpark_eiche": 78,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Aufbewahrung",
+	"BARCODE": "4022222149523",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 22
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Einwegartikel",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8718158622020.jpg",
 	"creation": "2018-02-14T09:14:40.357270",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-09",
+	"ORDERS_7D": 11,
 	"marketing_text": "Billiger gehts immer, mehr Artikel in der App",
+	"ORDERS_ALLTIME": 114,
 	"item_name": "Cocktailspieße",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=36c93cab-856a-40e9-bf30-c1d94d278e39",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158622020",
 	"item_code": "PP-000004523",
-	"current_stock_001_kaufpark_eiche": 24,
 	"name": "PP-000004523",
+	"current_stock_001_kaufpark_eiche": 24,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Einwegartikel",
+	"BARCODE": "8718158622020",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.49",
 	"current_gross_selling_price": 0.79,
-	"base_price": "1.49"
+	"ORDERS_30D": 27
 }

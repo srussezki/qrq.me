@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/7702018364480.jpg",
 	"creation": "2018-02-13T18:58:55.549307",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-04",
+	"ORDERS_7D": 0,
 	"marketing_text": "Pflege für Sie & Ihn in der App",
+	"ORDERS_ALLTIME": 22,
 	"item_name": "Gillette Rasierer 1-Up Venus Embrace Snap",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9c1d791d-3b3f-439c-87bd-9f496c737d26",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "7702018364480",
 	"item_code": "PP-000003589",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000003589",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "7702018364480",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 0
 }

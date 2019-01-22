@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/3600541534865.png",
 	"creation": "2018-02-13T18:54:06.810818",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-22",
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 109,
 	"item_name": "Fructis Conditioner Pracht Auffüllung 200ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=28cb4d75-007a-4dc6-9ac5-14a15c38e16f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3600541534865",
 	"item_code": "PP-000000574",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000000574",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "4",
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "3600541534865",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 6
 }

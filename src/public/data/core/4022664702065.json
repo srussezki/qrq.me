@@ -1,4 +1,5 @@
 {
+	"item_group": "Geschenkverpackungen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4022664702065.jpg",
 	"creation": "2018-08-15T14:12:57.092960",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Für Bürohelden und Heldinnen!",
+	"ORDERS_ALLTIME": 7,
 	"item_name": "Geschenkpapier, weiß mit Sternen",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e8bef6c9-3e2b-42c0-9ab7-0dba06feb002",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4022664702065",
 	"item_code": "PP-000012605",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000012605",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Geschenkverpackungen",
+	"BARCODE": "4022664702065",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 0.89,
-	"base_price": null
+	"ORDERS_30D": 0
 }

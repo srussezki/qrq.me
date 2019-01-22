@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 26,
+	"item_group": "Partyartikel",
+	"current_stock_003_halle_altstadt": 25,
 	"image": null,
 	"creation": "2018-11-01T15:47:42.793932",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 100,
 	"item_name": "Tischfeuerwerk Gold 2stk",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9ddc205e-d90b-488c-b9f6-0e9289fce2a6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714572621908",
 	"item_code": "PP-000015101",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000015101",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": "8714572621908",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 88
 }

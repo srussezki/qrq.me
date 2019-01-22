@@ -1,4 +1,5 @@
 {
+	"item_group": "Reinigung hart",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8711252563237.jpg",
 	"creation": "2018-02-13T18:49:38.765612",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 72,
 	"first_time_ordered_on_": "2017-12-01",
+	"ORDERS_7D": 15,
 	"marketing_text": "Wecke den Putzteufel in Dir!",
+	"ORDERS_ALLTIME": 397,
 	"item_name": "Mikrofasertücher 5St",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=102d31d7-b3b1-4aae-983c-5356cf0448e7",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252563237",
 	"item_code": "PP-000002623",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000002623",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Reinigung hart",
+	"BARCODE": "8711252563237",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 40
 }

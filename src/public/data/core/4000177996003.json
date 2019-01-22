@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 203,
+	"item_group": "Getränke",
+	"current_stock_003_halle_altstadt": 199,
 	"image": "/files/4000177996003.jpg",
 	"creation": "2018-04-19T18:07:42.094282",
 	"website_image": "/files/4000177996003.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 810,
 	"first_time_ordered_on_": "2018-04-13",
+	"ORDERS_7D": 87,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 1601,
 	"item_name": "Capri Sun Kirsche 200ml",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2a0b9e4e-6eae-4d09-bd98-d67c6f06a4a1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4000177996003",
 	"item_code": "PP-000007366",
-	"current_stock_001_kaufpark_eiche": 174,
 	"name": "PP-000007366",
+	"current_stock_001_kaufpark_eiche": 160,
+	"ORDERS_TODAY": 7,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "4000177996003",
+	"ORDERS_YESTERDAY": 15,
+	"base_price": "0.14",
 	"current_gross_selling_price": 0.29,
-	"base_price": "0.14"
+	"ORDERS_30D": 246
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Autozubehör",
 	"current_stock_003_halle_altstadt": 15,
 	"image": "/files/4050300925202.jpg",
 	"creation": "2018-02-13T18:50:33.407283",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 91,
 	"first_time_ordered_on_": "2017-11-28",
+	"ORDERS_7D": 0,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 87,
 	"item_name": "Osram Lampe",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=25af073f-1dfb-4565-9eaf-cc6a43097c2a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4050300925202",
 	"item_code": "PP-000001579",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000001579",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "6",
-	"item_group": "Autozubehör",
+	"BARCODE": "4050300925202",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 13
 }

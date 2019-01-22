@@ -1,4 +1,5 @@
 {
+	"item_group": "Kekse & Backwaren",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4008400353821.jpg",
 	"creation": "2018-04-30T15:26:15.714679",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-27",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 36,
 	"item_name": "Hanuta 10er Pack 220g",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b1eb44af-0886-4379-a0fb-a0d2cf8aae8a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008400353821",
 	"item_code": "PP-000008274",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000008274",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kekse & Backwaren",
+	"BARCODE": "4008400353821",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.9",
 	"current_gross_selling_price": 1.99,
-	"base_price": "0.9"
+	"ORDERS_30D": 0
 }

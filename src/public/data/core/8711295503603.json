@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 30,
+	"item_group": "Partyartikel",
+	"current_stock_003_halle_altstadt": 29,
 	"image": "/files/8711295503603.png",
 	"creation": "2018-02-13T18:52:25.890865",
 	"website_image": "/files/8711295503603.png",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 144,
 	"first_time_ordered_on_": "2017-11-01",
+	"ORDERS_7D": 8,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 226,
 	"item_name": "Geburtstagskerzen 24stk",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e41b9450-76c2-47bc-9eeb-45fd86e6da97",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295503603",
 	"item_code": "PP-000000973",
-	"current_stock_001_kaufpark_eiche": 86,
 	"name": "PP-000000973",
+	"current_stock_001_kaufpark_eiche": 85,
+	"ORDERS_TODAY": 2,
 	"shelf_number": "1",
-	"item_group": "Partyartikel",
+	"BARCODE": "8711295503603",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.59",
 	"current_gross_selling_price": 0.59,
-	"base_price": "0.59"
+	"ORDERS_30D": 38
 }

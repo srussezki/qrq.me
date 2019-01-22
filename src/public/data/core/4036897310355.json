@@ -1,4 +1,5 @@
 {
+	"item_group": "Hunde",
 	"current_stock_003_halle_altstadt": 23,
 	"image": "/files/4036897310355.jpg",
 	"creation": "2018-08-08T19:19:50.378644",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 32,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Alles für Hund, Katze, Maus gibts auch online",
+	"ORDERS_ALLTIME": 28,
 	"item_name": "Perfecto Dog 8er Hundesnacks Salami Gefl.",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d3f62da2-019e-4c24-b035-013e07c6a247",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4036897310355",
 	"item_code": "PP-000012299",
-	"current_stock_001_kaufpark_eiche": 20,
 	"name": "PP-000012299",
+	"current_stock_001_kaufpark_eiche": 20,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hunde",
+	"BARCODE": "4036897310355",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.29",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.29"
+	"ORDERS_30D": 11
 }

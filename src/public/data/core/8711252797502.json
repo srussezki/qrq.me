@@ -1,4 +1,5 @@
 {
+	"item_group": "Autopflege",
 	"current_stock_003_halle_altstadt": 15,
 	"image": "/files/8711252797502.jpg",
 	"creation": "2018-02-13T18:49:08.074736",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 4,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 106,
 	"item_name": "Schleifblock 3stk",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=200fdda9-a218-4dba-a7b2-133d03e84654",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252797502",
 	"item_code": "PP-000000366",
-	"current_stock_001_kaufpark_eiche": 25,
 	"name": "PP-000000366",
+	"current_stock_001_kaufpark_eiche": 24,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "4",
-	"item_group": "Autopflege",
+	"BARCODE": "8711252797502",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.79",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.79"
+	"ORDERS_30D": 8
 }

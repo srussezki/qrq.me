@@ -1,4 +1,5 @@
 {
+	"item_group": "Garten",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8711252080918.jpg",
 	"creation": "2018-05-02T18:33:49.041727",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-05-02",
+	"ORDERS_7D": 9,
 	"marketing_text": "Tauche ein in die Auswahl von factorymarket!",
+	"ORDERS_ALLTIME": 80,
 	"item_name": "Dunlop Beschichtete Latexhandschuhe",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=129a9528-1173-4de9-98ed-fdff693ed5bc",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252080918",
 	"item_code": "PP-000008356",
-	"current_stock_001_kaufpark_eiche": 24,
 	"name": "PP-000008356",
+	"current_stock_001_kaufpark_eiche": 24,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Garten",
+	"BARCODE": "8711252080918",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.99"
+	"ORDERS_30D": 9
 }

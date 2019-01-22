@@ -1,4 +1,5 @@
 {
+	"item_group": "Sportaccessoires",
 	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/8711252178813.jpg",
 	"creation": "2018-07-18T15:00:50.795340",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 12,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Dekorieren bis zum Umfallen in der App",
+	"ORDERS_ALLTIME": 13,
 	"item_name": "Dartspiel luxus 45cm",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5dadb8be-e978-4a17-b9c2-0f562cdd2a5a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252178813",
 	"item_code": "PP-000010995",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000010995",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Sportaccessoires",
+	"BARCODE": "8711252178813",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "7.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "7.99"
+	"ORDERS_30D": 4
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Hunde",
 	"current_stock_003_halle_altstadt": 15,
 	"image": "/files/8711252983400.jpg",
 	"creation": "2018-06-07T12:25:52.655333",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Alles für Hund, Katze, Maus gibts auch online",
+	"ORDERS_ALLTIME": 15,
 	"item_name": "Hundespielzeug Gummiknochen",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d3e94931-4892-4b0c-bbe6-ab22ffad5476",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252983400",
 	"item_code": "PP-000009665",
-	"current_stock_001_kaufpark_eiche": 19,
 	"name": "PP-000009665",
+	"current_stock_001_kaufpark_eiche": 19,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hunde",
+	"BARCODE": "8711252983400",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.29",
 	"current_gross_selling_price": 3.99,
-	"base_price": "1.29"
+	"ORDERS_30D": 2
 }

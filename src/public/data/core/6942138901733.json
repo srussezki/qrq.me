@@ -1,4 +1,5 @@
 {
+	"item_group": "Saisonale Spielwaren",
 	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/6942138901733.jpg",
 	"creation": "2018-02-14T16:04:38.798802",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-02",
+	"ORDERS_7D": 0,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 60,
 	"item_name": "Boot 155x93cm",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4c8a0ed0-71a2-4c6e-8b81-6365f28041d2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "6942138901733",
 	"item_code": "PP-000001809",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000001809",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Saisonale Spielwaren",
+	"BARCODE": "6942138901733",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "13.99",
 	"current_gross_selling_price": 11.99,
-	"base_price": "13.99"
+	"ORDERS_30D": 0
 }

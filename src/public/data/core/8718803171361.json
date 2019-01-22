@@ -1,4 +1,5 @@
 {
+	"item_group": "Stifte",
 	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/8718803171361.jpg",
 	"creation": "2018-02-13T18:48:47.365844",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 2,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 271,
 	"item_name": "Stift \"Frozen\" 6 Farben",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0a84ea2c-366b-49cf-b5d4-2ee02c11d856",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718803171361",
 	"item_code": "PP-000000508",
-	"current_stock_001_kaufpark_eiche": 15,
 	"name": "PP-000000508",
+	"current_stock_001_kaufpark_eiche": 15,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1 (2,3)",
-	"item_group": "Stifte",
+	"BARCODE": "8718803171361",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 4
 }

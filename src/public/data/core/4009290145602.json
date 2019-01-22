@@ -1,4 +1,5 @@
 {
+	"item_group": "Keramik & Porzellan",
 	"current_stock_003_halle_altstadt": 14,
 	"image": null,
 	"creation": "2018-11-08T12:16:50.226193",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 220,
 	"item_name": "Glühweintasse 200ml",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a4cc2bd3-f107-4df2-a66f-3c5ae38f3824",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4009290145602",
 	"item_code": "PP-000015802",
-	"current_stock_001_kaufpark_eiche": 104,
 	"name": "PP-000015802",
+	"current_stock_001_kaufpark_eiche": 104,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Keramik & Porzellan",
+	"BARCODE": "4009290145602",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 58
 }

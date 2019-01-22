@@ -1,12 +1,15 @@
 {
+	"item_group": "Badtextilien",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5053191041715.jpg",
 	"creation": "2018-02-14T16:00:29.900216",
-	"website_image": "/files/5053191041715.jpg",
+	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-27",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 24,
 	"item_name": "Duschvorhang",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7d719dcd-c025-469d-8d6e-32e4daf9255e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5053191041715",
 	"item_code": "PP-000004218",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004218",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Badtextilien",
+	"BARCODE": "5053191041715",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.59",
 	"current_gross_selling_price": 5.99,
-	"base_price": "0.59"
+	"ORDERS_30D": 0
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Autozubehör",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/8711252115511.jpg",
 	"creation": "2018-07-24T08:06:14.468503",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Alles Rund um das Auto auch online",
+	"ORDERS_ALLTIME": 49,
 	"item_name": "Auto Sicherungen 12tlg",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=31a1083c-094e-4906-850a-d609ccc34586",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252115511",
 	"item_code": "PP-000011376",
-	"current_stock_001_kaufpark_eiche": 20,
 	"name": "PP-000011376",
+	"current_stock_001_kaufpark_eiche": 20,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Autozubehör",
+	"BARCODE": "8711252115511",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 10
 }

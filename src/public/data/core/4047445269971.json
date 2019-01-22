@@ -1,4 +1,5 @@
 {
+	"item_group": "Beautyaccessoires",
 	"current_stock_003_halle_altstadt": 6,
 	"image": null,
 	"creation": "2018-04-09T09:25:40.965519",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-05",
+	"ORDERS_7D": 2,
 	"marketing_text": "Pflege für Sie & Ihn in der App",
+	"ORDERS_ALLTIME": 52,
 	"item_name": "Detangle Bürste",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=10fdebc1-7a9f-45d6-bdcd-0df1f5416dfc",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4047445269971",
 	"item_code": "PP-000006775",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000006775",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Beautyaccessoires",
+	"BARCODE": "4047445269971",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 3
 }

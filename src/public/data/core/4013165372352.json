@@ -1,4 +1,5 @@
 {
+	"item_group": "Badtextilien",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4013165372352.jpg",
 	"creation": "2018-05-28T21:17:03.566230",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Billiger gehts immer, mehr Artikel in der App",
+	"ORDERS_ALLTIME": 18,
 	"item_name": "frottana Handtuch Uni graphite 50x100",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=207b01c0-e152-443f-a50d-21f2c052a230",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4013165372352",
 	"item_code": "PP-000009273",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000009273",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Badtextilien",
+	"BARCODE": "4013165372352",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 0
 }

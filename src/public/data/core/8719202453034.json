@@ -1,4 +1,5 @@
 {
+	"item_group": "Lampen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8719202453034.jpg",
 	"creation": "2018-07-22T21:42:41.874941",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": 17,
 	"item_name": "Tischlampe mit Holzfuß",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b8aa54ab-2dea-4a09-968e-03b04acfe114",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202453034",
 	"item_code": "PP-000011266",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000011266",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Lampen",
+	"BARCODE": "8719202453034",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 9.99,
-	"base_price": null
+	"ORDERS_30D": 3
 }

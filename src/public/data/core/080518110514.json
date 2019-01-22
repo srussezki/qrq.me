@@ -1,4 +1,5 @@
 {
+	"item_group": "Ballons",
 	"current_stock_003_halle_altstadt": 17,
 	"image": "/files/0080518110514.jpg",
 	"creation": "2018-04-09T18:13:47.155393",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-28",
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 25,
 	"item_name": "Hochzeitsglocken Folienballon",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=58e3c661-3f77-4b95-a4ff-39e394bec4cb",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000007067",
 	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000007067",
+	"_timestamp": "20190122 150229.432",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Ballons",
+	"BARCODE": "080518110514",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.29",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.29"
+	"ORDERS_30D": 2
 }

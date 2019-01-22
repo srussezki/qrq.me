@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 16,
+	"item_group": "Pflegende Kosmetik",
+	"current_stock_003_halle_altstadt": 15,
 	"image": "/files/3600541267985.jpg",
 	"creation": "2018-02-13T18:54:05.752782",
 	"website_image": "/files/3600541267985.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-22",
+	"ORDERS_7D": 3,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 92,
 	"item_name": "Garnier Hydra Match Moist 50ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6508e0ad-7875-4524-8e86-d0c55835b291",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3600541267985",
 	"item_code": "PP-000000577",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000000577",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 2,
 	"shelf_number": "4",
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "3600541267985",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 4
 }

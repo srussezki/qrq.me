@@ -1,4 +1,5 @@
 {
+	"item_group": "Sportflaschen",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/8711295219740.jpg",
 	"creation": "2018-02-13T18:53:49.097567",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 60,
 	"first_time_ordered_on_": "2017-12-27",
+	"ORDERS_7D": 3,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 121,
 	"item_name": "Sportflasche 700ml",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1553f76c-819b-4435-a47e-28cb5de954cc",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295219740",
 	"item_code": "PP-000000634",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000000634",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Sportflaschen",
+	"BARCODE": "8711295219740",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 13
 }

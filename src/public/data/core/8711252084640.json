@@ -1,4 +1,5 @@
 {
+	"item_group": "Autopflege",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/8711252084640.jpg",
 	"creation": "2018-06-20T18:47:20.302689",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 13,
 	"item_name": "Wet 'n' protect Felgenreiniger 500ml ",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=22f46a05-0431-441f-8bd5-617e434974a9",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252084640",
 	"item_code": "PP-000010039",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000010039",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Autopflege",
+	"BARCODE": "8711252084640",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 4
 }

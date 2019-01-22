@@ -1,4 +1,5 @@
 {
+	"item_group": "Autopflege",
 	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/8711252088518.jpg",
 	"creation": "2018-09-18T12:53:06.066009",
@@ -6,12 +7,14 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Alles Rund um das Auto auch online",
+	"ORDERS_ALLTIME": 3,
 	"item_name": "Lederschwamm klein",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f13be23d-7b2c-4779-8220-9734ecfaef06",
 	"is_sales_item": 1,
-	"current_stock_002_halle_neustadt": 12,
+	"current_stock_002_halle_neustadt": 11,
 	"rack_number": null,
 	"item_group_level_0": null,
 	"base_price_text": "0.79 € je 1 Stück",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252088518",
 	"item_code": "PP-000013764",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000013764",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Autopflege",
+	"BARCODE": "8711252088518",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 3
 }

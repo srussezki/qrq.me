@@ -1,4 +1,5 @@
 {
+	"item_group": "Hunde",
 	"current_stock_003_halle_altstadt": 15,
 	"image": "/files/4008429063442.png",
 	"creation": "2018-09-09T11:34:14.344243",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 33,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 8,
 	"marketing_text": "Alles für die Naschkatzen bei factorymarket",
+	"ORDERS_ALLTIME": 124,
 	"item_name": "Frolic Mighty Mix 180gr",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9e8f039f-e19b-43d5-bca6-23242bde5a3c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008429063442",
 	"item_code": "PP-000013163",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000013163",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hunde",
+	"BARCODE": "4008429063442",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 20
 }

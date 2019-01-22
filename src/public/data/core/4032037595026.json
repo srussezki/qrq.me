@@ -1,4 +1,5 @@
 {
+	"item_group": "Geschenkverpackungen",
 	"current_stock_003_halle_altstadt": 36,
 	"image": "/files/4032037595026.jpg",
 	"creation": "2018-04-19T17:05:44.906168",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 72,
 	"first_time_ordered_on_": "2018-04-18",
+	"ORDERS_7D": 2,
 	"marketing_text": "Für Bürohelden und Heldinnen!",
+	"ORDERS_ALLTIME": 70,
 	"item_name": "Geschenktüte Baby 23 cmH",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fc1bea82-ca3e-4c9b-b6a3-458d561e3053",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4032037595026",
 	"item_code": "PP-000007457",
-	"current_stock_001_kaufpark_eiche": 41,
 	"name": "PP-000007457",
+	"current_stock_001_kaufpark_eiche": 41,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Geschenkverpackungen",
+	"BARCODE": "4032037595026",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.29",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.29"
+	"ORDERS_30D": 4
 }

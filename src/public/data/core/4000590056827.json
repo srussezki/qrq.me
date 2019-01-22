@@ -1,4 +1,5 @@
 {
+	"item_group": "Lacke",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4000590056827.jpg",
 	"creation": "2018-05-30T11:56:10.126284",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Do it yourself, mit unserer App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Wi-Buntlack hochgl., RAL 6002, Laubgrün",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1b569922-ca4f-4017-a27e-cd030f71f134",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4000590056827",
 	"item_code": "PP-000009340",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000009340",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Lacke",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "9.32",
 	"current_gross_selling_price": 7.99,
-	"base_price": "9.32"
+	"ORDERS_30D": null
 }

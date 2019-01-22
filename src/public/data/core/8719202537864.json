@@ -1,4 +1,5 @@
 {
+	"item_group": "Garten",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8719202537864.jpg",
 	"creation": "2018-02-28T16:19:01.935267",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-27",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 70,
 	"item_name": "Gartenfackel Braun 120cm",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3d3672a1-b53a-42bb-8266-5859fe686a0a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202537864",
 	"item_code": "PP-000005030",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000005030",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Garten",
+	"BARCODE": "8719202537864",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 1.99,
-	"base_price": "2.49"
+	"ORDERS_30D": 0
 }

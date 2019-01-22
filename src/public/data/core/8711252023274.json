@@ -1,4 +1,5 @@
 {
+	"item_group": "Lampen",
 	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/8711252023274.jpg",
 	"creation": "2018-02-13T18:50:02.869385",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 6,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 51,
 	"item_name": "Tischlampe, E14 40W",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6e2d5011-0408-4816-9cac-66c10733aa79",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252023274",
 	"item_code": "PP-000001846",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000001846",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Lampen",
+	"BARCODE": "8711252023274",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "6.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "6.99"
+	"ORDERS_30D": 6
 }

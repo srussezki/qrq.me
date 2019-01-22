@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 18,
+	"item_group": "Werkzeug",
+	"current_stock_003_halle_altstadt": 17,
 	"image": "/files/4326470674883.jpg",
 	"creation": "2018-02-13T18:51:08.316934",
 	"website_image": "/files/4326470674883.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 140,
 	"first_time_ordered_on_": "2018-11-02",
+	"ORDERS_7D": 7,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 204,
 	"item_name": "Vorhängeschloss Messing m. 2 Schlüsseln",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=541027e2-2fc4-42f0-8846-f1430f2bdd25",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470674883",
 	"item_code": "PP-000001183",
-	"current_stock_001_kaufpark_eiche": 19,
 	"name": "PP-000001183",
+	"current_stock_001_kaufpark_eiche": 18,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Werkzeug",
+	"BARCODE": "4326470674883",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.69",
 	"current_gross_selling_price": 0.69,
-	"base_price": "0.69"
+	"ORDERS_30D": 16
 }

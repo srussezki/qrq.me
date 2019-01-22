@@ -1,12 +1,15 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 15,
 	"image": null,
 	"creation": "2018-11-05T17:16:34.383986",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 180,
+	"current_stock_wh_ludwigsfelde": 150,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 24,
 	"item_name": "Dove Handcreme - Coconut 75ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=144f9a62-35b0-4b4d-b787-2acf27cbe881",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8710447275313",
 	"item_code": "PP-000015357",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000015357",
+	"current_stock_001_kaufpark_eiche": 42,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "8710447275313",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.65",
 	"current_gross_selling_price": 1.99,
-	"base_price": "2.65"
+	"ORDERS_30D": 8
 }

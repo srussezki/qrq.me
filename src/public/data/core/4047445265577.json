@@ -1,4 +1,5 @@
 {
+	"item_group": "Strümpfe",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-04-09T09:25:42.218937",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-05",
+	"ORDERS_7D": 0,
 	"marketing_text": "Die neusten Trends auch in unserer App",
+	"ORDERS_ALLTIME": 30,
 	"item_name": "Damen Socken In Pastelltönen 4er-Pack",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=69d012eb-8725-404b-884b-3581ec359192",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4047445265577",
 	"item_code": "PP-000006815",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006815",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Strümpfe",
+	"BARCODE": "4047445265577",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 0
 }

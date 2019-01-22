@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 21,
+	"item_group": "Taschenwärmer/Wärmflaschen",
+	"current_stock_003_halle_altstadt": 19,
 	"image": "/files/8711252005287.jpg",
 	"creation": "2018-02-13T18:50:32.124446",
 	"website_image": "/files/8711252005287.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-28",
+	"ORDERS_7D": 14,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 170,
 	"item_name": "Handwärmer",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=788a4f54-fad6-4db2-b6df-bc7bae467163",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252005287",
 	"item_code": "PP-000001589",
-	"current_stock_001_kaufpark_eiche": 22,
 	"name": "PP-000001589",
+	"current_stock_001_kaufpark_eiche": 22,
+	"ORDERS_TODAY": 3,
 	"shelf_number": "1",
-	"item_group": "Taschenwärmer/Wärmflaschen",
+	"BARCODE": "8711252005287",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 44
 }

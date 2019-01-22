@@ -1,4 +1,5 @@
 {
+	"item_group": "Geschenkverpackungen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4006603395204.jpg",
 	"creation": "2018-03-23T21:05:37.755084",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-23",
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 4,
 	"item_name": "Geschenktüte Groß",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f7e97ed3-6f02-425e-8118-972a68666e03",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4006603395204",
 	"item_code": "PP-000006310",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000006310",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Geschenkverpackungen",
+	"BARCODE": "4006603395204",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.89",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.89"
+	"ORDERS_30D": 0
 }

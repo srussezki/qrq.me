@@ -1,4 +1,5 @@
 {
+	"item_group": "Autozubehör",
 	"current_stock_003_halle_altstadt": 21,
 	"image": null,
 	"creation": "2018-09-18T12:53:12.472696",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 12,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 6,
 	"item_name": "Leuchtschild led baby im auto",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e48acf7c-f378-4d7d-bff3-9baac7329b7d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252526898",
 	"item_code": "PP-000013796",
-	"current_stock_001_kaufpark_eiche": 22,
 	"name": "PP-000013796",
+	"current_stock_001_kaufpark_eiche": 22,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Autozubehör",
+	"BARCODE": "8711252526898",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 1
 }

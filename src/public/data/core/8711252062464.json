@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 4,
+	"item_group": "Elektronikgeräte",
+	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/8711252062464.jpeg",
 	"creation": "2018-02-13T19:02:00.061900",
 	"website_image": "/files/8711252062464.jpeg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 8,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 177,
 	"item_name": "Haartrockner 2000W 3 Stufen",
 	"level_0_item_group": "Elektro",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=38ed09aa-477d-4944-9b4d-5a9cdd995592",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252062464",
 	"item_code": "PP-000000094",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000000094",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "Elektronikgeräte",
+	"BARCODE": "8711252062464",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "9.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 18
 }

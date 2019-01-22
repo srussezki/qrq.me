@@ -1,4 +1,5 @@
 {
+	"item_group": "Hunde",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711252388038.jpg",
 	"creation": "2018-02-13T18:51:49.032365",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 0,
 	"marketing_text": "Alles für den Wuffi & die Mieze",
+	"ORDERS_ALLTIME": 190,
 	"item_name": "Tennisball Hund 3stk",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2f762576-d799-4ca6-92d3-b1c17ad03875",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252388038",
 	"item_code": "PP-000000188",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000000188",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "4",
-	"item_group": "Hunde",
+	"BARCODE": "8711252388038",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.39",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.39"
+	"ORDERS_30D": 1
 }

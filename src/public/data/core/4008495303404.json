@@ -1,12 +1,15 @@
 {
+	"item_group": "Kerzen & -zubehör",
 	"current_stock_003_halle_altstadt": 9,
 	"image": null,
 	"creation": "2018-11-02T09:17:22.489459",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 24,
+	"current_stock_wh_ludwigsfelde": 16,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 72,
 	"item_name": "Duft-Lichte, Ton in Ton in Alu-Hülle 36er-Pack Fresh linen",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fb40328d-7117-4eba-950d-9f5cbf9467de",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008495303404",
 	"item_code": "PP-000015159",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000015159",
+	"current_stock_001_kaufpark_eiche": 16,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": "4008495303404",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 27
 }

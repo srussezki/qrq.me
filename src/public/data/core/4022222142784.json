@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 3,
+	"item_group": "Fußmatten",
+	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/4022222142784.jpg",
 	"creation": "2018-02-14T16:00:24.842140",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-06",
+	"ORDERS_7D": 7,
 	"marketing_text": "Wecke den Putzteufel in Dir!",
+	"ORDERS_ALLTIME": 130,
 	"item_name": "Fußmatte Mehrfarbig 40x60cm",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fc7bcc49-7bc0-40b9-9e25-7bf39da87280",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4022222142784",
 	"item_code": "PP-000004631",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000004631",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Fußmatten",
+	"BARCODE": "4022222142784",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 31
 }

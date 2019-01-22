@@ -1,4 +1,5 @@
 {
+	"item_group": "Office",
 	"current_stock_003_halle_altstadt": 36,
 	"image": "/files/8719202199185.jpg",
 	"creation": "2018-02-13T18:59:40.724284",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-22",
+	"ORDERS_7D": 4,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 119,
 	"item_name": "Tesafilmabroller Set 6-Teilig",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f5501a97-fa63-4e55-a980-8c46044c49bc",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202199185",
 	"item_code": "PP-000003199",
-	"current_stock_001_kaufpark_eiche": 41,
 	"name": "PP-000003199",
+	"current_stock_001_kaufpark_eiche": 41,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Office",
+	"BARCODE": "8719202199185",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.59",
 	"current_gross_selling_price": 0.59,
-	"base_price": "0.59"
+	"ORDERS_30D": 13
 }

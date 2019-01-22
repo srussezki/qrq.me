@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/8711292022701.jpg",
 	"creation": "2018-02-14T16:00:19.440324",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 60,
 	"first_time_ordered_on_": "2017-11-02",
+	"ORDERS_7D": 1,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 38,
 	"item_name": "Partyhüte f. Kinder",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f87b95e9-25b2-42a5-95c4-911ed2e8d6fc",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711292022701",
 	"item_code": "PP-000002074",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000002074",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": "8711292022701",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.15",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.15"
+	"ORDERS_30D": 3
 }

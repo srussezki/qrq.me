@@ -1,4 +1,5 @@
 {
+	"item_group": "Schokolade",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/5000159468510.png",
 	"creation": "2018-09-09T11:34:14.209425",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 7,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 180,
 	"item_name": "4+1 Pack Mars 5x45gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ae0a3870-4922-4d9c-b316-e64f80cb6782",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5000159468510",
 	"item_code": "PP-000013158",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000013158",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schokolade",
+	"BARCODE": "5000159468510",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 21
 }

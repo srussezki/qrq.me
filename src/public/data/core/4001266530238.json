@@ -1,4 +1,5 @@
 {
+	"item_group": "Feuerwerk",
 	"current_stock_003_halle_altstadt": 68,
 	"image": "/files/4001266530238.jpg",
 	"creation": "2018-02-13T18:54:54.972669",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-29",
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 314.99,
 	"item_name": "K-Sunless",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ad4ea3c9-ff74-4f2a-9e37-f1fba877891b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4001266530238",
 	"item_code": "PP-000002885",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000002885",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Feuerwerk",
+	"BARCODE": "4001266530238",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.49",
 	"current_gross_selling_price": 3.49,
-	"base_price": "3.49"
+	"ORDERS_30D": 220
 }

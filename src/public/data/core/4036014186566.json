@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 25,
+	"item_group": "Nähzubehör",
+	"current_stock_003_halle_altstadt": 24,
 	"image": null,
 	"creation": "2018-10-17T13:02:54.824107",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 12,
 	"item_name": "Nadelspiel 4,0mm 15cm",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fd08d4ff-7b8f-4fc7-a6b8-e98e1917eb9e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4036014186566",
 	"item_code": "PP-000014817",
-	"current_stock_001_kaufpark_eiche": 17,
 	"name": "PP-000014817",
+	"current_stock_001_kaufpark_eiche": 17,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Nähzubehör",
+	"BARCODE": "4036014186566",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 2
 }

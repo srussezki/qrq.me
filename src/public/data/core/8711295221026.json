@@ -1,4 +1,5 @@
 {
+	"item_group": "Reinigung hart",
 	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/8711295221026.jpg",
 	"creation": "2018-02-13T18:58:32.355195",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 120,
 	"first_time_ordered_on_": "2017-12-27",
+	"ORDERS_7D": 3,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 97,
 	"item_name": "Abfalleimer 28X29Cm 4 Sortiert",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=95a5146a-20ee-43e0-bc4e-e3317471284e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295221026",
 	"item_code": "PP-000002972",
-	"current_stock_001_kaufpark_eiche": 17,
 	"name": "PP-000002972",
+	"current_stock_001_kaufpark_eiche": 17,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Reinigung hart",
+	"BARCODE": "8711295221026",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.79",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.79"
+	"ORDERS_30D": 10
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Hygieneartikel",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4014995228857.jpg",
 	"creation": "2018-03-23T21:05:37.125565",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-23",
+	"ORDERS_7D": 0,
 	"marketing_text": "Pflege für Sie & Ihn in der App",
+	"ORDERS_ALLTIME": 8,
 	"item_name": "Motiv Taschentuch Für Dich 10stk",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f4bb3c77-7ecd-4a9f-971b-8f93eda0e406",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4014995228857",
 	"item_code": "PP-000006328",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006328",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hygieneartikel",
+	"BARCODE": "4014995228857",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 0
 }

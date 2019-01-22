@@ -1,4 +1,5 @@
 {
+	"item_group": "Garten",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4010937292498.png",
 	"creation": "2018-07-03T10:01:20.559138",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Wir haben 160.000 weitere Sportartikel online",
+	"ORDERS_ALLTIME": 8,
 	"item_name": "Braeco Fliegenpilz Fraßköder 3 er",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=03c75ff1-31ef-4e2f-8fb9-a7653e1309ea",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4010937292498",
 	"item_code": "PP-000010441",
-	"current_stock_001_kaufpark_eiche": 16,
 	"name": "PP-000010441",
+	"current_stock_001_kaufpark_eiche": 16,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Garten",
+	"BARCODE": "4010937292498",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 0
 }

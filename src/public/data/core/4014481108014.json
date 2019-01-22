@@ -1,4 +1,5 @@
 {
+	"item_group": "Office",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4014481108014.jpg",
 	"creation": "2018-03-23T21:05:37.270272",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-23",
+	"ORDERS_7D": 0,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 21,
 	"item_name": "Ordner Neutral Schwarz A4",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4d59a3ef-ffb0-47cb-86f6-8b1be88dc7e2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4014481108014",
 	"item_code": "PP-000006324",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006324",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Office",
+	"BARCODE": "4014481108014",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 0
 }

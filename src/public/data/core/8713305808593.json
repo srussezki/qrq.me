@@ -1,4 +1,5 @@
 {
+	"item_group": "Süßigkeiten & Kaugummi",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T19:02:35.266606",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-29",
+	"ORDERS_7D": 0,
 	"marketing_text": "Noch mehr Liebe in der App",
+	"ORDERS_ALLTIME": 19,
 	"item_name": "Flasche Gefüllt Mit Herzbonbons",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d29cf10c-cda2-461c-8a1f-468260de49a2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8713305808593",
 	"item_code": "PP-000003932",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000003932",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "8713305808593",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 0
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Mundpflege",
 	"current_stock_003_halle_altstadt": 8,
 	"image": "/files/4326470477958.jpg",
 	"creation": "2018-02-13T18:51:39.696828",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": "2018-11-02",
+	"ORDERS_7D": 1,
 	"marketing_text": "Die neusten Beautyprodukte jetzt bei uns",
+	"ORDERS_ALLTIME": 112,
 	"item_name": "Zahn Mundspülung Elina Minze",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6913996f-f9f1-402c-b486-fae1a9ca2064",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470477958",
 	"item_code": "PP-000001034",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000001034",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Mundpflege",
+	"BARCODE": "4326470477958",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.29",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.29"
+	"ORDERS_30D": 10
 }

@@ -1,12 +1,15 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/8710447285466.png",
 	"creation": "2018-11-05T17:16:29.316485",
 	"website_image": "/files/8710447285466.png",
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 186,
+	"current_stock_wh_ludwigsfelde": 180,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 7,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 27,
 	"item_name": "Axe Deo Spray - Energised 150ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8fba3f6c-936c-4e63-8cab-5ce2d31be428",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8710447285466",
 	"item_code": "PP-000015332",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000015332",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "8710447285466",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.99",
 	"current_gross_selling_price": 1.49,
-	"base_price": "0.99"
+	"ORDERS_30D": 25
 }

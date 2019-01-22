@@ -1,4 +1,5 @@
 {
+	"item_group": "Getränke",
 	"current_stock_003_halle_altstadt": 105,
 	"image": "/files/4047046003387.jpg",
 	"creation": "2018-05-28T15:47:10.994585",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 113,
 	"item_name": "Senseo Kaffeepads Strong 16 stk",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=317fb01e-b679-4dc4-ac3f-b59829555df4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4047046003387",
 	"item_code": "PP-000009263",
-	"current_stock_001_kaufpark_eiche": 127,
 	"name": "PP-000009263",
+	"current_stock_001_kaufpark_eiche": 127,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "4047046003387",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 32
 }

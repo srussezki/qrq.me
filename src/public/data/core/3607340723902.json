@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 53,
+	"item_group": "Pflegende Kosmetik",
+	"current_stock_003_halle_altstadt": 52,
 	"image": "/files/3607340723902.jpg",
 	"creation": "2018-10-05T13:02:10.391741",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 7,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 75,
 	"item_name": "Adidas Hair&Face&Shower Gel 250ml Ice Dive",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a03dffcb-7057-40ad-a553-7a59f91b0258",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3607340723902",
 	"item_code": "PP-000014573",
-	"current_stock_001_kaufpark_eiche": 43,
 	"name": "PP-000014573",
+	"current_stock_001_kaufpark_eiche": 43,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "3607340723902",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 14
 }

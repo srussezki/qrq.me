@@ -1,4 +1,5 @@
 {
+	"item_group": "Nahrungsergänzungsmittel",
 	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/4260044265889.jpg",
 	"creation": "2018-04-19T18:07:51.971344",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-13",
+	"ORDERS_7D": 0,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 9,
 	"item_name": "Slim System Eiweißdiät Sahne-Vani. 400g",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=18d5c424-e25e-4809-8311-f9b7ab215156",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4260044265889",
 	"item_code": "PP-000007418",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000007418",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Nahrungsergänzungsmittel",
+	"BARCODE": "4260044265889",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.74",
 	"current_gross_selling_price": 7.99,
-	"base_price": "1.74"
+	"ORDERS_30D": 0
 }

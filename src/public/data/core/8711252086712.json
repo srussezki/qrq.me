@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 7,
+	"item_group": "Aufbewahrung",
+	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/8711252086712.png",
 	"creation": "2018-07-18T15:01:01.522211",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 6,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 6,
 	"marketing_text": "Pimp your Home",
+	"ORDERS_ALLTIME": 36,
 	"item_name": "Aufbewahrungsbox 4 Schubladen",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=87579b66-488e-4a59-a6de-d4baaedb5334",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252086712",
 	"item_code": "PP-000011044",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000011044",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Aufbewahrung",
+	"BARCODE": "8711252086712",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "5.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 10
 }

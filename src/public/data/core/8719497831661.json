@@ -1,12 +1,15 @@
 {
+	"item_group": "Dekorative Kosmetik",
 	"current_stock_003_halle_altstadt": 13,
 	"image": "/files/8719497831661.jpg",
 	"creation": "2018-10-16T11:51:06.048017",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 174,
+	"current_stock_wh_ludwigsfelde": 162,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 61,
 	"item_name": "Make-Up Pinselset 3stk",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e17d0b96-6b01-4b46-b11a-800fb8633d9b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719497831661",
 	"item_code": "PP-000014791",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000014791",
+	"current_stock_001_kaufpark_eiche": 22,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekorative Kosmetik",
+	"BARCODE": "8719497831661",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 7
 }

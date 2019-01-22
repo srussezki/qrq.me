@@ -1,4 +1,5 @@
 {
+	"item_group": "Hunde",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-05-17T16:06:48.669660",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Alles für Hund, Katze, Maus gibts auch online",
+	"ORDERS_ALLTIME": 8,
 	"item_name": "Knochenspender 12cm versch. Farben",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e0bb5772-af21-448a-b25c-24f26878d75d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5414365102005",
 	"item_code": "PP-000009219",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000009219",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hunde",
+	"BARCODE": "5414365102005",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.69",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.69"
+	"ORDERS_30D": 1
 }

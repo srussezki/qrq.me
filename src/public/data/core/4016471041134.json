@@ -1,4 +1,5 @@
 {
+	"item_group": "Töpfe & Pfannen",
 	"current_stock_003_halle_altstadt": 14,
 	"image": "/files/4016471041134.jpg",
 	"creation": "2018-08-13T18:22:15.357517",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 12,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 83,
 	"item_name": "BRATmaxx Keramik-Pfanne Aluminium 3-tlg",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e36156d3-4652-4584-8f34-b5fd5884386a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4016471041134",
 	"item_code": "PP-000012571",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000012571",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Töpfe & Pfannen",
+	"BARCODE": "4016471041134",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "14.99",
 	"current_gross_selling_price": 19.99,
-	"base_price": "14.99"
+	"ORDERS_30D": 9
 }

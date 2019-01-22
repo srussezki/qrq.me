@@ -1,4 +1,5 @@
 {
+	"item_group": "Sportaccessoires",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/2100000012442.jpg",
 	"creation": "2019-01-17T12:43:26.862862",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Fitnessuhr verschiedene Farben",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "2100000012442",
 	"item_code": "PP-000017332",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000017332",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Sportaccessoires",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": null
 }

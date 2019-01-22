@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Jungs",
 	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/4006592016517.jpg",
 	"creation": "2018-10-18T11:16:01.958779",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 6,
 	"item_name": "PJ Masks Spielfigur Eulette",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=79e35a7e-7bee-4888-a934-97032943ea29",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4006592016517",
 	"item_code": "PP-000014841",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000014841",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Jungs",
+	"BARCODE": "4006592016517",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 7.99,
-	"base_price": null
+	"ORDERS_30D": 0
 }

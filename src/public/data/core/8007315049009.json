@@ -1,4 +1,5 @@
 {
+	"item_group": "Saisonale Spielwaren",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T18:50:03.224624",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 565,
 	"item_name": "Seifenblasen Autos 60ml",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=823d61e6-4cca-47c2-a13a-b1dd98912d3e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8007315049009",
 	"item_code": "PP-000001820",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000001820",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Saisonale Spielwaren",
+	"BARCODE": "8007315049009",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.29",
 	"current_gross_selling_price": 0.29,
-	"base_price": "0.29"
+	"ORDERS_30D": 0
 }

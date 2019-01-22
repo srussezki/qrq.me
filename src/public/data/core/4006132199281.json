@@ -1,4 +1,5 @@
 {
+	"item_group": "Autopflege",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4006132199281.jpg",
 	"creation": "2018-04-19T18:07:45.519861",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-13",
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Autozubehör findest du in unserer App",
+	"ORDERS_ALLTIME": 5,
 	"item_name": "APA Duotuch Latex/Vlies",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b44cc874-b734-4fcf-b4f8-6cf4b7a7133a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4006132199281",
 	"item_code": "PP-000007384",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000007384",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Autopflege",
+	"BARCODE": "4006132199281",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 0
 }

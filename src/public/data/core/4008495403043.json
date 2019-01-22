@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 6,
+	"item_group": "Kerzen & -zubehör",
+	"current_stock_003_halle_altstadt": 5,
 	"image": "/files/4008495403043.jpg",
 	"creation": "2018-02-13T18:54:57.338905",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-19",
+	"ORDERS_7D": 3,
 	"marketing_text": "Kerzen ohne Ende in unserer App",
+	"ORDERS_ALLTIME": 39,
 	"item_name": "Rustic Stumpen 68/80 Creme",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d98dcfb1-c872-411e-9c69-779d377b5a9a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008495403043",
 	"item_code": "PP-000002570",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000002570",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "5",
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": "4008495403043",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "1.05",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.05"
+	"ORDERS_30D": 4
 }

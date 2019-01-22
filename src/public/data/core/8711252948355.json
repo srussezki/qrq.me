@@ -1,4 +1,5 @@
 {
+	"item_group": "Reinigung hart",
 	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/8711252948355.jpg",
 	"creation": "2018-05-02T18:33:58.291274",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-05-02",
+	"ORDERS_7D": 1,
 	"marketing_text": "Putzt du noch oder shoppst du schon online?",
+	"ORDERS_ALLTIME": 89,
 	"item_name": "Bursten &amp; weichen spitzen 3tlg 9603909100000000",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=86c3ffd8-86db-4847-a0f4-e3bbbb60677d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252948355",
 	"item_code": "PP-000008405",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000008405",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Reinigung hart",
+	"BARCODE": "8711252948355",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 9
 }

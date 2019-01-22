@@ -1,4 +1,5 @@
 {
+	"item_group": "Kostüme",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/887961509892.jpeg",
 	"creation": "2018-03-01T14:56:14.107857",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-28",
+	"ORDERS_7D": 1,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 7,
 	"item_name": "Batman Justice League Cape & Ausrüstung",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=cef833a6-85ad-4717-b388-138b0d77af21",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "887961509892",
 	"item_code": "PP-000005094",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000005094",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kostüme",
+	"BARCODE": "887961509892",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "14.99",
 	"current_gross_selling_price": 14.99,
-	"base_price": "14.99"
+	"ORDERS_30D": 1
 }

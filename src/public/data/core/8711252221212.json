@@ -1,4 +1,5 @@
 {
+	"item_group": "Werkzeug",
 	"current_stock_003_halle_altstadt": 13,
 	"image": "/files/8711252221212.jpg",
 	"creation": "2018-02-13T18:54:30.546356",
@@ -6,12 +7,14 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 96,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 2,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 148,
 	"item_name": "Kabelclips 100stk",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d747515c-d21b-42f7-9d73-acbdeff364dd",
 	"is_sales_item": 1,
-	"current_stock_002_halle_neustadt": 19,
+	"current_stock_002_halle_neustadt": 18,
 	"rack_number": "302",
 	"item_group_level_0": null,
 	"base_price_text": "0.99 € je 1 Stück",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252221212",
 	"item_code": "PP-000000127",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000000127",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "4",
-	"item_group": "Werkzeug",
+	"BARCODE": "8711252221212",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 15
 }

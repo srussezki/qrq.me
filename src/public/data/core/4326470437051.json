@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4326470437051.jpg",
 	"creation": "2018-02-13T18:56:47.647672",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-11-02",
+	"ORDERS_7D": null,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Elina Body Milk Olivenöl 200ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d3fc4b1b-75c5-4ea9-9c08-f261b10915a8",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470437051",
 	"item_code": "PP-000001283",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000001283",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": "0",
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": null
 }

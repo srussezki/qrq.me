@@ -1,4 +1,5 @@
 {
+	"item_group": "Office",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/8711252388373.jpg",
 	"creation": "2018-02-13T18:51:48.746372",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 3,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 67,
 	"item_name": "Bürozubehör 13-teilig",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b9955f52-2ed7-43b8-a493-1b10f182b95c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252388373",
 	"item_code": "PP-000000189",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000000189",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "1,2,3,4",
-	"item_group": "Office",
+	"BARCODE": "8711252388373",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.49",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.49"
+	"ORDERS_30D": 8
 }

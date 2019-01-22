@@ -1,4 +1,5 @@
 {
+	"item_group": "Trinkflaschen",
 	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/2100000004553.jpg",
 	"creation": "2018-07-04T16:39:52.164723",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 86,
 	"item_name": "Wasserflasche mit Aromafach rot",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=90ccd17c-8cd5-40c0-993b-2ecadbaa2acb",
@@ -22,10 +25,15 @@
 	"brand": null,
 	"barcode": "2100000004553",
 	"item_code": "PP-000010261",
-	"current_stock_001_kaufpark_eiche": 2,
+	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000010261",
+	"_timestamp": "20190122 150229.967",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Trinkflaschen",
+	"BARCODE": "2100000004553",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "4.59",
 	"current_gross_selling_price": 3.99,
-	"base_price": "4.59"
+	"ORDERS_30D": 10,
+	"top10": "Trinkflaschen"
 }

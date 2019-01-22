@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 15,
+	"item_group": "Stifte",
+	"current_stock_003_halle_altstadt": 14,
 	"image": "/files/4012700927972.jpg",
 	"creation": "2018-04-12T14:45:03.846479",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-12",
+	"ORDERS_7D": 3,
 	"marketing_text": "Für Bürohelden und Heldinnen!",
+	"ORDERS_ALLTIME": 25,
 	"item_name": "Füllhalter Griffix 4 blau für Rechtshänder",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=734b5ad1-d1b8-4e70-ae50-af7c6d3ddcec",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4012700927972",
 	"item_code": "PP-000007261",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000007261",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Stifte",
+	"BARCODE": "4012700927972",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 4
 }

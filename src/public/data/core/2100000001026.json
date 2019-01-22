@@ -1,4 +1,5 @@
 {
+	"item_group": "Taschen & Rucksäcke",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-03-01T14:56:12.815657",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-12",
+	"ORDERS_7D": 0,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": 4,
 	"item_name": "Multifunktionale Geldbörse Für Frauen",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ebca5dd0-11a3-44a8-b120-b48c4f41d801",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000004961",
 	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004961",
+	"_timestamp": "20190122 150229.597",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Taschen & Rucksäcke",
+	"BARCODE": "2100000001026",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 0
 }

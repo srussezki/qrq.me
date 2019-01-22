@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 17,
+	"item_group": "Pflegende Kosmetik",
+	"current_stock_003_halle_altstadt": 16,
 	"image": "/files/8712561617901.jpg",
 	"creation": "2018-02-13T18:48:19.710499",
 	"website_image": "/files/8712561617901.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 108,
 	"first_time_ordered_on_": "2017-11-22",
+	"ORDERS_7D": 2,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 208,
 	"item_name": "Axe Black Fresh Charge Duschgel 250ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=81928806-2913-46d4-a07e-2155f3e1fa4e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8712561617901",
 	"item_code": "PP-000000561",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000000561",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "4",
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "8712561617901",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 6
 }

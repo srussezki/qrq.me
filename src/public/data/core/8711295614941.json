@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Jungs",
 	"current_stock_003_halle_altstadt": 13,
 	"image": null,
 	"creation": "2018-02-13T19:00:49.875787",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-27",
+	"ORDERS_7D": 4,
 	"marketing_text": "308.401 weitere Kinderartikel online",
+	"ORDERS_ALLTIME": 48,
 	"item_name": "Handschellen",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=02f21665-8a8c-4d88-a92f-4c5bb2c16085",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295614941",
 	"item_code": "PP-000003060",
-	"current_stock_001_kaufpark_eiche": 17,
 	"name": "PP-000003060",
+	"current_stock_001_kaufpark_eiche": 17,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Jungs",
+	"BARCODE": "8711295614941",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.09",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.09"
+	"ORDERS_30D": 11
 }

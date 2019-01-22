@@ -1,4 +1,5 @@
 {
+	"item_group": "Weihnachten",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8717794832626.jpg",
 	"creation": "2018-10-01T17:13:03.299649",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 322,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "App, App Hura! Noch mehr Auswahl!",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Becher mit \"Santa\" Motiv",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=84e05ebe-a01a-438d-8543-066c4bb9a2ea",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8717794832626",
 	"item_code": "PP-000014349",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000014349",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Weihnachten",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "0.99",
 	"current_gross_selling_price": 1.49,
-	"base_price": "0.99"
+	"ORDERS_30D": null
 }

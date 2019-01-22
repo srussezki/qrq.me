@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Mädchen",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8714627450453.jpg",
 	"creation": "2018-03-14T16:33:11.529758",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 39,
 	"item_name": "Lipgloss Set Girls 3 Variationen",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8b6b692a-b828-47d2-bb24-250dda5a6e5f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627450453",
 	"item_code": "PP-000005837",
-	"current_stock_001_kaufpark_eiche": 14,
 	"name": "PP-000005837",
+	"current_stock_001_kaufpark_eiche": 14,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Mädchen",
+	"BARCODE": "8714627450453",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.69",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.69"
+	"ORDERS_30D": 5
 }

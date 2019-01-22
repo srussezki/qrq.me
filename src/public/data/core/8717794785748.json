@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8717794785748.jpg",
 	"creation": "2018-06-05T17:07:38.393607",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Die besten Küchenhelfer, auch in unserer App",
+	"ORDERS_ALLTIME": 105,
 	"item_name": "Untersetzer Paletten 10x10cm 6stk",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=782a5b3d-d325-4599-8630-9b672f9f69c6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8717794785748",
 	"item_code": "PP-000009564",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000009564",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Küchenhelfer",
+	"BARCODE": "8717794785748",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.99"
+	"ORDERS_30D": 6
 }

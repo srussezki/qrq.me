@@ -1,4 +1,5 @@
 {
+	"item_group": "Einwegartikel",
 	"current_stock_003_halle_altstadt": 34,
 	"image": "/files/8719202329216.jpg",
 	"creation": "2018-02-13T18:52:37.026166",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": "2017-11-01",
+	"ORDERS_7D": 2,
 	"marketing_text": "Billiger gehts immer, mehr Artikel in der App",
+	"ORDERS_ALLTIME": 199,
 	"item_name": "Papierbecher 250ml 10stk",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6699eae7-6898-4b43-9fb0-5a603f0d7cc3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202329216",
 	"item_code": "PP-000000926",
-	"current_stock_001_kaufpark_eiche": 17,
 	"name": "PP-000000926",
+	"current_stock_001_kaufpark_eiche": 17,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "4",
-	"item_group": "Einwegartikel",
+	"BARCODE": "8719202329216",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 15
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Mundpflege",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/4326470662613.jpg",
 	"creation": "2018-07-10T08:50:19.378508",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 156,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "120.800 weitere Beautyartikel in der App",
+	"ORDERS_ALLTIME": 30,
 	"item_name": "Zahnseide m. Mintgeschmack gewachst 50m",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fbd4fd37-c2f5-4df9-a58b-f8feaca594a3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470662613",
 	"item_code": "PP-000010519",
-	"current_stock_001_kaufpark_eiche": 31,
 	"name": "PP-000010519",
+	"current_stock_001_kaufpark_eiche": 31,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Mundpflege",
+	"BARCODE": "4326470662613",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 4
 }

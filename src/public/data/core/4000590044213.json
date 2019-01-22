@@ -1,4 +1,5 @@
 {
+	"item_group": "Lacke",
 	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/4000590044213.jpg",
 	"creation": "2018-05-30T11:56:01.029405",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Do it yourself, mit unserer App",
+	"ORDERS_ALLTIME": 8,
 	"item_name": "Wi-Klarlack 2in1 seidenmatt",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3a7143f7-17bb-4b27-a3c2-123417d16e7f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4000590044213",
 	"item_code": "PP-000009292",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000009292",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Lacke",
+	"BARCODE": "4000590044213",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.32",
 	"current_gross_selling_price": 7.99,
-	"base_price": "9.32"
+	"ORDERS_30D": 2
 }

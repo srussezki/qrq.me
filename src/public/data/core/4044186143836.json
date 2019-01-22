@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 9,
 	"image": null,
 	"creation": "2018-06-14T19:08:05.209907",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 30,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Verschönere dein Zuhause, jetzt auch online",
+	"ORDERS_ALLTIME": 26,
 	"item_name": "Deko-Fächer, 2 Stück",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b6c33700-f28a-451e-82f2-72e0db49d3e5",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4044186143836",
 	"item_code": "PP-000009941",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000009941",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": "4044186143836",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 6
 }

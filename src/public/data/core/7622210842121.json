@@ -1,4 +1,5 @@
 {
+	"item_group": "Salzige Snacks",
 	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/7622210842121.jpg",
 	"creation": "2018-06-25T12:13:59.246671",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 8,
 	"marketing_text": "Für den Hunger zwischendurch und danach",
+	"ORDERS_ALLTIME": 132,
 	"item_name": "TUC Baked Bites VCreame Cheese&Onion 110g",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=dc001fe0-b721-400c-88b9-503c246025b2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "7622210842121",
 	"item_code": "PP-000009895",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000009895",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Salzige Snacks",
+	"BARCODE": "7622210842121",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.35",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.35"
+	"ORDERS_30D": 19
 }

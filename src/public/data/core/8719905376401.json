@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 9,
 	"image": "/files/8719905376401.jpg",
 	"creation": "2018-09-11T18:04:58.649002",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 64,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 23,
 	"item_name": "Lebensechtes Reptil grün",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9be9e6ab-06e8-451d-a134-464e1bb5ccb9",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719905376401",
 	"item_code": "PP-000013254",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000013254",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8719905376401",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 2
 }

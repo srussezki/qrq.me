@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 23,
+	"item_group": "Beautyaccessoires",
+	"current_stock_003_halle_altstadt": 22,
 	"image": "/files/8711252061894.jpg",
 	"creation": "2018-04-19T18:43:32.503833",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-09",
+	"ORDERS_7D": 6,
 	"marketing_text": "Die neusten Beautyprodukte jetzt bei uns",
+	"ORDERS_ALLTIME": 58,
 	"item_name": "Massagehandschuh m. 9 Bällen",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=598f962c-2a8f-4ab3-917a-80082c765e0a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252061894",
 	"item_code": "PP-000007486",
-	"current_stock_001_kaufpark_eiche": 15,
 	"name": "PP-000007486",
+	"current_stock_001_kaufpark_eiche": 15,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Beautyaccessoires",
+	"BARCODE": "8711252061894",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 15
 }

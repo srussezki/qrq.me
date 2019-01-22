@@ -1,12 +1,15 @@
 {
+	"item_group": "Getränke",
 	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/7290002793229.jpg",
 	"creation": "2018-02-16T09:12:55.592948",
 	"website_image": "/files/7290002793229.jpg",
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 18,
+	"current_stock_wh_ludwigsfelde": 12,
 	"first_time_ordered_on_": "2018-04-23",
+	"ORDERS_7D": 2,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 78,
 	"item_name": "Sodastream Konzentrat Apfel 500ml",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f3a97141-0540-42a2-8b37-1d74aaac8faf",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "7290002793229",
 	"item_code": "PP-000004711",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000004711",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "7290002793229",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.29",
 	"current_gross_selling_price": 3.29,
-	"base_price": "3.29"
+	"ORDERS_30D": 3
 }

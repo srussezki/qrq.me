@@ -1,4 +1,5 @@
 {
+	"item_group": "Beautyaccessoires",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4016471047433.jpg",
 	"creation": "2018-08-23T17:08:32.634309",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Die besten Küchenhelfer, auch in unserer App",
+	"ORDERS_ALLTIME": 53,
 	"item_name": "VITALmaxx Hornhautentferner Auto Pedi",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6e77d7b1-c7a7-4b49-9256-41184dbc7524",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4016471047433",
 	"item_code": "PP-000012707",
-	"current_stock_001_kaufpark_eiche": 27,
 	"name": "PP-000012707",
+	"current_stock_001_kaufpark_eiche": 26,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Beautyaccessoires",
+	"BARCODE": "4016471047433",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 1
 }

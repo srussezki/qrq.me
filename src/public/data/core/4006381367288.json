@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 13,
+	"item_group": "Stifte",
+	"current_stock_003_halle_altstadt": 12,
 	"image": null,
 	"creation": "2018-11-07T12:10:46.076313",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 13,
 	"item_name": "Point Visco schwarz Blister",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fa42674b-d5fe-4b50-b97d-4b02b75fbab3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4006381367288",
 	"item_code": "PP-000015652",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015652",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Stifte",
+	"BARCODE": "4006381367288",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 6
 }

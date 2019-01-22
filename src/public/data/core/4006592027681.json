@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/4006592027681.jpg",
 	"creation": "2018-07-11T19:01:37.978842",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 80,
 	"item_name": "Glibbi Einhorn Glitzerbad",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fe44c288-c07c-4f0d-bd2d-0fd58dd0d9f1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4006592027681",
 	"item_code": "PP-000010584",
-	"current_stock_001_kaufpark_eiche": 14,
 	"name": "PP-000010584",
+	"current_stock_001_kaufpark_eiche": 14,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "4006592027681",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 9
 }

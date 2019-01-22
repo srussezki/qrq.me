@@ -1,4 +1,5 @@
 {
+	"item_group": "Fitness",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/8719407017239.png",
 	"creation": "2018-02-13T18:53:52.215712",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 60,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 80,
 	"item_name": "Hand-Trainer",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9d03ffa3-5008-4d2c-9e16-a70eb368a8b3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719407017239",
 	"item_code": "PP-000000624",
-	"current_stock_001_kaufpark_eiche": 27,
 	"name": "PP-000000624",
+	"current_stock_001_kaufpark_eiche": 27,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Fitness",
+	"BARCODE": "8719407017239",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 5
 }

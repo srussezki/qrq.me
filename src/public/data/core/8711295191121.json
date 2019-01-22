@@ -1,4 +1,5 @@
 {
+	"item_group": "Fußmatten",
 	"current_stock_003_halle_altstadt": 16,
 	"image": "/files/8711295191121.png",
 	"creation": "2018-02-13T18:53:48.756332",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 741,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 4,
 	"marketing_text": "Wecke den Putzteufel in Dir!",
+	"ORDERS_ALLTIME": 204,
 	"item_name": "Türmatte 60X40cm",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f54a2161-2338-4e77-80a9-1a9cecbecc49",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295191121",
 	"item_code": "PP-000000635",
-	"current_stock_001_kaufpark_eiche": 22,
 	"name": "PP-000000635",
+	"current_stock_001_kaufpark_eiche": 22,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Fußmatten",
+	"BARCODE": "8711295191121",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 13
 }

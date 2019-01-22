@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4000826011637.png",
 	"creation": "2018-07-11T19:01:39.399676",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Spielzeug für Groß und Klein auch online",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Mein erster Zauberspaß",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=77f75e7a-b327-423f-ab2b-a3c722fa8035",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4000826011637",
 	"item_code": "PP-000010625",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000010625",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "14.99",
 	"current_gross_selling_price": 14.99,
-	"base_price": "14.99"
+	"ORDERS_30D": null
 }

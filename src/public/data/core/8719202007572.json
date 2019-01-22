@@ -1,12 +1,15 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 17,
 	"image": "/files/8719202007572.jpg",
 	"creation": "2018-02-28T16:19:01.072825",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 312,
+	"current_stock_wh_ludwigsfelde": 300,
 	"first_time_ordered_on_": "2018-02-27",
+	"ORDERS_7D": 5,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 150,
 	"item_name": "Platzset Good Morning",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e782f718-7bd6-433a-8e98-7c4a46d8afd0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202007572",
 	"item_code": "PP-000005001",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000005001",
+	"current_stock_001_kaufpark_eiche": 16,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Küchenhelfer",
+	"BARCODE": "8719202007572",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.39",
 	"current_gross_selling_price": 0.39,
-	"base_price": "0.39"
+	"ORDERS_30D": 25
 }

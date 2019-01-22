@@ -1,12 +1,15 @@
 {
+	"item_group": "Spielwaren Jungs",
 	"current_stock_003_halle_altstadt": 14,
 	"image": null,
 	"creation": "2018-02-13T18:48:29.347571",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 48,
+	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 2,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 90,
 	"item_name": "Roboforces Mini Roboter",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=eac87c8f-8716-4cde-b741-597ff360c132",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627300840",
 	"item_code": "PP-000001439",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000001439",
+	"current_stock_001_kaufpark_eiche": 28,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3,4,5,6,7",
-	"item_group": "Spielwaren Jungs",
+	"BARCODE": "8714627300840",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 21
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchentextilien",
 	"current_stock_003_halle_altstadt": 32,
 	"image": "/files/4022222540771.jpg",
 	"creation": "2018-02-14T16:00:45.340292",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-06",
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 32,
 	"item_name": "Geschirrtücher 50x100cm 3stk",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8d427d02-5418-4e5b-8808-79f7cc1b5980",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4022222540771",
 	"item_code": "PP-000004588",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000004588",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Küchentextilien",
+	"BARCODE": "4022222540771",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 4
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 7,
+	"item_group": "Damenbekleidung",
+	"current_stock_003_halle_altstadt": 6,
 	"image": null,
 	"creation": "2018-09-16T15:54:55.473753",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 16,
 	"marketing_text": "Die neusten Trends auch in unserer App",
+	"ORDERS_ALLTIME": 46,
 	"item_name": "Damen Thermo Leggings braun XXL",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fc9bf653-5017-4b4f-8ef8-c748ce4db4e1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718051881579",
 	"item_code": "PP-000013412",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000013412",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Damenbekleidung",
+	"BARCODE": "8718051881579",
+	"ORDERS_YESTERDAY": 4,
+	"base_price": "3.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 33
 }

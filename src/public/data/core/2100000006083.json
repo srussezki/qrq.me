@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 10,
+	"item_group": "Küchenhelfer",
+	"current_stock_003_halle_altstadt": 9,
 	"image": "/files/2100000006083.jpg",
 	"creation": "2018-08-07T16:43:28.265685",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 67,
 	"item_name": "1Salatschüssel groß Ø 27 cm ",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=76c33bf0-63ac-4883-bb1d-7e2a97c7b31c",
@@ -24,8 +27,13 @@
 	"item_code": "PP-000012133",
 	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000012133",
+	"_timestamp": "20190122 150230.166",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Küchenhelfer",
+	"BARCODE": "2100000006083",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.99"
+	"ORDERS_30D": 24,
+	"top10": "Küchenhelfer"
 }

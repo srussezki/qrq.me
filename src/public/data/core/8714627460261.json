@@ -1,4 +1,5 @@
 {
+	"item_group": "Kinderschreibwaren",
 	"current_stock_003_halle_altstadt": 24,
 	"image": null,
 	"creation": "2018-09-11T18:04:58.927627",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 24,
 	"item_name": "6in1 Einhorn Farbstift",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=aa574645-2930-4490-8adf-6a31cb54cc50",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627460261",
 	"item_code": "PP-000013262",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000013262",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kinderschreibwaren",
+	"BARCODE": "8714627460261",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 4
 }

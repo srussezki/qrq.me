@@ -1,4 +1,5 @@
 {
+	"item_group": "Süßigkeiten & Kaugummi",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/745092007048.jpg",
 	"creation": "2018-03-14T16:33:06.258433",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-06",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 858,
 	"item_name": "Jelly Bean Box 75gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3c1c45ba-cf6d-4d6e-8618-7ed7b2dba918",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "745092007048",
 	"item_code": "PP-000005146",
-	"current_stock_001_kaufpark_eiche": 23,
 	"name": "PP-000005146",
+	"current_stock_001_kaufpark_eiche": 23,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "745092007048",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.18",
 	"current_gross_selling_price": 0.89,
-	"base_price": "1.18"
+	"ORDERS_30D": 0
 }

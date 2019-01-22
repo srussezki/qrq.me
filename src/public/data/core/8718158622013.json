@@ -1,4 +1,5 @@
 {
+	"item_group": "Beautyaccessoires",
 	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/8718158622013.jpg",
 	"creation": "2018-02-13T18:53:21.598006",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 32,
 	"first_time_ordered_on_": "2017-11-20",
+	"ORDERS_7D": 2,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 207,
 	"item_name": "Badeschwamm",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=605517fa-f0bd-46a0-ae77-e1d604966dd9",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158622013",
 	"item_code": "PP-000000759",
-	"current_stock_001_kaufpark_eiche": 19,
 	"name": "PP-000000759",
+	"current_stock_001_kaufpark_eiche": 19,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "Beautyaccessoires",
+	"BARCODE": "8718158622013",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 15
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Getränke",
 	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/7290002793212.jpg",
 	"creation": "2018-02-14T16:00:27.659283",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 6,
 	"first_time_ordered_on_": "2018-02-02",
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 71,
 	"item_name": "Sodastream Konzentrat Cola 500ml",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1d5a3156-6202-4aa8-9a4b-67bb29107521",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "7290002793212",
 	"item_code": "PP-000004709",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000004709",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "7290002793212",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.29",
 	"current_gross_selling_price": 3.29,
-	"base_price": "3.29"
+	"ORDERS_30D": 3
 }

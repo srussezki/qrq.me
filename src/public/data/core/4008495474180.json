@@ -1,4 +1,5 @@
 {
+	"item_group": "Kerzen & -zubehör",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-08-20T16:45:28.155880",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Verschönere dein Zuhause, jetzt auch online",
+	"ORDERS_ALLTIME": 18,
 	"item_name": "Rustic-Kugel Typ 80 bordeaux",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f9ab9644-47c1-49a7-9e81-660cdae11644",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008495474180",
 	"item_code": "PP-000012681",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000012681",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": "4008495474180",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 0
 }

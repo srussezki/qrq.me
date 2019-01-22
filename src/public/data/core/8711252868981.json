@@ -1,4 +1,5 @@
 {
+	"item_group": "Autopflege",
 	"current_stock_003_halle_altstadt": 19,
 	"image": "/files/8711252868981.jpg",
 	"creation": "2018-02-13T18:50:11.111816",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-28",
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 140,
 	"item_name": "Cockpit Reiniger",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=63b3b9eb-a45d-451b-8ecc-323ad82c4605",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252868981",
 	"item_code": "PP-000001724",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000001724",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "4",
-	"item_group": "Autopflege",
+	"BARCODE": "8711252868981",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.79",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.79"
+	"ORDERS_30D": 3
 }

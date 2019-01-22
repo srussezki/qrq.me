@@ -1,4 +1,5 @@
 {
+	"item_group": "Saisonale Spielwaren",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/3280250002420.png",
 	"creation": "2018-03-01T14:56:13.679181",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-28",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 42,
 	"item_name": "Ecoiffier Sandeimer Muffin Mit Zubehör",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7bf23d37-6a85-42fe-95c8-b130797b9547",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3280250002420",
 	"item_code": "PP-000005081",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000005081",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Saisonale Spielwaren",
+	"BARCODE": "3280250002420",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.49",
 	"current_gross_selling_price": 3.49,
-	"base_price": "3.49"
+	"ORDERS_30D": 0
 }

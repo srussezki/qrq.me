@@ -1,4 +1,5 @@
 {
+	"item_group": "Weihnachten",
 	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/8711252881706.jpg",
 	"creation": "2018-07-17T17:22:38.659982",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere aufregende Themenwelten in der App",
+	"ORDERS_ALLTIME": 43,
 	"item_name": "Weihnachtskugel 1led 8cm PO",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=799efa9f-233c-48aa-b5a9-eed0d6f25617",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252881706",
 	"item_code": "PP-000010847",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000010847",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Weihnachten",
+	"BARCODE": "8711252881706",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.29,
-	"base_price": "0.99"
+	"ORDERS_30D": 0
 }

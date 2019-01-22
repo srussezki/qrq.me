@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 98,
+	"item_group": "Malerbedarf",
+	"current_stock_003_halle_altstadt": 94,
 	"image": null,
 	"creation": "2018-06-20T14:29:38.593965",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 10,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 172,
 	"item_name": "Abdeckfolie 4x5m",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d6272122-1c9b-43a4-a929-4adf1fd7fe68",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4251007223350",
 	"item_code": "PP-000009859",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000009859",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 4,
 	"shelf_number": null,
-	"item_group": "Malerbedarf",
+	"BARCODE": "4251007223350",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 43
 }

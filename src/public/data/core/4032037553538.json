@@ -1,4 +1,5 @@
 {
+	"item_group": "Taschenwärmer/Wärmflaschen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4032037553538.jpg",
 	"creation": "2018-11-09T14:23:19.164537",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Taschenheizkissen Rentier Ole",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f5d43583-7572-44eb-830d-85d5fd916860",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4032037553538",
 	"item_code": "PP-000015813",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015813",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Taschenwärmer/Wärmflaschen",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": null
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Sportaccessoires",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8715349037083.jpg",
 	"creation": "2018-02-14T16:04:37.845460",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-02",
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 43,
 	"item_name": "Beachball Set",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d387c8af-9041-4000-89aa-13fee27cf00b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8715349037083",
 	"item_code": "PP-000002079",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000002079",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Sportaccessoires",
+	"BARCODE": "8715349037083",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.79",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.79"
+	"ORDERS_30D": 0
 }

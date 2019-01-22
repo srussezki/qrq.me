@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Raumduft",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5011417541807.jpg",
 	"creation": "2018-06-12T16:54:00.977518",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": "Putzt du noch oder shoppst du schon online?",
+	"ORDERS_ALLTIME": 22,
 	"item_name": "Airwick Freshmatic Magnolia&Cherry 250ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2bb186d3-f766-4d11-830b-b021bc644c52",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5011417541807",
 	"item_code": "PP-000009731",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000009731",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "FMCG Raumduft",
+	"BARCODE": "5011417541807",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 5
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Glas",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8717794713826.jpg",
 	"creation": "2018-06-05T17:07:34.195065",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Für die Profiköche gehts online weiter",
+	"ORDERS_ALLTIME": 93,
 	"item_name": "Becher Mama/Papa 8x9,5cm 12stk",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d863c4d5-dd1c-40b8-8383-fcbb1d060dc2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8717794713826",
 	"item_code": "PP-000009546",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000009546",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Glas",
+	"BARCODE": "8717794713826",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 4
 }

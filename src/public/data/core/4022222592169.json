@@ -1,4 +1,5 @@
 {
+	"item_group": "Badtextilien",
 	"current_stock_003_halle_altstadt": 5,
 	"image": "/files/4022222592169.jpg",
 	"creation": "2018-02-14T16:00:44.947372",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-06",
+	"ORDERS_7D": 14,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 182,
 	"item_name": "Badewanneneinlage 70x35cm",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4d7cbe06-f27a-4b6c-92e8-b85857d413c2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4022222592169",
 	"item_code": "PP-000004602",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000004602",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Badtextilien",
+	"BARCODE": "4022222592169",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 32
 }

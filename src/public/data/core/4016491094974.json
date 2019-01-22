@@ -1,4 +1,5 @@
 {
+	"item_group": "Office",
 	"current_stock_003_halle_altstadt": 15,
 	"image": null,
 	"creation": "2018-10-15T14:07:03.278266",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 312,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 10,
 	"marketing_text": "App, App Hura! Noch mehr Auswahl!",
+	"ORDERS_ALLTIME": 30,
 	"item_name": "Krepp-Band 19x40mm/38x50mm 3tlg.",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=87d25c78-8efe-42b9-9138-072d9b8a3c34",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4016491094974",
 	"item_code": "PP-000014734",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000014734",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Office",
+	"BARCODE": "4016491094974",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": null,
 	"current_gross_selling_price": 2.99,
-	"base_price": null
+	"ORDERS_30D": 29
 }

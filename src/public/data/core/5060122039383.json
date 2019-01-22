@@ -1,4 +1,5 @@
 {
+	"item_group": "Lebensmittel",
 	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/5060122039383.jpg",
 	"creation": "2018-11-16T11:50:50.288312",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 6,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 19,
 	"item_name": "Brotaufstrich Bounty 200gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c8a0b4bf-3035-4eba-b6c8-f56957879ab2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5060122039383",
 	"item_code": "PP-000015975",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000015975",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Lebensmittel",
+	"BARCODE": "5060122039383",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.395",
 	"current_gross_selling_price": 2.79,
-	"base_price": "1.395"
+	"ORDERS_30D": 15
 }

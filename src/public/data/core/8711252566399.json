@@ -1,4 +1,5 @@
 {
+	"item_group": "Sticker & Stempel",
 	"current_stock_003_halle_altstadt": 59,
 	"image": "/files/8711252566399.jpg",
 	"creation": "2018-02-13T18:54:27.454913",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 96,
 	"first_time_ordered_on_": "2017-11-28",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 53,
 	"item_name": "Aufkleber Schnurrbart",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=da93ac8a-2e53-44af-891c-363b68bd1b66",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252566399",
 	"item_code": "PP-000001688",
-	"current_stock_001_kaufpark_eiche": 59,
 	"name": "PP-000001688",
+	"current_stock_001_kaufpark_eiche": 59,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Sticker & Stempel",
+	"BARCODE": "8711252566399",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.49",
 	"current_gross_selling_price": 0.49,
-	"base_price": "0.49"
+	"ORDERS_30D": 3
 }

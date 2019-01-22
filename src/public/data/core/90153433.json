@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 29,
+	"item_group": "Getränke",
+	"current_stock_003_halle_altstadt": 26,
 	"image": "/files/90153433.jpg",
 	"creation": "2018-02-22T10:38:59.724581",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 528,
 	"first_time_ordered_on_": "2018-02-19",
+	"ORDERS_7D": 20,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 753,
 	"item_name": "Dreh und Trink Waldbeere 200ml",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9d243a68-57fd-471d-a884-3ceed20f1ef9",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "90153433",
 	"item_code": "PP-000004805",
-	"current_stock_001_kaufpark_eiche": 60,
 	"name": "PP-000004805",
+	"current_stock_001_kaufpark_eiche": 59,
+	"ORDERS_TODAY": 3,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "90153433",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.24",
 	"current_gross_selling_price": 0.49,
-	"base_price": "0.24"
+	"ORDERS_30D": 175
 }

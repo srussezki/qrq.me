@@ -1,4 +1,5 @@
 {
+	"item_group": "Herrenbekleidung",
 	"current_stock_003_halle_altstadt": 17,
 	"image": "/files/4016491100941.jpg",
 	"creation": "2018-06-27T10:37:20.925632",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 7,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 49,
 	"item_name": "T-Shirt Polo-Club 3er Pack weiss",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=47f93e76-b196-4f04-916f-5807d3959afd",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4016491100941",
 	"item_code": "PP-000010356",
-	"current_stock_001_kaufpark_eiche": 23,
 	"name": "PP-000010356",
+	"current_stock_001_kaufpark_eiche": 21,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Herrenbekleidung",
+	"BARCODE": "4016491100941",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "6.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "6.99"
+	"ORDERS_30D": 15
 }

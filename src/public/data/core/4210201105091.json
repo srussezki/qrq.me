@@ -1,4 +1,5 @@
 {
+	"item_group": "Mundpflege",
 	"current_stock_003_halle_altstadt": 21,
 	"image": null,
 	"creation": "2018-11-05T17:16:35.495171",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 162,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "120.800 weitere Beautyartikel in der App",
+	"ORDERS_ALLTIME": 13,
 	"item_name": "Oral-B Electric Bürstenköpfe - Crossaction 4stk",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3def9637-ae10-42fe-99f5-28207d3bd38b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4210201105091",
 	"item_code": "PP-000015362",
-	"current_stock_001_kaufpark_eiche": 23,
 	"name": "PP-000015362",
+	"current_stock_001_kaufpark_eiche": 23,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Mundpflege",
+	"BARCODE": "4210201105091",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 7
 }

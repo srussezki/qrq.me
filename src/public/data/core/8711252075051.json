@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 32,
+	"item_group": "Reinigung hart",
+	"current_stock_003_halle_altstadt": 30,
 	"image": "/files/8711252075051.jpg",
 	"creation": "2018-07-18T15:00:42.513018",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 10,
 	"marketing_text": "Putzen geht noch billiger in unserer App",
+	"ORDERS_ALLTIME": 138,
 	"item_name": "3in1 Topflappen 15x15cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=17bce58b-d3f0-4d03-af80-39313797f09b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252075051",
 	"item_code": "PP-000010918",
-	"current_stock_001_kaufpark_eiche": 25,
 	"name": "PP-000010918",
+	"current_stock_001_kaufpark_eiche": 25,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Reinigung hart",
+	"BARCODE": "8711252075051",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 19
 }

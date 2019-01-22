@@ -1,4 +1,5 @@
 {
+	"item_group": "Backen",
 	"current_stock_003_halle_altstadt": 23,
 	"image": "/files/8711252982861.jpg",
 	"creation": "2018-03-14T16:33:26.525611",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 7,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 93,
 	"item_name": "Kuchendeko 7Stk 1Set",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252982861",
 	"item_code": "PP-000005468",
-	"current_stock_001_kaufpark_eiche": 26,
 	"name": "PP-000005468",
+	"current_stock_001_kaufpark_eiche": 26,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Backen",
+	"BARCODE": "8711252982861",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "0.22",
 	"current_gross_selling_price": 1.19,
-	"base_price": "0.22"
+	"ORDERS_30D": 12
 }

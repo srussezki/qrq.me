@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Mädchen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5702015866323.jpg",
 	"creation": "2018-04-30T15:26:18.676448",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-27",
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel für die Kleinenin unserer App",
+	"ORDERS_ALLTIME": 11,
 	"item_name": "Lego Friends Andreas Showbühne",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e0d21dd8-3290-460a-b48c-da1e2cfa0ac6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5702015866323",
 	"item_code": "PP-000008289",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000008289",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Mädchen",
+	"BARCODE": "5702015866323",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "7.89",
 	"current_gross_selling_price": 9.99,
-	"base_price": "7.89"
+	"ORDERS_30D": 0
 }

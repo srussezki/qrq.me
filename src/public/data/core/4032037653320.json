@@ -1,4 +1,5 @@
 {
+	"item_group": "Teppiche",
 	"current_stock_003_halle_altstadt": 18,
 	"image": "/files/4032037653320.jpg",
 	"creation": "2018-07-04T08:17:15.198320",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Verschönere dein Zuhause, jetzt auch online",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Dekofell rund 34x34cm",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b827e85f-46cb-4e7f-bf4f-7f3b4ce55cf0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4032037653320",
 	"item_code": "PP-000010477",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000010477",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Teppiche",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": null
 }

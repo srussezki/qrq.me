@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekorative Kosmetik",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4009017178500.jpg",
 	"creation": "2018-02-13T18:48:38.897021",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-19",
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 421,
 	"item_name": "Nagellack Sabrina",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=270bb794-f155-4f16-9738-c222a1915ccd",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4009017178500",
 	"item_code": "PP-000001356",
-	"current_stock_001_kaufpark_eiche": 73,
 	"name": "PP-000001356",
+	"current_stock_001_kaufpark_eiche": 73,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Dekorative Kosmetik",
+	"BARCODE": "4009017178500",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.59",
 	"current_gross_selling_price": 0.59,
-	"base_price": "0.59"
+	"ORDERS_30D": 2
 }

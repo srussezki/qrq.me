@@ -1,4 +1,5 @@
 {
+	"item_group": "Reinigung hart",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4022222000756.jpg",
 	"creation": "2018-02-14T16:00:43.499415",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 96,
 	"first_time_ordered_on_": "2018-02-06",
+	"ORDERS_7D": 0,
 	"marketing_text": "Wecke den Putzteufel in Dir!",
+	"ORDERS_ALLTIME": 308,
 	"item_name": "Teleskopstaubwedel",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=015ae1e9-4a5c-41da-9e99-cf42bb347d06",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4022222000756",
 	"item_code": "PP-000004626",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000004626",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Reinigung hart",
+	"BARCODE": "4022222000756",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 62
 }

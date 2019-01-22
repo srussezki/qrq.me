@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 46,
+	"item_group": "Süßigkeiten & Kaugummi",
+	"current_stock_003_halle_altstadt": 45,
 	"image": "/files/4012362044109.jpg",
 	"creation": "2018-09-18T12:52:49.294285",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 11,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 70,
 	"item_name": "Zetti Knusperflocken Vollmilch 140G",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2a29f1dc-befd-41b8-8f59-3caecd926b12",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4012362044109",
 	"item_code": "PP-000013670",
-	"current_stock_001_kaufpark_eiche": 56,
 	"name": "PP-000013670",
+	"current_stock_001_kaufpark_eiche": 56,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "4012362044109",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 15
 }

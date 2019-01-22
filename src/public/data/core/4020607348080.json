@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekouhren",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4020607348080.jpg",
 	"creation": "2018-03-14T16:32:23.410997",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-12",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 12,
 	"item_name": "Weiße Wanduhr",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ac66c655-679b-4b6d-98ff-ab433181a6e9",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4020607348080",
 	"item_code": "PP-000005303",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000005303",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekouhren",
+	"BARCODE": "4020607348080",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.35",
 	"current_gross_selling_price": 3.49,
-	"base_price": "3.35"
+	"ORDERS_30D": 0
 }

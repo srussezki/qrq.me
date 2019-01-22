@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 7,
+	"item_group": "FMCG Reinigungsmittel",
+	"current_stock_003_halle_altstadt": 6,
 	"image": null,
 	"creation": "2018-07-03T10:01:21.310563",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 12,
 	"marketing_text": "Putzen geht noch billiger in unserer App",
+	"ORDERS_ALLTIME": 100,
 	"item_name": "Elsterglanz WC Aktiv Würfel Meerduft",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6a323c63-cd15-46fb-b2a0-43d270c9935b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4029957009030",
 	"item_code": "PP-000010465",
-	"current_stock_001_kaufpark_eiche": 15,
 	"name": "PP-000010465",
+	"current_stock_001_kaufpark_eiche": 15,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "FMCG Reinigungsmittel",
+	"BARCODE": "4029957009030",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 36
 }

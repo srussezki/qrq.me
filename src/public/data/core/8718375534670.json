@@ -1,4 +1,5 @@
 {
+	"item_group": "Taschen & Rucksäcke",
 	"current_stock_003_halle_altstadt": 9,
 	"image": null,
 	"creation": "2018-02-13T18:50:02.709044",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 0,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": 63,
 	"item_name": "Rucksack",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9b5c7c29-3d16-4b95-8580-2654ad6c0294",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718375534670",
 	"item_code": "PP-000002083",
-	"current_stock_001_kaufpark_eiche": 21,
 	"name": "PP-000002083",
+	"current_stock_001_kaufpark_eiche": 21,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Taschen & Rucksäcke",
+	"BARCODE": "8718375534670",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 3
 }

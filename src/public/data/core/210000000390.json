@@ -1,4 +1,5 @@
 {
+	"item_group": "Keramik & Porzellan",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-04-27T12:23:32.911603",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-25",
+	"ORDERS_7D": null,
 	"marketing_text": "Für die Profiköche gehts online weiter",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Tasse m. Spruch Jasmin",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f07dbc20-1c8b-442b-a205-01d39de22bc7",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000008149",
 	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000008149",
+	"_timestamp": "20190122 150229.902",
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Keramik & Porzellan",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": null
 }

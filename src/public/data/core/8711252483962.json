@@ -1,4 +1,5 @@
 {
+	"item_group": "Aufbewahrung",
 	"current_stock_003_halle_altstadt": 25,
 	"image": "/files/8711252483962.jpg",
 	"creation": "2018-05-02T18:33:52.824225",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": "2018-05-02",
+	"ORDERS_7D": 2,
 	"marketing_text": "Pimp your Home",
+	"ORDERS_ALLTIME": 72,
 	"item_name": "Ablagekorb 34x22,6x7cm pp ass clr pb/in 3926909790000000",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6b7939dd-50ed-4dc3-b341-61adff4d733b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252483962",
 	"item_code": "PP-000008376",
-	"current_stock_001_kaufpark_eiche": 31,
 	"name": "PP-000008376",
+	"current_stock_001_kaufpark_eiche": 31,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Aufbewahrung",
+	"BARCODE": "8711252483962",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 12
 }

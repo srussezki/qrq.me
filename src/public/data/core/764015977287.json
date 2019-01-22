@@ -1,4 +1,5 @@
 {
+	"item_group": "Strümpfe",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-08-20T16:10:36.389736",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "App, App Hura! Noch mehr Auswahl!",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Kappa Socken 6er Pack",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=420b8781-e0c4-4b0f-ad38-d5761976100f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "764015977287",
 	"item_code": "PP-000012696",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000012696",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Strümpfe",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": null
 }

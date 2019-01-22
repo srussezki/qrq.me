@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 13,
+	"item_group": "Schreibwaren Schule",
+	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/4012700330857.jpg",
 	"creation": "2018-11-07T12:10:18.270256",
 	"website_image": "/files/4012700330857.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 5,
 	"item_name": "Großraum Tintenpatronen 2x5er Königsblau",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d4658272-d18f-44a4-bec5-fa23c32378d7",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4012700330857",
 	"item_code": "PP-000015477",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015477",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schreibwaren Schule",
+	"BARCODE": "4012700330857",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 1
 }

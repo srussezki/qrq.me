@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekoration",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4032037650756.jpg",
 	"creation": "2018-11-09T14:23:20.553456",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 6,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 17,
 	"item_name": "Beistelltisch schwarz aus Holz mittel",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=426da3e8-bab3-426e-b122-5bd3626f4bb7",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4032037650756",
 	"item_code": "PP-000015824",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015824",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekoration",
+	"BARCODE": "4032037650756",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 10
 }

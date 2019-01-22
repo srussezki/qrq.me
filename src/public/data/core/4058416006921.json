@@ -1,4 +1,5 @@
 {
+	"item_group": "Lampen",
 	"current_stock_003_halle_altstadt": 31,
 	"image": null,
 	"creation": "2018-02-13T18:50:36.506661",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 29,
 	"first_time_ordered_on_": "2017-11-02",
+	"ORDERS_7D": 0,
 	"marketing_text": "Auf factorymarket.de geht dir ein Licht auf",
+	"ORDERS_ALLTIME": 54,
 	"item_name": "Straußen-Ei Lampe",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b86432c3-ec1f-4b45-b664-9723f3441538",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4058416006921",
 	"item_code": "PP-000001560",
-	"current_stock_001_kaufpark_eiche": 41,
 	"name": "PP-000001560",
+	"current_stock_001_kaufpark_eiche": 41,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1,2,3,4",
-	"item_group": "Lampen",
+	"BARCODE": "4058416006921",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 3
 }

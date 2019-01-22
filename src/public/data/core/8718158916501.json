@@ -1,4 +1,5 @@
 {
+	"item_group": "Garten",
 	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/8718158916501.jpg",
 	"creation": "2018-02-28T16:19:01.215750",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-27",
+	"ORDERS_7D": 2,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 20,
 	"item_name": "Gartenwerkzeuge 2-Teilig",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f0d687ec-0f16-4117-8f47-0169dd0e3c76",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158916501",
 	"item_code": "PP-000005006",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000005006",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Garten",
+	"BARCODE": "8718158916501",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.49"
+	"ORDERS_30D": 3
 }

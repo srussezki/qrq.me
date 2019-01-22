@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 41,
 	"image": null,
 	"creation": "2018-07-16T16:12:22.380213",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 10,
 	"marketing_text": "Für die Profiköche gehts online weiter",
+	"ORDERS_ALLTIME": 27,
 	"item_name": "Flaschenöffner",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=89bf6f47-6bd0-4a98-b2e2-043d157dbd5d",
@@ -22,10 +25,15 @@
 	"brand": null,
 	"barcode": "2100000005383",
 	"item_code": "PP-000010767",
-	"current_stock_001_kaufpark_eiche": 20,
+	"current_stock_001_kaufpark_eiche": 18,
 	"name": "PP-000010767",
+	"_timestamp": "20190122 150230.085",
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Küchenhelfer",
+	"BARCODE": "2100000005383",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.29",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.29"
+	"ORDERS_30D": 15,
+	"top10": "Küchenhelfer"
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Kerzen & -zubehör",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4008495453031.png",
 	"creation": "2018-02-13T18:54:49.470509",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-19",
+	"ORDERS_7D": null,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Duft-Votivkerzen 40/50 Pfirsich",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1d6a9e6b-f816-4f78-9ee3-a9427b221eee",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008495453031",
 	"item_code": "PP-000002432",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000002432",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "0.39",
 	"current_gross_selling_price": 0.39,
-	"base_price": "0.39"
+	"ORDERS_30D": null
 }

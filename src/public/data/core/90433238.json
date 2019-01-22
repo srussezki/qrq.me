@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 54,
+	"item_group": "Getränke",
+	"current_stock_003_halle_altstadt": 53,
 	"image": "/files/90433238.jpg",
 	"creation": "2018-04-19T18:07:50.772957",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-13",
+	"ORDERS_7D": 6,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 140,
 	"item_name": "Red Bull Orange 250ml",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4ddfd094-5d49-4f67-9b64-e5ce94dbd0a1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "90433238",
 	"item_code": "PP-000007412",
-	"current_stock_001_kaufpark_eiche": 22,
 	"name": "PP-000007412",
+	"current_stock_001_kaufpark_eiche": 22,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "90433238",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 10
 }

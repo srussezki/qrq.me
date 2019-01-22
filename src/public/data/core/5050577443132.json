@@ -1,4 +1,5 @@
 {
+	"item_group": "Geschenkverpackungen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-14T16:00:13.432702",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-26",
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 49,
 	"item_name": "Luxus-Geschenk-Beutel",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b4bf6d22-3f75-41cd-b424-512fbcb6d5a0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5050577443132",
 	"item_code": "PP-000003834",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000003834",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Geschenkverpackungen",
+	"BARCODE": "5050577443132",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 0
 }

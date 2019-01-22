@@ -1,4 +1,5 @@
 {
+	"item_group": "Damenbekleidung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/9003411341336.png",
 	"creation": "2018-06-05T11:41:56.936556",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Das perfekte Outfit gibts auch online",
+	"ORDERS_ALLTIME": 9,
 	"item_name": "Damen T-Shirt Rundhals",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f71c6f94-e46b-481c-bcaa-a30e0c5f3c1f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "9003411341336",
 	"item_code": "PP-000009604",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000009604",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Damenbekleidung",
+	"BARCODE": "9003411341336",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 0
 }

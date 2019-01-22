@@ -1,4 +1,5 @@
 {
+	"item_group": "Beautyaccessoires",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4038732780446.jpg",
 	"creation": "2018-04-09T11:22:43.270446",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-11",
+	"ORDERS_7D": 2,
 	"marketing_text": "Die neusten Beautyprodukte jetzt bei uns",
+	"ORDERS_ALLTIME": 34,
 	"item_name": "Haarband Blume Lila",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2110d65f-25e9-463c-85a7-895ffb579726",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4038732780446",
 	"item_code": "PP-000006923",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006923",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Beautyaccessoires",
+	"BARCODE": "4038732780446",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.59",
 	"current_gross_selling_price": 0.59,
-	"base_price": "0.59"
+	"ORDERS_30D": 2
 }

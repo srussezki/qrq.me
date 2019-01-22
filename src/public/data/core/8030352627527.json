@@ -1,4 +1,5 @@
 {
+	"item_group": "Mützen, Schals & Handschuhe",
 	"current_stock_003_halle_altstadt": 30,
 	"image": null,
 	"creation": "2018-11-05T14:41:43.193146",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 4,
 	"item_name": "Set aus Mütze und Schal grau mit roter Schleife",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e9406d5d-4acb-4cb7-8ec8-d6a4641f2ee3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8030352627527",
 	"item_code": "PP-000015320",
-	"current_stock_001_kaufpark_eiche": 33,
 	"name": "PP-000015320",
+	"current_stock_001_kaufpark_eiche": 33,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Mützen, Schals & Handschuhe",
+	"BARCODE": "8030352627527",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 3
 }

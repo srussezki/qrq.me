@@ -1,4 +1,5 @@
 {
+	"item_group": "Werkzeug",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8719202881615.jpg",
 	"creation": "2018-08-08T19:19:53.053212",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Gartenschaufel mit Holzgriff",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=51c258f5-215f-4e88-8ca6-4c73c819f64d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202881615",
 	"item_code": "PP-000012373",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000012373",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Werkzeug",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": null
 }

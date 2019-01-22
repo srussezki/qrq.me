@@ -1,4 +1,5 @@
 {
+	"item_group": "Schreibwaren Schule",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4012700808981.png",
 	"creation": "2018-04-12T14:45:03.428822",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-12",
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 19,
 	"item_name": "Pelikan Wasserbox Elefant Blau",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e1d31523-9290-471c-91d3-b38b396df6a9",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4012700808981",
 	"item_code": "PP-000007250",
-	"current_stock_001_kaufpark_eiche": 14,
 	"name": "PP-000007250",
+	"current_stock_001_kaufpark_eiche": 14,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schreibwaren Schule",
+	"BARCODE": "4012700808981",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.29",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.29"
+	"ORDERS_30D": 0
 }

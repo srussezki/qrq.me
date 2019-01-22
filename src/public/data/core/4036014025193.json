@@ -1,4 +1,5 @@
 {
+	"item_group": "Aufbewahrung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4036014025193.png",
 	"creation": "2018-02-13T18:49:47.276422",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 20,
 	"item_name": "Selbstklebende Haken",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fc38e092-ce7a-41eb-8028-c76e14c08cd6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4036014025193",
 	"item_code": "PP-000002236",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000002236",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "Aufbewahrung",
+	"BARCODE": "4036014025193",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 0
 }

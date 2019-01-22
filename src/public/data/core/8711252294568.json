@@ -1,4 +1,5 @@
 {
+	"item_group": "Hunde",
 	"current_stock_003_halle_altstadt": 60,
 	"image": "/files/8711252294568.jpg",
 	"creation": "2018-04-19T18:43:34.801591",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 96,
 	"first_time_ordered_on_": "2018-04-09",
+	"ORDERS_7D": 1,
 	"marketing_text": "Weiter 250.000 Tierartikel online",
+	"ORDERS_ALLTIME": 72,
 	"item_name": "Knotenknochen weiß 3stk",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6a3ebe9a-8844-4917-a47d-4893c8a1a6d1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252294568",
 	"item_code": "PP-000007499",
-	"current_stock_001_kaufpark_eiche": 55,
 	"name": "PP-000007499",
+	"current_stock_001_kaufpark_eiche": 55,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hunde",
+	"BARCODE": "8711252294568",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.39",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.39"
+	"ORDERS_30D": 6
 }

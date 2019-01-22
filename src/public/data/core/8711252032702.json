@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8711252032702.jpg",
 	"creation": "2018-02-13T18:49:06.885611",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 168,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 9,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 145,
 	"item_name": "Eiswürfwelbehälter Jumbo",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7fa49da9-2395-44f9-b7e3-756828aec42d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252032702",
 	"item_code": "PP-000001861",
-	"current_stock_001_kaufpark_eiche": 25,
 	"name": "PP-000001861",
+	"current_stock_001_kaufpark_eiche": 25,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Küchenhelfer",
+	"BARCODE": "8711252032702",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.35",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.35"
+	"ORDERS_30D": 10
 }

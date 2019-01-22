@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Reinigungsmittel",
 	"current_stock_003_halle_altstadt": 68,
 	"image": "/files/4002448117681.jpg",
 	"creation": "2018-05-14T14:10:12.772157",
@@ -6,12 +7,14 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 68,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 43,
 	"marketing_text": "Wecke den Putzteufel in Dir!",
+	"ORDERS_ALLTIME": 72,
 	"item_name": "Finish Quantum Spülmaschinentabs",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4f30b703-ac99-4335-98a1-55c255308383",
 	"is_sales_item": 1,
-	"current_stock_002_halle_neustadt": 47,
+	"current_stock_002_halle_neustadt": 46,
 	"rack_number": null,
 	"item_group_level_0": null,
 	"base_price_text": "1.19 € je 1 Stück",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002448117681",
 	"item_code": "PP-000008747",
-	"current_stock_001_kaufpark_eiche": 57,
 	"name": "PP-000008747",
+	"current_stock_001_kaufpark_eiche": 56,
+	"ORDERS_TODAY": 7,
 	"shelf_number": null,
-	"item_group": "FMCG Reinigungsmittel",
+	"BARCODE": "4002448117681",
+	"ORDERS_YESTERDAY": 11,
+	"base_price": "1.19",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.19"
+	"ORDERS_30D": 43
 }

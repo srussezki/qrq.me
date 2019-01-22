@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflanzen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8719202500356.jpg",
 	"creation": "2018-02-14T09:14:39.574094",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 55,
 	"item_name": "Blumentopf Versch. Sorten 30cm",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5647e1bb-1a03-4b38-9d99-8a69cd15c9d8",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202500356",
 	"item_code": "PP-000004518",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004518",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflanzen",
+	"BARCODE": "8719202500356",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.19",
 	"current_gross_selling_price": 1.99,
-	"base_price": "2.19"
+	"ORDERS_30D": 0
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Aufbewahrung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8717794840881.jpg",
 	"creation": "2018-09-27T13:47:15.397407",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Verschönere dein Zuhause, jetzt auch online",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Lagerbox 20x20x12cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6aeb15b7-39d4-4c9f-aa5c-1a9b7373e427",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8717794840881",
 	"item_code": "PP-000014022",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000014022",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Aufbewahrung",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": null
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 4,
+	"item_group": "Malerbedarf",
+	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/4000590061500.jpg",
 	"creation": "2018-05-30T11:56:14.067285",
 	"website_image": "/files/4000590061500.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 27,
 	"item_name": "Wi-Superweiss, matt",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8853c11a-74d1-4cb2-88ac-f7dd30c9b8a2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4000590061500",
 	"item_code": "PP-000009361",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000009361",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Malerbedarf",
+	"BARCODE": "4000590061500",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "2.796",
 	"current_gross_selling_price": 7.99,
-	"base_price": "2.796"
+	"ORDERS_30D": 10
 }

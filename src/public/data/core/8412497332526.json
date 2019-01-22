@@ -1,4 +1,5 @@
 {
+	"item_group": "Sportflaschen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8412497332526.jpg",
 	"creation": "2018-03-23T21:07:01.856666",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-22",
+	"ORDERS_7D": null,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Prinzessin Trinkflasche",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3fe265d6-fb03-4ffa-beec-a163bcac5177",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8412497332526",
 	"item_code": "PP-000006244",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006244",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Sportflaschen",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": null
 }

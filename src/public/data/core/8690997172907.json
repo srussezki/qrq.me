@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 90,
+	"item_group": "Süßigkeiten & Kaugummi",
+	"current_stock_003_halle_altstadt": 89,
 	"image": "/files/8690997172907.png",
 	"creation": "2018-02-13T18:54:42.118604",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 144,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 15,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 433,
 	"item_name": "Caramel Bon Bon",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=325cef40-b460-4f5c-8da0-964cd111fb66",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8690997172907",
 	"item_code": "PP-000002705",
-	"current_stock_001_kaufpark_eiche": 28,
 	"name": "PP-000002705",
+	"current_stock_001_kaufpark_eiche": 28,
+	"ORDERS_TODAY": 2,
 	"shelf_number": "314",
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "8690997172907",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "1.19",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.19"
+	"ORDERS_30D": 25
 }

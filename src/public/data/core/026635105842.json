@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 8,
+	"item_group": "Ballons",
+	"current_stock_003_halle_altstadt": 5,
 	"image": "/files/0026635105842.png",
 	"creation": "2018-08-27T13:14:29.545985",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 7,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 45,
 	"item_name": "Herz rot Folienballon S15",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a165ed5c-0b99-424a-8953-b53affc93fd6",
@@ -24,8 +27,14 @@
 	"item_code": "PP-000012861",
 	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000012861",
+	"_timestamp": "20190122 150229.322",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Ballons",
+	"BARCODE": "026635105842",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 30,
+	"top10": "Ballons",
+	"top100": "Party"
 }

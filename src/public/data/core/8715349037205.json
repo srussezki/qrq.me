@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 19,
 	"image": "/files/8715349037205.jpg",
 	"creation": "2018-02-14T16:00:19.497371",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": "2017-11-02",
+	"ORDERS_7D": 3,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 84,
 	"item_name": "Discshooter",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1e86b98d-947f-4646-8947-b34e92c2b645",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8715349037205",
 	"item_code": "PP-000002081",
-	"current_stock_001_kaufpark_eiche": 20,
 	"name": "PP-000002081",
+	"current_stock_001_kaufpark_eiche": 20,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8715349037205",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 5
 }

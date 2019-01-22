@@ -1,4 +1,5 @@
 {
+	"item_group": "Office",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5050577801963.jpg",
 	"creation": "2018-02-14T16:04:32.765276",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-26",
+	"ORDERS_7D": null,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": null,
 	"item_name": "A4 Hochglanz-Fotopapier 10 Blatt",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c6e98698-94c9-4600-a5f8-5c68a235b406",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5050577801963",
 	"item_code": "PP-000003799",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000003799",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Office",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": null
 }

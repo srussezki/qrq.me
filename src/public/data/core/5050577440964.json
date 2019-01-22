@@ -1,4 +1,5 @@
 {
+	"item_group": "Ballons",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5050577440964.png",
 	"creation": "2018-02-14T16:00:30.902370",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-26",
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 92,
 	"item_name": "Geburtstag Selbstaufblasende Balloons",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=52d3f5dc-bdb0-4a7d-be90-f23523c5008e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5050577440964",
 	"item_code": "PP-000003815",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000003815",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Ballons",
+	"BARCODE": "5050577440964",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 0
 }

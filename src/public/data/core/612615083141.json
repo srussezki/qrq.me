@@ -1,4 +1,5 @@
 {
+	"item_group": "Sticker & Stempel",
 	"current_stock_003_halle_altstadt": 97,
 	"image": "/files/612615083141.jpg",
 	"creation": "2018-02-14T16:00:28.441337",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 480,
 	"first_time_ordered_on_": "2018-02-02",
+	"ORDERS_7D": 4,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 132,
 	"item_name": "Patch Set Paillette Bügelflicken",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c3adf6b5-13b7-4a20-bfcd-d60d435e7602",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "612615083141",
 	"item_code": "PP-000004116",
-	"current_stock_001_kaufpark_eiche": 117,
 	"name": "PP-000004116",
+	"current_stock_001_kaufpark_eiche": 115,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Sticker & Stempel",
+	"BARCODE": "612615083141",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.49",
 	"current_gross_selling_price": 0.79,
-	"base_price": "3.49"
+	"ORDERS_30D": 7
 }

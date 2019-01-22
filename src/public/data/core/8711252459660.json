@@ -1,4 +1,5 @@
 {
+	"item_group": "Camping",
 	"current_stock_003_halle_altstadt": 1,
 	"image": "/files/8711252459660.jpg",
 	"creation": "2018-02-14T16:00:31.550152",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 19,
 	"first_time_ordered_on_": "2018-02-10",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 78,
 	"item_name": "Kühlbox Blau/Weiß 24l",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=31094d74-696c-4f57-877c-c99bb8e9ce68",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252459660",
 	"item_code": "PP-000003424",
-	"current_stock_001_kaufpark_eiche": 20,
 	"name": "PP-000003424",
+	"current_stock_001_kaufpark_eiche": 20,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Camping",
+	"BARCODE": "8711252459660",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 0
 }

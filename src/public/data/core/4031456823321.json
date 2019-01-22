@@ -1,4 +1,5 @@
 {
+	"item_group": "Deko LED",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4031456823321.png",
 	"creation": "2018-03-14T16:33:05.532760",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-07",
+	"ORDERS_7D": null,
 	"marketing_text": "Pimp your Home, auf factorymarket.de",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Glas Mit Deckel Led",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0564df47-2a2c-4bd4-95d3-4ede6d0cc7ea",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4031456823321",
 	"item_code": "PP-000005164",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000005164",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Deko LED",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": null
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Geschenkverpackungen",
 	"current_stock_003_halle_altstadt": 5,
 	"image": "/files/8711252042121.jpg",
 	"creation": "2018-06-20T18:47:25.478864",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Verschönere dein Zuhause, jetzt auch online",
+	"ORDERS_ALLTIME": 28,
 	"item_name": "Kisten-Set 2tlg.",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f2d5d589-b616-4060-970a-42aae969a129",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252042121",
 	"item_code": "PP-000010067",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000010067",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Geschenkverpackungen",
+	"BARCODE": "8711252042121",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "8.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "8.99"
+	"ORDERS_30D": 6
 }

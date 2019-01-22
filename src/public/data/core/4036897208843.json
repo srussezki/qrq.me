@@ -1,4 +1,5 @@
 {
+	"item_group": "Katzen",
 	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/4036897208843.png",
 	"creation": "2018-09-28T23:58:37.667570",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 9,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 70,
 	"item_name": "PC Kroketten Snack Voralpenrind 125 g",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7dd1b471-2e07-4597-ac16-11a178661898",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4036897208843",
 	"item_code": "PP-000014322",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000014322",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Katzen",
+	"BARCODE": "4036897208843",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 13
 }

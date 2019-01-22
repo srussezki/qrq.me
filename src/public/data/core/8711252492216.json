@@ -1,4 +1,5 @@
 {
+	"item_group": "Werkzeug",
 	"current_stock_003_halle_altstadt": 13,
 	"image": "/files/8711252492216.png",
 	"creation": "2018-02-13T18:49:24.947702",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 72,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 5,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 75,
 	"item_name": "Bandspender 2x15m",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9efc6c7f-1266-4991-840c-8dfab26b5c1d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252492216",
 	"item_code": "PP-000000246",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000000246",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "Werkzeug",
+	"BARCODE": "8711252492216",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 10
 }

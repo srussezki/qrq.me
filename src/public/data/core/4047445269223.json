@@ -1,4 +1,5 @@
 {
+	"item_group": "Badtextilien",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4047445269223.jpg",
 	"creation": "2018-04-09T09:25:42.777658",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-05",
+	"ORDERS_7D": 0,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 9,
 	"item_name": "Kinderhandtuch Mit Sternen 100x75cm",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=53457556-4c3a-4c56-852d-2b5c3a3e156f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4047445269223",
 	"item_code": "PP-000006833",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000006833",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Badtextilien",
+	"BARCODE": "4047445269223",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 0
 }

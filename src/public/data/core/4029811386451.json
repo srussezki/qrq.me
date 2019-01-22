@@ -1,4 +1,5 @@
 {
+	"item_group": "Bilder- & rahmen",
 	"current_stock_003_halle_altstadt": 53,
 	"image": "/files/4029811386451.png",
 	"creation": "2018-07-03T10:01:18.454537",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 396,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 68,
 	"item_name": "Holz-Bilderrahmen Lieblingsmensch 10x15",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=252c6446-03e0-4172-9232-b11891d5f647",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4029811386451",
 	"item_code": "PP-000010395",
-	"current_stock_001_kaufpark_eiche": 24,
 	"name": "PP-000010395",
+	"current_stock_001_kaufpark_eiche": 24,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Bilder- & rahmen",
+	"BARCODE": "4029811386451",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 9
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekokissen",
 	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/4058568002789.png",
 	"creation": "2018-02-14T16:00:28.850896",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 14,
 	"first_time_ordered_on_": "2018-01-31",
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 49,
 	"item_name": "Sitzkissen Weinrot",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=13b8b88a-92d7-4b2c-8b78-a38201e488e4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4058568002789",
 	"item_code": "PP-000004139",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000004139",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekokissen",
+	"BARCODE": "4058568002789",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 14.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 0
 }

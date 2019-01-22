@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 8,
+	"item_group": "Herrenbekleidung",
+	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/4050136529827.png",
 	"creation": "2018-09-05T12:14:28.948744",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 29,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 93,
 	"item_name": "Herren Outdoor Jacken Mix",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4a720f89-ac8d-4692-91f0-2da1deaa2b74",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4050136529827",
 	"item_code": "PP-000013109",
-	"current_stock_001_kaufpark_eiche": 178,
 	"name": "PP-000013109",
+	"current_stock_001_kaufpark_eiche": 177,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Herrenbekleidung",
+	"BARCODE": "4050136529827",
+	"ORDERS_YESTERDAY": 13,
+	"base_price": "18.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "18.99"
+	"ORDERS_30D": 57
 }

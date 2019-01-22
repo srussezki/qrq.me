@@ -1,4 +1,5 @@
 {
+	"item_group": "Glas",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4032037586642.png",
 	"creation": "2018-04-09T09:25:38.049368",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-05",
+	"ORDERS_7D": 0,
 	"marketing_text": "Die besten Küchenhelfer, auch in unserer App",
+	"ORDERS_ALLTIME": 36,
 	"item_name": "Einhorn Becher",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=488f3a8a-5b1d-4bbf-8215-2d8c09e6be58",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4032037586642",
 	"item_code": "PP-000006686",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006686",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Glas",
+	"BARCODE": "4032037586642",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 0
 }

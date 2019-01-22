@@ -1,4 +1,5 @@
 {
+	"item_group": "Schokolade",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/7622210385819.jpg",
 	"creation": "2018-03-23T21:05:55.804615",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-19",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 56,
 	"item_name": "Milka Feine Eier Noisette 90gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f8d97b07-2d24-41b0-bd66-ebf0d7ab841e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "7622210385819",
 	"item_code": "PP-000006055",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006055",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schokolade",
+	"BARCODE": "7622210385819",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.76",
 	"current_gross_selling_price": 0.69,
-	"base_price": "0.76"
+	"ORDERS_30D": 0
 }

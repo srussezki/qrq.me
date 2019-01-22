@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 4,
 	"image": "/files/8714627688016.png",
 	"creation": "2018-02-22T10:38:59.582741",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-16",
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 61,
 	"item_name": "Piraten/Dinosaurier Zelt",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=de482f68-eecf-4d93-8feb-b3afdfcc6f27",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627688016",
 	"item_code": "PP-000004800",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000004800",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8714627688016",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 4
 }

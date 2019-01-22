@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-09-24T17:35:14.178840",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Kaffeebecher mit Deckel 0.56L",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a53fd0aa-449b-4322-a21b-818203a2c73f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8429429157256",
 	"item_code": "PP-000013943",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000013943",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Küchenhelfer",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "1.19",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.19"
+	"ORDERS_30D": null
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Beautyaccessoires",
 	"current_stock_003_halle_altstadt": 19,
 	"image": "/files/4029811337569.jpg",
 	"creation": "2018-07-03T10:01:19.850347",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 12,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 9,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 149,
 	"item_name": "Nageltrockner Pusteaffe",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f767a1e5-d476-4a45-838c-0e6bf7a234c2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4029811337569",
 	"item_code": "PP-000010421",
-	"current_stock_001_kaufpark_eiche": 15,
 	"name": "PP-000010421",
+	"current_stock_001_kaufpark_eiche": 15,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Beautyaccessoires",
+	"BARCODE": "4029811337569",
+	"ORDERS_YESTERDAY": 6,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 25
 }

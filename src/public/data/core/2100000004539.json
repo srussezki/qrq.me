@@ -1,4 +1,5 @@
 {
+	"item_group": "Taschen & Rucksäcke",
 	"current_stock_003_halle_altstadt": 19,
 	"image": "/files/2100000004539.jpg",
 	"creation": "2018-07-04T16:39:51.802686",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 24,
 	"item_name": "Stofftasche mit Bananenmotiv",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f3c158ca-f4ab-4776-af73-60a14ba0bc44",
@@ -24,8 +27,14 @@
 	"item_code": "PP-000010259",
 	"current_stock_001_kaufpark_eiche": 37,
 	"name": "PP-000010259",
+	"_timestamp": "20190122 150229.965",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Taschen & Rucksäcke",
+	"BARCODE": "2100000004539",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.49",
 	"current_gross_selling_price": 3.49,
-	"base_price": "3.49"
+	"ORDERS_30D": 1,
+	"top10": "Taschen & Rucksäcke",
+	"top100": "Accessoires"
 }

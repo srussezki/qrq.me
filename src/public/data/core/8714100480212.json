@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8714100480212.png",
 	"creation": "2018-02-13T18:59:12.293170",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-04",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 25,
 	"item_name": "Axe Deospray \"You Refresh\" 150ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=42d9eedf-a29d-4116-b741-fb5669ab4360",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714100480212",
 	"item_code": "PP-000003510",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000003510",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "8714100480212",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 0
 }

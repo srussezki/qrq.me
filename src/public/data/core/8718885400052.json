@@ -1,4 +1,5 @@
 {
+	"item_group": "Sportbekleidung",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "#REF!",
 	"creation": "2018-12-31T10:34:03.132008",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Damen Trainingshandschuhe",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718885400052",
 	"item_code": "PP-000016780",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000016780",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Sportbekleidung",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "4.49",
 	"current_gross_selling_price": 4.49,
-	"base_price": "4.49"
+	"ORDERS_30D": null
 }

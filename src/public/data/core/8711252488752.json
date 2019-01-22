@@ -1,4 +1,5 @@
 {
+	"item_group": "Fahrrad",
 	"current_stock_003_halle_altstadt": 26,
 	"image": "/files/8711252488752.jpg",
 	"creation": "2018-02-14T16:04:36.026585",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": "2018-02-02",
+	"ORDERS_7D": 4,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 150,
 	"item_name": "Speichenlicht",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ef6b0d57-19c5-4ad2-a57b-85d009d5d009",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252488752",
 	"item_code": "PP-000001963",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000001963",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Fahrrad",
+	"BARCODE": "8711252488752",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 24
 }

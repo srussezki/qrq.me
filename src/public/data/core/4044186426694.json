@@ -1,4 +1,5 @@
 {
+	"item_group": "Schreibwaren Schule",
 	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/4044186426694.png",
 	"creation": "2018-06-14T19:08:14.347140",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Billiger gibts nur in der App!",
+	"ORDERS_ALLTIME": 15,
 	"item_name": "Lern- und Karteikartenbox DIN A8",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9cf0098d-f758-4aeb-b1f0-00a426b67f65",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4044186426694",
 	"item_code": "PP-000009985",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000009985",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schreibwaren Schule",
+	"BARCODE": "4044186426694",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "2.59",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.59"
+	"ORDERS_30D": 3
 }

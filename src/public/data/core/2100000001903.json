@@ -1,4 +1,5 @@
 {
+	"item_group": "Schmuck",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-04-09T11:04:45.509607",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-20",
+	"ORDERS_7D": 0,
 	"marketing_text": "Die neusten Beautyprodukte jetzt bei uns",
+	"ORDERS_ALLTIME": 3,
 	"item_name": "Haarclips für Babies 3Zoll 5stk",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=bf68f4dc-ab21-43ab-b5d4-f2c21803e07b",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000006451",
 	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006451",
+	"_timestamp": "20190122 150229.697",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schmuck",
+	"BARCODE": "2100000001903",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.29",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.29"
+	"ORDERS_30D": 0
 }

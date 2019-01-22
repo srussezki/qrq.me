@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 23,
+	"item_group": "Getränke",
+	"current_stock_003_halle_altstadt": 22,
 	"image": "/files/90433139.png",
 	"creation": "2018-06-25T12:14:01.116693",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 46,
 	"item_name": "Red Bull Organics Bio Bitter Lemon 0,25l",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1f04fd51-ede3-4b2f-9dbc-45dc53ad93ef",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "90433139",
 	"item_code": "PP-000010315",
-	"current_stock_001_kaufpark_eiche": 52,
 	"name": "PP-000010315",
+	"current_stock_001_kaufpark_eiche": 52,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "90433139",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.49",
 	"current_gross_selling_price": 0.49,
-	"base_price": "0.49"
+	"ORDERS_30D": 4
 }

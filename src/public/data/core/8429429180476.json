@@ -1,4 +1,5 @@
 {
+	"item_group": "Aufbewahrung",
 	"current_stock_003_halle_altstadt": 1,
 	"image": null,
 	"creation": "2018-09-24T17:35:20.847640",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 45,
 	"item_name": "Aufbewahrungsbox transp. 13L",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7e9ca3ec-d745-495a-a9a4-0dbed5440fc3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8429429180476",
 	"item_code": "PP-000013974",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000013974",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Aufbewahrung",
+	"BARCODE": "8429429180476",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.49,
-	"base_price": "3.99"
+	"ORDERS_30D": 22
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Schuhe",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-04-23T10:44:55.867999",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-03",
+	"ORDERS_7D": 0,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": 2,
 	"item_name": "Crocs Presley Slide Navy M7W9",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fb414342-2ced-45a6-aa83-a5b342ea35e3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "887350742435",
 	"item_code": "PP-000007616",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000007616",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schuhe",
+	"BARCODE": "887350742435",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 0
 }

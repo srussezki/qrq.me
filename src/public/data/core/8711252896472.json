@@ -1,4 +1,5 @@
 {
+	"item_group": "Deko LED",
 	"current_stock_003_halle_altstadt": 8,
 	"image": "/files/8711252896472.jpg",
 	"creation": "2018-02-13T18:49:00.210523",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "Dekorieren bis zum Umfallen in der App",
+	"ORDERS_ALLTIME": 91,
 	"item_name": "Grablicht solar LED",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f9fc0a11-cf60-4879-9a76-60cbd451fb22",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252896472",
 	"item_code": "PP-000000412",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000000412",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "5",
-	"item_group": "Deko LED",
+	"BARCODE": "8711252896472",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 3
 }

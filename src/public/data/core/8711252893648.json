@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 23,
+	"item_group": "Lautsprecher & Kopfhörer",
+	"current_stock_003_halle_altstadt": 21,
 	"image": "/files/8711252893648.jpg",
 	"creation": "2018-02-13T18:49:00.394261",
 	"website_image": "/files/8711252893648.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 99,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 2,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 147,
 	"item_name": "Stereo Headset mit Mikrofon",
 	"level_0_item_group": "Elektro",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=09612bee-9030-4150-91d2-4293378129ee",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252893648",
 	"item_code": "PP-000000411",
-	"current_stock_001_kaufpark_eiche": 16,
 	"name": "PP-000000411",
+	"current_stock_001_kaufpark_eiche": 16,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Lautsprecher & Kopfhörer",
+	"BARCODE": "8711252893648",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "1.79",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.79"
+	"ORDERS_30D": 13
 }

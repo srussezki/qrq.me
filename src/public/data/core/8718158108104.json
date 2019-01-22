@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 22,
+	"item_group": "Camping",
+	"current_stock_003_halle_altstadt": 21,
 	"image": "/files/8718158108104.jpg",
 	"creation": "2018-02-14T09:14:26.858726",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 12,
 	"first_time_ordered_on_": "2018-02-09",
+	"ORDERS_7D": 5,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 80,
 	"item_name": "Taschenmesser 13 Funktionen",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=69e978c9-ca0b-4cc3-bdce-27f31f379cb5",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158108104",
 	"item_code": "PP-000004434",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000004434",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Camping",
+	"BARCODE": "8718158108104",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.69,
-	"base_price": "0.79"
+	"ORDERS_30D": 9
 }

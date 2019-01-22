@@ -1,4 +1,5 @@
 {
+	"item_group": "Kerzen & -zubehör",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T18:57:59.144656",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-20",
+	"ORDERS_7D": null,
 	"marketing_text": "Kerzen ohne Ende in unserer App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Tagebrenner Mit Metall D. Gold Motiv",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9898b89e-9120-4b58-afef-a859dd106c91",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008495712985",
 	"item_code": "PP-000002475",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000002475",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "0.69",
 	"current_gross_selling_price": 0.69,
-	"base_price": "0.69"
+	"ORDERS_30D": null
 }

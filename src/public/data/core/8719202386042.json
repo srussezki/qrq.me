@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Jungs",
 	"current_stock_003_halle_altstadt": 8,
 	"image": "/files/8719202386042.png",
 	"creation": "2018-02-13T18:58:19.069977",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-27",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 32,
 	"item_name": "Monster-Truck 14cm",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8f75950a-81f2-486d-8151-fdb072bb7c84",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202386042",
 	"item_code": "PP-000003079",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000003079",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Jungs",
+	"BARCODE": "8719202386042",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 2
 }

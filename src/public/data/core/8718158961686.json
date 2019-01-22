@@ -1,4 +1,5 @@
 {
+	"item_group": "Sticker & Stempel",
 	"current_stock_003_halle_altstadt": 39,
 	"image": "/files/8718158961686.png",
 	"creation": "2018-02-13T18:49:36.266665",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": "2017-11-20",
+	"ORDERS_7D": 0,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 58,
 	"item_name": "3D Sticker",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=449379ed-62e3-4ab6-90ec-9957b195c34d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158961686",
 	"item_code": "PP-000002656",
-	"current_stock_001_kaufpark_eiche": 95,
 	"name": "PP-000002656",
+	"current_stock_001_kaufpark_eiche": 95,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "8",
-	"item_group": "Sticker & Stempel",
+	"BARCODE": "8718158961686",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 2
 }

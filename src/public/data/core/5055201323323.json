@@ -1,4 +1,5 @@
 {
+	"item_group": "Herrenbekleidung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5055201323323.png",
 	"creation": "2018-02-13T18:50:04.539790",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-10-30",
+	"ORDERS_7D": 3,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": 208,
 	"item_name": "Playlife Sweatshirt",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=67ac643f-eafa-4cb7-9d9a-199e9695d543",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5055201323323",
 	"item_code": "PP-000001794",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000001794",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "Herrenbekleidung",
+	"BARCODE": "5055201323323",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.49",
 	"current_gross_selling_price": 1.99,
-	"base_price": "3.49"
+	"ORDERS_30D": 5
 }

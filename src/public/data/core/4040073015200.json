@@ -1,4 +1,5 @@
 {
+	"item_group": "Babybekleidung",
 	"current_stock_003_halle_altstadt": 1,
 	"image": "/files/4040073015200.jpg",
 	"creation": "2018-04-24T18:00:38.144298",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-05-07",
+	"ORDERS_7D": 0,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": 14,
 	"item_name": "Baby Snoopy Schlafsack 90cm",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ae1d274f-a4b7-49ff-9488-75c79a8982a0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4040073015200",
 	"item_code": "PP-000007685",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000007685",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Babybekleidung",
+	"BARCODE": "4040073015200",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "6.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "6.99"
+	"ORDERS_30D": 0
 }

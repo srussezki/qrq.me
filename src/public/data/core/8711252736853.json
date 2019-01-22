@@ -1,4 +1,5 @@
 {
+	"item_group": "Saisonale Spielwaren",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8711252736853.jpg",
 	"creation": "2018-02-14T16:04:35.434057",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": "2018-02-02",
+	"ORDERS_7D": 0,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 84,
 	"item_name": "Wasserbomben / Pumpe",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=10f5d3e3-8ea1-4fce-adf3-2ca53ec509bd",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252736853",
 	"item_code": "PP-000002002",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000002002",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Saisonale Spielwaren",
+	"BARCODE": "8711252736853",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 0
 }

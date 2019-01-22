@@ -1,12 +1,15 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/4044186107661.png",
 	"creation": "2018-08-02T11:43:02.847676",
 	"website_image": "/files/4044186107661.png",
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 36,
+	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Las die Party nie enden: Shoppe online",
+	"ORDERS_ALLTIME": 31,
 	"item_name": "Kerze, Ziffer 6",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=df1bf946-b114-4148-9f03-2c8405aa4ad3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4044186107661",
 	"item_code": "PP-000012241",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000012241",
+	"current_stock_001_kaufpark_eiche": 20,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": "4044186107661",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 9
 }

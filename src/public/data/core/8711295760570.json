@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 85,
+	"item_group": "Hefte & Blöcke",
+	"current_stock_003_halle_altstadt": 83,
 	"image": "/files/8711295760570.png",
 	"creation": "2018-02-13T18:49:31.988241",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 72,
 	"first_time_ordered_on_": "2017-11-20",
+	"ORDERS_7D": 62,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 540,
 	"item_name": "Notebook 120 Seiten",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5a76363c-1817-45af-9b3a-68f4dca2ef7f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295760570",
 	"item_code": "PP-000002734",
-	"current_stock_001_kaufpark_eiche": 336,
 	"name": "PP-000002734",
+	"current_stock_001_kaufpark_eiche": 323,
+	"ORDERS_TODAY": 12,
 	"shelf_number": "1",
-	"item_group": "Hefte & Blöcke",
+	"BARCODE": "8711295760570",
+	"ORDERS_YESTERDAY": 4,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.09,
-	"base_price": "0.99"
+	"ORDERS_30D": 468
 }

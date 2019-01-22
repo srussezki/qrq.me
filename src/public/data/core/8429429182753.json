@@ -1,4 +1,5 @@
 {
+	"item_group": "Vorratsdosen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8429429182753.jpg",
 	"creation": "2018-09-24T17:35:12.462387",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 29,
 	"item_name": "Aufbewahrungsbox 4L",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f7ec7cf4-f30f-43e1-b6d5-dd358d471f25",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8429429182753",
 	"item_code": "PP-000013927",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000013927",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Vorratsdosen",
+	"BARCODE": "8429429182753",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 1.99,
-	"base_price": "2.49"
+	"ORDERS_30D": 4
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Beautyaccessoires",
 	"current_stock_003_halle_altstadt": 1,
 	"image": null,
 	"creation": "2018-07-19T12:07:08.416742",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 44,
 	"item_name": "Makeup Pinsel Ständer",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b2343914-1fe8-4f6c-becb-eef788f30fd5",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000011100",
 	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000011100",
+	"_timestamp": "20190122 150230.122",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Beautyaccessoires",
+	"BARCODE": "2100000005581",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 4
 }

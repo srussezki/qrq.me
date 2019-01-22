@@ -1,4 +1,5 @@
 {
+	"item_group": "Schokolade",
 	"current_stock_003_halle_altstadt": 29,
 	"image": "/files/5000159484916.png",
 	"creation": "2018-09-09T11:34:14.310213",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 260,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Für den Hunger zwischendurch und danach",
+	"ORDERS_ALLTIME": 34,
 	"item_name": "9-Pack Mars 9x35gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4db04c76-6db5-4556-8cf3-8ec9ff08dfc5",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5000159484916",
 	"item_code": "PP-000013161",
-	"current_stock_001_kaufpark_eiche": 19,
 	"name": "PP-000013161",
+	"current_stock_001_kaufpark_eiche": 19,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schokolade",
+	"BARCODE": "5000159484916",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 7
 }

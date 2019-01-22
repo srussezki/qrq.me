@@ -1,4 +1,5 @@
 {
+	"item_group": "Hefte & Blöcke",
 	"current_stock_003_halle_altstadt": 10,
 	"image": null,
 	"creation": "2018-05-09T12:32:00.245834",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Billiger gibts nur in der App!",
+	"ORDERS_ALLTIME": 35,
 	"item_name": "Heft A4 16 Blatt Lineatur 38 FSC Mix",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=65053f64-2bd1-41fe-b660-9aecfd5582a5",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008113323807",
 	"item_code": "PP-000008710",
-	"current_stock_001_kaufpark_eiche": 37,
 	"name": "PP-000008710",
+	"current_stock_001_kaufpark_eiche": 37,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hefte & Blöcke",
+	"BARCODE": "4008113323807",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.39",
 	"current_gross_selling_price": 0.39,
-	"base_price": "0.39"
+	"ORDERS_30D": 1
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Reinigung hart",
 	"current_stock_003_halle_altstadt": 23,
 	"image": "/files/8718158871015.jpg",
 	"creation": "2018-05-31T17:12:52.068022",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": "Putzt du noch oder shoppst du schon online?",
+	"ORDERS_ALLTIME": 91,
 	"item_name": "Microfasertuch 30x30 cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fbdf5b62-524b-4520-862d-12ca1eb67a17",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158871015",
 	"item_code": "PP-000009435",
-	"current_stock_001_kaufpark_eiche": 27,
 	"name": "PP-000009435",
+	"current_stock_001_kaufpark_eiche": 27,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Reinigung hart",
+	"BARCODE": "8718158871015",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 14
 }

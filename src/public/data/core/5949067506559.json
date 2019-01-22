@@ -1,4 +1,5 @@
 {
+	"item_group": "Babypflege",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/5949067506559.jpg",
 	"creation": "2018-08-02T16:59:20.611272",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 4,
 	"item_name": "cottonino babyöl blau 220ml mit pumpe",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f4989b68-87b2-4503-8576-371c8ee577b3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5949067506559",
 	"item_code": "PP-000012031",
-	"current_stock_001_kaufpark_eiche": 20,
 	"name": "PP-000012031",
+	"current_stock_001_kaufpark_eiche": 20,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Babypflege",
+	"BARCODE": "5949067506559",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 2
 }

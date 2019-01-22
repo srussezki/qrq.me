@@ -1,4 +1,5 @@
 {
+	"item_group": "Laternen",
 	"current_stock_003_halle_altstadt": 32,
 	"image": "/files/8711252292199.jpg",
 	"creation": "2018-02-14T16:00:22.099109",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-02",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 40,
 	"item_name": "Papierlaterne",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5c694636-7d57-4317-bdb2-7ce909b1fb76",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252292199",
 	"item_code": "PP-000001922",
-	"current_stock_001_kaufpark_eiche": 36,
 	"name": "PP-000001922",
+	"current_stock_001_kaufpark_eiche": 36,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Laternen",
+	"BARCODE": "8711252292199",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 0
 }

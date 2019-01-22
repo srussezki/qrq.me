@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 66,
+	"item_group": "Mützen, Schals & Handschuhe",
+	"current_stock_003_halle_altstadt": 65,
 	"image": "/files/4022222530949.jpg",
 	"creation": "2018-09-21T17:14:59.483423",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 160,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 21,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 103,
 	"item_name": "Kinder Strickmütze mit Bommel und Umschlag",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=849caaf1-547a-4af7-b01a-05a1c2e502e5",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4022222530949",
 	"item_code": "PP-000013858",
-	"current_stock_001_kaufpark_eiche": 123,
 	"name": "PP-000013858",
+	"current_stock_001_kaufpark_eiche": 123,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Mützen, Schals & Handschuhe",
+	"BARCODE": "4022222530949",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": null,
 	"current_gross_selling_price": 1.99,
-	"base_price": null
+	"ORDERS_30D": 65
 }

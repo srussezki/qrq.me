@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 30,
+	"item_group": "Lautsprecher & Kopfhörer",
+	"current_stock_003_halle_altstadt": 28,
 	"image": "/files/4016139054131.jpg",
 	"creation": "2018-10-24T09:01:33.973852",
 	"website_image": "/files/4016139054131.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 7,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 14,
 	"item_name": "In ear Kopfhörer mit Micro",
 	"level_0_item_group": "Elektro",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6bd1c40b-56a5-44fd-b852-5df2d1c76253",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4016139054131",
 	"item_code": "PP-000014873",
-	"current_stock_001_kaufpark_eiche": 28,
 	"name": "PP-000014873",
+	"current_stock_001_kaufpark_eiche": 28,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Lautsprecher & Kopfhörer",
+	"BARCODE": "4016139054131",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "7.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "7.99"
+	"ORDERS_30D": 14
 }

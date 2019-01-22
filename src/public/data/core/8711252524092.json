@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/8711252524092.png",
 	"creation": "2018-02-13T18:48:14.872265",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 94,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 167,
 	"item_name": "Knete-Set 14-teilig",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=458eed57-b1a2-407f-90b8-dbcc153c0d3a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252524092",
 	"item_code": "PP-000000274",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000000274",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "5",
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8711252524092",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "6.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "6.99"
+	"ORDERS_30D": 10
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Camping",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-14T16:04:36.176635",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 12,
 	"first_time_ordered_on_": "2018-02-02",
+	"ORDERS_7D": 0,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 7,
 	"item_name": "Isomatte",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=cd5db101-91ee-45b4-bb1d-391112c258f0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252455495",
 	"item_code": "PP-000001954",
-	"current_stock_001_kaufpark_eiche": 17,
 	"name": "PP-000001954",
+	"current_stock_001_kaufpark_eiche": 17,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Camping",
+	"BARCODE": "8711252455495",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "18.99",
 	"current_gross_selling_price": 12.99,
-	"base_price": "18.99"
+	"ORDERS_30D": 0
 }

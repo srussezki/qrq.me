@@ -1,4 +1,5 @@
 {
+	"item_group": "Stifte",
 	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/4006381511223.jpg",
 	"creation": "2018-11-07T12:10:17.393488",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 6,
 	"item_name": "Tintenroller beFab URBAN SPORTIVE blau",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=158c2cae-646d-409d-81f4-d12522c532d3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4006381511223",
 	"item_code": "PP-000015463",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015463",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Stifte",
+	"BARCODE": "4006381511223",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 3
 }

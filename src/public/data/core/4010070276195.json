@@ -1,4 +1,5 @@
 {
+	"item_group": "Grußkarten",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-04-27T12:23:17.976125",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-25",
+	"ORDERS_7D": 0,
 	"marketing_text": "Billiger gibts nur in der App!",
+	"ORDERS_ALLTIME": 4,
 	"item_name": "Glückwunschkarte Du bist Mama geworden",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a4965186-5fba-4c45-a496-5b9ad7dc7c74",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4010070276195",
 	"item_code": "PP-000008065",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000008065",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Grußkarten",
+	"BARCODE": "4010070276195",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.49",
 	"current_gross_selling_price": 0.49,
-	"base_price": "0.49"
+	"ORDERS_30D": 0
 }

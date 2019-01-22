@@ -1,4 +1,5 @@
 {
+	"item_group": "Office",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4008110837031.jpg",
 	"creation": "2018-04-12T14:44:59.602305",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-12",
+	"ORDERS_7D": 0,
 	"marketing_text": "Billiger gibts nur in der App!",
+	"ORDERS_ALLTIME": 23,
 	"item_name": "Etikett Tiefkühl selbstklebend 50stk",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=be78fc64-2a45-4a7d-a17d-c2eaf3fe40a8",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008110837031",
 	"item_code": "PP-000007149",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000007149",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Office",
+	"BARCODE": "4008110837031",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.02",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.02"
+	"ORDERS_30D": 0
 }

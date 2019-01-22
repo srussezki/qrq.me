@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8711252539430.jpg",
 	"creation": "2018-02-14T16:00:22.725483",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 96,
 	"first_time_ordered_on_": "2017-11-02",
+	"ORDERS_7D": 4,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 75,
 	"item_name": "Stieleisform",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a2d0542b-f9d3-403a-a3cf-dff48730e2f2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252539430",
 	"item_code": "PP-000001976",
-	"current_stock_001_kaufpark_eiche": 25,
 	"name": "PP-000001976",
+	"current_stock_001_kaufpark_eiche": 25,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Küchenhelfer",
+	"BARCODE": "8711252539430",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.05",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.05"
+	"ORDERS_30D": 5
 }

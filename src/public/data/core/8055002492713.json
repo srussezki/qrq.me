@@ -1,4 +1,5 @@
 {
+	"item_group": "Unterwäsche & Bademode",
 	"current_stock_003_halle_altstadt": 5,
 	"image": null,
 	"creation": "2018-05-07T16:37:04.727338",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-05-07",
+	"ORDERS_7D": 0,
 	"marketing_text": "Noch mehr Auswahl online",
+	"ORDERS_ALLTIME": 11,
 	"item_name": "Kappa Boxer 2stk Cobalt/Grau M",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f10a0fd6-9d07-4f65-9d31-7445ee83733e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8055002492713",
 	"item_code": "PP-000008447",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000008447",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Unterwäsche & Bademode",
+	"BARCODE": "8055002492713",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 2
 }

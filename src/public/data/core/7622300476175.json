@@ -1,4 +1,5 @@
 {
+	"item_group": "Schokolade",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/7622300476175.jpg",
 	"creation": "2018-06-25T12:13:59.788766",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Alles für die Naschkatzen bei factorymarket",
+	"ORDERS_ALLTIME": 24,
 	"item_name": "MIKADO Sticks Weiß 75g",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1a504961-7eb0-4b99-9884-ecbd642ce638",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "7622300476175",
 	"item_code": "PP-000009898",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000009898",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schokolade",
+	"BARCODE": "7622300476175",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.72",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.72"
+	"ORDERS_30D": 0
 }

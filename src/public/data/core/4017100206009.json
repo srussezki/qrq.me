@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 11,
+	"item_group": "Kekse & Backwaren",
+	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/4017100206009.jpg",
 	"creation": "2018-05-22T14:23:00.179595",
 	"website_image": "/files/4017100206009.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 12,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": "Alles für die Naschkatzen bei factorymarket",
+	"ORDERS_ALLTIME": 101,
 	"item_name": "Leibniz Mini Schoko 125g",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=da6ebc04-e2f9-47e5-9e66-a3d275df0ef0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4017100206009",
 	"item_code": "PP-000009031",
-	"current_stock_001_kaufpark_eiche": 17,
 	"name": "PP-000009031",
+	"current_stock_001_kaufpark_eiche": 17,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kekse & Backwaren",
+	"BARCODE": "4017100206009",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.29",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.29"
+	"ORDERS_30D": 17
 }

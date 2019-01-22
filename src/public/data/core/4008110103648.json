@@ -1,4 +1,5 @@
 {
+	"item_group": "Stifte",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4008110103648.jpg",
 	"creation": "2018-04-12T14:44:57.257817",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-12",
+	"ORDERS_7D": 1,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 17,
 	"item_name": "Füllhalter Tornado Classic A-Feder",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=054f1984-f2d6-46ee-8699-06a6828bfc56",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008110103648",
 	"item_code": "PP-000007081",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000007081",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Stifte",
+	"BARCODE": "4008110103648",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 3
 }

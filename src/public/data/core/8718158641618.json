@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/8718158641618.jpg",
 	"creation": "2018-03-23T21:08:10.152283",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-15",
+	"ORDERS_7D": 3,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 69,
 	"item_name": "Spritzschutz Dia 30Cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a7f32be2-fa85-47e6-86d2-b02c2c4c2564",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158641618",
 	"item_code": "PP-000005928",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000005928",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Küchenhelfer",
+	"BARCODE": "8718158641618",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 13
 }

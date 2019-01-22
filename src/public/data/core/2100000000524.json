@@ -1,4 +1,5 @@
 {
+	"item_group": "Schmuck",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-03-01T14:56:11.326214",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-12",
+	"ORDERS_7D": null,
 	"marketing_text": "Noch mehr Schmuck? Gibts in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Halsband Mit Schwarzem Herz-Anhänger 35cm",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f32d9e5e-74ee-4553-b1f7-b7f6388d9c89",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000004911",
 	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004911",
+	"_timestamp": "20190122 150229.547",
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Schmuck",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "0.69",
 	"current_gross_selling_price": 0.69,
-	"base_price": "0.69"
+	"ORDERS_30D": null
 }

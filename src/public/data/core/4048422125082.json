@@ -1,4 +1,5 @@
 {
+	"item_group": "Hunde",
 	"current_stock_003_halle_altstadt": 37,
 	"image": "/files/4048422125082.jpg",
 	"creation": "2018-04-12T12:45:01.592495",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-09",
+	"ORDERS_7D": 1,
 	"marketing_text": "Alles für Hund, Katze, Maus gibts auch online",
+	"ORDERS_ALLTIME": 143,
 	"item_name": "Hundeknochen Delights BBQ 8in1 7stk",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=93e68599-f2fe-4487-a97a-677325d5288d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4048422125082",
 	"item_code": "PP-000007283",
-	"current_stock_001_kaufpark_eiche": 37,
 	"name": "PP-000007283",
+	"current_stock_001_kaufpark_eiche": 37,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hunde",
+	"BARCODE": "4048422125082",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.79",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.79"
+	"ORDERS_30D": 11
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Lacke",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T19:00:37.284088",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-04",
+	"ORDERS_7D": 0,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 4,
 	"item_name": "Clever Sparen Acryl-Buntlack Glzd Blau",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b5e364b5-2eee-429a-9a1a-f7ee4b863074",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4003498911823",
 	"item_code": "PP-000002827",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000002827",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "5",
-	"item_group": "Lacke",
+	"BARCODE": "4003498911823",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.86",
 	"current_gross_selling_price": 5.99,
-	"base_price": "0.86"
+	"ORDERS_30D": 0
 }

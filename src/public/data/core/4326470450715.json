@@ -1,4 +1,5 @@
 {
+	"item_group": "Beautyaccessoires",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/4326470450715.jpg",
 	"creation": "2018-02-13T18:51:03.122759",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 140,
 	"first_time_ordered_on_": "2017-12-19",
+	"ORDERS_7D": 3,
 	"marketing_text": "Die neusten Trends auch in unserer App",
+	"ORDERS_ALLTIME": 250,
 	"item_name": "Augenrelax- U.Schlafmaske",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7048d351-5450-4f79-b654-03dc4e464579",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470450715",
 	"item_code": "PP-000001212",
-	"current_stock_001_kaufpark_eiche": 25,
 	"name": "PP-000001212",
+	"current_stock_001_kaufpark_eiche": 25,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "Beautyaccessoires",
+	"BARCODE": "4326470450715",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 15
 }

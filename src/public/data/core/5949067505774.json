@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/5949067505774.png",
 	"creation": "2018-08-02T16:59:21.951002",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": null,
 	"item_name": "senzate duschgel lavendel 500ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6c668b7e-f295-42c4-bf23-fdd3a1001f8d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5949067505774",
 	"item_code": "PP-000012061",
-	"current_stock_001_kaufpark_eiche": 24,
 	"name": "PP-000012061",
+	"current_stock_001_kaufpark_eiche": 24,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": null
 }

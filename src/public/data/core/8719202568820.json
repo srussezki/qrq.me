@@ -1,4 +1,5 @@
 {
+	"item_group": "Saisonale Dekoration",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8719202568820.jpg",
 	"creation": "2018-02-14T09:14:31.712747",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 28,
 	"item_name": "Solarlampe Gefäß",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=10df9840-00f5-4746-a09f-258336e494ed",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202568820",
 	"item_code": "PP-000004467",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000004467",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Saisonale Dekoration",
+	"BARCODE": "8719202568820",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "17.99",
 	"current_gross_selling_price": 2.49,
-	"base_price": "17.99"
+	"ORDERS_30D": 0
 }

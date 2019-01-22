@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 19,
 	"image": "/files/4029811392216.jpg",
 	"creation": "2018-07-03T10:01:19.781575",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 53,
 	"item_name": "Salatschneide-Schüssel",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=222d4be7-e809-4097-b314-7f349cb2a1e9",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4029811392216",
 	"item_code": "PP-000010419",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000010419",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Küchenhelfer",
+	"BARCODE": "4029811392216",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 6
 }

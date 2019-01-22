@@ -1,4 +1,5 @@
 {
+	"item_group": "Süßigkeiten & Kaugummi",
 	"current_stock_003_halle_altstadt": 8,
 	"image": "/files/5000357105194.jpg",
 	"creation": "2018-09-18T12:52:45.370209",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 28,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 28,
 	"item_name": "Fishermans Friend Spearmint O.Z.",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=680b8e41-f097-4f3c-910b-1550e9921245",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5000357105194",
 	"item_code": "PP-000013645",
-	"current_stock_001_kaufpark_eiche": 21,
 	"name": "PP-000013645",
+	"current_stock_001_kaufpark_eiche": 21,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "5000357105194",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 5
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Jungs",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711866266975.jpg",
 	"creation": "2018-08-31T09:42:39.827315",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 7,
 	"item_name": "Dinofigur Groß 26-38cm",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d2d7e5b7-a11c-4c30-b4ef-21c9d88ae106",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711866266975",
 	"item_code": "PP-000013020",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000013020",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Jungs",
+	"BARCODE": "8711866266975",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 1
 }

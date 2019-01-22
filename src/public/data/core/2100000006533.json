@@ -1,4 +1,5 @@
 {
+	"item_group": "Aufbewahrung",
 	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/2100000006533.jpg",
 	"creation": "2018-08-07T16:43:29.942087",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 108,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Die besten Küchenhelfer, auch in unserer App",
+	"ORDERS_ALLTIME": 49,
 	"item_name": "Box in Rattanoptik klein",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8afa424b-b2b7-4e12-8bb3-32840a7a3e1d",
@@ -24,8 +27,13 @@
 	"item_code": "PP-000012178",
 	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000012178",
+	"_timestamp": "20190122 150230.252",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Aufbewahrung",
+	"BARCODE": "2100000006533",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 21,
+	"top10": "Aufbewahrung"
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 46,
 	"image": "/files/8718375538470.png",
 	"creation": "2018-02-13T18:57:42.868464",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 104,
 	"item_name": "Disney Frozen Puzzle zum Ausmalen",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=eeb7fdb8-b8e2-44be-894e-0bcf46c2c002",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718375538470",
 	"item_code": "PP-000003475",
-	"current_stock_001_kaufpark_eiche": 19,
 	"name": "PP-000003475",
+	"current_stock_001_kaufpark_eiche": 19,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8718375538470",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.29",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.29"
+	"ORDERS_30D": 1
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 27,
+	"item_group": "Getränke",
+	"current_stock_003_halle_altstadt": 26,
 	"image": "/files/5060337500609.png",
 	"creation": "2018-07-26T12:44:15.033774",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 15,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 188,
 	"item_name": "Monster Ultra Red 0,50 Ds Dpg",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b23cc549-2dae-41af-8505-8df8aba63fd6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5060337500609",
 	"item_code": "PP-000011603",
-	"current_stock_001_kaufpark_eiche": 21,
 	"name": "PP-000011603",
+	"current_stock_001_kaufpark_eiche": 16,
+	"ORDERS_TODAY": 4,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "5060337500609",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "2.18",
 	"current_gross_selling_price": 1.49,
-	"base_price": "2.18"
+	"ORDERS_30D": 34
 }

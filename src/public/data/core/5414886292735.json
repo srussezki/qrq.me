@@ -1,4 +1,5 @@
 {
+	"item_group": "Servietten",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-04-09T09:25:43.027175",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-05",
+	"ORDERS_7D": null,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Papier Servietten Rosa 38x38cm 30stk",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a29e4d14-e1d4-4e0c-b29d-faadfe7c1b6e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5414886292735",
 	"item_code": "PP-000006841",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006841",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Servietten",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "0.03",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.03"
+	"ORDERS_30D": null
 }

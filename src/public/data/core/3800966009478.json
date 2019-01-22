@@ -1,4 +1,5 @@
 {
+	"item_group": "Armbanduhren",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/3800966009478.jpg",
 	"creation": "2018-03-23T21:07:06.282465",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-20",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 47,
 	"item_name": "Armbanduhr Cupcake Holz",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a188fa44-a75d-47c9-a9e9-71d7feb533f8",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3800966009478",
 	"item_code": "PP-000006150",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000006150",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Armbanduhren",
+	"BARCODE": "3800966009478",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 2
 }

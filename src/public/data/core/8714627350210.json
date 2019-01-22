@@ -1,4 +1,5 @@
 {
+	"item_group": "Spardosen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T18:55:57.172811",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 32,
 	"item_name": "Einhorn Geldbank",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1404ad26-4260-4713-afdb-51fff6d21bb1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627350210",
 	"item_code": "PP-000001452",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000001452",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Spardosen",
+	"BARCODE": "8714627350210",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 0
 }

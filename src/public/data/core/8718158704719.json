@@ -1,4 +1,5 @@
 {
+	"item_group": "Deko LED",
 	"current_stock_003_halle_altstadt": 21,
 	"image": "/files/8718158704719.jpg",
 	"creation": "2018-07-22T21:42:50.153109",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 165,
 	"item_name": "LED Streifen 1m 30 LED WW BO",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=bb2c7f31-e127-457a-b3a4-07946061e7ef",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158704719",
 	"item_code": "PP-000011313",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000011313",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Deko LED",
+	"BARCODE": "8718158704719",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 1.79,
-	"base_price": null
+	"ORDERS_30D": 25
 }

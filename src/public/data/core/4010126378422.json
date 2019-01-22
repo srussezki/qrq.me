@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 10,
+	"item_group": "Autozubehör",
+	"current_stock_003_halle_altstadt": 9,
 	"image": "/files/4010126378422.jpg",
 	"creation": "2018-07-27T14:13:41.953209",
 	"website_image": "/files/4010126378422.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 6,
 	"marketing_text": "Pimp dein Auto, auch online auf factorymarket",
+	"ORDERS_ALLTIME": 68,
 	"item_name": "Reifenmarkierer schwarz 8er-Set",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=dbd6e8b3-f998-417f-ab7d-672eb6c33e2e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4010126378422",
 	"item_code": "PP-000011643",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000011643",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Autozubehör",
+	"BARCODE": "4010126378422",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 11
 }

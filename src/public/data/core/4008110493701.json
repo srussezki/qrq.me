@@ -1,4 +1,5 @@
 {
+	"item_group": "Stifte",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4008110493701.jpg",
 	"creation": "2018-05-09T12:31:58.804175",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Für Bürohelden und Heldinnen!",
+	"ORDERS_ALLTIME": 12,
 	"item_name": "Refill flex A4 2x40 Bl.lin.gelocht",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c08fede8-f55d-4d50-80f8-4776eb4d9353",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008110493701",
 	"item_code": "PP-000008700",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000008700",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Stifte",
+	"BARCODE": "4008110493701",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.79",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.79"
+	"ORDERS_30D": 0
 }

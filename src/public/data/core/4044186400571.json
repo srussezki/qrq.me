@@ -1,4 +1,5 @@
 {
+	"item_group": "Hefte & Blöcke",
 	"current_stock_003_halle_altstadt": 16,
 	"image": "/files/4044186400571.png",
 	"creation": "2018-06-14T19:08:16.911607",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 50,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 110,
 	"item_name": "Karierter Schulblock DIN A4 gelocht",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4abe31c0-a43c-4eb5-9a73-f57bad6daecf",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4044186400571",
 	"item_code": "PP-000009997",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000009997",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hefte & Blöcke",
+	"BARCODE": "4044186400571",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.59",
 	"current_gross_selling_price": 0.59,
-	"base_price": "0.59"
+	"ORDERS_30D": 24
 }

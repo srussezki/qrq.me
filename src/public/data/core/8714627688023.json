@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/8714627688023.png",
 	"creation": "2018-02-22T10:38:59.612928",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-16",
+	"ORDERS_7D": 1,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 37,
 	"item_name": "Spielzelt",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=dc929cff-70c7-4bfa-a06a-c130d8d43398",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627688023",
 	"item_code": "PP-000004801",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000004801",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8714627688023",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "10.99",
 	"current_gross_selling_price": 10.99,
-	"base_price": "10.99"
+	"ORDERS_30D": 4
 }

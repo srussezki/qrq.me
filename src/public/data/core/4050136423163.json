@@ -1,4 +1,5 @@
 {
+	"item_group": "Herrenbekleidung",
 	"current_stock_003_halle_altstadt": 8,
 	"image": null,
 	"creation": "2018-04-23T15:23:49.215535",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-24",
+	"ORDERS_7D": 13,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 41,
 	"item_name": "Herren Herbst Oberteil in div. Modellen M",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e36ecd38-69f3-4b40-ad1f-42542e547e47",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4050136423163",
 	"item_code": "PP-000007719",
-	"current_stock_001_kaufpark_eiche": 87,
 	"name": "PP-000007719",
+	"current_stock_001_kaufpark_eiche": 87,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Herrenbekleidung",
+	"BARCODE": "4050136423163",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "6.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "6.99"
+	"ORDERS_30D": 30
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 8,
+	"item_group": "Glas",
+	"current_stock_003_halle_altstadt": 4,
 	"image": "/files/8719202190007.jpg",
 	"creation": "2018-02-13T18:52:21.855211",
 	"website_image": "/files/8719202190007.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 18,
 	"first_time_ordered_on_": "2017-11-01",
+	"ORDERS_7D": 8,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 77,
 	"item_name": "Kaffe/Teeglas 250ml",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=044fef12-465a-46e3-9179-033555287a28",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202190007",
 	"item_code": "PP-000000989",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000000989",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "Glas",
+	"BARCODE": "8719202190007",
+	"ORDERS_YESTERDAY": 6,
+	"base_price": "1.89",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.89"
+	"ORDERS_30D": 8
 }

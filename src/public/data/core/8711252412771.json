@@ -1,4 +1,5 @@
 {
+	"item_group": "Brillen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711252412771.jpg",
 	"creation": "2018-02-14T16:00:51.368707",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-19",
+	"ORDERS_7D": 0,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": 291,
 	"item_name": "Sonnenbrille",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ad1de077-93e6-4475-af22-71dd6b031bfe",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252412771",
 	"item_code": "PP-000003416",
-	"current_stock_001_kaufpark_eiche": 190,
 	"name": "PP-000003416",
+	"current_stock_001_kaufpark_eiche": 190,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Brillen",
+	"BARCODE": "8711252412771",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 0
 }

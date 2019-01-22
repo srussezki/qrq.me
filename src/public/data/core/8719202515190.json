@@ -1,4 +1,5 @@
 {
+	"item_group": "Glas",
 	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/8719202515190.jpg",
 	"creation": "2018-02-14T09:14:28.894144",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 60,
 	"item_name": "Weinkühler",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=44a8f200-a93a-4c53-8d57-71af456b1b03",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202515190",
 	"item_code": "PP-000004448",
-	"current_stock_001_kaufpark_eiche": 19,
 	"name": "PP-000004448",
+	"current_stock_001_kaufpark_eiche": 19,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Glas",
+	"BARCODE": "8719202515190",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.79",
 	"current_gross_selling_price": 2.49,
-	"base_price": "1.79"
+	"ORDERS_30D": 1
 }

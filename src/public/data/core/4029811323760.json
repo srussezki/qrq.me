@@ -1,4 +1,5 @@
 {
+	"item_group": "Bilder- & rahmen",
 	"current_stock_003_halle_altstadt": 9,
 	"image": "/files/4029811323760.png",
 	"creation": "2018-09-13T12:00:50.866493",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 47,
 	"item_name": "Kunststoff-Bilderrahmen creme 53x36cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8adfc716-c718-48c9-b9db-2a959efc6b40",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4029811323760",
 	"item_code": "PP-000013316",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000013316",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Bilder- & rahmen",
+	"BARCODE": "4029811323760",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "7.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "7.99"
+	"ORDERS_30D": 10
 }

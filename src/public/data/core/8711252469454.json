@@ -1,4 +1,5 @@
 {
+	"item_group": "Autozubehör",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711252469454.png",
 	"creation": "2018-02-13T18:50:22.431666",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 0,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 46,
 	"item_name": "KFZ Ladegerät 2xUSB",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6a203e9c-4b40-4276-813b-ecd51ea43d77",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252469454",
 	"item_code": "PP-000001655",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000001655",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Autozubehör",
+	"BARCODE": "8711252469454",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 0
 }

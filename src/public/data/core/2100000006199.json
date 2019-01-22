@@ -1,4 +1,5 @@
 {
+	"item_group": "Vorratsdosen",
 	"current_stock_003_halle_altstadt": 17,
 	"image": "/files/2100000006199.jpg",
 	"creation": "2018-08-07T16:43:28.671691",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 66,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 122,
 	"item_name": "Waschmittelbehälter 4 l",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=42aae502-fc18-4cc9-9813-f12bea39902f",
@@ -22,10 +25,16 @@
 	"brand": null,
 	"barcode": "2100000006199",
 	"item_code": "PP-000012144",
-	"current_stock_001_kaufpark_eiche": 19,
+	"current_stock_001_kaufpark_eiche": 16,
 	"name": "PP-000012144",
+	"_timestamp": "20190122 150230.186",
+	"ORDERS_TODAY": 3,
 	"shelf_number": null,
-	"item_group": "Vorratsdosen",
+	"BARCODE": "2100000006199",
+	"ORDERS_YESTERDAY": 5,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 76,
+	"top10": "Vorratsdosen",
+	"top100": "Haushalt"
 }

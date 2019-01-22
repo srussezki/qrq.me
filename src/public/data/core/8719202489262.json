@@ -1,4 +1,5 @@
 {
+	"item_group": "Camping",
 	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/8719202489262.jpg",
 	"creation": "2018-02-14T09:14:38.782658",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 8,
 	"first_time_ordered_on_": "2018-02-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 10,
 	"item_name": "Schlafsack 180X74cm",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9448ddcd-45d5-4412-9fe6-2a35abc03c8b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202489262",
 	"item_code": "PP-000004513",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000004513",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Camping",
+	"BARCODE": "8719202489262",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 0
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Hefte & Blöcke",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4044186298284.png",
 	"creation": "2018-06-14T19:08:11.821990",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 75,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 66,
 	"item_name": "Schulheft Lineatur 28 DIN A4 16 Blatt",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=dfa4da85-8baa-4f5b-8386-1917853aec47",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4044186298284",
 	"item_code": "PP-000009973",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000009973",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hefte & Blöcke",
+	"BARCODE": "4044186298284",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.29",
 	"current_gross_selling_price": 0.39,
-	"base_price": "0.29"
+	"ORDERS_30D": 12
 }

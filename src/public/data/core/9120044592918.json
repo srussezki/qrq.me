@@ -1,4 +1,5 @@
 {
+	"item_group": "Gardinen & Vorhänge",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T18:48:20.677607",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-15",
+	"ORDERS_7D": 0,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": 38,
 	"item_name": "Ösenschal Verdunklung",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7c1cbe5d-1dd3-48ed-b58b-8f68ef749e73",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "9120044592918",
 	"item_code": "PP-000002495",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000002495",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1,2",
-	"item_group": "Gardinen & Vorhänge",
+	"BARCODE": "9120044592918",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "8.49",
 	"current_gross_selling_price": 5.99,
-	"base_price": "8.49"
+	"ORDERS_30D": 0
 }

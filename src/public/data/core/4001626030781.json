@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 6,
+	"item_group": "Decken",
+	"current_stock_003_halle_altstadt": -1,
 	"image": "/files/4001626030781.jpg",
 	"creation": "2018-08-24T09:17:38.065179",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 45,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 14,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 48,
 	"item_name": "Wohndecke 150x200 cm, schwarz",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=476e22d4-ff72-4afc-a974-032385f32f5b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4001626030781",
 	"item_code": "PP-000012749",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000012749",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 4,
 	"shelf_number": null,
-	"item_group": "Decken",
+	"BARCODE": "4001626030781",
+	"ORDERS_YESTERDAY": 8,
+	"base_price": null,
 	"current_gross_selling_price": 4.99,
-	"base_price": null
+	"ORDERS_30D": 16
 }

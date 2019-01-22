@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 49,
+	"item_group": "Keramik & Porzellan",
+	"current_stock_003_halle_altstadt": 43,
 	"image": null,
 	"creation": "2018-12-07T11:54:22.071596",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 59,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 82,
 	"item_name": "tiefer Teller Opalglas rund 23cm Toledo",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8411712218119",
 	"item_code": "PP-000016573",
-	"current_stock_001_kaufpark_eiche": 62,
 	"name": "PP-000016573",
+	"current_stock_001_kaufpark_eiche": 62,
+	"ORDERS_TODAY": 6,
 	"shelf_number": null,
-	"item_group": "Keramik & Porzellan",
+	"BARCODE": "8411712218119",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.19",
 	"current_gross_selling_price": 0.89,
-	"base_price": "1.19"
+	"ORDERS_30D": 82
 }

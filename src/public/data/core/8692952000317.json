@@ -1,12 +1,15 @@
 {
+	"item_group": "Glas",
 	"current_stock_003_halle_altstadt": 17,
 	"image": null,
 	"creation": "2018-11-01T15:48:38.946797",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 72,
+	"current_stock_wh_ludwigsfelde": 136,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 6,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 72,
 	"item_name": "Wasserglas 6er-Set Lara",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=dfee61a6-49d9-4c15-b809-c2748133161b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8692952000317",
 	"item_code": "PP-000015083",
-	"current_stock_001_kaufpark_eiche": 20,
 	"name": "PP-000015083",
+	"current_stock_001_kaufpark_eiche": 20,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Glas",
+	"BARCODE": "8692952000317",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 1.49,
-	"base_price": "3.99"
+	"ORDERS_30D": 32
 }

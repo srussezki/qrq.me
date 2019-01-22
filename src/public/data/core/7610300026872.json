@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Wäschepflege",
 	"current_stock_003_halle_altstadt": 37,
 	"image": null,
 	"creation": "2018-11-16T15:57:24.140325",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 55,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 9,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 28,
 	"item_name": "Persil Duo Caps Color 18stk",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "7610300026872",
 	"item_code": "PP-000015995",
-	"current_stock_001_kaufpark_eiche": 38,
 	"name": "PP-000015995",
+	"current_stock_001_kaufpark_eiche": 38,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "FMCG Wäschepflege",
+	"BARCODE": "7610300026872",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "3.49",
 	"current_gross_selling_price": 3.49,
-	"base_price": "3.49"
+	"ORDERS_30D": 28
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Strümpfe",
 	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/4040073010120.jpg",
 	"creation": "2018-07-11T19:01:43.858619",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Die neusten Trends auch in unserer App",
+	"ORDERS_ALLTIME": 18,
 	"item_name": "Mickey Maus Socken Gr.62/68",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c2d4fe32-268c-460f-b12b-47f9dce39811",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4040073010120",
 	"item_code": "PP-000010667",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000010667",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Strümpfe",
+	"BARCODE": "4040073010120",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 7
 }

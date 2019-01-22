@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 44,
+	"item_group": "Raucherbedarf",
+	"current_stock_003_halle_altstadt": 43,
 	"image": "/files/3661075143329.png",
 	"creation": "2018-09-13T15:30:55.301052",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 58,
 	"item_name": "Feuerzeuge VW Samba Piezo 2stk.",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1552ca73-3136-4259-9e54-46fe0c2350a8",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3661075143329",
 	"item_code": "PP-000013351",
-	"current_stock_001_kaufpark_eiche": 15,
 	"name": "PP-000013351",
+	"current_stock_001_kaufpark_eiche": 15,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Raucherbedarf",
+	"BARCODE": "3661075143329",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 38
 }

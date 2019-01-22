@@ -1,4 +1,5 @@
 {
+	"item_group": "Getränke",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/7290008370158.jpg",
 	"creation": "2018-02-14T16:00:27.686774",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-02",
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 72,
 	"item_name": "Sodastream Konzentrat Orange-Cola 500ml",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9c3b3961-e164-466d-8e44-b6e35e5b2768",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "7290008370158",
 	"item_code": "PP-000004707",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004707",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "7290008370158",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.29",
 	"current_gross_selling_price": 3.29,
-	"base_price": "3.29"
+	"ORDERS_30D": 1
 }

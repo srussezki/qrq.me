@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 25,
+	"item_group": "Hunde",
+	"current_stock_003_halle_altstadt": 23,
 	"image": "/files/8711252054476.jpg",
 	"creation": "2018-02-14T16:00:50.358621",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-19",
+	"ORDERS_7D": 6,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 56,
 	"item_name": "Abschussgerät Tiersnacks",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9aad6641-00f0-4237-a0eb-e3756215e292",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252054476",
 	"item_code": "PP-000003362",
-	"current_stock_001_kaufpark_eiche": 19,
 	"name": "PP-000003362",
+	"current_stock_001_kaufpark_eiche": 19,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hunde",
+	"BARCODE": "8711252054476",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "0.49",
 	"current_gross_selling_price": 0.49,
-	"base_price": "0.49"
+	"ORDERS_30D": 9
 }

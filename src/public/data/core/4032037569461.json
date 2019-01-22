@@ -1,4 +1,5 @@
 {
+	"item_group": "Beautyaccessoires",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/4032037569461.jpg",
 	"creation": "2018-09-27T09:38:45.725177",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 216,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 4,
 	"item_name": "Hygiene Handgel \"iBrands\"",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=03e3558c-7e50-43f2-8b7c-58ee547ea7ec",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4032037569461",
 	"item_code": "PP-000014121",
-	"current_stock_001_kaufpark_eiche": 23,
 	"name": "PP-000014121",
+	"current_stock_001_kaufpark_eiche": 23,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Beautyaccessoires",
+	"BARCODE": "4032037569461",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 4
 }

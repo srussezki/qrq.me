@@ -1,4 +1,5 @@
 {
+	"item_group": "Werkzeug",
 	"current_stock_003_halle_altstadt": 11,
 	"image": null,
 	"creation": "2018-07-18T15:00:48.599396",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 72,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 35,
 	"item_name": "Handschuhe Leder",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a1a06e00-aff1-4d97-92c6-0f289096094d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252091877",
 	"item_code": "PP-000010962",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000010962",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Werkzeug",
+	"BARCODE": "8711252091877",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.79",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.79"
+	"ORDERS_30D": 4
 }

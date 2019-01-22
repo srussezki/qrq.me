@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 31,
+	"item_group": "Strümpfe",
+	"current_stock_003_halle_altstadt": 30,
 	"image": "/files/8718051564533.jpg",
 	"creation": "2018-09-07T16:29:11.597254",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 120,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 13,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 276,
 	"item_name": "Damen Wollsocken für Zuhause",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=39eae772-bf76-4ba3-aa8c-3512d967b5a2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718051564533",
 	"item_code": "PP-000013142",
-	"current_stock_001_kaufpark_eiche": 33,
 	"name": "PP-000013142",
+	"current_stock_001_kaufpark_eiche": 33,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Strümpfe",
+	"BARCODE": "8718051564533",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 43
 }

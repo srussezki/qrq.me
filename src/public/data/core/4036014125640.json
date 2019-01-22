@@ -1,4 +1,5 @@
 {
+	"item_group": "Wolle",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4036014125640.png",
 	"creation": "2018-02-13T18:48:15.914966",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 10,
 	"item_name": "Wolle - Alaska Braun 100gr",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=76614827-aa2b-4b25-a568-731a70a3cb12",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4036014125640",
 	"item_code": "PP-000002183",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000002183",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Wolle",
+	"BARCODE": "4036014125640",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.69",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.69"
+	"ORDERS_30D": 0
 }

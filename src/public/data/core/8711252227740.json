@@ -1,4 +1,5 @@
 {
+	"item_group": "Sportaccessoires",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711252227740.jpg",
 	"creation": "2018-09-18T12:53:10.482727",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Tabletennis  table  MD",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7dc96927-3270-4222-a886-a5907d2ff7a2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252227740",
 	"item_code": "PP-000013786",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000013786",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Sportaccessoires",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "119.99",
 	"current_gross_selling_price": 119.99,
-	"base_price": "119.99"
+	"ORDERS_30D": null
 }

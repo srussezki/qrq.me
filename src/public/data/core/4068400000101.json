@@ -1,4 +1,5 @@
 {
+	"item_group": "Babypflege",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/4068400000101.png",
 	"creation": "2018-08-10T13:37:49.396441",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Die neusten Beautyprodukte jetzt bei uns",
+	"ORDERS_ALLTIME": 7,
 	"item_name": "REGINA Baby Shampoo und Bad 300 ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=cbf5ef45-4e19-48ce-8706-1facc19a31a4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4068400000101",
 	"item_code": "PP-000012509",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000012509",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Babypflege",
+	"BARCODE": "4068400000101",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.39",
 	"current_gross_selling_price": 0.49,
-	"base_price": "0.39"
+	"ORDERS_30D": 1
 }

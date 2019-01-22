@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4000826056423.png",
 	"creation": "2018-07-11T19:01:39.180308",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Spielzeug für Groß und Klein auch online",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Mitbringspiele 24 tlg.",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8050dd45-230f-496d-801e-340cff7392fe",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4000826056423",
 	"item_code": "PP-000010619",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000010619",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": null
 }

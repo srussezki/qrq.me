@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 22,
 	"image": null,
 	"creation": "2018-02-13T19:00:03.074558",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-22",
+	"ORDERS_7D": 2,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 83,
 	"item_name": "Geburtstagskerzen 16stk 6var",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1dbba651-e6c6-4f31-8ea2-555ae28bf9e4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295287350",
 	"item_code": "PP-000003145",
-	"current_stock_001_kaufpark_eiche": 137,
 	"name": "PP-000003145",
+	"current_stock_001_kaufpark_eiche": 137,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Partyartikel",
+	"BARCODE": "8711295287350",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 5
 }

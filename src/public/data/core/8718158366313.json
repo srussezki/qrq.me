@@ -1,4 +1,5 @@
 {
+	"item_group": "Hunde",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/8718158366313.jpg",
 	"creation": "2018-07-22T21:43:00.509114",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 60,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 96,
 	"item_name": "Hundepflegehandschuh",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e6559a15-e7d3-4f05-913a-76cb4144d835",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158366313",
 	"item_code": "PP-000011362",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000011362",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hunde",
+	"BARCODE": "8718158366313",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": null,
 	"current_gross_selling_price": 1.99,
-	"base_price": null
+	"ORDERS_30D": 1
 }

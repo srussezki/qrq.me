@@ -1,4 +1,5 @@
 {
+	"item_group": "Parfüm",
 	"current_stock_003_halle_altstadt": 36,
 	"image": "/files/8715658013082.png",
 	"creation": "2018-08-31T12:08:13.783226",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 69,
 	"item_name": "EDT 100ml Pure Courage",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=da69e4ce-12e0-42f8-b69b-4e81426eadbb",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8715658013082",
 	"item_code": "PP-000013060",
-	"current_stock_001_kaufpark_eiche": 41,
 	"name": "PP-000013060",
+	"current_stock_001_kaufpark_eiche": 41,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Parfüm",
+	"BARCODE": "8715658013082",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 12
 }

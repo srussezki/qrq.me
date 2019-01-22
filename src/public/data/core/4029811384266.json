@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekokissen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4029811384266.png",
 	"creation": "2018-09-13T12:00:49.133343",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 17,
 	"item_name": "Pailletten-Kissen Champ./Schw. 40x40cm",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=71509eca-401b-4dc3-8bc6-5a4a6900b986",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4029811384266",
 	"item_code": "PP-000013294",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000013294",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekokissen",
+	"BARCODE": "4029811384266",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 0
 }

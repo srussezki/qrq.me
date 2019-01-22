@@ -1,4 +1,5 @@
 {
+	"item_group": "Vasen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8713368198617.jpg",
 	"creation": "2018-03-14T16:33:30.703441",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-13",
+	"ORDERS_7D": 3,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 24,
 	"item_name": "Vase Grün Eckig Groß",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8713368198617",
 	"item_code": "PP-000005369",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000005369",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Vasen",
+	"BARCODE": "8713368198617",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "2.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 5
 }

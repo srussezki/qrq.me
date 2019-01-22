@@ -1,4 +1,5 @@
 {
+	"item_group": "Strümpfe",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4002702332089.jpg",
 	"creation": "2018-06-13T12:31:19.238728",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Die neusten Trends auch in unserer App",
+	"ORDERS_ALLTIME": 1,
 	"item_name": "NC56 unisex socks rings ultramarin 35-38",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a10f051d-006d-4d41-af49-91d2a9ad24f0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002702332089",
 	"item_code": "PP-000009701",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000009701",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Strümpfe",
+	"BARCODE": "4002702332089",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.89",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.89"
+	"ORDERS_30D": 0
 }

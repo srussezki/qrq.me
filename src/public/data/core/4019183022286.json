@@ -1,4 +1,5 @@
 {
+	"item_group": "Badtextilien",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-03-14T16:33:05.202883",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-07",
+	"ORDERS_7D": 4,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 92,
 	"item_name": "Handtuch Div. Farben",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=661de024-c5be-4593-9cd2-67366e9b8d50",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4019183022286",
 	"item_code": "PP-000005224",
-	"current_stock_001_kaufpark_eiche": 34,
 	"name": "PP-000005224",
+	"current_stock_001_kaufpark_eiche": 34,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Badtextilien",
+	"BARCODE": "4019183022286",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 5
 }

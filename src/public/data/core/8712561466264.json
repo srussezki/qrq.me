@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 7,
+	"item_group": "Pflegende Kosmetik",
+	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/8712561466264.png",
 	"creation": "2018-06-12T16:54:01.138008",
 	"website_image": "/files/8712561466264.png",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 7,
 	"marketing_text": "Die neusten Beautyprodukte jetzt bei uns",
+	"ORDERS_ALLTIME": 241,
 	"item_name": "Axe Deospray Gold Temptation 150ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c89a2afa-5fd7-4517-b5ab-19264a0e298b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8712561466264",
 	"item_code": "PP-000009736",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000009736",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "8712561466264",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 33
 }

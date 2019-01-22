@@ -1,4 +1,5 @@
 {
+	"item_group": "Töpfe & Pfannen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4016471041110.jpg",
 	"creation": "2018-08-13T18:22:14.639308",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 26,
 	"item_name": "BRATmaxx Servierpfanne 28cm beere ",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7f5de3dc-afbc-489e-8aba-43f647318196",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4016471041110",
 	"item_code": "PP-000012568",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000012568",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Töpfe & Pfannen",
+	"BARCODE": "4016471041110",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 2
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Trinkflaschen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-14T16:00:26.147366",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-02",
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Küchenaccessoires online",
+	"ORDERS_ALLTIME": 19,
 	"item_name": "Kindertrinkflasche Sponge Bob 500ml",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d9257bfa-6919-4a97-8c83-35ea62c4fbfc",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "6294004892981",
 	"item_code": "PP-000004125",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004125",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Trinkflaschen",
+	"BARCODE": "6294004892981",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.79",
 	"current_gross_selling_price": 1.99,
-	"base_price": "0.79"
+	"ORDERS_30D": 0
 }

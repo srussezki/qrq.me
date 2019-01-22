@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 9,
 	"image": "/files/5055114310656.png",
 	"creation": "2018-02-13T18:50:03.539629",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 42,
 	"item_name": "Play-Doh Set 41stk",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=716395cf-ea08-4547-a982-6880411c53b8",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5055114310656",
 	"item_code": "PP-000001805",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000001805",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "5055114310656",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "13.9",
 	"current_gross_selling_price": 9.99,
-	"base_price": "13.9"
+	"ORDERS_30D": 3
 }

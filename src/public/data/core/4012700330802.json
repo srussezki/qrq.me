@@ -1,4 +1,5 @@
 {
+	"item_group": "Schreibwaren Schule",
 	"current_stock_003_halle_altstadt": 20,
 	"image": "/files/4012700330802.jpg",
 	"creation": "2018-11-07T12:10:28.754781",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 4,
 	"item_name": "Tintenpatronen 12stk Brill.Schw. Blister",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=531bf4f4-dedd-48b4-a530-3f189fc7fd37",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4012700330802",
 	"item_code": "PP-000015564",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015564",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schreibwaren Schule",
+	"BARCODE": "4012700330802",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 1
 }

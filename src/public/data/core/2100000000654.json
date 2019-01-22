@@ -1,4 +1,5 @@
 {
+	"item_group": "Computerzubehör",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-03-01T14:56:11.714045",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-12",
+	"ORDERS_7D": null,
 	"marketing_text": "Technik ohne Ende auf factorymarket.de",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Mousepad Rutschfest Für Gamer",
 	"level_0_item_group": "Elektro",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=089004e0-9a62-47e5-b960-be57eba96461",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000004924",
 	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004924",
+	"_timestamp": "20190122 150229.560",
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Computerzubehör",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "0.69",
 	"current_gross_selling_price": 0.69,
-	"base_price": "0.69"
+	"ORDERS_30D": null
 }

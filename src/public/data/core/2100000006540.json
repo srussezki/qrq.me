@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 6,
+	"item_group": "Reinigung hart",
+	"current_stock_003_halle_altstadt": 4,
 	"image": "/files/2100000006540.jpg",
 	"creation": "2018-08-07T16:43:29.978303",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 7,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 65,
 	"item_name": "\"Aqua-Clean\" Bodenplatte",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d36fe482-e605-475d-8066-291efc4f72e2",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000012179",
 	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000012179",
+	"_timestamp": "20190122 150230.255",
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Reinigung hart",
+	"BARCODE": "2100000006540",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "8.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "8.99"
+	"ORDERS_30D": 17
 }

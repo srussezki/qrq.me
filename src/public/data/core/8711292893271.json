@@ -1,12 +1,15 @@
 {
+	"item_group": "Parfüm",
 	"current_stock_003_halle_altstadt": 11,
 	"image": null,
 	"creation": "2018-02-14T09:13:54.507021",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 150,
+	"current_stock_wh_ludwigsfelde": 144,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Mehr als Beauty gibt’s auf factorymarket.de",
+	"ORDERS_ALLTIME": 81,
 	"item_name": "Eau De Parfum Man Power",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=910d3dcb-687b-47b6-9f5e-353871f4566a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711292893271",
 	"item_code": "PP-000002873",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000002873",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "4",
-	"item_group": "Parfüm",
+	"BARCODE": "8711292893271",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 8
 }

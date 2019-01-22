@@ -1,4 +1,5 @@
 {
+	"item_group": "Camping",
 	"current_stock_003_halle_altstadt": 21,
 	"image": "/files/8711252031637.jpg",
 	"creation": "2018-02-14T16:04:37.776432",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": "2018-02-02",
+	"ORDERS_7D": 0,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 145,
 	"item_name": "Campinglaterne LED",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=67cf49fd-628a-495b-952c-bcf1a186fbbc",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252031637",
 	"item_code": "PP-000001855",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000001855",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Camping",
+	"BARCODE": "8711252031637",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.95",
 	"current_gross_selling_price": 2.99,
-	"base_price": "3.95"
+	"ORDERS_30D": 3
 }

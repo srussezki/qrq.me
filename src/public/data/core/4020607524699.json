@@ -1,4 +1,5 @@
 {
+	"item_group": "Kerzen & -zubehör",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4020607524699.png",
 	"creation": "2018-03-14T16:32:24.560785",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-12",
+	"ORDERS_7D": null,
 	"marketing_text": "Kerzen ohne Ende in unserer App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Windlicht Mit Positiven Sprüchen",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=29067742-57cb-40f5-aad4-d3c60e918c24",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4020607524699",
 	"item_code": "PP-000005273",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000005273",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "1.84",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.84"
+	"ORDERS_30D": null
 }

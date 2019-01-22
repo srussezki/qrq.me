@@ -1,4 +1,5 @@
 {
+	"item_group": "Kekse & Backwaren",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T19:01:23.063192",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "Wir haben noch mehr Produkte in unsere App",
+	"ORDERS_ALLTIME": 79,
 	"item_name": "Erdnuß Plätzchen",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=dc452b93-d45e-4494-b927-d67a97651eab",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8713305201073",
 	"item_code": "PP-000001757",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000001757",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "Kekse & Backwaren",
+	"BARCODE": "8713305201073",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.19",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.19"
+	"ORDERS_30D": 0
 }

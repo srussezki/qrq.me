@@ -1,4 +1,5 @@
 {
+	"item_group": "Damenbekleidung",
 	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/9003411333225.png",
 	"creation": "2018-06-05T11:41:57.505680",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": 3,
 	"item_name": "Damen T-Shirt",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4569b656-e1b5-4f34-89d5-896546720308",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "9003411333225",
 	"item_code": "PP-000009620",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000009620",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Damenbekleidung",
+	"BARCODE": "9003411333225",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "7.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "7.99"
+	"ORDERS_30D": -1
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 9,
+	"item_group": "Salzige Snacks",
+	"current_stock_003_halle_altstadt": 8,
 	"image": "/files/4017100706004.jpg",
 	"creation": "2018-04-30T15:26:17.372128",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": "2018-04-27",
+	"ORDERS_7D": 3,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 102,
 	"item_name": "Bahlsen Saltlette Sticks 250g",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5b731519-5e07-4e08-a28e-97836a767a63",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4017100706004",
 	"item_code": "PP-000008283",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000008283",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Salzige Snacks",
+	"BARCODE": "4017100706004",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.29",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.29"
+	"ORDERS_30D": 28
 }

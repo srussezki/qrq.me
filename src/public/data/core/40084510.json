@@ -1,4 +1,5 @@
 {
+	"item_group": "Schokolade",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/40084510.jpg",
 	"creation": "2018-04-19T18:07:57.014038",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-13",
+	"ORDERS_7D": 0,
 	"marketing_text": "Für den Hunger zwischendurch und danach",
+	"ORDERS_ALLTIME": 53,
 	"item_name": "Hanuta 2x22g",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1b07866a-d384-4ef3-85db-431046eb7fd8",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "40084510",
 	"item_code": "PP-000007445",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000007445",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schokolade",
+	"BARCODE": "40084510",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.65",
 	"current_gross_selling_price": 0.29,
-	"base_price": "0.65"
+	"ORDERS_30D": 0
 }

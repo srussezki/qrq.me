@@ -1,4 +1,5 @@
 {
+	"item_group": "Herrenbekleidung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/3543114429314.jpg",
 	"creation": "2018-05-04T19:05:14.712184",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-05-04",
+	"ORDERS_7D": 0,
 	"marketing_text": "Noch mehr Auswahl online",
+	"ORDERS_ALLTIME": 4,
 	"item_name": "Geographical Norway Hose",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f78ba5d1-96d9-4798-b1f9-12db1d7a2e77",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3543114429314",
 	"item_code": "PP-000008436",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000008436",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Herrenbekleidung",
+	"BARCODE": "3543114429314",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "12.99",
 	"current_gross_selling_price": 12.99,
-	"base_price": "12.99"
+	"ORDERS_30D": 0
 }

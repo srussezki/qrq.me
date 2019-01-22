@@ -1,4 +1,5 @@
 {
+	"item_group": "Office",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711252158747.jpg",
 	"creation": "2018-02-13T19:01:53.993818",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 1,
 	"marketing_text": "Noch mehr Auswahl online",
+	"ORDERS_ALLTIME": 204,
 	"item_name": "Tischabfalleimer",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ed1235af-7f4a-4977-89a1-9598af6b9aa6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252158747",
 	"item_code": "PP-000000118",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000000118",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Office",
+	"BARCODE": "8711252158747",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.59",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.59"
+	"ORDERS_30D": 6
 }

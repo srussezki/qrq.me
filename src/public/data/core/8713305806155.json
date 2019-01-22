@@ -1,4 +1,5 @@
 {
+	"item_group": "Süßigkeiten & Kaugummi",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T18:47:49.001186",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "Wir haben noch mehr Produkte in unsere App",
+	"ORDERS_ALLTIME": 115,
 	"item_name": "Lolly'S & Fun",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2645d303-d93c-49d1-956d-254db5989057",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8713305806155",
 	"item_code": "PP-000001772",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000001772",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "8713305806155",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.19",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.19"
+	"ORDERS_30D": 0
 }

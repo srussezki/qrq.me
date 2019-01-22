@@ -1,4 +1,5 @@
 {
+	"item_group": "Sticker & Stempel",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711295703232.png",
 	"creation": "2018-02-13T18:49:32.203141",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-20",
+	"ORDERS_7D": 3,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 217,
 	"item_name": "Sticker",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=46e986fd-300b-401d-8816-621b1f52aba9",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295703232",
 	"item_code": "PP-000002733",
-	"current_stock_001_kaufpark_eiche": 67,
 	"name": "PP-000002733",
+	"current_stock_001_kaufpark_eiche": 67,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "Sticker & Stempel",
+	"BARCODE": "8711295703232",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 7
 }

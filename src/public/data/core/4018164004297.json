@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 47,
+	"item_group": "Einwegartikel",
+	"current_stock_003_halle_altstadt": 46,
 	"image": "/files/4018164004297.jpg",
 	"creation": "2018-08-02T11:47:59.096503",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 30,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 8,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 193,
 	"item_name": "Schnapsgläser, klar, 30 Stk. 2cl",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=23cac2c5-603d-45b4-a3f7-99aa95434cdb",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4018164004297",
 	"item_code": "PP-000011913",
-	"current_stock_001_kaufpark_eiche": 84,
 	"name": "PP-000011913",
+	"current_stock_001_kaufpark_eiche": 84,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Einwegartikel",
+	"BARCODE": "4018164004297",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 82
 }

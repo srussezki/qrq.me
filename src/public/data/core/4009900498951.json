@@ -1,4 +1,5 @@
 {
+	"item_group": "Süßigkeiten & Kaugummi",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4009900498951.png",
 	"creation": "2018-03-14T16:33:05.935113",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-06",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 648,
 	"item_name": "Skittles Mini'S Crazy Sours 8x26gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=79ad4906-4054-41b8-9b8a-4fe3c75f955b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4009900498951",
 	"item_code": "PP-000005154",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000005154",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "4009900498951",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.47",
 	"current_gross_selling_price": 1.29,
-	"base_price": "0.47"
+	"ORDERS_30D": 0
 }

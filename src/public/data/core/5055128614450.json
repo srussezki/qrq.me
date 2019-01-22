@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflanzen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5055128614450.png",
 	"creation": "2018-02-16T10:40:04.540606",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-06",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 47,
 	"item_name": "Lily Blumenmix",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8a34e05f-c353-4531-adf3-095d6a4ceec0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5055128614450",
 	"item_code": "PP-000004748",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000004748",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflanzen",
+	"BARCODE": "5055128614450",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 0
 }

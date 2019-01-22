@@ -1,4 +1,5 @@
 {
+	"item_group": "Bettwaren",
 	"current_stock_003_halle_altstadt": 2,
 	"image": null,
 	"creation": "2018-09-21T17:15:01.713601",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 7,
 	"item_name": "Lammflor Unterbett",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3dc337f9-998c-4c30-bd1d-5ca08ae3225f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4022222545820",
 	"item_code": "PP-000013879",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000013879",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Bettwaren",
+	"BARCODE": "4022222545820",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 7.99,
-	"base_price": null
+	"ORDERS_30D": 2
 }

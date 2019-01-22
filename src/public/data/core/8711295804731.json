@@ -1,4 +1,5 @@
 {
+	"item_group": "Baby- & Kleinkindspielzeug",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711295804731.png",
 	"creation": "2018-02-13T18:52:33.731178",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-01",
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 58,
 	"item_name": "Holzspielzeug Stapelturm",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1dd71a34-7a82-4439-9aaa-bcacfd4cd076",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295804731",
 	"item_code": "PP-000000943",
-	"current_stock_001_kaufpark_eiche": 14,
 	"name": "PP-000000943",
+	"current_stock_001_kaufpark_eiche": 14,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Baby- & Kleinkindspielzeug",
+	"BARCODE": "8711295804731",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.95",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.95"
+	"ORDERS_30D": 4
 }

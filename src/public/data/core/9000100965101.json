@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 265,
+	"item_group": "FMCG Haushalt",
+	"current_stock_003_halle_altstadt": 263,
 	"image": null,
 	"creation": "2018-11-07T16:58:10.709628",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 560,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 25,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 129,
 	"item_name": "Bref Duo Aktiv Toilet Flush 50ml Lavendel",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=69d6a436-88a2-4bb8-a30b-70d91cd9901a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "9000100965101",
 	"item_code": "PP-000015751",
-	"current_stock_001_kaufpark_eiche": 305,
 	"name": "PP-000015751",
+	"current_stock_001_kaufpark_eiche": 304,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "FMCG Haushalt",
+	"BARCODE": "9000100965101",
+	"ORDERS_YESTERDAY": 5,
+	"base_price": "1.29",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.29"
+	"ORDERS_30D": 58
 }

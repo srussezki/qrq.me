@@ -1,4 +1,5 @@
 {
+	"item_group": "Unterwäsche & Bademode",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-05-07T16:37:10.744987",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-05-07",
+	"ORDERS_7D": 0,
 	"marketing_text": "Noch mehr Auswahl online",
+	"ORDERS_ALLTIME": 2,
 	"item_name": "Boxer Schwartz S",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=313cbf86-2b11-4f3e-bba6-baec714491ef",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8717137028785",
 	"item_code": "PP-000008479",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000008479",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Unterwäsche & Bademode",
+	"BARCODE": "8717137028785",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 0
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Getränke",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5449000134325.png",
 	"creation": "2018-10-10T18:36:56.707528",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "12 pack of Coca Cola Zero 0,5l",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=21909a62-646e-425d-81dc-bdab52eeeb84",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5449000134325",
 	"item_code": "PP-000014701",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000014701",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "0.89",
 	"current_gross_selling_price": 10.68,
-	"base_price": "0.89"
+	"ORDERS_30D": null
 }

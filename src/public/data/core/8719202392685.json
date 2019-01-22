@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 6,
+	"item_group": "Küchenhelfer",
+	"current_stock_003_halle_altstadt": 5,
 	"image": "/files/8719202392685.jpg",
 	"creation": "2018-05-31T17:12:50.952443",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 12,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Die besten Küchenhelfer, auch in unserer App",
+	"ORDERS_ALLTIME": 48,
 	"item_name": "Eiswürfelform 6er Set",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=90abffdb-14ee-43e4-9825-b63d99b9838d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202392685",
 	"item_code": "PP-000009429",
-	"current_stock_001_kaufpark_eiche": 25,
 	"name": "PP-000009429",
+	"current_stock_001_kaufpark_eiche": 25,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Küchenhelfer",
+	"BARCODE": "8719202392685",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 2
 }

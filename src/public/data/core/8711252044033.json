@@ -1,4 +1,5 @@
 {
+	"item_group": "Hunde",
 	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/8711252044033.jpg",
 	"creation": "2018-02-14T16:00:21.462387",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-02",
+	"ORDERS_7D": 0,
 	"marketing_text": "Alles für den Wuffi & die Mieze",
+	"ORDERS_ALLTIME": 108,
 	"item_name": "Kühler Für Haustiere",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=142516cc-50b3-448e-8b3e-b4dd5c1f26f3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252044033",
 	"item_code": "PP-000001868",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000001868",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Hunde",
+	"BARCODE": "8711252044033",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.45",
 	"current_gross_selling_price": 3.99,
-	"base_price": "5.45"
+	"ORDERS_30D": 3
 }

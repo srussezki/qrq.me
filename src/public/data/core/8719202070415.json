@@ -1,4 +1,5 @@
 {
+	"item_group": "Glas",
 	"current_stock_003_halle_altstadt": 17,
 	"image": "/files/8719202070415.jpg",
 	"creation": "2018-02-14T09:14:14.547937",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 20,
 	"first_time_ordered_on_": "2018-02-09",
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 38,
 	"item_name": "Tablett 45X30Cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=49188973-d920-4102-8786-6b9549f29301",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202070415",
 	"item_code": "PP-000004334",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000004334",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Glas",
+	"BARCODE": "8719202070415",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.75",
 	"current_gross_selling_price": 2.49,
-	"base_price": "0.75"
+	"ORDERS_30D": 9
 }

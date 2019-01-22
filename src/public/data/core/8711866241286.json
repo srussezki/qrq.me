@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/8711866241286.jpg",
 	"creation": "2018-03-23T21:07:06.649824",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-20",
+	"ORDERS_7D": 2,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 70,
 	"item_name": "Slime Funny Fart Neon",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=046c1d35-52bc-4d9c-8047-e921e1141a64",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711866241286",
 	"item_code": "PP-000006141",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000006141",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8711866241286",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 15
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Deko LED",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T18:49:25.564461",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "174.074 Artikel mehr online",
+	"ORDERS_ALLTIME": 417,
 	"item_name": "Teelicht flackernd 1LED",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f7f5bac8-aef9-490a-8916-56b089b4f4b9",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252491394",
 	"item_code": "PP-000000242",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000000242",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Deko LED",
+	"BARCODE": "8711252491394",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 94
 }

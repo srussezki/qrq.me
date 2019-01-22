@@ -1,4 +1,5 @@
 {
+	"item_group": "Hunde",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711252389103.jpg",
 	"creation": "2018-06-07T12:25:52.214681",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Alles für Hund, Katze, Maus gibts auch online",
+	"ORDERS_ALLTIME": 10,
 	"item_name": "Tierbürste Selbstreinigend",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9dbe6120-3f32-4e6e-97b6-9cc3f75eec61",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252389103",
 	"item_code": "PP-000009652",
-	"current_stock_001_kaufpark_eiche": 26,
 	"name": "PP-000009652",
+	"current_stock_001_kaufpark_eiche": 26,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hunde",
+	"BARCODE": "8711252389103",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.49"
+	"ORDERS_30D": 0
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/8719202207668.png",
 	"creation": "2018-02-13T19:02:50.632310",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 96,
 	"first_time_ordered_on_": "2017-12-27",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 53,
 	"item_name": "Notiztafel Neon mit 5 LED Lampen",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e3321669-f231-439f-b32f-16ddacadf269",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202207668",
 	"item_code": "PP-000003030",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000003030",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8719202207668",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.69",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.69"
+	"ORDERS_30D": 5
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Stifte",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4044186320800.png",
 	"creation": "2018-06-14T19:08:10.434455",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Billiger gibts nur in der App!",
+	"ORDERS_ALLTIME": 25,
 	"item_name": "Schreiblern-Tintenroller mit 6 Tintenpatronen",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=bc802d23-bd66-4142-9bc3-dfbe4d30a12a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4044186320800",
 	"item_code": "PP-000009966",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000009966",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Stifte",
+	"BARCODE": "4044186320800",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 9
 }

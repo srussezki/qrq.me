@@ -1,4 +1,5 @@
 {
+	"item_group": "Hygieneartikel",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-04-27T15:30:45.495927",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-06",
+	"ORDERS_7D": 0,
 	"marketing_text": "Pflege für Sie & Ihn in der App",
+	"ORDERS_ALLTIME": 5,
 	"item_name": "Motiv Taschentuch Real Love",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d01f6c2b-6e9e-429f-bf4b-c0f214c9ffc9",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4037698124905",
 	"item_code": "PP-000008213",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000008213",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hygieneartikel",
+	"BARCODE": "4037698124905",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.6",
 	"current_gross_selling_price": 0.59,
-	"base_price": "0.6"
+	"ORDERS_30D": 0
 }

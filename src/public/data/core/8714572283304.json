@@ -1,4 +1,5 @@
 {
+	"item_group": "Servietten",
 	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/8714572283304.jpg",
 	"creation": "2018-09-17T18:47:10.326798",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 6,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 22,
 	"item_name": "Servietten Verkehrsschilder \"30\" 33x33cm",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f3563c6f-c1b6-42dd-b071-6f2afa8095b0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714572283304",
 	"item_code": "PP-000013582",
-	"current_stock_001_kaufpark_eiche": 17,
 	"name": "PP-000013582",
+	"current_stock_001_kaufpark_eiche": 17,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Servietten",
+	"BARCODE": "8714572283304",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 7
 }

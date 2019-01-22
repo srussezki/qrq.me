@@ -1,4 +1,5 @@
 {
+	"item_group": "Babybekleidung",
 	"current_stock_003_halle_altstadt": 9,
 	"image": "/files/4040073009551.jpg",
 	"creation": "2018-07-11T19:01:40.445618",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 6,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 6,
 	"item_name": "Minnie Maus Leggings Weiß Gr.74/80",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=aec7d3a5-129d-4d83-b1d8-2ea30f63909e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4040073009551",
 	"item_code": "PP-000010650",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000010650",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Babybekleidung",
+	"BARCODE": "4040073009551",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 1
 }

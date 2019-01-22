@@ -1,4 +1,5 @@
 {
+	"item_group": "OTC / Gesundheit",
 	"current_stock_003_halle_altstadt": 45,
 	"image": null,
 	"creation": "2018-11-13T11:56:37.069488",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 22,
 	"item_name": "Wunderverband Physio-Tape",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=edd8412a-49a3-40ff-b8f0-67c0c3727465",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4260319970159",
 	"item_code": "PP-000015898",
-	"current_stock_001_kaufpark_eiche": 36,
 	"name": "PP-000015898",
+	"current_stock_001_kaufpark_eiche": 36,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "OTC / Gesundheit",
+	"BARCODE": "4260319970159",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.19",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.19"
+	"ORDERS_30D": 8
 }

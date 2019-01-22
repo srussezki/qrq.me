@@ -1,4 +1,5 @@
 {
+	"item_group": "Autozubehör",
 	"current_stock_003_halle_altstadt": 21,
 	"image": "/files/8711295894657.jpg",
 	"creation": "2018-07-22T21:42:43.668725",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Alles Rund um das Auto auch online",
+	"ORDERS_ALLTIME": 24,
 	"item_name": "KFZ Sonnenschutz 2stk",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4465b00a-03f4-4479-9ab0-c76a969935fd",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295894657",
 	"item_code": "PP-000011278",
-	"current_stock_001_kaufpark_eiche": 29,
 	"name": "PP-000011278",
+	"current_stock_001_kaufpark_eiche": 29,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Autozubehör",
+	"BARCODE": "8711295894657",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 3
 }

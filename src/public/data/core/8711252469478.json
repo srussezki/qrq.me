@@ -1,4 +1,5 @@
 {
+	"item_group": "Autozubehör",
 	"current_stock_003_halle_altstadt": 13,
 	"image": "/files/8711252469478.jpg",
 	"creation": "2018-05-02T18:33:52.494512",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-05-02",
+	"ORDERS_7D": 5,
 	"marketing_text": "Mehr Autozubehör findest du in unserer App",
+	"ORDERS_ALLTIME": 114,
 	"item_name": "Grundig Mini-KFZ Ladegerät 2xUSB",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=258d0ff2-bc5b-4553-9985-168a035146e4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252469478",
 	"item_code": "PP-000008374",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000008374",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Autozubehör",
+	"BARCODE": "8711252469478",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 11
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Beautyaccessoires",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-03-01T14:56:12.249713",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-12",
+	"ORDERS_7D": null,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Kosmetik Pinsel Set 15-Teilig",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8808cf10-5c86-47fe-9217-354aece4dfbe",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000004942",
 	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004942",
+	"_timestamp": "20190122 150229.578",
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Beautyaccessoires",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "8.99",
 	"current_gross_selling_price": 8.99,
-	"base_price": "8.99"
+	"ORDERS_30D": null
 }

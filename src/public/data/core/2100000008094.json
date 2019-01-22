@@ -1,4 +1,5 @@
 {
+	"item_group": "Damenbekleidung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-08-01T10:30:15.732929",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Das perfekte Outfit gibts auch online",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Frauen Jumpsuit mit Kordel S blau ",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0115ab10-88c7-427b-a97a-c5bec0bb3d34",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "2100000008094",
 	"item_code": "PP-000011821",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000011821",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Damenbekleidung",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "12.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "12.99"
+	"ORDERS_30D": null
 }

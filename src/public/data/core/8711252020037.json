@@ -1,4 +1,5 @@
 {
+	"item_group": "Reinigung hart",
 	"current_stock_003_halle_altstadt": 18,
 	"image": "/files/8711252020037.jpg",
 	"creation": "2018-06-20T18:47:32.814925",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 12,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Die neusten Trends auch in unserer App",
+	"ORDERS_ALLTIME": 49,
 	"item_name": "Wäschekorb 5l",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4f86e86c-0927-4960-869f-e6a2ac8e5e01",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252020037",
 	"item_code": "PP-000010104",
-	"current_stock_001_kaufpark_eiche": 21,
 	"name": "PP-000010104",
+	"current_stock_001_kaufpark_eiche": 21,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Reinigung hart",
+	"BARCODE": "8711252020037",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 5
 }

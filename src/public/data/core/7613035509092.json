@@ -1,4 +1,5 @@
 {
+	"item_group": "Kekse & Backwaren",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/7613035509092.jpg",
 	"creation": "2018-03-14T16:33:32.686149",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-13",
+	"ORDERS_7D": 0,
 	"marketing_text": "Alles für die Naschkatzen bei factorymarket",
+	"ORDERS_ALLTIME": 24,
 	"item_name": "Maggi 5 Min. Terrine Fleischklößchen 60gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=87460282-7f1b-4cbf-a029-7edac8633dfb",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "7613035509092",
 	"item_code": "PP-000005321",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000005321",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kekse & Backwaren",
+	"BARCODE": "7613035509092",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.15",
 	"current_gross_selling_price": 1.29,
-	"base_price": "2.15"
+	"ORDERS_30D": 1
 }

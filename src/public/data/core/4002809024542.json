@@ -1,4 +1,5 @@
 {
+	"item_group": "Kekse & Backwaren",
 	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/4002809024542.png",
 	"creation": "2018-07-25T13:35:45.208340",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Billiger gehts immer, mehr Artikel in der App",
+	"ORDERS_ALLTIME": 51,
 	"item_name": "Dekor-Mix Bunt",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2df8feab-2a25-4335-bcc4-cc9595ebe17c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002809024542",
 	"item_code": "PP-000011473",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000011473",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kekse & Backwaren",
+	"BARCODE": "4002809024542",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.79",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.79"
+	"ORDERS_30D": 3
 }

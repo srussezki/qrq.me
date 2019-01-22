@@ -1,4 +1,5 @@
 {
+	"item_group": "Sticker & Stempel",
 	"current_stock_003_halle_altstadt": 4,
 	"image": null,
 	"creation": "2018-04-12T14:44:59.492279",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-12",
+	"ORDERS_7D": 0,
 	"marketing_text": "Alles für die Schule und das Büro bei uns",
+	"ORDERS_ALLTIME": 15,
 	"item_name": "Büroetiketten, weiß 12x34mm",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=09cdfd43-f58f-4e5b-a413-292f6b4d29fd",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008110830445",
 	"item_code": "PP-000007146",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000007146",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Sticker & Stempel",
+	"BARCODE": "4008110830445",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.39",
 	"current_gross_selling_price": 1.39,
-	"base_price": "1.39"
+	"ORDERS_30D": 3
 }

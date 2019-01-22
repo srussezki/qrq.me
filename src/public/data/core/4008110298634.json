@@ -1,4 +1,5 @@
 {
+	"item_group": "Hefte & Blöcke",
 	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/4008110298634.jpg",
 	"creation": "2018-04-12T14:44:58.175402",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 12,
 	"first_time_ordered_on_": "2018-04-12",
+	"ORDERS_7D": 2,
 	"marketing_text": "Für Bürohelden und Heldinnen!",
+	"ORDERS_ALLTIME": 25,
 	"item_name": "Spiralnotizblock 10x14cm 200 Blatt",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5b50e9bc-15fe-407d-b6c4-0d6119b39ec8",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008110298634",
 	"item_code": "PP-000007107",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000007107",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Hefte & Blöcke",
+	"BARCODE": "4008110298634",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 8
 }

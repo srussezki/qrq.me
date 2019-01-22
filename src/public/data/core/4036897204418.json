@@ -1,4 +1,5 @@
 {
+	"item_group": "Hunde",
 	"current_stock_003_halle_altstadt": 15,
 	"image": "/files/4036897204418.jpg",
 	"creation": "2018-09-28T23:58:34.593520",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 144,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Alles für Hund, Katze, Maus gibts auch online",
+	"ORDERS_ALLTIME": 61,
 	"item_name": "PD Pansensticks 150 g",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=89f3d98d-56a9-43ce-961b-5207b9624cb2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4036897204418",
 	"item_code": "PP-000014308",
-	"current_stock_001_kaufpark_eiche": 15,
 	"name": "PP-000014308",
+	"current_stock_001_kaufpark_eiche": 14,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Hunde",
+	"BARCODE": "4036897204418",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 14
 }

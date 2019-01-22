@@ -1,4 +1,5 @@
 {
+	"item_group": "Geschenkverpackungen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4029811403462.png",
 	"creation": "2018-07-18T11:48:13.415378",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Pimp your Home",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Geschenkkartonage Weiß 22,5x22,5x8cm 8stk",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e5795215-708f-4303-a428-4366de061f40",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4029811403462",
 	"item_code": "PP-000011063",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000011063",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Geschenkverpackungen",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "2.99",
 	"current_gross_selling_price": 12.99,
-	"base_price": "2.99"
+	"ORDERS_30D": null
 }

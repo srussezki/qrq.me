@@ -1,4 +1,5 @@
 {
+	"item_group": "Kinderschreibwaren",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8711252451817.jpg",
 	"creation": "2018-02-13T18:51:44.631552",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 12,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 4,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 154,
 	"item_name": "Spitzer \"Globus\"",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7296fab5-dd3b-4df5-89fe-14f363bba71a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252451817",
 	"item_code": "PP-000000217",
-	"current_stock_001_kaufpark_eiche": 21,
 	"name": "PP-000000217",
+	"current_stock_001_kaufpark_eiche": 20,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "1, 4",
-	"item_group": "Kinderschreibwaren",
+	"BARCODE": "8711252451817",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.29",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.29"
+	"ORDERS_30D": 8
 }

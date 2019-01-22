@@ -1,4 +1,5 @@
 {
+	"item_group": "Lampen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711252069081.jpg",
 	"creation": "2018-04-19T18:43:32.838892",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-09",
+	"ORDERS_7D": 8,
 	"marketing_text": "Dekorieren bis zum Umfallen in der App",
+	"ORDERS_ALLTIME": 107,
 	"item_name": "GRUNDIG Tischlampe 24LED",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d4e7799f-ee5d-4346-92f9-55190cccf8d3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252069081",
 	"item_code": "PP-000007488",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000007488",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Lampen",
+	"BARCODE": "8711252069081",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "7.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "7.99"
+	"ORDERS_30D": 23
 }

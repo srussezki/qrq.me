@@ -1,4 +1,5 @@
 {
+	"item_group": "Unterwäsche & Bademode",
 	"current_stock_003_halle_altstadt": 17,
 	"image": "/files/4335718135123.jpg",
 	"creation": "2018-02-13T18:48:20.974453",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-15",
+	"ORDERS_7D": 2,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 101,
 	"item_name": "Bademantel Damen",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=74cac0f0-1d82-49d3-99c5-80fec838aa15",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4335718135123",
 	"item_code": "PP-000002492",
-	"current_stock_001_kaufpark_eiche": 20,
 	"name": "PP-000002492",
+	"current_stock_001_kaufpark_eiche": 20,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1,2,3,4",
-	"item_group": "Unterwäsche & Bademode",
+	"BARCODE": "4335718135123",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 11
 }

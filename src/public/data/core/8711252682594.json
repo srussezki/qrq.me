@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekoration",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711252682594.png",
 	"creation": "2018-02-13T18:49:14.238391",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 2,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 115,
 	"item_name": "Leselupe & -Beleuchtung",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a2007df9-137c-4402-883e-a826ad349c3e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252682594",
 	"item_code": "PP-000000322",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000000322",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Dekoration",
+	"BARCODE": "8711252682594",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.89",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.89"
+	"ORDERS_30D": 11
 }

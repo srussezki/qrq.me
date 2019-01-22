@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchentextilien",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-03-14T16:33:05.325488",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-07",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 24,
 	"item_name": "Baumwolle Geschirrtuch Rot",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=894c4ca8-f873-48f6-a04a-b8cdc21f48c5",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4019183150804",
 	"item_code": "PP-000005221",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000005221",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Küchentextilien",
+	"BARCODE": "4019183150804",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 1
 }

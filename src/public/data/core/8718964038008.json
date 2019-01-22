@@ -1,4 +1,5 @@
 {
+	"item_group": "Garten",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-04-08T22:22:40.393326",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-06",
+	"ORDERS_7D": 0,
 	"marketing_text": "Pimp your Garden, auf factorymarket.de",
+	"ORDERS_ALLTIME": 1,
 	"item_name": "Insektenhotel Grün 26x37,5x10,5cm",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c893e642-4bf4-4941-9c6f-2e88ebe7e0a6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718964038008",
 	"item_code": "PP-000007021",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000007021",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Garten",
+	"BARCODE": "8718964038008",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 0
 }

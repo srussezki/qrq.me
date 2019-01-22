@@ -1,4 +1,5 @@
 {
+	"item_group": "Herrenbekleidung",
 	"current_stock_003_halle_altstadt": 4,
 	"image": null,
 	"creation": "2018-08-01T11:38:59.828664",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 4,
 	"item_name": "Centerline Herren Pullover M dnkl-blau",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1254f5e2-632f-4d17-b8c7-3be4ec24c4b6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4028115098251",
 	"item_code": "PP-000011871",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000011871",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Herrenbekleidung",
+	"BARCODE": "4028115098251",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "15.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "15.99"
+	"ORDERS_30D": 0
 }

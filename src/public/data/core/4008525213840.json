@@ -1,4 +1,5 @@
 {
+	"item_group": "Bastelbedarf",
 	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/4008525213840.jpg",
 	"creation": "2018-05-07T18:22:15.048019",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 11,
 	"item_name": "Deko Papierketten Ballerina",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3fd49495-a903-4adc-bcaf-fc3b3eb75162",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008525213840",
 	"item_code": "PP-000008521",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000008521",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Bastelbedarf",
+	"BARCODE": "4008525213840",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 1
 }

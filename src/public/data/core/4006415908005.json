@@ -1,4 +1,5 @@
 {
+	"item_group": "Schmierstoffe",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4006415908005.png",
 	"creation": "2018-02-13T18:57:48.986328",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-04",
+	"ORDERS_7D": 0,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 74,
 	"item_name": "Spezialkl. Extra Stark",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2881b309-b89b-4b18-b572-4bc4dfded1c1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4006415908005",
 	"item_code": "PP-000002862",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000002862",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Schmierstoffe",
+	"BARCODE": "4006415908005",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.69",
 	"current_gross_selling_price": 1.49,
-	"base_price": "0.69"
+	"ORDERS_30D": 0
 }

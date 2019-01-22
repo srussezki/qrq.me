@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 71,
 	"image": "/files/5201184881378.jpg",
 	"creation": "2018-11-01T15:47:41.733007",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 1,
 	"item_name": "Star Wars Final Battle Becher 8stk 200ml",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=31df47a1-ff34-4e58-b5bb-bc47ef329282",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5201184881378",
 	"item_code": "PP-000015093",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015093",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": "5201184881378",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 1
 }

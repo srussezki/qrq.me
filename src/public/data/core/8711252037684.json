@@ -1,4 +1,5 @@
 {
+	"item_group": "Aufbewahrung",
 	"current_stock_003_halle_altstadt": 32,
 	"image": "/files/8711252037684.jpg",
 	"creation": "2018-03-14T16:33:21.046736",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 8,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 100,
 	"item_name": "Türhaken 22X9X8Cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252037684",
 	"item_code": "PP-000005599",
-	"current_stock_001_kaufpark_eiche": 27,
 	"name": "PP-000005599",
+	"current_stock_001_kaufpark_eiche": 27,
+	"ORDERS_TODAY": 3,
 	"shelf_number": null,
-	"item_group": "Aufbewahrung",
+	"BARCODE": "8711252037684",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 17
 }

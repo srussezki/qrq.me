@@ -1,4 +1,5 @@
 {
+	"item_group": "Geschenkverpackungen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/013051527303.jpg",
 	"creation": "2018-04-09T18:13:46.223623",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-28",
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 12,
 	"item_name": "Geschenkboxen Wedding Türkis 50stk",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4563be60-2e32-48ac-b7d4-9caeefab44f6",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000007039",
 	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000007039",
+	"_timestamp": "20190122 150229.272",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Geschenkverpackungen",
+	"BARCODE": "013051527303",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.14",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.14"
+	"ORDERS_30D": 0
 }

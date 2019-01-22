@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekokissen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-14T16:00:45.582487",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-06",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 6,
 	"item_name": "Nackenrolle Blumen Schwarz/Weiß",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=be285682-1bee-49bd-bbd3-628b9ab6ebf6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4316268534437",
 	"item_code": "PP-000004578",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004578",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekokissen",
+	"BARCODE": "4316268534437",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 0
 }

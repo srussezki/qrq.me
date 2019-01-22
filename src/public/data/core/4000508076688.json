@@ -1,4 +1,5 @@
 {
+	"item_group": "Getränke",
 	"current_stock_003_halle_altstadt": 83,
 	"image": "/files/4000508076688.jpg",
 	"creation": "2018-05-22T14:23:03.770934",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 108,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 11,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 819,
 	"item_name": "Jacobs Krönung 500g",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9f882e22-a227-47dd-a09c-6155d7d3d40e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4000508076688",
 	"item_code": "PP-000009051",
-	"current_stock_001_kaufpark_eiche": 90,
 	"name": "PP-000009051",
+	"current_stock_001_kaufpark_eiche": 89,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "4000508076688",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 30
 }

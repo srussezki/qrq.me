@@ -1,4 +1,5 @@
 {
+	"item_group": "Kunstblumen",
 	"current_stock_003_halle_altstadt": 85,
 	"image": "/files/4027234234434.jpg",
 	"creation": "2018-08-03T13:26:26.654652",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 23,
 	"marketing_text": "Verschönere dein Zuhause, jetzt auch online",
+	"ORDERS_ALLTIME": 186,
 	"item_name": "Bärenfellgras, cream, 70 cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=52273bec-45cb-42d0-a589-236a71d81895",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4027234234434",
 	"item_code": "PP-000012011",
-	"current_stock_001_kaufpark_eiche": 47,
 	"name": "PP-000012011",
+	"current_stock_001_kaufpark_eiche": 43,
+	"ORDERS_TODAY": 4,
 	"shelf_number": null,
-	"item_group": "Kunstblumen",
+	"BARCODE": "4027234234434",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 88
 }

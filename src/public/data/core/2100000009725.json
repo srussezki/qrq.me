@@ -1,4 +1,5 @@
 {
+	"item_group": "Herrenbekleidung",
 	"current_stock_003_halle_altstadt": 64,
 	"image": "/files/2100000009725.pdf",
 	"creation": "2018-10-02T17:35:12.664135",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 18,
 	"item_name": "Herren Sweatshirt schwarz, navy ",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a9d64b50-c645-45b3-8ec8-70fcb621d0ed",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "2100000009725",
 	"item_code": "PP-000014400",
-	"current_stock_001_kaufpark_eiche": 26,
 	"name": "PP-000014400",
+	"current_stock_001_kaufpark_eiche": 26,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Herrenbekleidung",
+	"BARCODE": "2100000009725",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "7.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "7.99"
+	"ORDERS_30D": 3
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Schuhzubehör",
 	"current_stock_003_halle_altstadt": 22,
 	"image": "/files/8711252105468.jpg",
 	"creation": "2018-09-18T12:53:08.013057",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 18,
 	"item_name": "Shoe organizer 2pcs",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b3911242-8961-43f4-a77f-298452d29db9",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252105468",
 	"item_code": "PP-000013774",
-	"current_stock_001_kaufpark_eiche": 22,
 	"name": "PP-000013774",
+	"current_stock_001_kaufpark_eiche": 22,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schuhzubehör",
+	"BARCODE": "8711252105468",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 6
 }

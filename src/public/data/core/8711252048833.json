@@ -1,12 +1,15 @@
 {
+	"item_group": "Elektronikzubehör",
 	"current_stock_003_halle_altstadt": 9,
 	"image": "/files/8711252048833.jpg",
 	"creation": "2018-02-13T19:00:41.644001",
-	"website_image": "/files/8711252048833.jpg",
+	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 6,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 2,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 59,
 	"item_name": "Action Cam 720P",
 	"level_0_item_group": "Elektro",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e4a5df8e-6a89-4288-888e-fa31254a1ff6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252048833",
 	"item_code": "PP-000003352",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000003352",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Elektronikzubehör",
+	"BARCODE": "8711252048833",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "19.99",
 	"current_gross_selling_price": 16.99,
-	"base_price": "19.99"
+	"ORDERS_30D": 4
 }

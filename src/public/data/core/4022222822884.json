@@ -1,4 +1,5 @@
 {
+	"item_group": "Schuhe",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4022222822884.jpg",
 	"creation": "2018-05-31T17:12:53.174844",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 49,
 	"item_name": "Clogs f. Damen bedruckt Größe 36-41",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=469acc93-7f7a-4731-abbe-eb8d80bf3d20",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4022222822884",
 	"item_code": "PP-000009441",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000009441",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schuhe",
+	"BARCODE": "4022222822884",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 0
 }

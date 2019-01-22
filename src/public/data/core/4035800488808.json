@@ -1,4 +1,5 @@
 {
+	"item_group": "Schokolade",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4035800488808.jpg",
 	"creation": "2018-04-19T18:07:57.774463",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-13",
+	"ORDERS_7D": 0,
 	"marketing_text": "Für den Hunger zwischendurch und danach",
+	"ORDERS_ALLTIME": 17,
 	"item_name": "Knoppers 8stk",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=879f83ff-3df4-4973-9932-a61c7025185b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4035800488808",
 	"item_code": "PP-000007631",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000007631",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schokolade",
+	"BARCODE": "4035800488808",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.24",
 	"current_gross_selling_price": 1.99,
-	"base_price": "0.24"
+	"ORDERS_30D": 0
 }

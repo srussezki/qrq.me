@@ -1,4 +1,5 @@
 {
+	"item_group": "Damenbekleidung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-08-01T10:30:18.550942",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Das perfekte Outfit gibts auch online",
+	"ORDERS_ALLTIME": 5,
 	"item_name": "Frauen Hoodie XXL dnkl-grau",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e042c7e7-80a4-48a4-ad0e-b8b0639bfd7c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "2100000008193",
 	"item_code": "PP-000011834",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000011834",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Damenbekleidung",
+	"BARCODE": "2100000008193",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 3
 }

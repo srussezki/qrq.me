@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 46,
+	"item_group": "Getränke",
+	"current_stock_003_halle_altstadt": 42,
 	"image": "/files/4260544050046.png",
 	"creation": "2018-04-23T11:53:48.591690",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-20",
+	"ORDERS_7D": 23,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 812,
 	"item_name": "Exstase Energy Tropical 250ml",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e38e6ffc-fc92-4727-b0b4-1f611d1f9612",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4260544050046",
 	"item_code": "PP-000007730",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000007730",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 3,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "4260544050046",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "0.14",
 	"current_gross_selling_price": 0.36,
-	"base_price": "0.14"
+	"ORDERS_30D": 70
 }

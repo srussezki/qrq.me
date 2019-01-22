@@ -1,4 +1,5 @@
 {
+	"item_group": "Malerbedarf",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4000590046521.jpg",
 	"creation": "2018-05-30T11:56:07.489937",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 3,
 	"item_name": "Wi-Rostschutzprimer Rotbraun",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c6acdeb8-dc56-4997-b435-2f95a989f984",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4000590046521",
 	"item_code": "PP-000009327",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000009327",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Malerbedarf",
+	"BARCODE": "4000590046521",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.32",
 	"current_gross_selling_price": 7.99,
-	"base_price": "9.32"
+	"ORDERS_30D": 0
 }

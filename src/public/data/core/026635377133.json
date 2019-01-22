@@ -1,4 +1,5 @@
 {
+	"item_group": "Ballons",
 	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/0026635377133.png",
 	"creation": "2018-08-27T13:14:27.795380",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 11,
 	"item_name": "Alles Gute zur Hochzeit Folienballon 43cm",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2e817fa8-02fc-42a7-9069-66e46d4d1bd3",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000012852",
 	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000012852",
+	"_timestamp": "20190122 150229.370",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Ballons",
+	"BARCODE": "026635377133",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.79",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.79"
+	"ORDERS_30D": 2
 }

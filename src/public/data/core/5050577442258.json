@@ -1,4 +1,5 @@
 {
+	"item_group": "Taschen & Rucksäcke",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5050577442258.jpg",
 	"creation": "2018-02-14T16:00:32.094036",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-26",
+	"ORDERS_7D": 0,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": 48,
 	"item_name": "Kreditkartenetui Aluminium",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4a231cb1-181e-4a62-91b7-77df697e861b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5050577442258",
 	"item_code": "PP-000003821",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000003821",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Taschen & Rucksäcke",
+	"BARCODE": "5050577442258",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 0
 }

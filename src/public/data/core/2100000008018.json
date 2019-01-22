@@ -1,4 +1,5 @@
 {
+	"item_group": "Damenbekleidung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-08-01T10:30:13.370855",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Die neusten Trends auch in unserer App",
+	"ORDERS_ALLTIME": 1,
 	"item_name": "2-lagiges Frauen Shirt XXL rot ",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fffc4533-4e1a-4f7e-b691-4196e4708735",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "2100000008018",
 	"item_code": "PP-000011809",
-	"current_stock_001_kaufpark_eiche": -1,
 	"name": "PP-000011809",
+	"current_stock_001_kaufpark_eiche": -1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Damenbekleidung",
+	"BARCODE": "2100000008018",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "10.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "10.99"
+	"ORDERS_30D": 1
 }

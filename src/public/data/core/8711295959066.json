@@ -1,4 +1,5 @@
 {
+	"item_group": "Reinigung hart",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711295959066.jpg",
 	"creation": "2018-02-14T09:13:39.239574",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 47,
 	"item_name": "Treteimer 15X16cm 5var",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0a297ab1-7805-4171-b21e-c49393dac858",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295959066",
 	"item_code": "PP-000002938",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000002938",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Reinigung hart",
+	"BARCODE": "8711295959066",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.69",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.69"
+	"ORDERS_30D": 0
 }

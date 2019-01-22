@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 3,
+	"item_group": "Bastelbedarf",
+	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/8711252058481.jpg",
 	"creation": "2018-02-13T18:52:05.328269",
 	"website_image": "/files/8711252058481.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 5,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 242,
 	"item_name": "Sequin Art Kit",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a345ee54-5cfe-4658-9db9-4f07a3bc3d18",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252058481",
 	"item_code": "PP-000000086",
-	"current_stock_001_kaufpark_eiche": 30,
 	"name": "PP-000000086",
+	"current_stock_001_kaufpark_eiche": 30,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "Bastelbedarf",
+	"BARCODE": "8711252058481",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.79",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.79"
+	"ORDERS_30D": 6
 }

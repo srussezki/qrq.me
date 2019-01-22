@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 24,
+	"item_group": "Getränke",
+	"current_stock_003_halle_altstadt": 22,
 	"image": "/files/90433160.jpg",
 	"creation": "2018-04-19T18:07:50.944863",
 	"website_image": "/files/90433160.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-13",
+	"ORDERS_7D": 7,
 	"marketing_text": "Lösch den Spardurst in dir, auf factorymarket",
+	"ORDERS_ALLTIME": 349,
 	"item_name": "Red Bull Cola 250ml",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5436a547-95cc-4224-90ee-5c7e6a882bfd",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "90433160",
 	"item_code": "PP-000007413",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000007413",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 4,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "90433160",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.4",
 	"current_gross_selling_price": 1.09,
-	"base_price": "0.4"
+	"ORDERS_30D": 9
 }

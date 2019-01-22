@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 16,
 	"image": "/files/8718158035509.jpg",
 	"creation": "2018-02-14T09:13:43.299899",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 57,
 	"item_name": "Kinder Giesskanne 1l 4var",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=cc90a270-4050-437c-83f0-2ba3a7dff2ad",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158035509",
 	"item_code": "PP-000003089",
-	"current_stock_001_kaufpark_eiche": 23,
 	"name": "PP-000003089",
+	"current_stock_001_kaufpark_eiche": 23,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8718158035509",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 0
 }

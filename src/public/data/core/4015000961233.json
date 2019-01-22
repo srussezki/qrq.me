@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Wäschepflege",
 	"current_stock_003_halle_altstadt": 36,
 	"image": "/files/4015000961233.jpg",
 	"creation": "2018-06-12T16:54:00.810418",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 101,
 	"item_name": "Perwoll Flüssigwaschm. Care&Repair 1,5l",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c7084fc4-c466-4f9a-81ab-d994ee59971a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4015000961233",
 	"item_code": "PP-000009726",
-	"current_stock_001_kaufpark_eiche": 22,
 	"name": "PP-000009726",
+	"current_stock_001_kaufpark_eiche": 22,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "FMCG Wäschepflege",
+	"BARCODE": "4015000961233",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 4.49,
-	"base_price": "2.99"
+	"ORDERS_30D": 12
 }

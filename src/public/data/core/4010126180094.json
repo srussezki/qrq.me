@@ -1,4 +1,5 @@
 {
+	"item_group": "Autozubehör",
 	"current_stock_003_halle_altstadt": 25,
 	"image": "/files/4010126180094.jpg",
 	"creation": "2018-07-27T14:13:41.707918",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Autozubehör findest du in unserer App",
+	"ORDERS_ALLTIME": 17,
 	"item_name": "Kinder-Warn-Weste, nach DIN EN 1150 gelb",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9cf60f92-8f0c-4e45-9e99-755f553c31d2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4010126180094",
 	"item_code": "PP-000011641",
-	"current_stock_001_kaufpark_eiche": 32,
 	"name": "PP-000011641",
+	"current_stock_001_kaufpark_eiche": 32,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Autozubehör",
+	"BARCODE": "4010126180094",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 3
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Bilder- & rahmen",
 	"current_stock_003_halle_altstadt": 13,
 	"image": "/files/8719202231199.jpg",
 	"creation": "2018-02-13T18:53:39.764792",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 58,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 191,
 	"item_name": "Bilderrahmen Silber 10X15cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=519bb96d-d4ed-4b57-a55a-34ea518166be",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202231199",
 	"item_code": "PP-000000667",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000000667",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "4",
-	"item_group": "Bilder- & rahmen",
+	"BARCODE": "8719202231199",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 0
 }

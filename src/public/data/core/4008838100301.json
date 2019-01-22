@@ -1,4 +1,5 @@
 {
+	"item_group": "Bad hart",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4008838100301.png",
 	"creation": "2018-02-14T16:00:47.153532",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-31",
+	"ORDERS_7D": null,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Wc-Sitz Muschel",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5ed8e768-a99c-4968-b0c0-66a58023146e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008838100301",
 	"item_code": "PP-000004241",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004241",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Bad hart",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "0.69",
 	"current_gross_selling_price": 19.99,
-	"base_price": "0.69"
+	"ORDERS_30D": null
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Trinkflaschen",
 	"current_stock_003_halle_altstadt": 22,
 	"image": "/files/8412497856077.jpg",
 	"creation": "2018-10-16T14:22:23.637672",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 168,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 8,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 20,
 	"item_name": "Superman Trinkbecher 260 ml",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0d45d2e4-a95c-4ae8-8d35-a44fa1b9b29b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8412497856077",
 	"item_code": "PP-000014740",
-	"current_stock_001_kaufpark_eiche": 21,
 	"name": "PP-000014740",
+	"current_stock_001_kaufpark_eiche": 19,
+	"ORDERS_TODAY": 6,
 	"shelf_number": null,
-	"item_group": "Trinkflaschen",
+	"BARCODE": "8412497856077",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 0.39,
-	"base_price": null
+	"ORDERS_30D": 18
 }

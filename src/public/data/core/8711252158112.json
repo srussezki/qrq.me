@@ -1,4 +1,5 @@
 {
+	"item_group": "Sportaccessoires",
 	"current_stock_003_halle_altstadt": 18,
 	"image": "/files/8711252158112.jpg",
 	"creation": "2018-02-13T18:57:44.035229",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 70,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 3,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 199,
 	"item_name": "Sporthandtuch 80x40cm",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ca08d2c7-9664-40b2-9f36-43eaffee8dcc",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252158112",
 	"item_code": "PP-000003396",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000003396",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Sportaccessoires",
+	"BARCODE": "8711252158112",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 9
 }

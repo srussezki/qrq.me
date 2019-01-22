@@ -1,4 +1,5 @@
 {
+	"item_group": "Ballons",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711866243075.jpg",
 	"creation": "2018-03-23T21:07:06.609649",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-20",
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 8,
 	"item_name": "Aufblasbarer Einhorn-Ballon",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=925386d6-daaf-4466-b238-e2d64ce5b66b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711866243075",
 	"item_code": "PP-000006142",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006142",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Ballons",
+	"BARCODE": "8711866243075",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 0
 }

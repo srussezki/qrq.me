@@ -1,4 +1,5 @@
 {
+	"item_group": "Damenbekleidung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8718051881586.jpg",
 	"creation": "2018-09-16T15:54:55.506047",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 13,
 	"marketing_text": "Die neusten Trends auch in unserer App",
+	"ORDERS_ALLTIME": 55,
 	"item_name": "Damen Thermo Leggings blau S/M",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=dc4e746f-eace-4fce-a95b-838834013f6d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718051881586",
 	"item_code": "PP-000013413",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000013413",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Damenbekleidung",
+	"BARCODE": "8718051881586",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "3.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 31
 }

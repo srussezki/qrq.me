@@ -1,4 +1,5 @@
 {
+	"item_group": "Beautyaccessoires",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5949067502919.png",
 	"creation": "2018-08-02T16:59:21.601868",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Die neusten Beautyprodukte jetzt bei uns",
+	"ORDERS_ALLTIME": 33,
 	"item_name": "cottonino zoo badschwamm bär",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f1d96a30-c717-47d8-8c0e-84b194396b15",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5949067502919",
 	"item_code": "PP-000012051",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000012051",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Beautyaccessoires",
+	"BARCODE": "5949067502919",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 2
 }

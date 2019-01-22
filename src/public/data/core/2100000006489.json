@@ -1,4 +1,5 @@
 {
+	"item_group": "Reinigung hart",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/2100000006489.jpg",
 	"creation": "2018-08-07T16:43:29.765462",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 60,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 68,
 	"item_name": "Spülschüssel 34 x 34 cm, quadratisch",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e29f7d93-4afe-41eb-98e1-3339a20f4a5f",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000012173",
 	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000012173",
+	"_timestamp": "20190122 150230.242",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Reinigung hart",
+	"BARCODE": "2100000006489",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 13
 }

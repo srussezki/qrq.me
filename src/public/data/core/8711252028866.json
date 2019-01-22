@@ -1,4 +1,5 @@
 {
+	"item_group": "Garten",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711252028866.jpg",
 	"creation": "2018-07-18T15:01:03.035173",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Wir haben 160.000 weitere Sportartikel online",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Pool Liege Violett",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ecf1b18e-2d73-446c-af34-06623b2658ad",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252028866",
 	"item_code": "PP-000011051",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000011051",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Garten",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "14.99",
 	"current_gross_selling_price": 14.99,
-	"base_price": "14.99"
+	"ORDERS_30D": null
 }

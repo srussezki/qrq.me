@@ -1,4 +1,5 @@
 {
+	"item_group": "Getränke",
 	"current_stock_003_halle_altstadt": 124,
 	"image": "/files/4400066903530.jpg",
 	"creation": "2018-05-07T19:35:04.549040",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 18,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 375,
 	"item_name": "Rotkäppchen Sekt halbtrocken 0,75l",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6e7a3a16-0a7a-4550-ae2e-682da210585f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4400066903530",
 	"item_code": "PP-000008538",
-	"current_stock_001_kaufpark_eiche": 117,
 	"name": "PP-000008538",
+	"current_stock_001_kaufpark_eiche": 113,
+	"ORDERS_TODAY": 3,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "4400066903530",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "3.98",
 	"current_gross_selling_price": 2.99,
-	"base_price": "3.98"
+	"ORDERS_30D": 97
 }

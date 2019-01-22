@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Raumduft",
 	"current_stock_003_halle_altstadt": 15,
 	"image": "/files/4326470403261.jpg",
 	"creation": "2018-02-13T18:51:30.054127",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 240,
 	"first_time_ordered_on_": "2018-11-02",
+	"ORDERS_7D": 1,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 178,
 	"item_name": "Lufterfrischer CLEAN Gelperlen 100g",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f7e34765-8beb-4af2-87f9-4aeb9588eb3b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470403261",
 	"item_code": "PP-000001075",
-	"current_stock_001_kaufpark_eiche": 27,
 	"name": "PP-000001075",
+	"current_stock_001_kaufpark_eiche": 27,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "FMCG Raumduft",
+	"BARCODE": "4326470403261",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 15
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekorative Kosmetik",
 	"current_stock_003_halle_altstadt": 40,
 	"image": "/files/4009017169874.jpg",
 	"creation": "2018-02-13T18:55:48.466398",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 240,
 	"first_time_ordered_on_": "2017-12-27",
+	"ORDERS_7D": 5,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 234,
 	"item_name": "Mascara Sabrina 12ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b8a12ee7-ab56-4181-9453-6bce094267bc",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4009017169874",
 	"item_code": "PP-000001323",
-	"current_stock_001_kaufpark_eiche": 210,
 	"name": "PP-000001323",
+	"current_stock_001_kaufpark_eiche": 210,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Dekorative Kosmetik",
+	"BARCODE": "4009017169874",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 26
 }

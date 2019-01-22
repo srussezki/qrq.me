@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 6,
+	"item_group": "FMCG Reinigungsmittel",
+	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-12-05T12:39:31.130655",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 16,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 22,
 	"item_name": "Power Multi Reiniger 500ml in Sprühflasche",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470523884",
 	"item_code": "PP-000016532",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000016532",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "FMCG Reinigungsmittel",
+	"BARCODE": "4326470523884",
+	"ORDERS_YESTERDAY": 8,
+	"base_price": "0.29",
 	"current_gross_selling_price": 0.29,
-	"base_price": "0.29"
+	"ORDERS_30D": 20
 }

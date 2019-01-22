@@ -1,4 +1,5 @@
 {
+	"item_group": "Katzen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-14T16:00:46.660243",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-06",
+	"ORDERS_7D": 0,
 	"marketing_text": "Alles für den Wuffi & die Mieze",
+	"ORDERS_ALLTIME": 32,
 	"item_name": "Kahu® Kratzmöbel Curve",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=aa77ad9d-948c-4aec-ac3f-f99942db0cb4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "9120076122565",
 	"item_code": "PP-000004537",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000004537",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Katzen",
+	"BARCODE": "9120076122565",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.59",
 	"current_gross_selling_price": 5.99,
-	"base_price": "0.59"
+	"ORDERS_30D": 0
 }

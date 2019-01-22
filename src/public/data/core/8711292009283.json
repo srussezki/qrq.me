@@ -1,4 +1,5 @@
 {
+	"item_group": "Kunstblumen",
 	"current_stock_003_halle_altstadt": 77,
 	"image": "/files/8711292009283.jpg",
 	"creation": "2018-05-02T18:34:00.373440",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-05-02",
+	"ORDERS_7D": 3,
 	"marketing_text": "Dekorieren bis zum Umfallen in der App",
+	"ORDERS_ALLTIME": 112,
 	"item_name": "Künstliche Rose schwarz",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=988d9632-4943-4072-b01d-965e31c638ee",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711292009283",
 	"item_code": "PP-000008416",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000008416",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kunstblumen",
+	"BARCODE": "8711292009283",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 11
 }

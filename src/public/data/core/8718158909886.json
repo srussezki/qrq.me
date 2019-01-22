@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 61,
+	"item_group": "Partyartikel",
+	"current_stock_003_halle_altstadt": 60,
 	"image": "/files/8718158909886.jpg",
 	"creation": "2018-02-14T09:14:07.648428",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-09",
+	"ORDERS_7D": 3,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 233,
 	"item_name": "Partygeschenke 8var",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3658eb0e-a3d0-4087-8f08-a2324a400edc",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158909886",
 	"item_code": "PP-000003087",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000003087",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": "8718158909886",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.99"
+	"ORDERS_30D": 158
 }

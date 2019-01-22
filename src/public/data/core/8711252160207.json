@@ -1,4 +1,5 @@
 {
+	"item_group": "Strümpfe",
 	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/8711252160207.jpg",
 	"creation": "2018-05-02T18:33:49.794587",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-05-02",
+	"ORDERS_7D": 1,
 	"marketing_text": "Die neusten Trends auch in unserer App",
+	"ORDERS_ALLTIME": 30,
 	"item_name": "Kniestrümpfe versch. Größen",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=93dcd116-a5a4-4dc9-b30a-2ebb391bc4d4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252160207",
 	"item_code": "PP-000008360",
-	"current_stock_001_kaufpark_eiche": 16,
 	"name": "PP-000008360",
+	"current_stock_001_kaufpark_eiche": 16,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Strümpfe",
+	"BARCODE": "8711252160207",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 6
 }

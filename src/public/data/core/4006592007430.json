@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Mädchen",
 	"current_stock_003_halle_altstadt": 1,
 	"image": "/files/4006592007430.jpg",
 	"creation": "2018-08-31T09:42:41.506116",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 4,
 	"item_name": "Frisuren- und Schminkkopf m. Makeup",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8ba88e32-1560-4aa8-b25a-08479c5daca7",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4006592007430",
 	"item_code": "PP-000013036",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000013036",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Mädchen",
+	"BARCODE": "4006592007430",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "14.99",
 	"current_gross_selling_price": 14.99,
-	"base_price": "14.99"
+	"ORDERS_30D": 1
 }

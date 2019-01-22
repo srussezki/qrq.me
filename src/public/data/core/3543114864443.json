@@ -1,4 +1,5 @@
 {
+	"item_group": "Herrenbekleidung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/3543114864443.jpg",
 	"creation": "2018-06-01T15:41:44.120813",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 1,
 	"item_name": "Geogr. Norw. T-Shirt Rundhals Schwarz XL",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2a56c9e9-1090-4257-b5f9-9a931cc98479",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3543114864443",
 	"item_code": "PP-000009494",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000009494",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Herrenbekleidung",
+	"BARCODE": "3543114864443",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "7.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "7.99"
+	"ORDERS_30D": 0
 }

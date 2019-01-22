@@ -1,4 +1,5 @@
 {
+	"item_group": "Plüschtiere",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T18:48:02.112994",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 0,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 112,
 	"item_name": "Fuzzy Aufblasbare Kugel",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b3afb4a5-ccc2-4023-bc3e-bac2eaa6b439",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627608618",
 	"item_code": "PP-000001509",
-	"current_stock_001_kaufpark_eiche": 27,
 	"name": "PP-000001509",
+	"current_stock_001_kaufpark_eiche": 27,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Plüschtiere",
+	"BARCODE": "8714627608618",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 2.49,
-	"base_price": "3.99"
+	"ORDERS_30D": 0
 }

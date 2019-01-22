@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 15,
 	"image": "/files/8715349550957.png",
 	"creation": "2018-02-13T19:01:31.768396",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 152,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 2,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 245,
 	"item_name": "Rasierapparat 4 Klingen",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6c2a540e-fdf7-4269-a506-6af4b874b000",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8715349550957",
 	"item_code": "PP-000000497",
-	"current_stock_001_kaufpark_eiche": 43,
 	"name": "PP-000000497",
+	"current_stock_001_kaufpark_eiche": 43,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1,2,3,4,5",
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "8715349550957",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "7.99",
 	"current_gross_selling_price": 9.49,
-	"base_price": "7.99"
+	"ORDERS_30D": 12
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Fahrrad",
 	"current_stock_003_halle_altstadt": 40,
 	"image": "/files/8711252029252.jpg",
 	"creation": "2018-05-02T18:33:41.642544",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": "2018-05-02",
+	"ORDERS_7D": 1,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 58,
 	"item_name": "Dunlop Kabelschloss 65x1x2,2cm",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=83d54209-7cd0-41b7-9cc8-7b8a0fbd23be",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252029252",
 	"item_code": "PP-000008316",
-	"current_stock_001_kaufpark_eiche": 22,
 	"name": "PP-000008316",
+	"current_stock_001_kaufpark_eiche": 22,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Fahrrad",
+	"BARCODE": "8711252029252",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.79",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.79"
+	"ORDERS_30D": 6
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Deko LED",
 	"current_stock_003_halle_altstadt": 28,
 	"image": "/files/8711252073873.jpg",
 	"creation": "2018-04-12T12:45:01.964816",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-09",
+	"ORDERS_7D": 7,
 	"marketing_text": "Dekorieren bis zum Umfallen in der App",
+	"ORDERS_ALLTIME": 128,
 	"item_name": "Deko Ständer LED 9x33,5x6cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e318bab4-6f31-4dd2-b3e8-3a75015ad672",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252073873",
 	"item_code": "PP-000007287",
-	"current_stock_001_kaufpark_eiche": 23,
 	"name": "PP-000007287",
+	"current_stock_001_kaufpark_eiche": 21,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Deko LED",
+	"BARCODE": "8711252073873",
+	"ORDERS_YESTERDAY": 5,
+	"base_price": "2.49",
 	"current_gross_selling_price": 0.99,
-	"base_price": "2.49"
+	"ORDERS_30D": 26
 }

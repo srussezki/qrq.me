@@ -1,4 +1,5 @@
 {
+	"item_group": "Einwegartikel",
 	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/4018164004914.png",
 	"creation": "2018-08-02T11:47:58.155875",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Über 600.000 weiterer Küchenhelfer online",
+	"ORDERS_ALLTIME": 68,
 	"item_name": "Trinkbecher, klar, 0,3l, 12 Stk. 4,5g, Ø 78mm",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4e6f1a0b-0c9f-456d-bebf-23b81d939bfa",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4018164004914",
 	"item_code": "PP-000011909",
-	"current_stock_001_kaufpark_eiche": 27,
 	"name": "PP-000011909",
+	"current_stock_001_kaufpark_eiche": 27,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Einwegartikel",
+	"BARCODE": "4018164004914",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.69",
 	"current_gross_selling_price": 0.69,
-	"base_price": "0.69"
+	"ORDERS_30D": 32
 }

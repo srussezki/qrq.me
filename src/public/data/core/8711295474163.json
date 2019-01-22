@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/8711295474163.jpg",
 	"creation": "2018-02-13T18:53:14.373652",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-01",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 41,
 	"item_name": "Schoko-Fondue-Set",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=32685205-5cb9-4228-b269-4f081a02c46d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295474163",
 	"item_code": "PP-000000786",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000000786",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Küchenhelfer",
+	"BARCODE": "8711295474163",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 1
 }

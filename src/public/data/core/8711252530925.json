@@ -1,4 +1,5 @@
 {
+	"item_group": "Malerbedarf",
 	"current_stock_003_halle_altstadt": 34,
 	"image": "/files/8711252530925.png",
 	"creation": "2018-02-13T18:49:20.847524",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 60,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 115,
 	"item_name": "Bodenvlies saugfähig 1x4m",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=906bef12-5db3-4f8c-a7db-3533b9be47f0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252530925",
 	"item_code": "PP-000000280",
-	"current_stock_001_kaufpark_eiche": 72,
 	"name": "PP-000000280",
+	"current_stock_001_kaufpark_eiche": 72,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "Malerbedarf",
+	"BARCODE": "8711252530925",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 13
 }

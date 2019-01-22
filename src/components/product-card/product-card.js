@@ -5,7 +5,7 @@ module.exports = function(data, externalData) {
   var otherImages =
       externalData && externalData['external-images']
         ? externalData['external-images']
-        : null,
+        : [],
     images = [];
 
   if (data.image) {
@@ -22,5 +22,10 @@ module.exports = function(data, externalData) {
       .toFixed(2)
       .replace('.', ','),
     images: images,
+    top10: data.top10,
+    top100: data.top100,
+    marketing_text: data.marketing_text,
+    orders_yesterday: data.ORDERS_YESTERDAY,
+    appLink: data.qrcode_fm02,
   });
 };

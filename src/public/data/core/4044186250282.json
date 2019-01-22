@@ -1,4 +1,5 @@
 {
+	"item_group": "Stifte",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4044186250282.png",
 	"creation": "2018-08-02T11:42:56.567883",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 31,
 	"item_name": "Wachsmalstifte, 8 Stück mit Papierbanderole",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e6252e42-66f6-4221-9c71-afc940474527",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4044186250282",
 	"item_code": "PP-000012210",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000012210",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Stifte",
+	"BARCODE": "4044186250282",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 4
 }

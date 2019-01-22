@@ -1,4 +1,5 @@
 {
+	"item_group": "Wolle",
 	"current_stock_003_halle_altstadt": 22,
 	"image": "/files/4036014005393.png",
 	"creation": "2018-02-13T18:49:54.152864",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 3,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 151,
 	"item_name": "Wolle - Lisa Premium Dunkel Blau 50gr",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=bc3fa6d0-8134-4fa3-8e55-decf54caaabb",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4036014005393",
 	"item_code": "PP-000002159",
-	"current_stock_001_kaufpark_eiche": 19,
 	"name": "PP-000002159",
+	"current_stock_001_kaufpark_eiche": 19,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "3",
-	"item_group": "Wolle",
+	"BARCODE": "4036014005393",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 16
 }

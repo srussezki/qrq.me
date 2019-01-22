@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5011363523704.jpg",
 	"creation": "2018-07-24T17:45:36.946161",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Das Abenteuer geht weiter in unserer App",
+	"ORDERS_ALLTIME": 14,
 	"item_name": "Skip-Bo",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=044689fe-4009-4e2a-a59c-f43ca480b652",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5011363523704",
 	"item_code": "PP-000011438",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000011438",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "5011363523704",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "12.99",
 	"current_gross_selling_price": 12.99,
-	"base_price": "12.99"
+	"ORDERS_30D": 5
 }

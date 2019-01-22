@@ -1,4 +1,5 @@
 {
+	"item_group": "Malerbedarf",
 	"current_stock_003_halle_altstadt": 9,
 	"image": "/files/4000590028572.jpg",
 	"creation": "2018-05-30T11:56:17.316217",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 18,
 	"item_name": "Wi-Spray Lack Hochgl, RAL 5010, Enzianblau",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e116a432-6287-4307-9848-2094d0b6c4a2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4000590028572",
 	"item_code": "PP-000009378",
-	"current_stock_001_kaufpark_eiche": 16,
 	"name": "PP-000009378",
+	"current_stock_001_kaufpark_eiche": 16,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Malerbedarf",
+	"BARCODE": "4000590028572",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "8.725",
 	"current_gross_selling_price": 3.49,
-	"base_price": "8.725"
+	"ORDERS_30D": 0
 }

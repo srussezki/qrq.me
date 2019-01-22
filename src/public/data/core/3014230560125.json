@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 13,
 	"image": "/files/3014230560125.jpg",
 	"creation": "2018-02-13T18:54:08.651228",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-22",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 68,
 	"item_name": "Dove Conditioner Intensiv Reparatur 200ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=29e9c2b6-b134-458d-a538-ee13d13b7d38",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3014230560125",
 	"item_code": "PP-000000567",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000000567",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "3014230560125",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.29",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.29"
+	"ORDERS_30D": 9
 }

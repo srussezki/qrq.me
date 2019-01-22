@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 59,
+	"item_group": "Mützen, Schals & Handschuhe",
+	"current_stock_003_halle_altstadt": 54,
 	"image": "/files/4022222523439.jpg",
 	"creation": "2018-09-21T17:15:00.118271",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 80,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 39,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 79,
 	"item_name": "Damen Strickmütze mit Bommel v. Farb.",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=04f2e51a-cb3e-491a-b11c-065ed3169985",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4022222523439",
 	"item_code": "PP-000013863",
-	"current_stock_001_kaufpark_eiche": 81,
 	"name": "PP-000013863",
+	"current_stock_001_kaufpark_eiche": 79,
+	"ORDERS_TODAY": 5,
 	"shelf_number": null,
-	"item_group": "Mützen, Schals & Handschuhe",
+	"BARCODE": "4022222523439",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": null,
 	"current_gross_selling_price": 1.99,
-	"base_price": null
+	"ORDERS_30D": 79
 }

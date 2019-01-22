@@ -1,4 +1,5 @@
 {
+	"item_group": "Vorratsdosen",
 	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/2100000006397.jpg",
 	"creation": "2018-08-07T16:43:29.418323",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 60,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": "Für die Profiköche gehts online weiter",
+	"ORDERS_ALLTIME": 101,
 	"item_name": "Schüttdose 1,3 Liter",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=09190f11-4d38-4556-bd06-4310b00b0c68",
@@ -24,8 +27,13 @@
 	"item_code": "PP-000012164",
 	"current_stock_001_kaufpark_eiche": 17,
 	"name": "PP-000012164",
+	"_timestamp": "20190122 150230.225",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Vorratsdosen",
+	"BARCODE": "2100000006397",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 29,
+	"top10": "Vorratsdosen"
 }

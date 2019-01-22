@@ -1,4 +1,5 @@
 {
+	"item_group": "Kunstblumen",
 	"current_stock_003_halle_altstadt": 48,
 	"image": "/files/4027234238289.jpg",
 	"creation": "2018-08-03T13:26:26.414759",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Pimp your Home",
+	"ORDERS_ALLTIME": 26,
 	"item_name": "Gerbera, fuchsia, 56 cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ba8b787c-4135-41c8-bcf3-e774d162ae3b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4027234238289",
 	"item_code": "PP-000012004",
-	"current_stock_001_kaufpark_eiche": 30,
 	"name": "PP-000012004",
+	"current_stock_001_kaufpark_eiche": 30,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kunstblumen",
+	"BARCODE": "4027234238289",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 8
 }

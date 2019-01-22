@@ -1,4 +1,5 @@
 {
+	"item_group": "Stifte",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8711252535463.jpg",
 	"creation": "2018-02-13T18:49:20.022368",
@@ -6,12 +7,14 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 3,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 159,
 	"item_name": "Kugelschreiber Vierfarbig",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2025f60b-9539-4e3b-b31e-8fdc0c25c00d",
 	"is_sales_item": 1,
-	"current_stock_002_halle_neustadt": 38,
+	"current_stock_002_halle_neustadt": 37,
 	"rack_number": "257",
 	"item_group_level_0": null,
 	"base_price_text": "0.79 € je 1 Stück",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252535463",
 	"item_code": "PP-000000285",
-	"current_stock_001_kaufpark_eiche": 16,
 	"name": "PP-000000285",
+	"current_stock_001_kaufpark_eiche": 16,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Stifte",
+	"BARCODE": "8711252535463",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 9
 }

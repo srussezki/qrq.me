@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 46,
+	"item_group": "Teppiche",
+	"current_stock_003_halle_altstadt": 45,
 	"image": "/files/4022222590028.jpg",
 	"creation": "2018-02-14T16:00:45.006331",
 	"website_image": "/files/4022222590028.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-06",
+	"ORDERS_7D": 11,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 180,
 	"item_name": "Anti - Rutschmatte 150x30cm",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1779a7fd-74be-4125-895c-900912a33960",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4022222590028",
 	"item_code": "PP-000004600",
-	"current_stock_001_kaufpark_eiche": 69,
 	"name": "PP-000004600",
+	"current_stock_001_kaufpark_eiche": 69,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Teppiche",
+	"BARCODE": "4022222590028",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 42
 }

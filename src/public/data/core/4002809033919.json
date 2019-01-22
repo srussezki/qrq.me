@@ -1,4 +1,5 @@
 {
+	"item_group": "Kekse & Backwaren",
 	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/4002809033919.jpg",
 	"creation": "2018-07-25T13:35:47.010103",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 8,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 22,
 	"item_name": "Muffins Zitrone",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=848d3c9d-cc9f-4e67-b8d6-2a877be9c2a2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002809033919",
 	"item_code": "PP-000011512",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000011512",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kekse & Backwaren",
+	"BARCODE": "4002809033919",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 2
 }

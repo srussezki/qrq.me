@@ -1,4 +1,5 @@
 {
+	"item_group": "Taschen & Rucksäcke",
 	"current_stock_003_halle_altstadt": 20,
 	"image": "/files/5060426660467.jpg",
 	"creation": "2018-06-27T10:37:20.562127",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 20,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 22,
 	"item_name": "Panini Rucksack mittel rot/weiß/grün",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8a8733a6-b8bc-420d-a2e9-b2b0cfab988d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5060426660467",
 	"item_code": "PP-000010343",
-	"current_stock_001_kaufpark_eiche": 19,
 	"name": "PP-000010343",
+	"current_stock_001_kaufpark_eiche": 19,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Taschen & Rucksäcke",
+	"BARCODE": "5060426660467",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 1
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Weihnachten",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8713305808777.png",
 	"creation": "2018-09-03T19:12:42.940267",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere aufregende Themenwelten in der App",
+	"ORDERS_ALLTIME": 102,
 	"item_name": "Christmas Jar \"Sweet holiday wishes\"",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9c831e3d-2536-4f77-8891-011b72e039e1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8713305808777",
 	"item_code": "PP-000013071",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000013071",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Weihnachten",
+	"BARCODE": "8713305808777",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 0.99,
-	"base_price": "2.49"
+	"ORDERS_30D": 0
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 20,
 	"image": "/files/8711252224480.jpg",
 	"creation": "2018-02-14T16:00:51.064540",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 72,
 	"first_time_ordered_on_": "2018-02-05",
+	"ORDERS_7D": 2,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 103,
 	"item_name": "Löffel 3St",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=39886c34-3d40-43a3-94e7-22af13b87583",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252224480",
 	"item_code": "PP-000003401",
-	"current_stock_001_kaufpark_eiche": 25,
 	"name": "PP-000003401",
+	"current_stock_001_kaufpark_eiche": 25,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Küchenhelfer",
+	"BARCODE": "8711252224480",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.29",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.29"
+	"ORDERS_30D": 17
 }

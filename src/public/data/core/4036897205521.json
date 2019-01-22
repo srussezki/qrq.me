@@ -1,4 +1,5 @@
 {
+	"item_group": "Katzen",
 	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/4036897205521.jpg",
 	"creation": "2018-09-28T23:58:37.391936",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 80,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 6,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 49,
 	"item_name": "PC Katzensnacks 125 g Becher Herzform",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=489d9bad-ad2b-41bd-b98f-b1ee6c08274f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4036897205521",
 	"item_code": "PP-000014321",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000014321",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Katzen",
+	"BARCODE": "4036897205521",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 9
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Reinigungsmittel",
 	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/8711252417554.jpg",
 	"creation": "2018-06-07T12:25:52.316415",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Wecke den Putzteufel in Dir!",
+	"ORDERS_ALLTIME": 62,
 	"item_name": "LIFETIME Schmutzradierer 3stk",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=bfa63409-3cec-488b-ac45-e21c97c04310",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252417554",
 	"item_code": "PP-000009655",
-	"current_stock_001_kaufpark_eiche": 24,
 	"name": "PP-000009655",
+	"current_stock_001_kaufpark_eiche": 24,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "FMCG Reinigungsmittel",
+	"BARCODE": "8711252417554",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 9
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 22,
+	"item_group": "Sportaccessoires",
+	"current_stock_003_halle_altstadt": 20,
 	"image": "/files/8711252070940.jpg",
 	"creation": "2018-05-02T18:34:03.571578",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-05-02",
+	"ORDERS_7D": 3,
 	"marketing_text": "Sommer is comming! Alles für dein Training",
+	"ORDERS_ALLTIME": 24,
 	"item_name": "Dunlop Smart Handyhalter 60x10x2,5cm",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3c6e9201-7c98-4b6f-a92f-efc2e3ee11e6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252070940",
 	"item_code": "PP-000008433",
-	"current_stock_001_kaufpark_eiche": 15,
 	"name": "PP-000008433",
+	"current_stock_001_kaufpark_eiche": 15,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Sportaccessoires",
+	"BARCODE": "8711252070940",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 5
 }

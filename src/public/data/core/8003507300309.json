@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 6,
+	"item_group": "Aufbewahrung",
+	"current_stock_003_halle_altstadt": 4,
 	"image": "/files/8003507300309.png",
 	"creation": "2018-02-13T18:57:45.902153",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 27,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 95,
 	"item_name": "Aufbewahrungsbox 5,5l",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8622f902-b9ee-40ff-8111-6ed9b88ec0f2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8003507300309",
 	"item_code": "PP-000003311",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000003311",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Aufbewahrung",
+	"BARCODE": "8003507300309",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 33
 }

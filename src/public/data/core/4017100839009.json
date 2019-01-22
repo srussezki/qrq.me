@@ -1,4 +1,5 @@
 {
+	"item_group": "Weihnachtsschokolade",
 	"current_stock_003_halle_altstadt": 8,
 	"image": "/files/4017100839009bf790b.jpg",
 	"creation": "2018-10-10T12:54:58.367930",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 472,
 	"item_name": "Bahlsen Butterspekulatiius 200g",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4342bede-1e1e-487c-b1e8-a8b484b40a73",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4017100839009",
 	"item_code": "PP-000014666",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000014666",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Weihnachtsschokolade",
+	"BARCODE": "4017100839009",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.74",
 	"current_gross_selling_price": 0.74,
-	"base_price": "0.74"
+	"ORDERS_30D": 0
 }

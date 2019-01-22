@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekoration",
 	"current_stock_003_halle_altstadt": 14,
 	"image": "/files/4020606127730.jpg",
 	"creation": "2018-08-31T17:15:47.023513",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 12,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 35,
 	"item_name": "Korb Sophy 32x21x11cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=766dd2f7-0c83-43e6-86b6-81dbb0cfb106",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4020606127730",
 	"item_code": "PP-000012983",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000012983",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekoration",
+	"BARCODE": "4020606127730",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 3.99,
-	"base_price": null
+	"ORDERS_30D": 3
 }

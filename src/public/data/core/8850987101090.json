@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 22,
+	"item_group": "Salzige Snacks",
+	"current_stock_003_halle_altstadt": 17,
 	"image": "/files/8850987101090.png",
 	"creation": "2018-03-14T16:33:32.853042",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-13",
+	"ORDERS_7D": 34,
 	"marketing_text": "Alles für die Naschkatzen bei factorymarket",
+	"ORDERS_ALLTIME": 136,
 	"item_name": "MAMA Instant Nudelsuppe Huhn 55gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=80b41ba8-e2ab-41ad-9724-b65246e8b50b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8850987101090",
 	"item_code": "PP-000005317",
-	"current_stock_001_kaufpark_eiche": 15,
 	"name": "PP-000005317",
+	"current_stock_001_kaufpark_eiche": 15,
+	"ORDERS_TODAY": 3,
 	"shelf_number": null,
-	"item_group": "Salzige Snacks",
+	"BARCODE": "8850987101090",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "1.07",
 	"current_gross_selling_price": 0.59,
-	"base_price": "1.07"
+	"ORDERS_30D": 40
 }

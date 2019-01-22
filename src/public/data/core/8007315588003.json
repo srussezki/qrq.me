@@ -1,4 +1,5 @@
 {
+	"item_group": "Saisonale Spielwaren",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8007315588003.jpg",
 	"creation": "2018-06-22T15:27:58.035422",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Das Abenteuer geht weiter in unserer App",
+	"ORDERS_ALLTIME": 140,
 	"item_name": "Violetta Seifenblasenset 36Stk.",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4cedca50-c712-4ca7-a14a-387536608fa4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8007315588003",
 	"item_code": "PP-000010235",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000010235",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Saisonale Spielwaren",
+	"BARCODE": "8007315588003",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.39",
 	"current_gross_selling_price": 0.39,
-	"base_price": "0.39"
+	"ORDERS_30D": 2
 }

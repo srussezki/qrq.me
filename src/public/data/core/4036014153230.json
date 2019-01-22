@@ -1,4 +1,5 @@
 {
+	"item_group": "Nähzubehör",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4036014153230.png",
 	"creation": "2018-02-13T18:49:44.359459",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 9,
 	"item_name": "Knopf sortiert",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f4c93d7a-d699-4ac5-8130-d407e8cbfcb9",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4036014153230",
 	"item_code": "PP-000002257",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000002257",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "6",
-	"item_group": "Nähzubehör",
+	"BARCODE": "4036014153230",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 0
 }

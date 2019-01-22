@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 60,
+	"item_group": "Schuhzubehör",
+	"current_stock_003_halle_altstadt": 59,
 	"image": "/files/8711252649542.png",
 	"creation": "2018-02-14T09:13:48.549563",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-10",
+	"ORDERS_7D": 7,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 89,
 	"item_name": "Schuhpolitur",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=83396fde-daf0-4fc8-a3e9-aa0c56b7c3c1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252649542",
 	"item_code": "PP-000001691",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000001691",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "0",
-	"item_group": "Schuhzubehör",
+	"BARCODE": "8711252649542",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.19",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.19"
+	"ORDERS_30D": 28
 }

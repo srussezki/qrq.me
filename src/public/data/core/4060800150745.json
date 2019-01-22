@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 5,
+	"item_group": "Getränke",
+	"current_stock_003_halle_altstadt": 4,
 	"image": "/files/4060800150745.jpg",
 	"creation": "2018-07-26T12:44:15.566742",
 	"website_image": "/files/4060800150745.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 306,
 	"item_name": "Mountain Dew Fl Dpg 0,50L",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b6548b72-0a8c-40f4-91c9-7d0649e188d5",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4060800150745",
 	"item_code": "PP-000011619",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000011619",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "4060800150745",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 0.99,
-	"base_price": null
+	"ORDERS_30D": 49
 }

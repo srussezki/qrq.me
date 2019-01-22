@@ -1,4 +1,5 @@
 {
+	"item_group": "Elektronikgeräte",
 	"current_stock_003_halle_altstadt": 27,
 	"image": "/files/4016471045057.jpg",
 	"creation": "2018-10-25T12:42:51.264622",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 7,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 9,
 	"item_name": "GOURMETmaxx Nutrition Mixer 10-tlg. 700W",
 	"level_0_item_group": "Elektro",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1a5bb1a1-c942-491f-a980-cfce4859f286",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4016471045057",
 	"item_code": "PP-000014976",
-	"current_stock_001_kaufpark_eiche": 43,
 	"name": "PP-000014976",
+	"current_stock_001_kaufpark_eiche": 43,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Elektronikgeräte",
+	"BARCODE": "4016471045057",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "29.99",
 	"current_gross_selling_price": 24.99,
-	"base_price": "29.99"
+	"ORDERS_30D": 8
 }

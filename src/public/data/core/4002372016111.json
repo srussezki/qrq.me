@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 3,
+	"item_group": "Schreibwaren Schule",
+	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/4002372016111.jpg",
 	"creation": "2018-11-07T12:10:27.716531",
 	"website_image": "/files/4002372016111.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 13,
 	"item_name": "Idena Bastelkleber 90g",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=22b29614-d140-4949-83f2-4c53a2e67aac",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002372016111",
 	"item_code": "PP-000015559",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015559",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Schreibwaren Schule",
+	"BARCODE": "4002372016111",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 6
 }

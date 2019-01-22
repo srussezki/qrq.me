@@ -1,4 +1,5 @@
 {
+	"item_group": "Kostüme",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-14T16:00:52.545050",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Indianer Stirnband Größe 54",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=86f29cf4-becf-46e8-ac75-2b52bbbb9999",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002162918359",
 	"item_code": "PP-000004146",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004146",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Kostüme",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "1.69",
 	"current_gross_selling_price": 5.99,
-	"base_price": "1.69"
+	"ORDERS_30D": null
 }

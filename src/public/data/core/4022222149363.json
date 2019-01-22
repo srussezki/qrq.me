@@ -1,4 +1,5 @@
 {
+	"item_group": "Aufbewahrung",
 	"current_stock_003_halle_altstadt": 19,
 	"image": "/files/4022222149363.jpg",
 	"creation": "2018-02-14T16:00:24.813309",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 72,
 	"first_time_ordered_on_": "2018-02-06",
+	"ORDERS_7D": 5,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 185,
 	"item_name": "Kleiderbügel Samtoptik 10Er",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=cdfa7d0f-fadf-4d95-b0b1-36828b804a9b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4022222149363",
 	"item_code": "PP-000004635",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000004635",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Aufbewahrung",
+	"BARCODE": "4022222149363",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "3.49",
 	"current_gross_selling_price": 3.49,
-	"base_price": "3.49"
+	"ORDERS_30D": 32
 }

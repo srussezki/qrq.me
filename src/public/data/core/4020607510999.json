@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekoration",
 	"current_stock_003_halle_altstadt": 9,
 	"image": "/files/4020607510999.jpg",
 	"creation": "2018-08-31T17:15:42.696006",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 16,
 	"item_name": "Vase Aquarel 3sort H15 D9,5cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=721d983a-0344-45ad-9e0d-2f51d90f0d7f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4020607510999",
 	"item_code": "PP-000012957",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000012957",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekoration",
+	"BARCODE": "4020607510999",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 2.99,
-	"base_price": null
+	"ORDERS_30D": 3
 }

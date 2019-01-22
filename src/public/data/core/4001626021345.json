@@ -1,4 +1,5 @@
 {
+	"item_group": "Bettwaren",
 	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/4001626021345.jpg",
 	"creation": "2018-10-22T17:22:08.112761",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 34,
 	"item_name": "Bettenset Sleep&Dream Berlin 135x200cm",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=095962bb-be45-4daa-8cc3-882d0eda1178",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4001626021345",
 	"item_code": "PP-000014908",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000014908",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Bettwaren",
+	"BARCODE": "4001626021345",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "12.99",
 	"current_gross_selling_price": 12.99,
-	"base_price": "12.99"
+	"ORDERS_30D": 5
 }

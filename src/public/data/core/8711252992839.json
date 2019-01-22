@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 40,
+	"item_group": "Raucherbedarf",
+	"current_stock_003_halle_altstadt": 39,
 	"image": null,
 	"creation": "2018-02-13T18:48:49.744159",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 2,
 	"marketing_text": "Wecke den Putzteufel in Dir!",
+	"ORDERS_ALLTIME": 168,
 	"item_name": "Aschenbecher Push",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6150c298-b7a4-4e6e-b12a-48c406287bc2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252992839",
 	"item_code": "PP-000000486",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000000486",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "1",
-	"item_group": "Raucherbedarf",
+	"BARCODE": "8711252992839",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.79",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.79"
+	"ORDERS_30D": 17
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 14,
 	"image": "/files/8714627356854.jpg",
 	"creation": "2018-04-29T16:10:23.714846",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-29",
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel für die Kleinenin unserer App",
+	"ORDERS_ALLTIME": 98,
 	"item_name": "Putty in Mülleimer versch. Varianten",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=247a2d23-66dd-4a85-ac4e-96e753692a30",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627356854",
 	"item_code": "PP-000008237",
-	"current_stock_001_kaufpark_eiche": 28,
 	"name": "PP-000008237",
+	"current_stock_001_kaufpark_eiche": 28,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8714627356854",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 8
 }

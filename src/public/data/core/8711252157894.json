@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 10,
+	"item_group": "Sportflaschen",
+	"current_stock_003_halle_altstadt": 9,
 	"image": "/files/8711252157894.jpg",
 	"creation": "2018-02-14T16:00:31.641080",
 	"website_image": "/files/8711252157894.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 72,
 	"first_time_ordered_on_": "2018-02-02",
+	"ORDERS_7D": 5,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 276,
 	"item_name": "Trinkflasche 500ml",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e6746c23-45f6-4bc3-9c6d-e680acfe70cf",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252157894",
 	"item_code": "PP-000003395",
-	"current_stock_001_kaufpark_eiche": 24,
 	"name": "PP-000003395",
+	"current_stock_001_kaufpark_eiche": 24,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Sportflaschen",
+	"BARCODE": "8711252157894",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 38
 }

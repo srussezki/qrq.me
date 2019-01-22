@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/3600522471165.jpg",
 	"creation": "2018-02-13T18:53:59.282054",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-22",
+	"ORDERS_7D": 4,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 102,
 	"item_name": "L'Oreal Styling Paste 150ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3e457043-50ca-41ee-849c-2a51d50cbce0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3600522471165",
 	"item_code": "PP-000000596",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000000596",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "3600522471165",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 10
 }

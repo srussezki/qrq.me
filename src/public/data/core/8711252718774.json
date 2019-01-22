@@ -1,4 +1,5 @@
 {
+	"item_group": "Werkzeug",
 	"current_stock_003_halle_altstadt": 17,
 	"image": "/files/8711252718774.png",
 	"creation": "2018-02-13T18:49:12.871483",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 156,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 62,
 	"item_name": "Vorhängeschloss 40mm",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b762ddee-cdc4-4fee-9a04-08fa119acc3a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252718774",
 	"item_code": "PP-000000331",
-	"current_stock_001_kaufpark_eiche": 18,
 	"name": "PP-000000331",
+	"current_stock_001_kaufpark_eiche": 18,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Werkzeug",
+	"BARCODE": "8711252718774",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.49",
 	"current_gross_selling_price": 3.99,
-	"base_price": "4.49"
+	"ORDERS_30D": 2
 }

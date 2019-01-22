@@ -1,4 +1,5 @@
 {
+	"item_group": "Werkzeug",
 	"current_stock_003_halle_altstadt": 22,
 	"image": "/files/8719202254266.jpg",
 	"creation": "2018-02-14T09:14:23.399943",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 42,
 	"item_name": "Teppichmesserset 2-Teilig",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e93732cf-59a4-4653-b9a8-376b56eafb8f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202254266",
 	"item_code": "PP-000004409",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004409",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Werkzeug",
+	"BARCODE": "8719202254266",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.49"
+	"ORDERS_30D": 0
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 9,
+	"item_group": "Kerzen & -zubehör",
+	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/4008495435471.png",
 	"creation": "2018-02-13T18:47:48.089604",
 	"website_image": "/files/4008495435471.png",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-19",
+	"ORDERS_7D": 5,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 137,
 	"item_name": "Indro Vino Duftglas Kirsche",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6f254783-db4b-49bd-ac88-b2d044712605",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008495435471",
 	"item_code": "PP-000002412",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000002412",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 2,
 	"shelf_number": "5",
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": "4008495435471",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "1.35",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.35"
+	"ORDERS_30D": 10
 }

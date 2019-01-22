@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 13,
+	"item_group": "Sportaccessoires",
+	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/8711252050119.jpg",
 	"creation": "2018-02-13T18:50:28.815468",
 	"website_image": "/files/8711252050119.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 96,
 	"first_time_ordered_on_": "2017-11-28",
+	"ORDERS_7D": 4,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": 65,
 	"item_name": "Sport- / Reisetasche",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fc0abad4-01ab-4f34-ba16-931561941e4f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252050119",
 	"item_code": "PP-000001613",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000001613",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Sportaccessoires",
+	"BARCODE": "8711252050119",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "5.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 7
 }

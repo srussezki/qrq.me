@@ -1,4 +1,5 @@
 {
+	"item_group": "Stifte",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4008118621366.jpg",
 	"creation": "2018-04-12T14:45:01.608634",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-12",
+	"ORDERS_7D": 2,
 	"marketing_text": "Billiger gibts nur in der App!",
+	"ORDERS_ALLTIME": 32,
 	"item_name": "Füllhalter Tornado M-Feder Gummigriffzone",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=438b4e57-b7d7-47ad-ad88-829bbd31219c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008118621366",
 	"item_code": "PP-000007200",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000007200",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Stifte",
+	"BARCODE": "4008118621366",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "4.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 6
 }

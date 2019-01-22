@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Mädchen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/0887961216820.png",
 	"creation": "2018-08-20T16:45:27.600108",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Das Abenteuer geht weiter in unserer App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Mattel Barbie Dreamtopia Fee",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4460c01a-60a3-4a2f-8786-51397c9ab989",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000012664",
 	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000012664",
+	"_timestamp": "20190122 150229.478",
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Spielwaren Mädchen",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "10.99",
 	"current_gross_selling_price": 10.99,
-	"base_price": "10.99"
+	"ORDERS_30D": null
 }

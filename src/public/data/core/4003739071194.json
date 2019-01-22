@@ -1,4 +1,5 @@
 {
+	"item_group": "BBQ",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4003739071194.jpg",
 	"creation": "2018-03-14T16:33:31.644272",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-13",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 41,
 	"item_name": "Grillprofi Holzkohle 3kg",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6e454084-5dfb-4b15-9c4f-75dccb55363c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4003739071194",
 	"item_code": "PP-000005347",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000005347",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "BBQ",
+	"BARCODE": "4003739071194",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.16",
 	"current_gross_selling_price": 2.49,
-	"base_price": "1.16"
+	"ORDERS_30D": 0
 }

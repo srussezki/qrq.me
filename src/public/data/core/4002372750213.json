@@ -1,4 +1,5 @@
 {
+	"item_group": "Hefte & Blöcke",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4002372750213.jpg",
 	"creation": "2018-03-23T21:05:38.509046",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-23",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 15,
 	"item_name": "Karteikarten Kariert Weiss A6 100stk",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ca496ed6-ba29-403d-8031-f2ef822230c9",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002372750213",
 	"item_code": "PP-000006289",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006289",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hefte & Blöcke",
+	"BARCODE": "4002372750213",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.01",
 	"current_gross_selling_price": 1.69,
-	"base_price": "0.01"
+	"ORDERS_30D": 0
 }

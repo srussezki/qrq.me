@@ -1,12 +1,15 @@
 {
+	"item_group": "Bilder- & rahmen",
 	"current_stock_003_halle_altstadt": 13,
 	"image": "/files/8717794820630.jpg",
 	"creation": "2018-09-27T13:47:22.335970",
 	"website_image": "/files/8717794820630.jpg",
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 12,
+	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 89,
 	"item_name": "Platzmatte Polyester 38cm drm.",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=21786032-2b1b-4d7a-a783-a6555bddae85",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8717794820630",
 	"item_code": "PP-000014054",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000014054",
+	"current_stock_001_kaufpark_eiche": 18,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Bilder- & rahmen",
+	"BARCODE": "8717794820630",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.79",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.79"
+	"ORDERS_30D": 28
 }

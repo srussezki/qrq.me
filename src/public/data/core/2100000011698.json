@@ -1,4 +1,5 @@
 {
+	"item_group": "Schlüsselanhänger",
 	"current_stock_003_halle_altstadt": 20,
 	"image": "/files/2100000011698.jpg",
 	"creation": "2018-11-27T12:24:37.382172",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 3,
 	"item_name": "Schlüsselanhänger Babyfigur",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "2100000011698",
 	"item_code": "PP-000016092",
-	"current_stock_001_kaufpark_eiche": 18,
 	"name": "PP-000016092",
+	"current_stock_001_kaufpark_eiche": 17,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Schlüsselanhänger",
+	"BARCODE": "2100000011698",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 3
 }

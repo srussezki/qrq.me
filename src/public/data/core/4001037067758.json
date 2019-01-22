@@ -1,4 +1,5 @@
 {
+	"item_group": "Malerbedarf",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T18:57:54.877009",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-04",
+	"ORDERS_7D": 0,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 6,
 	"item_name": "Flamingo Acryl-Zinkspray Grau",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=933fd807-82ab-4577-930f-9902ff3a49d7",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4001037067758",
 	"item_code": "PP-000002809",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000002809",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Malerbedarf",
+	"BARCODE": "4001037067758",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.24",
 	"current_gross_selling_price": 4.99,
-	"base_price": "1.24"
+	"ORDERS_30D": 0
 }

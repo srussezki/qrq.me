@@ -1,4 +1,5 @@
 {
+	"item_group": "Kostüme",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4002162798715.jpg",
 	"creation": "2018-02-14T16:04:27.212937",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-26",
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 2,
 	"item_name": "Dino Cape Größe 92",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ec997b8d-7d71-4eff-b65e-6f6a01ffa631",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002162798715",
 	"item_code": "PP-000004028",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004028",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kostüme",
+	"BARCODE": "4002162798715",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 9.99,
-	"base_price": "2.49"
+	"ORDERS_30D": 0
 }

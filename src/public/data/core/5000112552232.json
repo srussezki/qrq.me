@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 367,
+	"item_group": "Getränke",
+	"current_stock_003_halle_altstadt": 363,
 	"image": "/files/5000112552232.png",
 	"creation": "2018-02-14T16:04:34.429003",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-25",
+	"ORDERS_7D": 45,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 2013,
 	"item_name": "Coca Cola Zero 0,5l Pet",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=75067fd5-38cf-4d10-ba4b-44e9100ca64f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5000112552232",
 	"item_code": "PP-000003774",
-	"current_stock_001_kaufpark_eiche": 453,
 	"name": "PP-000003774",
+	"current_stock_001_kaufpark_eiche": 453,
+	"ORDERS_TODAY": 3,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "5000112552232",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.49",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.49"
+	"ORDERS_30D": 200
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Malerbedarf",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T19:01:16.463496",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-04",
+	"ORDERS_7D": 0,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 48,
 	"item_name": "Clever Sparen Dichtm. Silicon Transparent",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0d4d1ec1-4cc1-4cf4-be3c-6beb051a3e60",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4050062000100",
 	"item_code": "PP-000002757",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000002757",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "5",
-	"item_group": "Malerbedarf",
+	"BARCODE": "4050062000100",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.83",
 	"current_gross_selling_price": 2.49,
-	"base_price": "0.83"
+	"ORDERS_30D": 0
 }

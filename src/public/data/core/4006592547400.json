@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 37,
 	"image": "/files/4006592547400.jpg",
 	"creation": "2018-09-10T12:23:29.150698",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 82,
 	"item_name": "Glibbi Knisti 3er Pack",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c5f3d565-87c5-4e6e-b2d7-d9e911fefd6a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4006592547400",
 	"item_code": "PP-000013187",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000013187",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "4006592547400",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 15
 }

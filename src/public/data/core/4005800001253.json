@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/4005800001253.jpg",
 	"creation": "2018-02-13T18:53:58.933787",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 12,
 	"first_time_ordered_on_": "2017-11-22",
+	"ORDERS_7D": 2,
 	"marketing_text": "Noch mehr Beauty auf factorymarket.de",
+	"ORDERS_ALLTIME": 84,
 	"item_name": "Nivea Creme 250ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8bbb0658-758a-42a7-9c91-0d0b2f7778f7",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4005800001253",
 	"item_code": "PP-000000597",
-	"current_stock_001_kaufpark_eiche": 37,
 	"name": "PP-000000597",
+	"current_stock_001_kaufpark_eiche": 37,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "4",
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "4005800001253",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 3
 }

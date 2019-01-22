@@ -1,4 +1,5 @@
 {
+	"item_group": "Kekse & Backwaren",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4250448306431.jpg",
 	"creation": "2018-05-22T14:22:56.347660",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Alles für die Naschkatzen bei factorymarket",
+	"ORDERS_ALLTIME": 8,
 	"item_name": "Dekoback Rollfondant Rosa 250g",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a0787230-1fd5-4a1f-822d-f5167ef7d775",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4250448306431",
 	"item_code": "PP-000009011",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000009011",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kekse & Backwaren",
+	"BARCODE": "4250448306431",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 0
 }

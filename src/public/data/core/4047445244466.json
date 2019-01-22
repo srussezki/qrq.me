@@ -1,4 +1,5 @@
 {
+	"item_group": "Strümpfe",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-08-10T12:04:09.191632",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 8,
 	"marketing_text": "App, App Hura! Noch mehr Auswahl!",
+	"ORDERS_ALLTIME": 60,
 	"item_name": "Männer Socken Streifen",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7a1337e3-f6bc-40b1-aa86-9e029bedcc52",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4047445244466",
 	"item_code": "PP-000012485",
-	"current_stock_001_kaufpark_eiche": 30,
 	"name": "PP-000012485",
+	"current_stock_001_kaufpark_eiche": 30,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Strümpfe",
+	"BARCODE": "4047445244466",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "4.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 28
 }

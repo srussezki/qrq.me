@@ -1,4 +1,5 @@
 {
+	"item_group": "Getränke",
 	"current_stock_003_halle_altstadt": 8,
 	"image": "/files/4052700012728.jpg",
 	"creation": "2018-07-26T12:44:16.391539",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 26,
 	"item_name": "Krueger Fruechtetee Wildfrucht 400G",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5827ce66-22ef-4a17-84b3-21853fa96353",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4052700012728",
 	"item_code": "PP-000011623",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000011623",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "4052700012728",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 1.59,
-	"base_price": null
+	"ORDERS_30D": 5
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 25,
+	"item_group": "Vorratsdosen",
+	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8718158981219.jpg",
 	"creation": "2018-03-23T21:08:11.088760",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 72,
 	"first_time_ordered_on_": "2018-03-15",
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 94,
 	"item_name": "Vorratsdose 20X13Cm Versch. Varianten",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158981219",
 	"item_code": "PP-000005948",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000005948",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Vorratsdosen",
+	"BARCODE": "8718158981219",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 5
 }

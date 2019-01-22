@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 24,
+	"item_group": "Dekorative Kosmetik",
+	"current_stock_003_halle_altstadt": 23,
 	"image": "/files/8718924879085.jpg",
 	"creation": "2018-10-16T11:51:06.013448",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 162,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 6,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 98,
 	"item_name": "Highlight Palette ",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3d3df356-321e-49b0-a53b-582ed6665a98",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718924879085",
 	"item_code": "PP-000014790",
-	"current_stock_001_kaufpark_eiche": 23,
 	"name": "PP-000014790",
+	"current_stock_001_kaufpark_eiche": 23,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekorative Kosmetik",
+	"BARCODE": "8718924879085",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 24
 }

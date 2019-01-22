@@ -1,4 +1,5 @@
 {
+	"item_group": "Hunde",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8711295008351.jpg",
 	"creation": "2018-07-22T21:42:58.141563",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Alles für Hund, Katze, Maus gibts auch online",
+	"ORDERS_ALLTIME": 47,
 	"item_name": "Zerrseil mit Griff und Ball",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=80de3f38-ef52-45a0-969b-28560fc23ca1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295008351",
 	"item_code": "PP-000011351",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000011351",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hunde",
+	"BARCODE": "8711295008351",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": null,
 	"current_gross_selling_price": 1.49,
-	"base_price": null
+	"ORDERS_30D": 7
 }

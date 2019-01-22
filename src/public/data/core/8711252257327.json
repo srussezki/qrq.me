@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 31,
+	"item_group": "Reinigung hart",
+	"current_stock_003_halle_altstadt": 30,
 	"image": "/files/8711252257327.jpg",
 	"creation": "2018-03-14T16:33:18.622853",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 2,
 	"marketing_text": "Wecke den Putzteufel in Dir!",
+	"ORDERS_ALLTIME": 79,
 	"item_name": "Reinigungsbürste Rechteck",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252257327",
 	"item_code": "PP-000005658",
-	"current_stock_001_kaufpark_eiche": 15,
 	"name": "PP-000005658",
+	"current_stock_001_kaufpark_eiche": 15,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Reinigung hart",
+	"BARCODE": "8711252257327",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 12
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 8,
+	"item_group": "Kekse & Backwaren",
+	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/4002809025129.jpg",
 	"creation": "2018-07-25T13:35:45.491309",
 	"website_image": "/files/4002809025129.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 27,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Für den Hunger zwischendurch und danach",
+	"ORDERS_ALLTIME": 22,
 	"item_name": "Dekor Sweet Hearts",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=43e0fca9-9cae-49c7-b263-79fe26d03e98",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002809025129",
 	"item_code": "PP-000011481",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000011481",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Kekse & Backwaren",
+	"BARCODE": "4002809025129",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.29",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.29"
+	"ORDERS_30D": 3
 }

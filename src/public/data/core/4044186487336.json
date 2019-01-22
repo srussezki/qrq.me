@@ -1,4 +1,5 @@
 {
+	"item_group": "Schreibwaren Schule",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/4044186487336.png",
 	"creation": "2018-08-02T11:42:57.878965",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 32,
 	"item_name": "Lineal, biegsam, 15 cm, mit Motiv",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=161688f3-2dfc-4da3-8f0d-6429271785e2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4044186487336",
 	"item_code": "PP-000012216",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000012216",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schreibwaren Schule",
+	"BARCODE": "4044186487336",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 10
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 12,
+	"item_group": "Kerzen & -zubehör",
+	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/4008495453130.png",
 	"creation": "2018-02-13T18:54:50.626695",
 	"website_image": "/files/4008495453130.png",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": "2017-11-19",
+	"ORDERS_7D": 2,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 2,
 	"item_name": "Duft-Votivkerzen 40/50 Vanille",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f939569b-881c-44b9-ab33-0cda7140d40d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008495453130",
 	"item_code": "PP-000002429",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000002429",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": "4008495453130",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.39",
 	"current_gross_selling_price": 0.39,
-	"base_price": "0.39"
+	"ORDERS_30D": 2
 }

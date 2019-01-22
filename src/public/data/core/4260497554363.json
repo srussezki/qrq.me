@@ -1,4 +1,5 @@
 {
+	"item_group": "Damenbekleidung",
 	"current_stock_003_halle_altstadt": 1,
 	"image": "/files/4260497554363.jpg",
 	"creation": "2018-10-08T15:00:29.070549",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": 2,
 	"item_name": "Fruit of the Loom Damen T-Shirts 2er L w/r",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4ab08efd-3db3-4699-b2dd-6ba27483076b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4260497554363",
 	"item_code": "PP-000014643",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000014643",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Damenbekleidung",
+	"BARCODE": "4260497554363",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 1
 }

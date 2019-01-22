@@ -1,4 +1,5 @@
 {
+	"item_group": "Glas",
 	"current_stock_003_halle_altstadt": 15,
 	"image": "/files/8718158538895.jpg",
 	"creation": "2018-02-14T09:14:12.233950",
@@ -6,12 +7,14 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 60,
 	"first_time_ordered_on_": "2018-02-09",
+	"ORDERS_7D": 10,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 96,
 	"item_name": "Becherset 6Tlg Bunt Kunststoff",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=eba9c0aa-fccc-473d-b223-69b43a5dee9d",
 	"is_sales_item": 1,
-	"current_stock_002_halle_neustadt": 16,
+	"current_stock_002_halle_neustadt": 7,
 	"rack_number": null,
 	"item_group_level_0": null,
 	"base_price_text": "1.99 € je 1 Stück",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158538895",
 	"item_code": "PP-000004317",
-	"current_stock_001_kaufpark_eiche": 15,
 	"name": "PP-000004317",
+	"current_stock_001_kaufpark_eiche": 15,
+	"ORDERS_TODAY": 9,
 	"shelf_number": null,
-	"item_group": "Glas",
+	"BARCODE": "8718158538895",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.99"
+	"ORDERS_30D": 20
 }

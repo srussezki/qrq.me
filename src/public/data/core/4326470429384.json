@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 14,
+	"item_group": "Autozubehör",
+	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/4326470429384.jpg",
 	"creation": "2018-02-13T18:51:35.480626",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-27",
+	"ORDERS_7D": 11,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 227,
 	"item_name": "Auto Eiskratzer XXL",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f5b312ce-65fd-4504-8969-81df8025d0c4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470429384",
 	"item_code": "PP-000001057",
-	"current_stock_001_kaufpark_eiche": 39,
 	"name": "PP-000001057",
+	"current_stock_001_kaufpark_eiche": 39,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "1",
-	"item_group": "Autozubehör",
+	"BARCODE": "4326470429384",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "1.19",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.19"
+	"ORDERS_30D": 52
 }

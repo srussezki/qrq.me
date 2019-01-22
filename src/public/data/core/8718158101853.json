@@ -1,4 +1,5 @@
 {
+	"item_group": "Autozubehör",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8718158101853.jpg",
 	"creation": "2018-03-23T21:08:14.934185",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-15",
+	"ORDERS_7D": 0,
 	"marketing_text": "Wecke den Putzteufel in Dir!",
+	"ORDERS_ALLTIME": 97,
 	"item_name": "Aschenbecher Glow in the Dark",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=cc9159fd-b031-4fc0-b82f-f14678328943",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158101853",
 	"item_code": "PP-000006036",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006036",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Autozubehör",
+	"BARCODE": "8718158101853",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.04",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.04"
+	"ORDERS_30D": 0
 }

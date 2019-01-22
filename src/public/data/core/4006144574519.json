@@ -1,4 +1,5 @@
 {
+	"item_group": "Hefte & Blöcke",
 	"current_stock_003_halle_altstadt": 16,
 	"image": "/files/4006144574519.jpg",
 	"creation": "2018-11-07T12:11:00.852026",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 10,
 	"item_name": "Oktavheft Landre A6 liniert, 32 Blatt",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=19790032-e031-4d46-8e93-fc7ed8c0c6dc",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4006144574519",
 	"item_code": "PP-000015722",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015722",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hefte & Blöcke",
+	"BARCODE": "4006144574519",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 5
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Garten",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711252958040.jpg",
 	"creation": "2018-02-14T16:04:34.592639",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-02",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 54,
 	"item_name": "Gartenzwerg",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=068c985c-4ac8-49c6-b3fd-05726f2f8f91",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252958040",
 	"item_code": "PP-000002057",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000002057",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Garten",
+	"BARCODE": "8711252958040",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 0
 }

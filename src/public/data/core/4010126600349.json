@@ -1,4 +1,5 @@
 {
+	"item_group": "Autopflege",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-08-07T16:43:26.692207",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Alles Rund um das Auto auch online",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Antibeschlagtuch für Autoscheiben",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=15830e91-9030-4921-a554-5abadf72e281",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4010126600349",
 	"item_code": "PP-000012106",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000012106",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Autopflege",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": null
 }

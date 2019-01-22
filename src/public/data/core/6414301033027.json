@@ -1,4 +1,5 @@
 {
+	"item_group": "Servietten",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/6414301033027.jpg",
 	"creation": "2018-03-23T21:05:56.445706",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-19",
+	"ORDERS_7D": 0,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 73,
 	"item_name": "Servietten m. Tulpen 20stk",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=744dfee4-0b0b-4c96-a58f-fea803370375",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "6414301033027",
 	"item_code": "PP-000006074",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000006074",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Servietten",
+	"BARCODE": "6414301033027",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.04",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.04"
+	"ORDERS_30D": 4
 }

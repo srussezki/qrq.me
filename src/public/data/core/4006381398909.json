@@ -1,4 +1,5 @@
 {
+	"item_group": "Stifte",
 	"current_stock_003_halle_altstadt": 17,
 	"image": "/files/4006381398909.jpg",
 	"creation": "2018-11-07T12:10:34.541914",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 4,
 	"item_name": "Bleistift  2er HB  Rechts Stabilo Easygraph",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c3d87687-a716-4182-abd3-97c69a4f1f16",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4006381398909",
 	"item_code": "PP-000015593",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015593",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Stifte",
+	"BARCODE": "4006381398909",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 1
 }

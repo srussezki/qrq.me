@@ -1,4 +1,5 @@
 {
+	"item_group": "Taschen & Rucksäcke",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5055114298664.jpg",
 	"creation": "2018-06-22T15:27:55.329620",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 8,
 	"item_name": "Avengers Rucksack 27x33cm",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=bb2dfdf4-f7ba-4f88-86b4-be86f0ba550e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5055114298664",
 	"item_code": "PP-000010211",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000010211",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Taschen & Rucksäcke",
+	"BARCODE": "5055114298664",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 0
 }

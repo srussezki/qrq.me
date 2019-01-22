@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekokissen",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/4001626030880.jpg",
 	"creation": "2018-08-24T09:17:37.664768",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 25,
 	"item_name": "Kissenhülle 48x48 cm, schwarz",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=49990c5a-11d7-457e-a3ae-55f5c4f95230",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4001626030880",
 	"item_code": "PP-000012739",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000012739",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekokissen",
+	"BARCODE": "4001626030880",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": null,
 	"current_gross_selling_price": 3.99,
-	"base_price": null
+	"ORDERS_30D": 4
 }

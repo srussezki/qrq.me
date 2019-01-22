@@ -1,4 +1,5 @@
 {
+	"item_group": "Getränke",
 	"current_stock_003_halle_altstadt": 77,
 	"image": "/files/8718612000067.jpg",
 	"creation": "2018-02-14T16:00:27.556875",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 162,
 	"first_time_ordered_on_": "2018-01-05",
+	"ORDERS_7D": 9,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 1141,
 	"item_name": "Arizona Ice Tea Peach 0,5l",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2502f77b-3c09-4807-9978-2c39954cdb21",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718612000067",
 	"item_code": "PP-000003770",
-	"current_stock_001_kaufpark_eiche": 14,
 	"name": "PP-000003770",
+	"current_stock_001_kaufpark_eiche": 14,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "8718612000067",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 23
 }

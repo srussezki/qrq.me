@@ -1,4 +1,5 @@
 {
+	"item_group": "Feuerwerk",
 	"current_stock_003_halle_altstadt": 13,
 	"image": "/files/4001266540466.jpg",
 	"creation": "2018-10-15T15:55:13.330204",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 48,
 	"item_name": "K-Challenger 30 Schuss",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9c27443f-cbbf-4b52-ab69-90f788b7e5dc",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4001266540466",
 	"item_code": "PP-000014776",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000014776",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Feuerwerk",
+	"BARCODE": "4001266540466",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 48
 }

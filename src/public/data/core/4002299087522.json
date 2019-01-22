@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4002299087522.jpg",
 	"creation": "2018-02-14T16:04:30.890219",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-26",
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 1,
 	"item_name": "Aqua Make Up Rot",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=34c16297-16b5-443e-ab67-998e54eedba6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002299087522",
 	"item_code": "PP-000003979",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000003979",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": "4002299087522",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 1.79,
-	"base_price": "0.89"
+	"ORDERS_30D": 0
 }

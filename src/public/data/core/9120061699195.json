@@ -1,4 +1,5 @@
 {
+	"item_group": "Decken",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T19:00:28.673799",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-18",
+	"ORDERS_7D": 0,
 	"marketing_text": "Billiger gehts immer, mehr Artikel in der App",
+	"ORDERS_ALLTIME": 272,
 	"item_name": "Microfaser Supersoft Decke",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ad1fa082-9986-47c2-a2b7-5ac6bbca3426",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "9120061699195",
 	"item_code": "PP-000003280",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000003280",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Decken",
+	"BARCODE": "9120061699195",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 0
 }

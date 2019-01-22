@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8719202407419.jpg",
 	"creation": "2018-02-13T18:57:15.983345",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-01",
+	"ORDERS_7D": null,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": null,
 	"item_name": "Rührschüssel 3,5l",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=209b542b-a8b1-437a-8a03-aa5306297671",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202407419",
 	"item_code": "PP-000000987",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000000987",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": "0",
-	"item_group": "Küchenhelfer",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "4.49",
 	"current_gross_selling_price": 3.49,
-	"base_price": "4.49"
+	"ORDERS_30D": null
 }

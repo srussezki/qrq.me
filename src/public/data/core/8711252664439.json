@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 51,
+	"item_group": "Küchenhelfer",
+	"current_stock_003_halle_altstadt": 49,
 	"image": "/files/8711252664439.png",
 	"creation": "2018-02-13T18:49:14.627742",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 240,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 14,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 191,
 	"item_name": "Spühlbeckenfilter",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=32f12a85-ee04-4836-ab96-d3908a9be0c9",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252664439",
 	"item_code": "PP-000000318",
-	"current_stock_001_kaufpark_eiche": 62,
 	"name": "PP-000000318",
+	"current_stock_001_kaufpark_eiche": 62,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "Küchenhelfer",
+	"BARCODE": "8711252664439",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 33
 }

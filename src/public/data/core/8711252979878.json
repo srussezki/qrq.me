@@ -1,4 +1,5 @@
 {
+	"item_group": "Reinigung hart",
 	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/8711252979878.jpg",
 	"creation": "2018-02-13T18:49:06.951599",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 1,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 85,
 	"item_name": "Eimer",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=47a33a52-ac1a-4886-8aaf-636dc0f5bec5",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252979878",
 	"item_code": "PP-000001743",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000001743",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Reinigung hart",
+	"BARCODE": "8711252979878",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.69",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.69"
+	"ORDERS_30D": 6
 }

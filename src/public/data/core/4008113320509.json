@@ -1,4 +1,5 @@
 {
+	"item_group": "Hefte & Blöcke",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4008113320509.jpg",
 	"creation": "2018-04-12T14:45:00.280328",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 10,
 	"first_time_ordered_on_": "2018-04-12",
+	"ORDERS_7D": 1,
 	"marketing_text": "Alles für die Schule und das Büro bei uns",
+	"ORDERS_ALLTIME": 47,
 	"item_name": "Heft Lineatur 05 FSC Mix A5 16Blatt",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c4e8ab69-8d33-43c7-ab71-fcd5d9d2c14f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008113320509",
 	"item_code": "PP-000007167",
-	"current_stock_001_kaufpark_eiche": 19,
 	"name": "PP-000007167",
+	"current_stock_001_kaufpark_eiche": 19,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hefte & Blöcke",
+	"BARCODE": "4008113320509",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.29",
 	"current_gross_selling_price": 0.29,
-	"base_price": "0.29"
+	"ORDERS_30D": 6
 }

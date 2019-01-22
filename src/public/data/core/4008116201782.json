@@ -1,4 +1,5 @@
 {
+	"item_group": "Grußkarten",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4008116201782.jpg",
 	"creation": "2018-08-15T14:12:56.772418",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Für Bürohelden und Heldinnen!",
+	"ORDERS_ALLTIME": 1,
 	"item_name": "Grußkarten \"Jugendweihe\"",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c7c1ac5e-9498-4e90-9646-c2563d59c522",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008116201782",
 	"item_code": "PP-000012601",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000012601",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Grußkarten",
+	"BARCODE": "4008116201782",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 0.59,
-	"base_price": null
+	"ORDERS_30D": 0
 }

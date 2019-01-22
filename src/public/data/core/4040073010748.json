@@ -1,12 +1,15 @@
 {
+	"item_group": "Kinderbekleidung",
 	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/4040073010748.jpg",
 	"creation": "2018-08-24T13:32:17.730456",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 12,
+	"current_stock_wh_ludwigsfelde": 10,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 2,
 	"item_name": "Mädchen Unterhemd 2er Pack 158-164",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5586527a-8010-4685-97f0-3aa002bbb502",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4040073010748",
 	"item_code": "PP-000012824",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000012824",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kinderbekleidung",
+	"BARCODE": "4040073010748",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.49",
 	"current_gross_selling_price": 1.99,
-	"base_price": "3.49"
+	"ORDERS_30D": 2
 }

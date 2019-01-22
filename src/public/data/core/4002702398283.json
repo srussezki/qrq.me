@@ -1,4 +1,5 @@
 {
+	"item_group": "Strümpfe",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4002702398283.png",
 	"creation": "2018-05-25T15:28:11.012561",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Das perfekte Outfit gibts auch online",
+	"ORDERS_ALLTIME": 2,
 	"item_name": "disée green Legging 60d Micro petrol 42-44",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=271693c5-2974-4aab-bcce-ff54ef061ccb",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002702398283",
 	"item_code": "PP-000009161",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000009161",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Strümpfe",
+	"BARCODE": "4002702398283",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 0
 }

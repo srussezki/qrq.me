@@ -1,4 +1,5 @@
 {
+	"item_group": "Autopflege",
 	"current_stock_003_halle_altstadt": 16,
 	"image": "/files/4326470426819.jpg",
 	"creation": "2018-02-13T18:51:33.370446",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": "2017-12-19",
+	"ORDERS_7D": 0,
 	"marketing_text": "Alles Rund um das Auto auch online",
+	"ORDERS_ALLTIME": 101,
 	"item_name": "Auto Felgenreiniger",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=993e668c-632a-45ba-894c-d105098b3aa0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470426819",
 	"item_code": "PP-000001064",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000001064",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "5",
-	"item_group": "Autopflege",
+	"BARCODE": "4326470426819",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.278",
 	"current_gross_selling_price": 1.29,
-	"base_price": "0.278"
+	"ORDERS_30D": 2
 }

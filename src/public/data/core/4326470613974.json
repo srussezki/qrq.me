@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 88,
 	"image": "/files/4326470613974.jpg",
 	"creation": "2018-02-13T18:50:49.153856",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 100,
 	"first_time_ordered_on_": "2018-11-02",
+	"ORDERS_7D": 7,
 	"marketing_text": "Pflege für Sie & Ihn in der App",
+	"ORDERS_ALLTIME": 142,
 	"item_name": "Handcreme",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f408e73c-c7a7-41ac-bbec-1c34c00ce2bc",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470613974",
 	"item_code": "PP-000001281",
-	"current_stock_001_kaufpark_eiche": 83,
 	"name": "PP-000001281",
+	"current_stock_001_kaufpark_eiche": 82,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "3",
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "4326470613974",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 16
 }

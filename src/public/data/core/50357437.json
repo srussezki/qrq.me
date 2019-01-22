@@ -1,4 +1,5 @@
 {
+	"item_group": "Süßigkeiten & Kaugummi",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/50357437.jpg",
 	"creation": "2018-04-19T18:07:54.860130",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-13",
+	"ORDERS_7D": 0,
 	"marketing_text": "Für den Hunger zwischendurch und danach",
+	"ORDERS_ALLTIME": 67,
 	"item_name": "Fishermans Friend Cherry o.Zucker 24Stk",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c5dd9be4-7045-4d06-a240-042e53a773f5",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "50357437",
 	"item_code": "PP-000007434",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000007434",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "50357437",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 5
 }

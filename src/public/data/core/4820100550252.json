@@ -1,4 +1,5 @@
 {
+	"item_group": "Kekse & Backwaren",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4820100550252.png",
 	"creation": "2018-02-13T18:54:16.447338",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-17",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 317,
 	"item_name": "Crispy Wafers 135gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=401abd5c-4bc3-4707-a769-0d674995d99c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4820100550252",
 	"item_code": "PP-000000535",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000000535",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1,2,3,4,5,6",
-	"item_group": "Kekse & Backwaren",
+	"BARCODE": "4820100550252",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.1",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.1"
+	"ORDERS_30D": 0
 }

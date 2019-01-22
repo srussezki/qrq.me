@@ -1,4 +1,5 @@
 {
+	"item_group": "Werkzeug",
 	"current_stock_003_halle_altstadt": 1,
 	"image": "/files/4326470402653.jpg",
 	"creation": "2018-02-13T18:51:08.592719",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-27",
+	"ORDERS_7D": 0,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 261,
 	"item_name": "Messer Universal",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=14b1cf5e-d31b-4a30-83fc-a3f3e4f44565",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470402653",
 	"item_code": "PP-000001182",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000001182",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Werkzeug",
+	"BARCODE": "4326470402653",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.69",
 	"current_gross_selling_price": 0.69,
-	"base_price": "0.69"
+	"ORDERS_30D": 0
 }

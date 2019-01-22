@@ -1,4 +1,5 @@
 {
+	"item_group": "Kleinmöbel",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4047445241694.jpg",
 	"creation": "2018-04-09T09:25:42.838833",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-05",
+	"ORDERS_7D": 0,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 5,
 	"item_name": "Baumstamm Hocker",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ab3d5253-cf6d-4738-8c70-4ba75d8432bc",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4047445241694",
 	"item_code": "PP-000006835",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000006835",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kleinmöbel",
+	"BARCODE": "4047445241694",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "12.99",
 	"current_gross_selling_price": 12.99,
-	"base_price": "12.99"
+	"ORDERS_30D": 0
 }

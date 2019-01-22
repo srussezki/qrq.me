@@ -1,4 +1,5 @@
 {
+	"item_group": "Bilder- & rahmen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T19:00:10.650723",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-22",
+	"ORDERS_7D": 0,
 	"marketing_text": "Pimp your Home, auf factorymarket.de",
+	"ORDERS_ALLTIME": 48,
 	"item_name": "Fotoklammer",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e1af195d-6e76-48b4-8533-8e82f14daed1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202147476",
 	"item_code": "PP-000003125",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000003125",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Bilder- & rahmen",
+	"BARCODE": "8719202147476",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 0
 }

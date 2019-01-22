@@ -1,4 +1,5 @@
 {
+	"item_group": "Vorratsdosen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-09-24T17:35:19.429439",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 59,
 	"item_name": "Dose wiederverschließbar rechteckig",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=71635417-a9da-4fc1-9df5-52c1be9bf8d0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8429429179302",
 	"item_code": "PP-000013968",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000013968",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Vorratsdosen",
+	"BARCODE": "8429429179302",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 11
 }

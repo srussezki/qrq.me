@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekoration",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4032037507715.jpg",
 	"creation": "2018-04-09T09:25:38.823480",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-05",
+	"ORDERS_7D": 0,
 	"marketing_text": "Pimp your Home",
+	"ORDERS_ALLTIME": 9,
 	"item_name": "Schmuckhalter Bunt ca. 8cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f60a1042-8cd7-4396-9561-4797e2253a01",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4032037507715",
 	"item_code": "PP-000006711",
-	"current_stock_001_kaufpark_eiche": 39,
 	"name": "PP-000006711",
+	"current_stock_001_kaufpark_eiche": 39,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekoration",
+	"BARCODE": "4032037507715",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 1.99,
-	"base_price": "2.49"
+	"ORDERS_30D": 1
 }

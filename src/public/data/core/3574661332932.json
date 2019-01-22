@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/3574661332932.png",
 	"creation": "2018-02-14T16:00:24.988566",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-08",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 49,
 	"item_name": "Bebe Reinigungslotion/Gesichtswasser 200ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=570b3506-5c97-40d9-b09d-7c6c4ae5f0db",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3574661332932",
 	"item_code": "PP-000004276",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004276",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "3574661332932",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 0
 }

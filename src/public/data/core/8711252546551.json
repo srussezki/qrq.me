@@ -1,4 +1,5 @@
 {
+	"item_group": "Autopflege",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8711252546551.jpg",
 	"creation": "2018-02-14T09:13:48.427424",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-22",
+	"ORDERS_7D": 3,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 161,
 	"item_name": "Lufterfrischer",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1c042fe1-c685-40e1-a63d-baa3f25635d0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252546551",
 	"item_code": "PP-000001683",
-	"current_stock_001_kaufpark_eiche": 25,
 	"name": "PP-000001683",
+	"current_stock_001_kaufpark_eiche": 25,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Autopflege",
+	"BARCODE": "8711252546551",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 10
 }

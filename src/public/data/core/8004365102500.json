@@ -1,4 +1,5 @@
 {
+	"item_group": "Süßigkeiten & Kaugummi",
 	"current_stock_003_halle_altstadt": 118,
 	"image": "/files/8004365102500.png",
 	"creation": "2018-02-13T18:54:16.079578",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 864,
 	"first_time_ordered_on_": "2017-11-17",
+	"ORDERS_7D": 11,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 448,
 	"item_name": "Incap Menta 300gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c5646109-0eba-43cf-9762-c6ed57063d91",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8004365102500",
 	"item_code": "PP-000000536",
-	"current_stock_001_kaufpark_eiche": 65,
 	"name": "PP-000000536",
+	"current_stock_001_kaufpark_eiche": 62,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "5",
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "8004365102500",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "0.39",
 	"current_gross_selling_price": 1.19,
-	"base_price": "0.39"
+	"ORDERS_30D": 29
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Reinigung hart",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711252258164.png",
 	"creation": "2018-02-13T18:57:38.746517",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 0,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 47,
 	"item_name": "Treteimer Edelstahl 12l",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7c09cbd8-6c2d-4c56-94d1-363589789c91",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252258164",
 	"item_code": "PP-000003405",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000003405",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Reinigung hart",
+	"BARCODE": "8711252258164",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "6.99",
 	"current_gross_selling_price": 12.99,
-	"base_price": "6.99"
+	"ORDERS_30D": 0
 }

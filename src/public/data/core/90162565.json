@@ -1,4 +1,5 @@
 {
+	"item_group": "Getränke",
 	"current_stock_003_halle_altstadt": 1335,
 	"image": "/files/90162565.jpg",
 	"creation": "2018-02-13T17:45:16.555181",
@@ -6,12 +7,14 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-13",
+	"ORDERS_7D": 103,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 9520.89,
 	"item_name": "Red Bull 250ml",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=97b60148-a527-45d4-b470-d6d458cfd84c",
 	"is_sales_item": 1,
-	"current_stock_002_halle_neustadt": 3464,
+	"current_stock_002_halle_neustadt": 3463,
 	"rack_number": "311",
 	"item_group_level_0": null,
 	"base_price_text": "1.09 € je 100 ml",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "90162565",
 	"item_code": "PP-000002299",
-	"current_stock_001_kaufpark_eiche": 757,
 	"name": "PP-000002299",
+	"current_stock_001_kaufpark_eiche": 752,
+	"ORDERS_TODAY": 5,
 	"shelf_number": "4",
-	"item_group": "Getränke",
+	"BARCODE": "90162565",
+	"ORDERS_YESTERDAY": 13,
+	"base_price": "0.43",
 	"current_gross_selling_price": 1.09,
-	"base_price": "0.43"
+	"ORDERS_30D": 562
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4068400000408.png",
 	"creation": "2018-08-10T13:37:49.741882",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "120.800 weitere Beautyartikel in der App",
+	"ORDERS_ALLTIME": 4,
 	"item_name": "REGINA Duschgel Smoothie Waldbeere 300ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d0ec772b-5a57-4eb8-9c01-9642b33e8a95",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4068400000408",
 	"item_code": "PP-000012519",
-	"current_stock_001_kaufpark_eiche": 16,
 	"name": "PP-000012519",
+	"current_stock_001_kaufpark_eiche": 16,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "4068400000408",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 1
 }

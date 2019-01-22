@@ -1,4 +1,5 @@
 {
+	"item_group": "Geschenkverpackungen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T18:55:54.412460",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 48,
 	"item_name": "Disney Geschenktasche",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4062e01f-3742-42fe-9e71-12e83e353924",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8717703110340",
 	"item_code": "PP-000001495",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000001495",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "Geschenkverpackungen",
+	"BARCODE": "8717703110340",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.79",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.79"
+	"ORDERS_30D": 0
 }

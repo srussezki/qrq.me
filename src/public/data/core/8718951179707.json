@@ -1,4 +1,5 @@
 {
+	"item_group": "Mundpflege",
 	"current_stock_003_halle_altstadt": 1,
 	"image": "/files/8718951179707.jpg",
 	"creation": "2018-07-13T16:53:47.017511",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Spielzeug für Groß und Klein auch online",
+	"ORDERS_ALLTIME": 43,
 	"item_name": "Colgate Zahnbürste Caries Protection 75ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=183653db-094f-41b2-a246-f322af421655",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718951179707",
 	"item_code": "PP-000010716",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000010716",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Mundpflege",
+	"BARCODE": "8718951179707",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 6
 }

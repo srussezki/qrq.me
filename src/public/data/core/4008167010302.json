@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 11,
+	"item_group": "Getränke",
+	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/4008167010302.jpg",
 	"creation": "2018-03-28T16:44:50.315446",
 	"website_image": "/files/4008167010302.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-27",
+	"ORDERS_7D": 1,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 16,
 	"item_name": "Dallmayr Capsa Espresso Ristretto 10stk",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e5b89cbd-8cd7-450c-a67b-d6d00b63ce5f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008167010302",
 	"item_code": "PP-000006653",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000006653",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "4008167010302",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 2
 }

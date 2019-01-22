@@ -1,4 +1,5 @@
 {
+	"item_group": "Badtextilien",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4021523112427.jpg",
 	"creation": "2018-05-28T21:16:02.398563",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 5,
 	"item_name": "Strandtuch Punkte",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=09b5d2e8-2989-42e3-9d08-dca7af631c39",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4021523112427",
 	"item_code": "PP-000009268",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000009268",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Badtextilien",
+	"BARCODE": "4021523112427",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "11.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "11.99"
+	"ORDERS_30D": 0
 }

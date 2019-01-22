@@ -1,4 +1,5 @@
 {
+	"item_group": "Sportflaschen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8412497145058.jpg",
 	"creation": "2018-03-23T21:07:05.013528",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-22",
+	"ORDERS_7D": null,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Minnie Trinkflasche 460ml",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ab949fbd-bf34-41de-b407-ad6ba0dca6b6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8412497145058",
 	"item_code": "PP-000006168",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006168",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Sportflaschen",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": null
 }

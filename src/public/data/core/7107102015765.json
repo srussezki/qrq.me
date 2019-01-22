@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 23,
+	"item_group": "Badtextilien",
+	"current_stock_003_halle_altstadt": 20,
 	"image": "/files/7107102015765.jpg",
 	"creation": "2018-05-02T18:33:39.917571",
 	"website_image": "/files/7107102015765.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-05-02",
+	"ORDERS_7D": 11,
 	"marketing_text": "Billiger gehts immer, mehr Artikel in der App",
+	"ORDERS_ALLTIME": 87,
 	"item_name": "Disney Strandhandtuch Lightning McQueen",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0121daa7-1b8b-4873-9a9c-dbed14d376ab",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "7107102015765",
 	"item_code": "PP-000008307",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000008307",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 3,
 	"shelf_number": null,
-	"item_group": "Badtextilien",
+	"BARCODE": "7107102015765",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 30
 }

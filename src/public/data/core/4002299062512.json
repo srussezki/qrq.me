@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4002299062512.jpg",
 	"creation": "2018-02-13T19:02:38.668959",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-26",
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 22,
 	"item_name": "Glitter-High-Lights Spray Gold",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9b9b46c0-0fe1-4faa-95d9-52b10b0aa590",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002299062512",
 	"item_code": "PP-000003963",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000003963",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": "4002299062512",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.19",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.19"
+	"ORDERS_30D": 0
 }

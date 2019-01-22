@@ -1,4 +1,5 @@
 {
+	"item_group": "Salzige Snacks",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8710398510402.png",
 	"creation": "2018-03-14T16:33:06.217063",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-06",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 553,
 	"item_name": "Lay'S Paprika 145gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=38d75c7e-949f-4ea9-b3d8-3a082a65aab6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8710398510402",
 	"item_code": "PP-000005147",
-	"current_stock_001_kaufpark_eiche": 18,
 	"name": "PP-000005147",
+	"current_stock_001_kaufpark_eiche": 18,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Salzige Snacks",
+	"BARCODE": "8710398510402",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.27",
 	"current_gross_selling_price": 0.39,
-	"base_price": "0.27"
+	"ORDERS_30D": 0
 }

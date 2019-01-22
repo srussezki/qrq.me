@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 324,
+	"item_group": "Getränke",
+	"current_stock_003_halle_altstadt": 322,
 	"image": "/files/5000112547207.png",
 	"creation": "2018-07-26T12:44:14.747832",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 266,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 25,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 1472,
 	"item_name": "Sprite 0,33L Ds Dpg",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b7a0645d-25c7-4184-9a35-df5ebf0dfa51",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5000112547207",
 	"item_code": "PP-000011595",
-	"current_stock_001_kaufpark_eiche": 16,
 	"name": "PP-000011595",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 5,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "5000112547207",
+	"ORDERS_YESTERDAY": 5,
+	"base_price": null,
 	"current_gross_selling_price": 0.37,
-	"base_price": null
+	"ORDERS_30D": 245
 }

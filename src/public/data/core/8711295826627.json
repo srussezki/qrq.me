@@ -1,4 +1,5 @@
 {
+	"item_group": "Glas",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711295826627.jpg",
 	"creation": "2018-02-14T09:14:29.479444",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 118,
 	"item_name": "Glas + Strohhalm 400Ml",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6eba8c12-6cc6-459d-a5f5-4481f59cfcd5",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295826627",
 	"item_code": "PP-000004452",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000004452",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Glas",
+	"BARCODE": "8711295826627",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 7
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Beautyaccessoires",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-04-09T11:04:44.387984",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-20",
+	"ORDERS_7D": null,
 	"marketing_text": "120.800 weitere Beautyartikel in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Acrylnagel Bürste",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e42cfee0-9044-41e8-85ec-368facd18f7f",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000006414",
 	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000006414",
+	"_timestamp": "20190122 150229.660",
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Beautyaccessoires",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "1.79",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.79"
+	"ORDERS_30D": null
 }

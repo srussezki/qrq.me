@@ -1,4 +1,5 @@
 {
+	"item_group": "Schreibwaren Schule",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4008525227403.jpg",
 	"creation": "2018-05-15T12:22:38.774572",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Billiger gibts nur in der App!",
+	"ORDERS_ALLTIME": 22,
 	"item_name": "3D-Schultüten-Bastelset Easy Line \"Transformer\"",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=71aefe0e-01aa-46a3-a564-22b4264b0a56",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008525227403",
 	"item_code": "PP-000008954",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000008954",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schreibwaren Schule",
+	"BARCODE": "4008525227403",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "7.59",
 	"current_gross_selling_price": 9.99,
-	"base_price": "7.59"
+	"ORDERS_30D": 0
 }

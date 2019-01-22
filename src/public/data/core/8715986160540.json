@@ -1,4 +1,5 @@
 {
+	"item_group": "Sportaccessoires",
 	"current_stock_003_halle_altstadt": 5,
 	"image": null,
 	"creation": "2018-11-07T15:16:08.016322",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 14,
 	"item_name": "Sport Kamera",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8e5f4923-1fe6-44ef-839e-dd8f143226d3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8715986160540",
 	"item_code": "PP-000015739",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000015739",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Sportaccessoires",
+	"BARCODE": "8715986160540",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "29.99",
 	"current_gross_selling_price": 29.99,
-	"base_price": "29.99"
+	"ORDERS_30D": 6
 }

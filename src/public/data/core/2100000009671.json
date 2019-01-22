@@ -1,4 +1,5 @@
 {
+	"item_group": "Sportbekleidung",
 	"current_stock_003_halle_altstadt": 30,
 	"image": null,
 	"creation": "2018-10-02T13:33:14.284830",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 1,
 	"item_name": "Herren Fitness-Shirt",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5d1517f5-270a-4a62-aabf-4726b2f11931",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "2100000009671",
 	"item_code": "PP-000014369",
-	"current_stock_001_kaufpark_eiche": 29,
 	"name": "PP-000014369",
+	"current_stock_001_kaufpark_eiche": 29,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Sportbekleidung",
+	"BARCODE": "2100000009671",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 1
 }

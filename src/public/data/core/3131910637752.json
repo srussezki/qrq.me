@@ -1,4 +1,5 @@
 {
+	"item_group": "Stifte",
 	"current_stock_003_halle_altstadt": 15,
 	"image": null,
 	"creation": "2018-11-07T12:10:21.033292",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 17,
 	"item_name": "Ersatzmine Frixion Ball 0,7mm, blau, 3stk",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8c590d8f-569e-41d6-915b-a7973b607141",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3131910637752",
 	"item_code": "PP-000015523",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015523",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Stifte",
+	"BARCODE": "3131910637752",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 6
 }

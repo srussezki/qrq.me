@@ -1,12 +1,15 @@
 {
+	"item_group": "Salzige Snacks",
 	"current_stock_003_halle_altstadt": 48,
 	"image": "/files/5053990123865.jpg",
 	"creation": "2018-03-14T16:33:31.932979",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 76,
+	"current_stock_wh_ludwigsfelde": 133,
 	"first_time_ordered_on_": "2018-03-13",
+	"ORDERS_7D": 2,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 263,
 	"item_name": "Pringles Classic Paprika 190gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0ee6c2bd-50eb-42dd-bf79-6dc39349dca4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5053990123865",
 	"item_code": "PP-000005340",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000005340",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Salzige Snacks",
+	"BARCODE": "5053990123865",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.04",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.04"
+	"ORDERS_30D": 16
 }

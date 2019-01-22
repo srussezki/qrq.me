@@ -1,12 +1,15 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 135,
 	"image": "/files/8719202035056.jpg",
 	"creation": "2018-03-23T21:08:11.134249",
 	"website_image": "/files/8719202035056.jpg",
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 504,
+	"current_stock_wh_ludwigsfelde": 468,
 	"first_time_ordered_on_": "2018-03-15",
+	"ORDERS_7D": 0,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 36,
 	"item_name": "Servietten 33x33cm Versch. Varianten",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c798332b-5d7e-40f8-9e00-0e40a44202b1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202035056",
 	"item_code": "PP-000005949",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000005949",
+	"current_stock_001_kaufpark_eiche": 48,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": "8719202035056",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.99"
+	"ORDERS_30D": 0
 }

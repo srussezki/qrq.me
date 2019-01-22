@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 20,
+	"item_group": "Hefte & Blöcke",
+	"current_stock_003_halle_altstadt": 19,
 	"image": "/files/4006144921207.jpg",
 	"creation": "2018-11-07T12:10:35.114438",
 	"website_image": "/files/4006144921207.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 26,
 	"item_name": "Collegeblock A4 Oxford 80 Bl kar Lin.28 90gr",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fbeb35da-9c2f-40a9-8ef2-d2352a820660",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4006144921207",
 	"item_code": "PP-000015596",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015596",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hefte & Blöcke",
+	"BARCODE": "4006144921207",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 11
 }

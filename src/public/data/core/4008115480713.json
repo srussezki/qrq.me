@@ -1,4 +1,5 @@
 {
+	"item_group": "Office",
 	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/4008115480713.jpg",
 	"creation": "2018-03-23T21:05:37.647421",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-23",
+	"ORDERS_7D": 1,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 8,
 	"item_name": "Ordner A4 8cm",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d79b73af-3a7f-4fb7-90ac-9a7da449ca78",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008115480713",
 	"item_code": "PP-000006313",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000006313",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Office",
+	"BARCODE": "4008115480713",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.79",
 	"current_gross_selling_price": 2.49,
-	"base_price": "3.79"
+	"ORDERS_30D": 1
 }

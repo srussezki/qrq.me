@@ -1,4 +1,5 @@
 {
+	"item_group": "Schuhe",
 	"current_stock_003_halle_altstadt": 12,
 	"image": null,
 	"creation": "2018-09-10T15:27:15.557423",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 0,
 	"item_name": "XQ Mädchen Winterschuhe grau",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=97dcd8b4-36ed-4fcf-a275-d009bbbb552d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718051561952",
 	"item_code": "PP-000013192",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000013192",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schuhe",
+	"BARCODE": "8718051561952",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "16.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "16.99"
+	"ORDERS_30D": 0
 }

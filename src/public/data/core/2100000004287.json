@@ -1,4 +1,5 @@
 {
+	"item_group": "Damenbekleidung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T18:57:41.541631",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-21",
+	"ORDERS_7D": null,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Kaschmirpullover Mit V-Neck Damen Grau M",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d4fafab8-13c9-4320-ad25-b5a896f5f262",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000003865",
 	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000003865",
+	"_timestamp": "20190122 150229.938",
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Damenbekleidung",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": null
 }

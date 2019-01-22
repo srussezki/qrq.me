@@ -1,4 +1,5 @@
 {
+	"item_group": "Getränke",
 	"current_stock_003_halle_altstadt": 153,
 	"image": "/files/4060800302229.jpg",
 	"creation": "2018-07-26T12:44:15.271142",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Lösch den Spardurst in dir, auf factorymarket",
+	"ORDERS_ALLTIME": 155,
 	"item_name": "Lipton Citrus 0,33L Ds Dpg",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1afaa63b-4926-4e7b-884b-658d3b66bbed",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4060800302229",
 	"item_code": "PP-000011610",
-	"current_stock_001_kaufpark_eiche": 47,
 	"name": "PP-000011610",
+	"current_stock_001_kaufpark_eiche": 47,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "4060800302229",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 0.79,
-	"base_price": null
+	"ORDERS_30D": 24
 }

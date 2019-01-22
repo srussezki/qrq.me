@@ -1,4 +1,5 @@
 {
+	"item_group": "OTC / Gesundheit",
 	"current_stock_003_halle_altstadt": 24,
 	"image": null,
 	"creation": "2018-11-26T14:11:14.512213",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 6,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 40,
 	"item_name": "Wundverb. Erste Hilfe Box 36tlg.",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4016479310034",
 	"item_code": "PP-000016037",
-	"current_stock_001_kaufpark_eiche": 29,
 	"name": "PP-000016037",
+	"current_stock_001_kaufpark_eiche": 28,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "OTC / Gesundheit",
+	"BARCODE": "4016479310034",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 29
 }

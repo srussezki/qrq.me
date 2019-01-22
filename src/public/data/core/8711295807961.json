@@ -1,4 +1,5 @@
 {
+	"item_group": "Geschenkverpackungen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711295807961.jpg",
 	"creation": "2018-02-13T19:01:10.841696",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-22",
+	"ORDERS_7D": 7,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 259,
 	"item_name": "Geschenkfolie 70x500cm 48stk",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5ca339d3-4228-4ea9-a4f3-6e9f2589a1d9",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295807961",
 	"item_code": "PP-000003131",
-	"current_stock_001_kaufpark_eiche": 34,
 	"name": "PP-000003131",
+	"current_stock_001_kaufpark_eiche": 34,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Geschenkverpackungen",
+	"BARCODE": "8711295807961",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 20
 }

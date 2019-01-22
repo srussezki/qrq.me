@@ -1,4 +1,5 @@
 {
+	"item_group": "Keramik & Porzellan",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711252097206.jpg",
 	"creation": "2018-09-18T12:53:06.254004",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Teller 22cm Blätterdekor",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5cf1d3d3-dfa4-40b7-9194-c8486b3f9bbe",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252097206",
 	"item_code": "PP-000013765",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000013765",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Keramik & Porzellan",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": null
 }

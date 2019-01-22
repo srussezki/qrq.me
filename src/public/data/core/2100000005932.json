@@ -1,4 +1,5 @@
 {
+	"item_group": "Sportaccessoires",
 	"current_stock_003_halle_altstadt": 51,
 	"image": null,
 	"creation": "2018-08-01T19:27:34.172828",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 120,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 8,
 	"marketing_text": "App, App Hura! Noch mehr Auswahl!",
+	"ORDERS_ALLTIME": 50,
 	"item_name": "Haltungsunterstützung Bandage",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=649e2649-d0e2-40eb-8fdb-8dccb42a4cc3",
@@ -24,8 +27,14 @@
 	"item_code": "PP-000011987",
 	"current_stock_001_kaufpark_eiche": 25,
 	"name": "PP-000011987",
+	"_timestamp": "20190122 150230.139",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Sportaccessoires",
+	"BARCODE": "2100000005932",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 31,
+	"top10": "Sportaccessoires",
+	"top100": "Sport"
 }

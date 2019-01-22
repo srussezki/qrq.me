@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 20,
+	"item_group": "Ballons",
+	"current_stock_003_halle_altstadt": 19,
 	"image": null,
 	"creation": "2018-11-01T15:47:43.254673",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 26,
 	"item_name": "Luftballons Verkehrsschilder 50 8stk",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5c24e106-8f0d-40c8-ad27-ac4e0ef261c3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714572053839",
 	"item_code": "PP-000015103",
-	"current_stock_001_kaufpark_eiche": 33,
 	"name": "PP-000015103",
+	"current_stock_001_kaufpark_eiche": 33,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Ballons",
+	"BARCODE": "8714572053839",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 11
 }

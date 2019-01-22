@@ -1,4 +1,5 @@
 {
+	"item_group": "Getränke",
 	"current_stock_003_halle_altstadt": 35,
 	"image": "/files/5010196091008.jpg",
 	"creation": "2018-10-19T17:13:19.512821",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 228,
 	"item_name": "Jim Beam 0,7l",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c5ff4083-03bb-4c66-9a13-f86d773edb99",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5010196091008",
 	"item_code": "PP-000014862",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000014862",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "5010196091008",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "12.99",
 	"current_gross_selling_price": 12.99,
-	"base_price": "12.99"
+	"ORDERS_30D": 8
 }

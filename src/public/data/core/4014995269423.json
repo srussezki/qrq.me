@@ -1,4 +1,5 @@
 {
+	"item_group": "Geschenkverpackungen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-08-07T16:43:26.496681",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Noch mehr Auswahl online",
+	"ORDERS_ALLTIME": 6,
 	"item_name": "Weihnachtsgeschenkpapier 2 m x 70 cm",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ef42e79f-4478-4882-949e-14cd6274b3c2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4014995269423",
 	"item_code": "PP-000012101",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000012101",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Geschenkverpackungen",
+	"BARCODE": "4014995269423",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 0.79,
-	"base_price": null
+	"ORDERS_30D": 1
 }

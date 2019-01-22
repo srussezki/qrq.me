@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekoration",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4020607594937.jpg",
 	"creation": "2018-08-31T17:15:43.997436",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 16,
 	"item_name": "Memotafel Hakon B35cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=305ffe5a-d06f-462b-9758-ca1779c797f6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4020607594937",
 	"item_code": "PP-000012964",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000012964",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekoration",
+	"BARCODE": "4020607594937",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 7.99,
-	"base_price": null
+	"ORDERS_30D": 0
 }

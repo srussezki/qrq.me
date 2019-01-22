@@ -1,4 +1,5 @@
 {
+	"item_group": "Salzige Snacks",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8588006892147.png",
 	"creation": "2018-02-14T16:04:30.504508",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-30",
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 942,
 	"item_name": "Redcoco® Coconut Chips - Natural",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ca93f7f8-33b9-4773-8573-d1088166eb2e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8588006892147",
 	"item_code": "PP-000003792",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000003792",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Salzige Snacks",
+	"BARCODE": "8588006892147",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 0.25,
-	"base_price": "1.49"
+	"ORDERS_30D": 0
 }

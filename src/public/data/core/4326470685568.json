@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 59,
+	"item_group": "Beautyaccessoires",
+	"current_stock_003_halle_altstadt": 57,
 	"image": "/files/4326470685568.jpg",
 	"creation": "2018-02-13T18:51:02.044785",
 	"website_image": "/files/4326470685568.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 128,
 	"first_time_ordered_on_": "2017-12-19",
+	"ORDERS_7D": 8,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 187,
 	"item_name": "Bade U.Duschzopf",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=053f6ee8-0c0d-4e44-818b-02f19d8aed6b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470685568",
 	"item_code": "PP-000001217",
-	"current_stock_001_kaufpark_eiche": 34,
 	"name": "PP-000001217",
+	"current_stock_001_kaufpark_eiche": 34,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "1",
-	"item_group": "Beautyaccessoires",
+	"BARCODE": "4326470685568",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 15
 }

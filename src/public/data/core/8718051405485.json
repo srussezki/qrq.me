@@ -1,4 +1,5 @@
 {
+	"item_group": "Schuhe",
 	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/8718051405485.jpg",
 	"creation": "2018-09-16T15:54:54.084327",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 12,
 	"item_name": "Damen Gummistiefel Totenkopf Druck",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=966fb518-f644-4f45-b6ba-92aa1722ae8e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718051405485",
 	"item_code": "PP-000013397",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000013397",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Schuhe",
+	"BARCODE": "8718051405485",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "17.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "17.99"
+	"ORDERS_30D": 4
 }

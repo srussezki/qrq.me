@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 52,
+	"item_group": "Aufbewahrung",
+	"current_stock_003_halle_altstadt": 47,
 	"image": null,
 	"creation": "2018-02-13T19:02:25.581917",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 50,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 22,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 98,
 	"item_name": "Aufbewahrungsbox 1100ml",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=23a30478-4933-4055-a61f-66515c05fe4a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252563527",
 	"item_code": "PP-000002717",
-	"current_stock_001_kaufpark_eiche": 52,
 	"name": "PP-000002717",
+	"current_stock_001_kaufpark_eiche": 50,
+	"ORDERS_TODAY": 3,
 	"shelf_number": "2",
-	"item_group": "Aufbewahrung",
+	"BARCODE": "8711252563527",
+	"ORDERS_YESTERDAY": 4,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 33
 }

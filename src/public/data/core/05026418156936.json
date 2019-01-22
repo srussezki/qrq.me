@@ -1,4 +1,5 @@
 {
+	"item_group": "Süßigkeiten & Kaugummi",
 	"current_stock_003_halle_altstadt": 36,
 	"image": null,
 	"creation": "2018-05-22T14:22:59.840196",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 307,
 	"item_name": "Brain Blasterz Sour Candy",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=33939e40-fcaf-47e4-bb83-c44cd23c27fe",
@@ -24,8 +27,14 @@
 	"item_code": "PP-000009029",
 	"current_stock_001_kaufpark_eiche": 113,
 	"name": "PP-000009029",
+	"_timestamp": "20190122 150229.422",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "05026418156936",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.09",
 	"current_gross_selling_price": 0.09,
-	"base_price": "0.09"
+	"ORDERS_30D": 97,
+	"top10": "Süßigkeiten & Kaugummi",
+	"top100": "Snacks & Getränke"
 }

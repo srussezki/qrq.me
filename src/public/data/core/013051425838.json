@@ -1,4 +1,5 @@
 {
+	"item_group": "Bastelbedarf",
 	"current_stock_003_halle_altstadt": 5,
 	"image": "/files/013051425838.jpg",
 	"creation": "2018-06-22T15:27:57.826156",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Spielzeug für Groß und Klein auch online",
+	"ORDERS_ALLTIME": 28,
 	"item_name": "Micky Maus Party Spielset",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a4c57446-104b-4fce-a7e3-508b566d5996",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000010234",
 	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000010234",
+	"_timestamp": "20190122 150229.267",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Bastelbedarf",
+	"BARCODE": "013051425838",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 0
 }

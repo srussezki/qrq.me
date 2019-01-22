@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 13,
+	"item_group": "Unterwäsche & Bademode",
+	"current_stock_003_halle_altstadt": 12,
 	"image": null,
 	"creation": "2018-10-04T16:37:59.166560",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 12,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 70,
 	"item_name": "Jungen Boxershorts 3er Pack 2-6 ",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8109b9f8-d627-4c81-b20b-ee04664d32d5",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5020133122139",
 	"item_code": "PP-000014534",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000014534",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Unterwäsche & Bademode",
+	"BARCODE": "5020133122139",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 30
 }

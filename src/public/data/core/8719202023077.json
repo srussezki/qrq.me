@@ -1,4 +1,5 @@
 {
+	"item_group": "Glas",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T18:53:04.232251",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-01",
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Küchenaccessoires online",
+	"ORDERS_ALLTIME": 96,
 	"item_name": "Schale",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=418f7344-52fd-4ad4-9778-2ecc82eec623",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202023077",
 	"item_code": "PP-000000827",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000000827",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Glas",
+	"BARCODE": "8719202023077",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 0
 }

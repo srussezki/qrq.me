@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekoration",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "#REF!",
 	"creation": "2019-01-03T12:18:56.938874",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 5,
 	"item_name": "Türhänger Filz beschriftet 5 Motive",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4032037461192",
 	"item_code": "PP-000016837",
-	"current_stock_001_kaufpark_eiche": 19,
 	"name": "PP-000016837",
+	"current_stock_001_kaufpark_eiche": 19,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekoration",
+	"BARCODE": "4032037461192",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.79",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.79"
+	"ORDERS_30D": 5
 }

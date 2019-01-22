@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4005900386694.png",
 	"creation": "2018-05-25T15:28:21.782568",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "120.800 weitere Beautyartikel in der App",
+	"ORDERS_ALLTIME": 9,
 	"item_name": "Nivea Pflegeshampoo feines Haar 250ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d6fc39af-cbfa-45c5-bc16-bb3a0f387d43",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4005900386694",
 	"item_code": "PP-000009240",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000009240",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "4005900386694",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 1
 }

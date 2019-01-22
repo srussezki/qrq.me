@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 8,
 	"image": "/files/8719202214017.jpg",
 	"creation": "2018-02-13T18:53:07.964077",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-01",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 184,
 	"item_name": "Pfeffer- Und Salzstreuer",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0c21cf5a-5bd5-4354-b3e5-94d3247d3ccd",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202214017",
 	"item_code": "PP-000000812",
-	"current_stock_001_kaufpark_eiche": -1,
 	"name": "PP-000000812",
+	"current_stock_001_kaufpark_eiche": -1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Küchenhelfer",
+	"BARCODE": "8719202214017",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.19",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.19"
+	"ORDERS_30D": 4
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Autopflege",
 	"current_stock_003_halle_altstadt": 32,
 	"image": "/files/8711252082752.jpg",
 	"creation": "2018-09-18T12:53:05.694849",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Alles Rund um das Auto auch online",
+	"ORDERS_ALLTIME": 10,
 	"item_name": "Profi Saugtuch",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=34dfe2b6-326d-4675-989d-d9bf39329b6f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252082752",
 	"item_code": "PP-000013762",
-	"current_stock_001_kaufpark_eiche": 22,
 	"name": "PP-000013762",
+	"current_stock_001_kaufpark_eiche": 22,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Autopflege",
+	"BARCODE": "8711252082752",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 1
 }

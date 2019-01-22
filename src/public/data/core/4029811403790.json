@@ -1,4 +1,5 @@
 {
+	"item_group": "Deko LED",
 	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/4029811403790.png",
 	"creation": "2018-09-13T12:00:51.160029",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 13,
 	"item_name": "Leucht-Buchstabentafel Kunststoff 21x29cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b9c013bd-28b5-4ff5-bf97-885f468dc8fc",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4029811403790",
 	"item_code": "PP-000013323",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000013323",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Deko LED",
+	"BARCODE": "4029811403790",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 3
 }

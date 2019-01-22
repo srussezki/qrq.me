@@ -1,4 +1,5 @@
 {
+	"item_group": "Plüschtiere",
 	"current_stock_003_halle_altstadt": 8,
 	"image": null,
 	"creation": "2018-09-13T18:39:08.015635",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 8,
 	"first_time_ordered_on_": "2018-09-06",
+	"ORDERS_7D": 2,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 60,
 	"item_name": "Teddy Flocke 100 cm hell",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=716edc37-21aa-4bfb-a249-d37ce0d9c18b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "2100000010417",
 	"item_code": "PP-000013509",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000013509",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Plüschtiere",
+	"BARCODE": "2100000010417",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": null,
 	"current_gross_selling_price": 14.99,
-	"base_price": null
+	"ORDERS_30D": 7
 }

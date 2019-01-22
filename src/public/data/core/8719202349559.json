@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 15,
 	"image": "/files/8719202349559.jpg",
 	"creation": "2018-02-13T18:59:24.947734",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 108,
 	"first_time_ordered_on_": "2017-11-22",
+	"ORDERS_7D": 9,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 96,
 	"item_name": "Party Brille Happy Birthday",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=06d4ec2b-cf26-4063-abfc-25ee1c04c1e6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202349559",
 	"item_code": "PP-000003244",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000003244",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Partyartikel",
+	"BARCODE": "8719202349559",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.39",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.39"
+	"ORDERS_30D": 20
 }

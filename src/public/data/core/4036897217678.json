@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 13,
+	"item_group": "Hunde",
+	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/4036897217678.png",
 	"creation": "2018-08-13T11:55:55.540477",
 	"website_image": "/files/4036897217678.png",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 180,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Alles für den Wuffi & die Mieze",
+	"ORDERS_ALLTIME": 91,
 	"item_name": "Perfecto Dog Knabber Mix 400g",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b05f1fd6-b60c-4233-a140-58e372f0a327",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4036897217678",
 	"item_code": "PP-000012496",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000012496",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Hunde",
+	"BARCODE": "4036897217678",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 13
 }

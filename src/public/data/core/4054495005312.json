@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekorative Kosmetik",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4054495005312.jpg",
 	"creation": "2018-07-10T08:50:19.805449",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": null,
 	"item_name": "Gel Effekt Nagellack kussmund-rot",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fc3c1b49-2265-4502-8bbd-fd17fd03badb",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4054495005312",
 	"item_code": "PP-000010531",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000010531",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Dekorative Kosmetik",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": null
 }

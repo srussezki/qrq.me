@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 2,
+	"item_group": "Bastelbedarf",
+	"current_stock_003_halle_altstadt": 1,
 	"image": "/files/4044186467390.png",
 	"creation": "2018-08-31T19:03:46.670539",
 	"website_image": "/files/4044186467390.png",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "App, App Hura! Noch mehr Auswahl!",
+	"ORDERS_ALLTIME": 28,
 	"item_name": "Chenilledraht 10 Stk 50 cm",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7d126c15-bd0a-49e8-a9ac-bd74cb725e8f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4044186467390",
 	"item_code": "PP-000013004",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000013004",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Bastelbedarf",
+	"BARCODE": "4044186467390",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 7
 }

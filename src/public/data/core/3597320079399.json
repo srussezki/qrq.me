@@ -1,4 +1,5 @@
 {
+	"item_group": "Office",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/3597320079399.png",
 	"creation": "2018-06-14T19:08:05.578438",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Für Bürohelden und Heldinnen!",
+	"ORDERS_ALLTIME": 20,
 	"item_name": "Fotokopierpapier, DIN A4, 500 Blatt, weiß",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6d5eeca6-ddae-45a5-b409-8e82d2e78040",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3597320079399",
 	"item_code": "PP-000009943",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000009943",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Office",
+	"BARCODE": "3597320079399",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.69",
 	"current_gross_selling_price": 2.89,
-	"base_price": "2.69"
+	"ORDERS_30D": 0
 }

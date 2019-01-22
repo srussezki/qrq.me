@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Jungs",
 	"current_stock_003_halle_altstadt": 27,
 	"image": "/files/8714627216554.jpg",
 	"creation": "2018-09-11T18:04:58.038647",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 39,
 	"item_name": "WELLY BMW 535i Polizei",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2402d75b-7506-4c8a-af67-6a356c6f1d51",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627216554",
 	"item_code": "PP-000013231",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000013231",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Jungs",
+	"BARCODE": "8714627216554",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 4
 }

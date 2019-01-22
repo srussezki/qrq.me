@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 43,
+	"item_group": "Kleinmöbel",
+	"current_stock_003_halle_altstadt": 39,
 	"image": "/files/8711252054421.jpg",
 	"creation": "2018-07-18T15:00:42.264552",
 	"website_image": "/files/8711252054421.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": "Dekorieren bis zum Umfallen in der App",
+	"ORDERS_ALLTIME": 22,
 	"item_name": "Schubladen Organizer 2 stk 10x49cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252054421",
 	"item_code": "PP-000010911",
-	"current_stock_001_kaufpark_eiche": 17,
 	"name": "PP-000010911",
+	"current_stock_001_kaufpark_eiche": 17,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kleinmöbel",
+	"BARCODE": "8711252054421",
+	"ORDERS_YESTERDAY": 4,
+	"base_price": "1.79",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.79"
+	"ORDERS_30D": 13
 }

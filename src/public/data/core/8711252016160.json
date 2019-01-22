@@ -1,4 +1,5 @@
 {
+	"item_group": "Backen",
 	"current_stock_003_halle_altstadt": 19,
 	"image": "/files/8711252016160.jpg",
 	"creation": "2018-03-14T16:33:17.158092",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 3,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 88,
 	"item_name": "Plätzchenausstecher-Set",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e49a7a62-a211-4172-9648-1844090a0d55",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252016160",
 	"item_code": "PP-000005695",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000005695",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Backen",
+	"BARCODE": "8711252016160",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.59",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.59"
+	"ORDERS_30D": 9
 }

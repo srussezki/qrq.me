@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 25,
+	"item_group": "Weihnachten",
+	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8713305800894.png",
 	"creation": "2018-09-03T19:12:43.791964",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere aufregende Themenwelten in der App",
+	"ORDERS_ALLTIME": 44,
 	"item_name": "Chocolate Chip & Butter Cookies Tin",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=56822eaa-4a73-48e5-97e3-c1fb57330f5d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8713305800894",
 	"item_code": "PP-000013077",
-	"current_stock_001_kaufpark_eiche": 41,
 	"name": "PP-000013077",
+	"current_stock_001_kaufpark_eiche": 41,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Weihnachten",
+	"BARCODE": "8713305800894",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.49",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.49"
+	"ORDERS_30D": 2
 }

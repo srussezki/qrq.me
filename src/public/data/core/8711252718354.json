@@ -1,4 +1,5 @@
 {
+	"item_group": "Werkzeug",
 	"current_stock_003_halle_altstadt": 5,
 	"image": "/files/8711252718354.png",
 	"creation": "2018-02-13T18:49:13.256652",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 46,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 2,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 62,
 	"item_name": "Handsäge",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=151eba68-a3d1-4f3e-b6c6-b17a53e5476c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252718354",
 	"item_code": "PP-000000329",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000000329",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "Werkzeug",
+	"BARCODE": "8711252718354",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.79",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.79"
+	"ORDERS_30D": 3
 }

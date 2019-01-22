@@ -1,4 +1,5 @@
 {
+	"item_group": "Autopflege",
 	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/4010126601155.jpg",
 	"creation": "2018-06-25T15:14:01.307870",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 6,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 21,
 	"item_name": "Felgenreiniger 650ml",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=46fb0d22-fa7c-4ee8-a5a1-3eb2b638ff91",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4010126601155",
 	"item_code": "PP-000009828",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000009828",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Autopflege",
+	"BARCODE": "4010126601155",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 3
 }

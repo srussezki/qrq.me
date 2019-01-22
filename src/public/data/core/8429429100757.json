@@ -1,4 +1,5 @@
 {
+	"item_group": "Hunde",
 	"current_stock_003_halle_altstadt": 4,
 	"image": null,
 	"creation": "2018-08-07T16:43:26.569970",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Alles für den Wuffi & die Mieze",
+	"ORDERS_ALLTIME": 56,
 	"item_name": "Fressnapf für Tiere",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b68aa1fe-8d91-47c7-8b65-c6bf661f023d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8429429100757",
 	"item_code": "PP-000012103",
-	"current_stock_001_kaufpark_eiche": -1,
 	"name": "PP-000012103",
+	"current_stock_001_kaufpark_eiche": -1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hunde",
+	"BARCODE": "8429429100757",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 1.19,
-	"base_price": null
+	"ORDERS_30D": 1
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Schmuck",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-03-01T14:56:11.685753",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-12",
+	"ORDERS_7D": 0,
 	"marketing_text": "Noch mehr Schmuck? Gibts in der App",
+	"ORDERS_ALLTIME": 2,
 	"item_name": "Schmuckhalskette Mit Kristallanhänger",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7b3c592f-ccd4-4610-9982-f7bb4e02b761",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000004923",
 	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004923",
+	"_timestamp": "20190122 150229.559",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schmuck",
+	"BARCODE": "2100000000647",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 0
 }

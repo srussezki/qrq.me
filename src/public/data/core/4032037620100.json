@@ -1,12 +1,15 @@
 {
+	"item_group": "Dekoration",
 	"current_stock_003_halle_altstadt": 49,
 	"image": "/files/4032037620100.jpg",
 	"creation": "2018-04-09T09:25:38.916969",
 	"website_image": "/files/4032037620100.jpg",
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 24,
+	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-05",
+	"ORDERS_7D": 3,
 	"marketing_text": "Pimp your Home",
+	"ORDERS_ALLTIME": 55,
 	"item_name": "Buddha ca. 9cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=eea520d1-1cd2-46f4-8880-4a63417c9494",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4032037620100",
 	"item_code": "PP-000006714",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000006714",
+	"current_stock_001_kaufpark_eiche": 30,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekoration",
+	"BARCODE": "4032037620100",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 1.99,
-	"base_price": "2.49"
+	"ORDERS_30D": 6
 }

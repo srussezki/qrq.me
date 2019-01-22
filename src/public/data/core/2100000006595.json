@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 1,
+	"item_group": "Reinigung hart",
+	"current_stock_003_halle_altstadt": -1,
 	"image": "/files/2100000006595.jpg",
 	"creation": "2018-08-07T16:43:30.157269",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 15,
 	"marketing_text": "Die besten Küchenhelfer, auch in unserer App",
+	"ORDERS_ALLTIME": 59,
 	"item_name": "WC-Garnitur \"Hochquadrat\" mit Rundbürste",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ebcae63f-0991-4f5b-9d26-52be3233a772",
@@ -24,8 +27,13 @@
 	"item_code": "PP-000012258",
 	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000012258",
+	"_timestamp": "20190122 150230.264",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Reinigung hart",
+	"BARCODE": "2100000006595",
+	"ORDERS_YESTERDAY": 7,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 24,
+	"top10": "Reinigung hart"
 }

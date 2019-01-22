@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Jungs",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/6938242953683.jpg",
 	"creation": "2018-09-17T18:47:16.213796",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Sluban Builder Öffentliche Verkehrsmittel",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=601d1cbf-7686-478c-a263-966f0d32f714",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "6938242953683",
 	"item_code": "PP-000013610",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000013610",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Spielwaren Jungs",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "3.49",
 	"current_gross_selling_price": 3.49,
-	"base_price": "3.49"
+	"ORDERS_30D": null
 }

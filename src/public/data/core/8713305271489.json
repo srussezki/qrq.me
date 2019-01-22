@@ -1,4 +1,5 @@
 {
+	"item_group": "Kekse & Backwaren",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T19:01:22.117430",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "Wir haben noch mehr Produkte in unsere App",
+	"ORDERS_ALLTIME": 57,
 	"item_name": "Mandel Plätzchen",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=eab99781-8728-4e28-a669-f4b9aec1d0e2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8713305271489",
 	"item_code": "PP-000001759",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000001759",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "Kekse & Backwaren",
+	"BARCODE": "8713305271489",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.19",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.19"
+	"ORDERS_30D": 0
 }

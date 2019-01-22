@@ -1,4 +1,5 @@
 {
+	"item_group": "Unterwäsche & Bademode",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-04-09T11:04:47.441238",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-20",
+	"ORDERS_7D": 0,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 4,
 	"item_name": "Badebekleidung",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0691cf7f-3d15-4484-9d22-79f532b4b22a",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000006520",
 	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006520",
+	"_timestamp": "20190122 150229.768",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Unterwäsche & Bademode",
+	"BARCODE": "2100000002597",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.29",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.29"
+	"ORDERS_30D": 0
 }

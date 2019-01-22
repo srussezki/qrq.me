@@ -1,4 +1,5 @@
 {
+	"item_group": "Elektronikzubehör",
 	"current_stock_003_halle_altstadt": 2,
 	"image": null,
 	"creation": "2018-09-12T14:46:25.080414",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 55,
 	"item_name": "Abschaltbare Steckdose, Kinderschutz",
 	"level_0_item_group": "Elektro",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6f36546c-2fa0-4ee2-8c18-39b377d019fa",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4250040929038",
 	"item_code": "PP-000013326",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000013326",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Elektronikzubehör",
+	"BARCODE": "4250040929038",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 0
 }

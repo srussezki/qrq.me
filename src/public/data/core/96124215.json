@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 11,
+	"item_group": "Pflegende Kosmetik",
+	"current_stock_003_halle_altstadt": 10,
 	"image": null,
 	"creation": "2018-11-05T17:16:34.649703",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 204,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 4,
 	"item_name": "Rexona Deo Roller - William Racing 50ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b10f530f-c647-4cba-a2e3-0674d0efe6bd",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "96124215",
 	"item_code": "PP-000015358",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000015358",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "96124215",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.38",
 	"current_gross_selling_price": 1.19,
-	"base_price": "2.38"
+	"ORDERS_30D": 4
 }

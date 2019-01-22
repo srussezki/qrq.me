@@ -1,4 +1,5 @@
 {
+	"item_group": "Weihnachten",
 	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/8717794779730.jpg",
 	"creation": "2018-09-13T12:00:52.084027",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Noch mehr Auswahl online",
+	"ORDERS_ALLTIME": 399,
 	"item_name": "Flaschenbox Weihnachts-& Schneemann Optik",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=21b24076-52bf-40e5-9c7e-1209659803e7",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8717794779730",
 	"item_code": "PP-000013364",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000013364",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Weihnachten",
+	"BARCODE": "8717794779730",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 4.99,
-	"base_price": "2.49"
+	"ORDERS_30D": 0
 }

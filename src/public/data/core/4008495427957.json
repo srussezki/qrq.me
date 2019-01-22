@@ -1,4 +1,5 @@
 {
+	"item_group": "Kerzen & -zubehör",
 	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/4008495427957.png",
 	"creation": "2018-02-13T18:47:59.819558",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-19",
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 10,
 	"item_name": "Duftglas Jam Sandalwood-Vanilla",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=74f43379-c9e4-4347-b777-e249bc80c167",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008495427957",
 	"item_code": "PP-000002397",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000002397",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "5",
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": "4008495427957",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 1
 }

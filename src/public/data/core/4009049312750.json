@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/4009049312750.jpg",
 	"creation": "2018-02-14T16:00:27.205271",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-31",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 14,
 	"item_name": "Emsa Isolierkanne Samba Gelb",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=07e9bf3d-e66d-4402-9b7b-ebaa1aaa42e6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4009049312750",
 	"item_code": "PP-000004359",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000004359",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Küchenhelfer",
+	"BARCODE": "4009049312750",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.05",
 	"current_gross_selling_price": 9.99,
-	"base_price": "1.05"
+	"ORDERS_30D": 1
 }

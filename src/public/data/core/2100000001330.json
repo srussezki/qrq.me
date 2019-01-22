@@ -1,4 +1,5 @@
 {
+	"item_group": "Smartphone- & Tabletzubehör",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-04-09T11:04:43.832445",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-20",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 4,
 	"item_name": "Dudao Powerline Blitzkabel Für Iphone",
 	"level_0_item_group": "Elektro",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ad3b1fc3-6520-40b6-8f8e-6793b67bb62d",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000006394",
 	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006394",
+	"_timestamp": "20190122 150229.639",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Smartphone- & Tabletzubehör",
+	"BARCODE": "2100000001330",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.69",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.69"
+	"ORDERS_30D": 0
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Stifte",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8714627460025.jpg",
 	"creation": "2018-03-14T16:33:11.944528",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 41,
 	"item_name": "Jumbo Duft-Markerstift 4 Variationen",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3c65c01b-c8d2-4bab-b561-63443164f67b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627460025",
 	"item_code": "PP-000005827",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000005827",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Stifte",
+	"BARCODE": "8714627460025",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 6
 }

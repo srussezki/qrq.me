@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 9,
+	"item_group": "Decken",
+	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/4001626028771.png",
 	"creation": "2018-08-24T09:17:38.234884",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 60,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 16,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 104,
 	"item_name": "Wohndecke Zickzack, 150x200 cm",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9e133a7f-67c9-432c-b30b-b7b0b2b2dc55",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4001626028771",
 	"item_code": "PP-000012754",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000012754",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Decken",
+	"BARCODE": "4001626028771",
+	"ORDERS_YESTERDAY": 8,
+	"base_price": null,
 	"current_gross_selling_price": 4.99,
-	"base_price": null
+	"ORDERS_30D": 30
 }

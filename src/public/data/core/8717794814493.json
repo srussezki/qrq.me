@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 22,
+	"item_group": "Pflanzen",
+	"current_stock_003_halle_altstadt": 21,
 	"image": "/files/8717794814493.jpg",
 	"creation": "2018-09-24T12:43:05.886286",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 5,
 	"item_name": "Kaktus mit Topf 13-15 cm",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=eb2961c9-2f75-4945-93ac-8796566ad578",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8717794814493",
 	"item_code": "PP-000013911",
-	"current_stock_001_kaufpark_eiche": 24,
 	"name": "PP-000013911",
+	"current_stock_001_kaufpark_eiche": 24,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Pflanzen",
+	"BARCODE": "8717794814493",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 5
 }

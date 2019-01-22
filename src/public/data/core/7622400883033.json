@@ -1,4 +1,5 @@
 {
+	"item_group": "Schokolade",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/7622400883033.png",
 	"creation": "2018-02-13T18:54:38.502684",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-13",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 223,
 	"item_name": "Milka Luflée 100gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=aae30399-5819-4c7f-b81d-248ec14165b3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "7622400883033",
 	"item_code": "PP-000002311",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000002311",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "5",
-	"item_group": "Schokolade",
+	"BARCODE": "7622400883033",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.95",
 	"current_gross_selling_price": 0.85,
-	"base_price": "0.95"
+	"ORDERS_30D": 0
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Batterien",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711252855721.jpg",
 	"creation": "2018-02-13T18:50:13.090142",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-28",
+	"ORDERS_7D": 2,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 332,
 	"item_name": "Batterie Set",
 	"level_0_item_group": "Elektro",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ff2d48c7-cb86-459a-b4d9-82d469c2f1f6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252855721",
 	"item_code": "PP-000001715",
-	"current_stock_001_kaufpark_eiche": 23,
 	"name": "PP-000001715",
+	"current_stock_001_kaufpark_eiche": 23,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Batterien",
+	"BARCODE": "8711252855721",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 18
 }

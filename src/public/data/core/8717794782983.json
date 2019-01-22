@@ -1,4 +1,5 @@
 {
+	"item_group": "Vorratsdosen",
 	"current_stock_003_halle_altstadt": 18,
 	"image": "/files/8717794782983.jpg",
 	"creation": "2018-09-27T13:47:22.985618",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 198,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 6,
 	"item_name": "Blechbüchse \"Herz\" 4.5x4.5cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0e9e54dc-f5ac-4bcf-a944-914ad94a6861",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8717794782983",
 	"item_code": "PP-000014057",
-	"current_stock_001_kaufpark_eiche": 33,
 	"name": "PP-000014057",
+	"current_stock_001_kaufpark_eiche": 33,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Vorratsdosen",
+	"BARCODE": "8717794782983",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.79",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.79"
+	"ORDERS_30D": 4
 }

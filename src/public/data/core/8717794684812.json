@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 11,
+	"item_group": "Bilder- & rahmen",
+	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/8717794684812.jpg",
 	"creation": "2018-09-27T13:47:16.192315",
 	"website_image": "/files/8717794684812.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 30,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 8,
 	"item_name": "Bilderrahmen aus Tannenholz 13x18cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8a4bf427-ef78-453f-96f6-5d01cd9b42b3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8717794684812",
 	"item_code": "PP-000014025",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000014025",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Bilder- & rahmen",
+	"BARCODE": "8717794684812",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 7
 }

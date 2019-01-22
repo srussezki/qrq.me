@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/048419463139.jpg",
 	"creation": "2018-04-09T18:13:46.836560",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-28",
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 18,
 	"item_name": "Flaschendekoration Braut Und Bräutigam",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8b752dc1-0128-44a0-bb7d-7e3f941ebfca",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000007058",
 	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000007058",
+	"_timestamp": "20190122 150229.412",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": "048419463139",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.59",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.59"
+	"ORDERS_30D": 0
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Office",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4008110717531.jpg",
 	"creation": "2018-04-12T14:44:59.240287",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-12",
+	"ORDERS_7D": 0,
 	"marketing_text": "Alles für die Schule und das Büro bei uns",
+	"ORDERS_ALLTIME": 40,
 	"item_name": "Briefblock kar kopfgeleimt A5 70g/m² 50Bl",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=00fb87cf-9b41-4e3b-9dbb-9f49e65a1e6b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008110717531",
 	"item_code": "PP-000007139",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000007139",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Office",
+	"BARCODE": "4008110717531",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.69",
 	"current_gross_selling_price": 0.69,
-	"base_price": "0.69"
+	"ORDERS_30D": 0
 }

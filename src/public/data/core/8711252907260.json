@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 12,
+	"item_group": "Spielwaren Unisex",
+	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/8711252907260.jpg",
 	"creation": "2018-02-14T09:13:57.521453",
 	"website_image": "/files/8711252907260.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-10-18",
+	"ORDERS_7D": 3,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 97,
 	"item_name": "Straßenmalkreide 15stk",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ae0d7368-e35c-418f-a39a-82ce780d7831",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252907260",
 	"item_code": "PP-000000415",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000000415",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8711252907260",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 7
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Nahrungsergänzungsmittel",
 	"current_stock_003_halle_altstadt": 25,
 	"image": "/files/4260044260860.png",
 	"creation": "2018-04-19T18:07:52.828989",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-13",
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 108,
 	"item_name": "Power System High Protein Schoko-Nougat",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6a97e994-9c3a-495b-891c-7d4ca6cefb63",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4260044260860",
 	"item_code": "PP-000007423",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000007423",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Nahrungsergänzungsmittel",
+	"BARCODE": "4260044260860",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.25",
 	"current_gross_selling_price": 1.49,
-	"base_price": "4.25"
+	"ORDERS_30D": 7
 }

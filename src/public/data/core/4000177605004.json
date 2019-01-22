@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 147,
+	"item_group": "Getränke",
+	"current_stock_003_halle_altstadt": 146,
 	"image": "/files/4000177605004.jpg",
 	"creation": "2018-04-19T18:07:41.816642",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 630,
 	"first_time_ordered_on_": "2018-04-13",
+	"ORDERS_7D": 84,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 1326,
 	"item_name": "Capri Sun Multivitamin 200ml",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2aa980df-1ad4-4568-8ec9-ea09cbaa1d38",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4000177605004",
 	"item_code": "PP-000007364",
-	"current_stock_001_kaufpark_eiche": 96,
 	"name": "PP-000007364",
+	"current_stock_001_kaufpark_eiche": 86,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "4000177605004",
+	"ORDERS_YESTERDAY": 15,
+	"base_price": "0.14",
 	"current_gross_selling_price": 0.29,
-	"base_price": "0.14"
+	"ORDERS_30D": 148
 }

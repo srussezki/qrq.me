@@ -1,4 +1,5 @@
 {
+	"item_group": "Katzen",
 	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/8711252103686.jpg",
 	"creation": "2018-07-18T15:00:48.758408",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weiter 250.000 Tierartikel online",
+	"ORDERS_ALLTIME": 69,
 	"item_name": "Kratzbogen für Katzen",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1ac2a54f-99ce-4d75-8383-21d933fe21fa",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252103686",
 	"item_code": "PP-000010966",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000010966",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Katzen",
+	"BARCODE": "8711252103686",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "7.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "7.99"
+	"ORDERS_30D": 13
 }

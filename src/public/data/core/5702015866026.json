@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5702015866026.jpg",
 	"creation": "2018-02-14T16:00:28.040156",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-07",
+	"ORDERS_7D": 2,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 57,
 	"item_name": "Lego Dschungel-Buggy",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ce2027c0-22fe-4aaa-83d1-6ae6741ed54b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5702015866026",
 	"item_code": "PP-000004674",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000004674",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "5702015866026",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "5.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 7
 }

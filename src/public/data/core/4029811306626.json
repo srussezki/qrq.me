@@ -1,4 +1,5 @@
 {
+	"item_group": "Schuhe",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/4029811306626.jpg",
 	"creation": "2018-02-14T16:00:44.732834",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-06",
+	"ORDERS_7D": 0,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 24,
 	"item_name": "Damen Kuschel-Hausschuhe 38-39 Muster",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=738a1f96-3448-4ab7-8738-136be9e98268",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4029811306626",
 	"item_code": "PP-000004609",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000004609",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schuhe",
+	"BARCODE": "4029811306626",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 0
 }

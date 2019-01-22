@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 2,
+	"item_group": "Aufbewahrung",
+	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/2100000006656.jpg",
 	"creation": "2018-08-07T16:43:30.415479",
 	"website_image": "/files/2100000006656.jpg",
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 85,
+	"current_stock_wh_ludwigsfelde": 80,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 76,
 	"item_name": "Unterbettbox mit Deckel und Rädern",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fc555fce-3925-43ef-aea6-7548ac711cff",
@@ -24,8 +27,13 @@
 	"item_code": "PP-000012264",
 	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000012264",
+	"_timestamp": "20190122 150230.276",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Aufbewahrung",
+	"BARCODE": "2100000006656",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.99",
 	"current_gross_selling_price": 6.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 32,
+	"top10": "Aufbewahrung"
 }

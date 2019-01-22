@@ -1,4 +1,5 @@
 {
+	"item_group": "Aufbewahrung",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/4008033612364.png",
 	"creation": "2018-07-27T14:20:48.761693",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Für die Profiköche gehts online weiter",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Klebehaken Früchte ",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e66ca12c-a4d1-493b-b800-3b9c4d2831ac",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008033612364",
 	"item_code": "PP-000011567",
-	"current_stock_001_kaufpark_eiche": 84,
 	"name": "PP-000011567",
+	"current_stock_001_kaufpark_eiche": 84,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Aufbewahrung",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": null
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8714627689617.png",
 	"creation": "2018-02-22T10:38:59.641885",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-16",
+	"ORDERS_7D": 0,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 36,
 	"item_name": "Fangspiel Mit Klettband",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=721253e5-e37b-4e0d-8080-7872f8464528",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627689617",
 	"item_code": "PP-000004802",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004802",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8714627689617",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 0
 }

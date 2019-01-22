@@ -1,4 +1,5 @@
 {
+	"item_group": "Sportaccessoires",
 	"current_stock_003_halle_altstadt": 4,
 	"image": "/files/5023041288928.jpg",
 	"creation": "2018-06-05T11:41:56.329526",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 19,
 	"item_name": "Pele Fußball",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b4111c38-6bc5-4326-9dc9-05bcb5dad081",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5023041288928",
 	"item_code": "PP-000009577",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000009577",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Sportaccessoires",
+	"BARCODE": "5023041288928",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 0
 }

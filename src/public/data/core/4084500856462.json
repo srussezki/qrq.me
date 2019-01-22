@@ -1,4 +1,5 @@
 {
+	"item_group": "Mundpflege",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4084500856462.jpg",
 	"creation": "2018-02-13T18:57:05.787929",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-17",
+	"ORDERS_7D": 0,
 	"marketing_text": "Pflege für Sie & Ihn in der App",
+	"ORDERS_ALLTIME": 18,
 	"item_name": "Blend-A-Med Zahncreme Classic 75ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=90dc5bf0-3329-4e37-8bdb-d21d04103304",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4084500856462",
 	"item_code": "PP-000001040",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000001040",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "Mundpflege",
+	"BARCODE": "4084500856462",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 0
 }

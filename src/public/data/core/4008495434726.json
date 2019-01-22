@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 5,
+	"item_group": "Kerzen & -zubehör",
+	"current_stock_003_halle_altstadt": 4,
 	"image": "/files/4008495434726.png",
 	"creation": "2018-02-13T18:47:46.551069",
 	"website_image": "/files/4008495434726.png",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-19",
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 170,
 	"item_name": "Duftglas Indro Vino Orange",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=812fee49-ac0a-488e-b930-0d7bcf7a3f62",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008495434726",
 	"item_code": "PP-000002404",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000002404",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "5",
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": "4008495434726",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.35",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.35"
+	"ORDERS_30D": 11
 }

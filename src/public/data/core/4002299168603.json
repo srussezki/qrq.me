@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-05-16T14:24:33.833409",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Noch mehr Auswahl online",
+	"ORDERS_ALLTIME": 14,
 	"item_name": "Fan Diamonds",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=98b51ba3-534c-4eb7-bf93-d5cd41a16a25",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002299168603",
 	"item_code": "PP-000009205",
-	"current_stock_001_kaufpark_eiche": 16,
 	"name": "PP-000009205",
+	"current_stock_001_kaufpark_eiche": 16,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": "4002299168603",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.35",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.35"
+	"ORDERS_30D": 0
 }

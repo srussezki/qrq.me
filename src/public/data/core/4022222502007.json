@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 33,
+	"item_group": "Mützen, Schals & Handschuhe",
+	"current_stock_003_halle_altstadt": 32,
 	"image": "/files/4022222502007.jpg",
 	"creation": "2018-09-21T17:14:59.674472",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 240,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 15,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 172,
 	"item_name": "Strickmütze mit Umschlag Unisex",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5678cfad-cf3f-44dc-ab1f-738d1d12794f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4022222502007",
 	"item_code": "PP-000013861",
-	"current_stock_001_kaufpark_eiche": 30,
 	"name": "PP-000013861",
+	"current_stock_001_kaufpark_eiche": 29,
+	"ORDERS_TODAY": 5,
 	"shelf_number": null,
-	"item_group": "Mützen, Schals & Handschuhe",
+	"BARCODE": "4022222502007",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": null,
 	"current_gross_selling_price": 1.99,
-	"base_price": null
+	"ORDERS_30D": 77
 }

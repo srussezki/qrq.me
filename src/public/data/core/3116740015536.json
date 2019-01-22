@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 24,
+	"item_group": "Getränke",
+	"current_stock_003_halle_altstadt": 21,
 	"image": "/files/3116740015536.jpg",
 	"creation": "2018-05-22T14:22:57.656757",
 	"website_image": "/files/3116740015536.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 28,
 	"marketing_text": "Für den Hunger zwischendurch und danach",
+	"ORDERS_ALLTIME": 316,
 	"item_name": "Lutti Tubble Gum Tube Tutti",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f2bf2d92-8cda-46ba-aa70-7f1137fe956a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3116740015536",
 	"item_code": "PP-000009018",
-	"current_stock_001_kaufpark_eiche": 31,
 	"name": "PP-000009018",
+	"current_stock_001_kaufpark_eiche": 30,
+	"ORDERS_TODAY": 4,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "3116740015536",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 30
 }

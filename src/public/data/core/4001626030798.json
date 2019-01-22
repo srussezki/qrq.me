@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 5,
+	"item_group": "Decken",
+	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4001626030798.jpg",
 	"creation": "2018-08-24T09:17:38.099106",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 115,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 28,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 82,
 	"item_name": "Wohndecke 150x200 cm, silber",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=af4bb052-a74f-4f25-9253-b2bad2139c88",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4001626030798",
 	"item_code": "PP-000012750",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000012750",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 5,
 	"shelf_number": null,
-	"item_group": "Decken",
+	"BARCODE": "4001626030798",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 4.99,
-	"base_price": null
+	"ORDERS_30D": 35
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Taschen & Rucksäcke",
 	"current_stock_003_halle_altstadt": 19,
 	"image": "/files/2100000004645.jpg",
 	"creation": "2018-07-04T16:39:54.017420",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 20,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 6,
 	"item_name": "Wendbare Luxus Handtasche rot",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3054a794-0773-40c8-a64f-0f55fa0faa58",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000010270",
 	"current_stock_001_kaufpark_eiche": 25,
 	"name": "PP-000010270",
+	"_timestamp": "20190122 150229.983",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Taschen & Rucksäcke",
+	"BARCODE": "2100000004645",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 0
 }

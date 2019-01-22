@@ -1,4 +1,5 @@
 {
+	"item_group": "Autozubehör",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/8711252415956.png",
 	"creation": "2018-02-14T16:00:16.832524",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 60,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 12,
 	"item_name": "Scheibenwischer 43cm",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a26de844-e822-4a1e-b546-6421162fd036",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252415956",
 	"item_code": "PP-000003279",
-	"current_stock_001_kaufpark_eiche": 17,
 	"name": "PP-000003279",
+	"current_stock_001_kaufpark_eiche": 17,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Autozubehör",
+	"BARCODE": "8711252415956",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 1
 }

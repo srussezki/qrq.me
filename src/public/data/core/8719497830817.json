@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 4,
+	"item_group": "Babypflege",
+	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/8719497830817.jpg",
 	"creation": "2018-05-25T15:28:17.333121",
 	"website_image": "/files/8719497830817.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 84,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 7,
 	"marketing_text": "Die neusten Beautyprodukte jetzt bei uns",
+	"ORDERS_ALLTIME": 59,
 	"item_name": "Emoji Badeperlen \"Together We Can\" 60gr",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=717277fe-ee9c-48b5-acc7-45ef25850ef3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719497830817",
 	"item_code": "PP-000009195",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000009195",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Babypflege",
+	"BARCODE": "8719497830817",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 23
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Lebensmittel",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4013300031243.png",
 	"creation": "2018-03-14T16:32:26.289768",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-07",
+	"ORDERS_7D": 0,
 	"marketing_text": "Für den Hunger zwischendurch und danach",
+	"ORDERS_ALLTIME": 30,
 	"item_name": "Knorr Schlemmersauce Zigeuner 250ml",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=70936917-f531-4eed-a51c-6fec4ca5dd0d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4013300031243",
 	"item_code": "PP-000005186",
-	"current_stock_001_kaufpark_eiche": 19,
 	"name": "PP-000005186",
+	"current_stock_001_kaufpark_eiche": 19,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Lebensmittel",
+	"BARCODE": "4013300031243",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.43",
 	"current_gross_selling_price": 1.09,
-	"base_price": "0.43"
+	"ORDERS_30D": 3
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Schreibwaren Schule",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4044186411522.png",
 	"creation": "2018-08-24T17:08:01.149013",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Für Bürohelden und Heldinnen!",
+	"ORDERS_ALLTIME": 23,
 	"item_name": "Schnellhefter, PP, grün",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=cd91dee1-4732-4669-accc-2074092935c4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4044186411522",
 	"item_code": "PP-000012775",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000012775",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schreibwaren Schule",
+	"BARCODE": "4044186411522",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.29",
 	"current_gross_selling_price": 0.29,
-	"base_price": "0.29"
+	"ORDERS_30D": 5
 }

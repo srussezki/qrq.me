@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Raumduft",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711252081311.jpg",
 	"creation": "2018-07-24T08:06:14.433941",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Putzt du noch oder shoppst du schon online?",
+	"ORDERS_ALLTIME": 42,
 	"item_name": "Air duster spray 400ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=72f5b33a-2f56-40f8-aa8c-9e4e872f39ee",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252081311",
 	"item_code": "PP-000011375",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000011375",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "FMCG Raumduft",
+	"BARCODE": "8711252081311",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 11
 }

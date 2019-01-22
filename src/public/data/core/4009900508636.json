@@ -1,4 +1,5 @@
 {
+	"item_group": "Süßigkeiten & Kaugummi",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4009900508636.jpg",
 	"creation": "2018-09-18T12:52:44.734370",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Alles für die Naschkatzen bei factorymarket",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Extra Professional Strong Mint 50Er Dose",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=779506c5-3d66-4c9d-951a-d0891b5168c3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4009900508636",
 	"item_code": "PP-000013642",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000013642",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": null
 }

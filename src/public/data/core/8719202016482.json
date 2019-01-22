@@ -1,4 +1,5 @@
 {
+	"item_group": "Bastelbedarf",
 	"current_stock_003_halle_altstadt": 20,
 	"image": null,
 	"creation": "2018-02-13T19:01:07.294426",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-22",
+	"ORDERS_7D": 2,
 	"marketing_text": "Pimp your Home, auf factorymarket.de",
+	"ORDERS_ALLTIME": 49,
 	"item_name": "Stern Schaumstoff 2er-Set",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9f1baed1-2a3f-4ed9-b6d4-146a66274061",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202016482",
 	"item_code": "PP-000003228",
-	"current_stock_001_kaufpark_eiche": 18,
 	"name": "PP-000003228",
+	"current_stock_001_kaufpark_eiche": 18,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Bastelbedarf",
+	"BARCODE": "8719202016482",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.39",
 	"current_gross_selling_price": 0.29,
-	"base_price": "0.39"
+	"ORDERS_30D": 9
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Plüschtiere",
 	"current_stock_003_halle_altstadt": 21,
 	"image": "/files/8718668351458.jpg",
 	"creation": "2018-09-17T18:47:17.729377",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 102,
 	"item_name": "Plüsch Katze 13cm 2var.",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d3eeab0e-ffcf-413e-b190-7c461550b116",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718668351458",
 	"item_code": "PP-000013618",
-	"current_stock_001_kaufpark_eiche": 35,
 	"name": "PP-000013618",
+	"current_stock_001_kaufpark_eiche": 34,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Plüschtiere",
+	"BARCODE": "8718668351458",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 12
 }

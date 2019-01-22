@@ -1,4 +1,5 @@
 {
+	"item_group": "Schuhe",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-04-23T10:44:42.922365",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-03",
+	"ORDERS_7D": 0,
 	"marketing_text": "Das perfekte Outfit gibts auch online",
+	"ORDERS_ALLTIME": 5,
 	"item_name": "Crocs Comfort für Männer M11",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d7f5a3bf-40aa-4e15-9cf9-414b4ac2dc5d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "887350739787",
 	"item_code": "PP-000007544",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000007544",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schuhe",
+	"BARCODE": "887350739787",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 0
 }

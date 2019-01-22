@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 12,
+	"item_group": "Kerzen & -zubehör",
+	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/8711252056821.jpg",
 	"creation": "2018-02-13T18:50:28.057891",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-28",
+	"ORDERS_7D": 19,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 143,
 	"item_name": "Kerzenhalter",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=043e54ef-9f94-4b6e-8e5f-e6a4d8df819c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252056821",
 	"item_code": "PP-000001618",
-	"current_stock_001_kaufpark_eiche": 16,
 	"name": "PP-000001618",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 5,
 	"shelf_number": "4",
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": "8711252056821",
+	"ORDERS_YESTERDAY": 8,
+	"base_price": "1.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 31
 }

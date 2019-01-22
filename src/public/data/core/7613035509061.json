@@ -1,4 +1,5 @@
 {
+	"item_group": "Lebensmittel",
 	"current_stock_003_halle_altstadt": 16,
 	"image": "/files/7613035509061.jpg",
 	"creation": "2018-03-14T16:33:32.527211",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-13",
+	"ORDERS_7D": 1,
 	"marketing_text": "Für den Hunger zwischendurch und danach",
+	"ORDERS_ALLTIME": 20,
 	"item_name": "Maggi 5 Min. Terrine Erbsen/Möhren 60gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fcb5a353-f8dd-4858-b171-6d06d519ae7c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "7613035509061",
 	"item_code": "PP-000005325",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000005325",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Lebensmittel",
+	"BARCODE": "7613035509061",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.15",
 	"current_gross_selling_price": 1.29,
-	"base_price": "2.15"
+	"ORDERS_30D": 3
 }

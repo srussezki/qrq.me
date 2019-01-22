@@ -1,12 +1,15 @@
 {
+	"item_group": "Vorratsdosen",
 	"current_stock_003_halle_altstadt": 14,
 	"image": "/files/8711252538815.jpg",
 	"creation": "2018-07-18T15:00:48.971634",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 12,
+	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": "Pimp your Home",
+	"ORDERS_ALLTIME": 93,
 	"item_name": "Lebensmittelbehälter stapelbar",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=bf7bb6a3-6dc2-4de5-a42d-0200ec96fafc",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252538815",
 	"item_code": "PP-000010972",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000010972",
+	"current_stock_001_kaufpark_eiche": 17,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Vorratsdosen",
+	"BARCODE": "8711252538815",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 22
 }

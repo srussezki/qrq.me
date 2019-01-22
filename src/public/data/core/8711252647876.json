@@ -1,4 +1,5 @@
 {
+	"item_group": "Damenbekleidung",
 	"current_stock_003_halle_altstadt": 24,
 	"image": null,
 	"creation": "2018-02-14T16:00:23.064921",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": "2017-11-02",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 20,
 	"item_name": "Poncho",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f2af6f63-c60d-47d7-a44c-cf7a8623ebcc",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252647876",
 	"item_code": "PP-000001991",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000001991",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Damenbekleidung",
+	"BARCODE": "8711252647876",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.55",
 	"current_gross_selling_price": 1.99,
-	"base_price": "2.55"
+	"ORDERS_30D": 0
 }

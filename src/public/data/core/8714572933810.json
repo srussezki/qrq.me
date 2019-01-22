@@ -1,4 +1,5 @@
 {
+	"item_group": "Einwegartikel",
 	"current_stock_003_halle_altstadt": 31,
 	"image": null,
 	"creation": "2018-05-02T18:34:01.208599",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-05-02",
+	"ORDERS_7D": 9,
 	"marketing_text": "Die besten Küchenhelfer, auch in unserer App",
+	"ORDERS_ALLTIME": 110,
 	"item_name": "Papier Gepunktete Becher",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d87e1f30-db49-488d-902b-afc334d4d063",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714572933810",
 	"item_code": "PP-000008421",
-	"current_stock_001_kaufpark_eiche": 99,
 	"name": "PP-000008421",
+	"current_stock_001_kaufpark_eiche": 99,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Einwegartikel",
+	"BARCODE": "8714572933810",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 13
 }

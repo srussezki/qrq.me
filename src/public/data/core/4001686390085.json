@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 19,
+	"item_group": "Süßigkeiten & Kaugummi",
+	"current_stock_003_halle_altstadt": 18,
 	"image": "/files/4001686390085.jpg",
 	"creation": "2018-04-30T15:26:12.333442",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-27",
+	"ORDERS_7D": 3,
 	"marketing_text": "Alles für die Naschkatzen bei factorymarket",
+	"ORDERS_ALLTIME": 77,
 	"item_name": "Haribo Phantasia 200g",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8c99da63-03c1-432e-927c-4f828dfe765a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4001686390085",
 	"item_code": "PP-000008256",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000008256",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "4001686390085",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.44",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.44"
+	"ORDERS_30D": 13
 }

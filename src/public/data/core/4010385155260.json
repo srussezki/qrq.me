@@ -1,4 +1,5 @@
 {
+	"item_group": "Kerzen & -zubehör",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4010385155260.jpg",
 	"creation": "2018-10-04T12:38:13.934163",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Windlicht Glas rot 25,5cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6b143fbb-7b5e-4e5b-83b9-0f3982a0368f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4010385155260",
 	"item_code": "PP-000014282",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000014282",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "5.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.99"
+	"ORDERS_30D": null
 }

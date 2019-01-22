@@ -1,4 +1,5 @@
 {
+	"item_group": "Strümpfe",
 	"current_stock_003_halle_altstadt": 22,
 	"image": "/files/2100000010882.jpg",
 	"creation": "2018-11-27T15:31:31.459791",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": 17,
 	"item_name": "Spitzenstrümpfe für Frauen schwarz",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "2100000010882",
 	"item_code": "PP-000016149",
-	"current_stock_001_kaufpark_eiche": 15,
 	"name": "PP-000016149",
+	"current_stock_001_kaufpark_eiche": 15,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Strümpfe",
+	"BARCODE": "2100000010882",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.39",
 	"current_gross_selling_price": 0.19,
-	"base_price": "0.39"
+	"ORDERS_30D": 16
 }

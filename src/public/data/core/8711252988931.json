@@ -1,4 +1,5 @@
 {
+	"item_group": "Reinigung hart",
 	"current_stock_003_halle_altstadt": 21,
 	"image": "/files/8711252988931.jpg",
 	"creation": "2018-02-13T18:48:51.433230",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 7,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 153,
 	"item_name": "Möbel-Reparaturstift 3St",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=db54add5-6a76-4aef-8d80-c77c1dc3ca99",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252988931",
 	"item_code": "PP-000000476",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000000476",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "3",
-	"item_group": "Reinigung hart",
+	"BARCODE": "8711252988931",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.09",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.09"
+	"ORDERS_30D": 14
 }

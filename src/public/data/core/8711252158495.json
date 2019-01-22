@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 25,
+	"item_group": "Backen",
+	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8711252158495.jpg",
 	"creation": "2018-03-14T16:33:26.276484",
 	"website_image": "/files/8711252158495.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 10,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 160,
 	"item_name": "Kuchenbackform 30X13X6Cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252158495",
 	"item_code": "PP-000005475",
-	"current_stock_001_kaufpark_eiche": 51,
 	"name": "PP-000005475",
+	"current_stock_001_kaufpark_eiche": 51,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Backen",
+	"BARCODE": "8711252158495",
+	"ORDERS_YESTERDAY": 4,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 30
 }

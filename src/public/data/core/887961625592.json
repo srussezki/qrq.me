@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Jungs",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-11-02T12:47:02.682291",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 3,
 	"item_name": "Hot Wheels City Gefängnisausbruch",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=36fb1ca7-6d56-4226-bb14-db8942f462e0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "887961625592",
 	"item_code": "PP-000015182",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000015182",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Jungs",
+	"BARCODE": "887961625592",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "18.99",
 	"current_gross_selling_price": 17.99,
-	"base_price": "18.99"
+	"ORDERS_30D": 0
 }

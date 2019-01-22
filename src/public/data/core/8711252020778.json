@@ -1,4 +1,5 @@
 {
+	"item_group": "Bastelbedarf",
 	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/8711252020778.jpg",
 	"creation": "2018-02-14T09:13:46.246864",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-10-18",
+	"ORDERS_7D": 1,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 62,
 	"item_name": "Fensterkreide 4stk",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=befc4d4e-c7be-4366-b2d6-20916801458c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252020778",
 	"item_code": "PP-000000057",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000000057",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Bastelbedarf",
+	"BARCODE": "8711252020778",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 5
 }

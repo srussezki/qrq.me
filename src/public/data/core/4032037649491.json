@@ -1,4 +1,5 @@
 {
+	"item_group": "Schlüsselanhänger",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4032037649491.jpg",
 	"creation": "2018-07-04T08:17:15.031851",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 171,
 	"item_name": "Squeezies Schlüsselanhänger Food",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1d51eeaa-2667-4c42-983d-615373e57357",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4032037649491",
 	"item_code": "PP-000010472",
-	"current_stock_001_kaufpark_eiche": 22,
 	"name": "PP-000010472",
+	"current_stock_001_kaufpark_eiche": 22,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schlüsselanhänger",
+	"BARCODE": "4032037649491",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 6
 }

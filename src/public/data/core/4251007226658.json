@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 20,
+	"item_group": "Malerbedarf",
+	"current_stock_003_halle_altstadt": 19,
 	"image": null,
 	"creation": "2018-06-20T14:29:37.052586",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 51,
 	"item_name": "Lackier- und Streich-Set 10-teilig",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=143a87b0-b0e0-4860-8651-e8ac3b7d56c7",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4251007226658",
 	"item_code": "PP-000009851",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000009851",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Malerbedarf",
+	"BARCODE": "4251007226658",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 5
 }

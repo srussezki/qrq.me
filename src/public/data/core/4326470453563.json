@@ -1,4 +1,5 @@
 {
+	"item_group": "Autopflege",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4326470453563.jpg",
 	"creation": "2018-02-13T18:51:32.777335",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-19",
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 64,
 	"item_name": "Auto Scheibenreiniger",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=57c6a48b-bea0-4fc8-8d44-7313b43276e7",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470453563",
 	"item_code": "PP-000001066",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000001066",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "5",
-	"item_group": "Autopflege",
+	"BARCODE": "4326470453563",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.278",
 	"current_gross_selling_price": 1.29,
-	"base_price": "0.278"
+	"ORDERS_30D": 1
 }

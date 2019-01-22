@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": -1,
 	"image": "/files/4000826017363.jpg",
 	"creation": "2018-08-09T10:38:57.744196",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel für die Kleinenin unserer App",
+	"ORDERS_ALLTIME": 5,
 	"item_name": "Quartett",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d602dfee-8434-4aa3-b9d8-ac1dd3efef27",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4000826017363",
 	"item_code": "PP-000012455",
-	"current_stock_001_kaufpark_eiche": 32,
 	"name": "PP-000012455",
+	"current_stock_001_kaufpark_eiche": 32,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "4000826017363",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 1
 }

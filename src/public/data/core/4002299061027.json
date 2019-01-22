@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4002299061027.jpg",
 	"creation": "2018-02-13T19:02:38.045528",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-26",
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 19,
 	"item_name": "Color-High-Lights Spray Rot",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0f676a2a-2da5-4440-b319-f91f69d92ba1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002299061027",
 	"item_code": "PP-000003955",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000003955",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": "4002299061027",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.19",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.19"
+	"ORDERS_30D": 0
 }

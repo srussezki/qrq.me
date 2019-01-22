@@ -1,4 +1,5 @@
 {
+	"item_group": "Mundpflege",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4026600106290.jpg",
 	"creation": "2018-03-23T21:05:57.339067",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-19",
+	"ORDERS_7D": 0,
 	"marketing_text": "Pflege für Sie & Ihn in der App",
+	"ORDERS_ALLTIME": 17,
 	"item_name": "Sensodyne Multicare Original 2x75ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ec5d01f8-3e7a-4d38-871f-c7d916302916",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4026600106290",
 	"item_code": "PP-000006099",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000006099",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Mundpflege",
+	"BARCODE": "4026600106290",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 0
 }

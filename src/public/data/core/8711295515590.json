@@ -1,4 +1,5 @@
 {
+	"item_group": "Einwegartikel",
 	"current_stock_003_halle_altstadt": 42,
 	"image": "/files/8711295515590.jpg",
 	"creation": "2018-03-23T21:08:11.452034",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 144,
 	"first_time_ordered_on_": "2018-03-15",
+	"ORDERS_7D": 2,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 205,
 	"item_name": "Einwegbesteck Bunt 24 Teile",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=09f5c984-fb7a-471f-a9db-16d78acdf515",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295515590",
 	"item_code": "PP-000005956",
-	"current_stock_001_kaufpark_eiche": 28,
 	"name": "PP-000005956",
+	"current_stock_001_kaufpark_eiche": 28,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Einwegartikel",
+	"BARCODE": "8711295515590",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 44
 }

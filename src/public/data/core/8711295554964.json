@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 20,
+	"item_group": "Aufbewahrung",
+	"current_stock_003_halle_altstadt": 17,
 	"image": "/files/8711295554964.jpg",
 	"creation": "2018-02-13T18:48:11.597483",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 340,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 3,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 278,
 	"item_name": "Kleiderbügel Kunststoff Schwarz/Weiß 10 St",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=84337982-2a29-420f-8982-9c1013c3ef63",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295554964",
 	"item_code": "PP-000000674",
-	"current_stock_001_kaufpark_eiche": 20,
 	"name": "PP-000000674",
+	"current_stock_001_kaufpark_eiche": 20,
+	"ORDERS_TODAY": 3,
 	"shelf_number": "4,5 (1,2,3,4,5,6)",
-	"item_group": "Aufbewahrung",
+	"BARCODE": "8711295554964",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.59",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.59"
+	"ORDERS_30D": 3
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Strümpfe",
 	"current_stock_003_halle_altstadt": 12,
 	"image": null,
 	"creation": "2018-10-19T11:09:52.183645",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 34,
 	"item_name": "Männer Socken",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b71d12a7-cdae-4b6c-8b83-60def53b17b1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4047445286558",
 	"item_code": "PP-000014855",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000014855",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Strümpfe",
+	"BARCODE": "4047445286558",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 3.99,
-	"base_price": null
+	"ORDERS_30D": 6
 }

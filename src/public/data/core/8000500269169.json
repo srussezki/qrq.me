@@ -1,4 +1,5 @@
 {
+	"item_group": "Schokolade",
 	"current_stock_003_halle_altstadt": 2,
 	"image": "#REF!",
 	"creation": "2019-01-07T17:29:25.770152",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 33,
 	"marketing_text": "Alles für die Naschkatzen bei factorymarket",
+	"ORDERS_ALLTIME": 59,
 	"item_name": "Kinder Cards",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8000500269169",
 	"item_code": "PP-000016895",
-	"current_stock_001_kaufpark_eiche": 17,
 	"name": "PP-000016895",
+	"current_stock_001_kaufpark_eiche": 16,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Schokolade",
+	"BARCODE": "8000500269169",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 59
 }

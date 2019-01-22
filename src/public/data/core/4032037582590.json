@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 8,
 	"image": "#REF!",
 	"creation": "2019-01-03T12:18:56.339927",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "LED Disco Glühbirne rot,blau,grün",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4032037582590",
 	"item_code": "PP-000016819",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000016819",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": null
 }

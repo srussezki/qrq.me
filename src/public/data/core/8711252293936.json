@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 70,
+	"item_group": "Raucherbedarf",
+	"current_stock_003_halle_altstadt": 69,
 	"image": "/files/8711252293936.jpg",
 	"creation": "2018-02-13T18:51:56.633159",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 8,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 240,
 	"item_name": "Streichhölzer 100St",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d8506876-6a93-475c-a126-a7d1d1cd24ed",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252293936",
 	"item_code": "PP-000000148",
-	"current_stock_001_kaufpark_eiche": 294,
 	"name": "PP-000000148",
+	"current_stock_001_kaufpark_eiche": 293,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "0",
-	"item_group": "Raucherbedarf",
+	"BARCODE": "8711252293936",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "1.19",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.19"
+	"ORDERS_30D": 57
 }

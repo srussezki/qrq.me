@@ -1,4 +1,5 @@
 {
+	"item_group": "Strümpfe",
 	"current_stock_003_halle_altstadt": 3,
 	"image": null,
 	"creation": "2018-08-28T11:36:39.651500",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Das perfekte Outfit gibts auch online",
+	"ORDERS_ALLTIME": 9,
 	"item_name": "Kappa Socken grau Gr 43-46 6-er Pack",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=33f297e4-1600-484d-870c-071925d1a974",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8717137030542",
 	"item_code": "PP-000012902",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000012902",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Strümpfe",
+	"BARCODE": "8717137030542",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 3
 }

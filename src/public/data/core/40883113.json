@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/40883113.jpg",
 	"creation": "2018-06-12T16:54:00.480318",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 14,
 	"item_name": "AXE Duschgel 2in1 Reload 250ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=111e56a5-6156-4a6a-8172-16287509b2c3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "40883113",
 	"item_code": "PP-000009716",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000009716",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "40883113",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 2
 }

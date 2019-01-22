@@ -1,4 +1,5 @@
 {
+	"item_group": "Beautyaccessoires",
 	"current_stock_003_halle_altstadt": 31,
 	"image": "/files/4068400000446.png",
 	"creation": "2018-08-10T13:37:50.051993",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "120.800 weitere Beautyartikel in der App",
+	"ORDERS_ALLTIME": 57,
 	"item_name": "REGINA Watte Pads 100-er Baumwolle",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4a8cda80-d3c2-4a0f-987e-930c911e0e71",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4068400000446",
 	"item_code": "PP-000012528",
-	"current_stock_001_kaufpark_eiche": 20,
 	"name": "PP-000012528",
+	"current_stock_001_kaufpark_eiche": 20,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Beautyaccessoires",
+	"BARCODE": "4068400000446",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 10
 }

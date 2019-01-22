@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 14,
+	"item_group": "Kerzen & -zubehör",
+	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/8711252931838.jpg",
 	"creation": "2018-03-14T16:33:23.927940",
 	"website_image": "/files/8711252931838.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 11,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 116,
 	"item_name": "Deko Kerzenfigur 4Versch. Varianten",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252931838",
 	"item_code": "PP-000005531",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000005531",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 4,
 	"shelf_number": null,
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": "8711252931838",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "1.49",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.49"
+	"ORDERS_30D": 32
 }

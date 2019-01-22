@@ -1,4 +1,5 @@
 {
+	"item_group": "Glas",
 	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/8711252864174.png",
 	"creation": "2018-02-13T18:49:02.768854",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 3,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 130,
 	"item_name": "Pizzateller",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=156551b6-39d6-4c3c-b3d9-33b9abfb1253",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252864174",
 	"item_code": "PP-000000392",
-	"current_stock_001_kaufpark_eiche": 36,
 	"name": "PP-000000392",
+	"current_stock_001_kaufpark_eiche": 36,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "Glas",
+	"BARCODE": "8711252864174",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "3.49",
 	"current_gross_selling_price": 3.49,
-	"base_price": "3.49"
+	"ORDERS_30D": 7
 }

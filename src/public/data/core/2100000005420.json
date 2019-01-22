@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 12,
 	"image": null,
 	"creation": "2018-07-16T16:12:23.504215",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 50,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Für die Profiköche gehts online weiter",
+	"ORDERS_ALLTIME": 14,
 	"item_name": "Tier Teesenke",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=73ddf89f-93de-4851-91ed-b605861fd580",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000010771",
 	"current_stock_001_kaufpark_eiche": 16,
 	"name": "PP-000010771",
+	"_timestamp": "20190122 150230.092",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Küchenhelfer",
+	"BARCODE": "2100000005420",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.99"
+	"ORDERS_30D": 3
 }

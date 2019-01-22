@@ -1,4 +1,5 @@
 {
+	"item_group": "Saisonale Spielwaren",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711252544991.jpg",
 	"creation": "2018-07-24T08:06:15.108775",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Sommer is comming! Alles für dein Training",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Schwimmnudel",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=85a6b90a-e589-4b9e-abd0-7961373f9b24",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252544991",
 	"item_code": "PP-000011395",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000011395",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Saisonale Spielwaren",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": null,
 	"current_gross_selling_price": 1.99,
-	"base_price": null
+	"ORDERS_30D": null
 }

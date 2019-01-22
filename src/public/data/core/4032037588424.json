@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 27,
+	"item_group": "Ballons",
+	"current_stock_003_halle_altstadt": 26,
 	"image": "/files/4032037588424.jpg",
 	"creation": "2018-04-19T17:05:44.736295",
 	"website_image": "/files/4032037588424.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 96,
 	"first_time_ordered_on_": "2018-04-18",
+	"ORDERS_7D": 8,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 158,
 	"item_name": "Folienballon Baby 70cm",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2881395d-d741-4dc2-b9b2-2e7370ba86ff",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4032037588424",
 	"item_code": "PP-000007463",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000007463",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Ballons",
+	"BARCODE": "4032037588424",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 26
 }

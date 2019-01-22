@@ -1,4 +1,5 @@
 {
+	"item_group": "Schreibwaren Schule",
 	"current_stock_003_halle_altstadt": 5,
 	"image": "/files/4044186342505.png",
 	"creation": "2018-08-02T11:42:57.606049",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 5,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Billiger gibts nur in der App!",
+	"ORDERS_ALLTIME": 38,
 	"item_name": "Spitzer und Radiergummi Kombination",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=93495e30-a035-41c8-a81c-6b571c1a7699",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4044186342505",
 	"item_code": "PP-000012215",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000012215",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schreibwaren Schule",
+	"BARCODE": "4044186342505",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 6
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Schmuck",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8711252066912.jpg",
 	"creation": "2018-03-14T16:33:19.810685",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 4,
 	"marketing_text": "Alles Rund um das Auto auch online",
+	"ORDERS_ALLTIME": 133,
 	"item_name": "Haarreif Mit Clip 4Versch. Farben",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c8168a11-248e-40b9-8f7d-c6e09b8d5ac8",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252066912",
 	"item_code": "PP-000005629",
-	"current_stock_001_kaufpark_eiche": 38,
 	"name": "PP-000005629",
+	"current_stock_001_kaufpark_eiche": 38,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schmuck",
+	"BARCODE": "8711252066912",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.59",
 	"current_gross_selling_price": 0.59,
-	"base_price": "0.59"
+	"ORDERS_30D": 20
 }

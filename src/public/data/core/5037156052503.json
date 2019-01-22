@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T18:55:18.786250",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-04",
+	"ORDERS_7D": 2,
 	"marketing_text": "Noch mehr Beauty auf factorymarket.de",
+	"ORDERS_ALLTIME": 42,
 	"item_name": "John Frieda Mask Hair Repair Kur 150ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=22f79a0a-018c-474a-b07c-731c9f266d7d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5037156052503",
 	"item_code": "PP-000003619",
-	"current_stock_001_kaufpark_eiche": -1,
 	"name": "PP-000003619",
+	"current_stock_001_kaufpark_eiche": -1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "5037156052503",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.49",
 	"current_gross_selling_price": 3.49,
-	"base_price": "3.49"
+	"ORDERS_30D": 4
 }

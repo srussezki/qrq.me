@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Raumduft",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/8718924871133.jpg",
 	"creation": "2018-12-04T15:38:25.176733",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 21,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 59,
 	"item_name": "Refill Lufterfrischer 250ml Ocean Freshness",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718924871133",
 	"item_code": "PP-000016436",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000016436",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "FMCG Raumduft",
+	"BARCODE": "8718924871133",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "0.52",
 	"current_gross_selling_price": 1.29,
-	"base_price": "0.52"
+	"ORDERS_30D": 59
 }

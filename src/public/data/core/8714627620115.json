@@ -1,4 +1,5 @@
 {
+	"item_group": "Bälle",
 	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/8714627620115.jpg",
 	"creation": "2018-03-14T16:33:10.521280",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 7,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 164,
 	"item_name": "3 Schaumkugeln",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2c45ee34-68a6-428b-bd89-3a8d4589b225",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627620115",
 	"item_code": "PP-000005862",
-	"current_stock_001_kaufpark_eiche": 18,
 	"name": "PP-000005862",
+	"current_stock_001_kaufpark_eiche": 18,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Bälle",
+	"BARCODE": "8714627620115",
+	"ORDERS_YESTERDAY": 4,
+	"base_price": "1.69",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.69"
+	"ORDERS_30D": 15
 }

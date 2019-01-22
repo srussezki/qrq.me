@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 22,
+	"item_group": "Hefte & Blöcke",
+	"current_stock_003_halle_altstadt": 21,
 	"image": null,
 	"creation": "2018-11-07T12:11:00.019454",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 6,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 49,
 	"item_name": "Idena Schulblock A4 kariert 50 Blatt Lin. 28",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=52291423-87c4-46d1-a8e4-9f5376e0a3f2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002372103941",
 	"item_code": "PP-000015718",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015718",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Hefte & Blöcke",
+	"BARCODE": "4002372103941",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 11
 }

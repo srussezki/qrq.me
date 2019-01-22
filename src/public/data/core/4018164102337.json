@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 49,
+	"item_group": "Servietten",
+	"current_stock_003_halle_altstadt": 48,
 	"image": "/files/4018164102337.jpg",
 	"creation": "2018-08-02T11:48:01.247386",
 	"website_image": "/files/4018164102337.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 60,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Über 600.000 weiterer Küchenhelfer online",
+	"ORDERS_ALLTIME": 51,
 	"item_name": "Servietten m. Motiv, 3-lg.,33x33cm, Kräuter, 20 Stk.",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7ebad482-879e-4c17-9a39-48e96880e10b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4018164102337",
 	"item_code": "PP-000011922",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000011922",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Servietten",
+	"BARCODE": "4018164102337",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.0985",
 	"current_gross_selling_price": 0.89,
-	"base_price": "1.0985"
+	"ORDERS_30D": 11
 }

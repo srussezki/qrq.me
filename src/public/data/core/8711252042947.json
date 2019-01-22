@@ -1,4 +1,5 @@
 {
+	"item_group": "Glas",
 	"current_stock_003_halle_altstadt": 31,
 	"image": "/files/8711252042947.jpg",
 	"creation": "2018-02-14T16:00:50.053706",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 72,
 	"first_time_ordered_on_": "2018-04-09",
+	"ORDERS_7D": 11,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 80,
 	"item_name": "Tasse 300Ml",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4755ea03-18b8-467e-8a00-2ca4eeedc121",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252042947",
 	"item_code": "PP-000003348",
-	"current_stock_001_kaufpark_eiche": 42,
 	"name": "PP-000003348",
+	"current_stock_001_kaufpark_eiche": 42,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Glas",
+	"BARCODE": "8711252042947",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.89",
 	"current_gross_selling_price": 1.19,
-	"base_price": "0.89"
+	"ORDERS_30D": 20
 }

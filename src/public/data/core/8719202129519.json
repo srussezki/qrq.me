@@ -1,4 +1,5 @@
 {
+	"item_group": "Baby- & Kleinkindspielzeug",
 	"current_stock_003_halle_altstadt": 5,
 	"image": "/files/8719202129519.jpg",
 	"creation": "2018-02-13T19:03:11.674105",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 67,
 	"item_name": "Laufrad Blau & Rosa",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1f97ade0-f34c-471a-8465-574330339eae",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202129519",
 	"item_code": "PP-000003092",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000003092",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Baby- & Kleinkindspielzeug",
+	"BARCODE": "8719202129519",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 8
 }

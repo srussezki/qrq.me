@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflanzen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8718158387387.png",
 	"creation": "2018-02-28T16:19:02.571770",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-27",
+	"ORDERS_7D": null,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Blumensamen Versch. Sorten",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=66da0c03-1348-4dce-b4f4-bf4be81b69e3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158387387",
 	"item_code": "PP-000005051",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000005051",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Pflanzen",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "1.49",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.49"
+	"ORDERS_30D": null
 }

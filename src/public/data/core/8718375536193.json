@@ -1,4 +1,5 @@
 {
+	"item_group": "Schreibwaren Schule",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8718375536193.jpg",
 	"creation": "2018-02-13T18:48:23.722859",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 5,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 98,
 	"item_name": "Disney Schere",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c7acbcd5-c41c-4ac7-be1b-149125d7ef20",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718375536193",
 	"item_code": "PP-000001498",
-	"current_stock_001_kaufpark_eiche": 33,
 	"name": "PP-000001498",
+	"current_stock_001_kaufpark_eiche": 33,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Schreibwaren Schule",
+	"BARCODE": "8718375536193",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 11
 }

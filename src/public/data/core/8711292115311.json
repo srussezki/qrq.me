@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 8,
+	"item_group": "Deko LED",
+	"current_stock_003_halle_altstadt": 7,
 	"image": null,
 	"creation": "2018-07-24T08:06:16.820933",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Do it yourself, mit unserer App",
+	"ORDERS_ALLTIME": 98,
 	"item_name": "LED Streifen RGB 90led ",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=75e659f1-5404-4a14-a593-87a09d5e00c3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711292115311",
 	"item_code": "PP-000011428",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000011428",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Deko LED",
+	"BARCODE": "8711292115311",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 12.99,
-	"base_price": null
+	"ORDERS_30D": 15
 }

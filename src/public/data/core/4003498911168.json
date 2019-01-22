@@ -1,4 +1,5 @@
 {
+	"item_group": "Malerbedarf",
 	"current_stock_003_halle_altstadt": 9,
 	"image": null,
 	"creation": "2018-02-13T18:54:43.336988",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-04",
+	"ORDERS_7D": 0,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 41,
 	"item_name": "Clever Sparen Wandweiss",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=dfc9e8f7-2b10-4227-a775-1a27cee0e6c2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4003498911168",
 	"item_code": "PP-000002871",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000002871",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "Malerbedarf",
+	"BARCODE": "4003498911168",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.1",
 	"current_gross_selling_price": 11.99,
-	"base_price": "1.1"
+	"ORDERS_30D": 1
 }

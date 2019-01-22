@@ -1,4 +1,5 @@
 {
+	"item_group": "Autopflege",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/7612720201914.jpg",
 	"creation": "2018-02-13T18:57:03.965952",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-27",
+	"ORDERS_7D": 6,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 104,
 	"item_name": "Lufterfrischer Wunderbaum",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f0bb3c9d-ed82-49ff-bb72-9d4a6f36bee5",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "7612720201914",
 	"item_code": "PP-000001079",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000001079",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "5",
-	"item_group": "Autopflege",
+	"BARCODE": "7612720201914",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "1.19",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.19"
+	"ORDERS_30D": 13
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Hunde",
 	"current_stock_003_halle_altstadt": 13,
 	"image": "/files/8711252389141.jpg",
 	"creation": "2018-04-19T18:43:36.581745",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 96,
 	"first_time_ordered_on_": "2018-04-19",
+	"ORDERS_7D": 2,
 	"marketing_text": "Weiter 250.000 Tierartikel online",
+	"ORDERS_ALLTIME": 74,
 	"item_name": "Tiernagelschere",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1e9af102-ebad-4b72-9ba3-cb14a8613ab3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252389141",
 	"item_code": "PP-000007524",
-	"current_stock_001_kaufpark_eiche": 16,
 	"name": "PP-000007524",
+	"current_stock_001_kaufpark_eiche": 16,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hunde",
+	"BARCODE": "8711252389141",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.19",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.19"
+	"ORDERS_30D": 12
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Herrenbekleidung",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/2100000009589.jpg",
 	"creation": "2018-10-02T13:33:12.246034",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": 9,
 	"item_name": "Herren Outdoor Sweatjacke mit Kapuze",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a36af5d7-fcd0-43d7-ae30-e58e3777c74e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "2100000009589",
 	"item_code": "PP-000014360",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000014360",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Herrenbekleidung",
+	"BARCODE": "2100000009589",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "11.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "11.99"
+	"ORDERS_30D": 6
 }

@@ -1,12 +1,15 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 17,
 	"image": null,
 	"creation": "2018-11-26T15:11:20.498187",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 48,
+	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 17,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 32,
 	"item_name": "Labello Strawberry Shine",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4005808368396",
 	"item_code": "PP-000016041",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000016041",
+	"current_stock_001_kaufpark_eiche": 24,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "4005808368396",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.19",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.19"
+	"ORDERS_30D": 31
 }

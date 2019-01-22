@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 12,
+	"item_group": "Vorratsdosen",
+	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/8719202034950.jpg",
 	"creation": "2018-02-13T18:57:20.603352",
 	"website_image": "/files/8719202034950.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": "2017-12-14",
+	"ORDERS_7D": 2,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 95,
 	"item_name": "Vorratsdose Metall",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9b0e6298-0f4e-4480-9198-f200479f23ba",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202034950",
 	"item_code": "PP-000000859",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000000859",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "0",
-	"item_group": "Vorratsdosen",
+	"BARCODE": "8719202034950",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "3.49",
 	"current_gross_selling_price": 3.49,
-	"base_price": "3.49"
+	"ORDERS_30D": 2
 }

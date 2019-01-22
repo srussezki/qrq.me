@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 0,
+	"item_group": "FMCG Raumduft",
+	"current_stock_003_halle_altstadt": -1,
 	"image": "/files/5011417568873.jpg",
 	"creation": "2018-10-05T13:02:10.530691",
 	"website_image": "/files/5011417568873.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 60,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 54,
 	"item_name": "Air Wick FM Refill Festive Pine 250ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=249ff15c-ca49-460d-a425-69f4953bcca0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5011417568873",
 	"item_code": "PP-000014578",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000014578",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "FMCG Raumduft",
+	"BARCODE": "5011417568873",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 4
 }

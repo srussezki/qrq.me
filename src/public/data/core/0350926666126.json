@@ -1,4 +1,5 @@
 {
+	"item_group": "Unterwäsche & Bademode",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-05-07T16:37:10.413438",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-05-07",
+	"ORDERS_7D": 0,
 	"marketing_text": "Noch mehr Auswahl online",
+	"ORDERS_ALLTIME": 1,
 	"item_name": "Cornalli Unterhosen 2stk Grau/Blau XL",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1c63b8ac-6206-45f8-920f-a3f61eb18af6",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000008477",
 	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000008477",
+	"_timestamp": "20190122 150229.401",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Unterwäsche & Bademode",
+	"BARCODE": "0350926666126",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 0
 }

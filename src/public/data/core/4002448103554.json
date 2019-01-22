@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Reinigungsmittel",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4002448103554.jpg",
 	"creation": "2018-05-25T15:28:18.087237",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 33,
 	"item_name": "Finish Tabs All in 1 Regular 63stk",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=57e9f9d3-7220-406a-929d-786f5f048480",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002448103554",
 	"item_code": "PP-000009199",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000009199",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "FMCG Reinigungsmittel",
+	"BARCODE": "4002448103554",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "6.99",
 	"current_gross_selling_price": 8.99,
-	"base_price": "6.99"
+	"ORDERS_30D": 2
 }

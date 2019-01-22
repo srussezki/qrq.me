@@ -1,4 +1,5 @@
 {
+	"item_group": "Ballons",
 	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/4038732126183.jpg",
 	"creation": "2019-01-08T16:16:57.748621",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 10,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 2,
 	"item_name": "Folienballon Zahl 7 180 cm rosegold",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4038732126183",
 	"item_code": "PP-000016955",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000016955",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Ballons",
+	"BARCODE": "4038732126183",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 2
 }

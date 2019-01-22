@@ -1,4 +1,5 @@
 {
+	"item_group": "Plüschtiere",
 	"current_stock_003_halle_altstadt": 14,
 	"image": "/files/5038104900266.png",
 	"creation": "2018-08-20T16:45:27.828142",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 18,
 	"item_name": "Jurassic World Plüschtier Raptor 22cm",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1c070e3b-5a67-4cb5-b1aa-db9fd631a93a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5038104900266",
 	"item_code": "PP-000012671",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000012671",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Plüschtiere",
+	"BARCODE": "5038104900266",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "7.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "7.99"
+	"ORDERS_30D": 3
 }

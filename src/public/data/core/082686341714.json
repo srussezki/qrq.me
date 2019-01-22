@@ -1,4 +1,5 @@
 {
+	"item_group": "Kostüme",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/082686341714.png",
 	"creation": "2018-02-14T16:00:27.146862",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-25",
+	"ORDERS_7D": null,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Mädchen Kostüm Princess Gelb",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=292da568-ae03-4912-875f-27d17833ddae",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000004234",
 	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000004234",
+	"_timestamp": "20190122 150229.435",
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Kostüme",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "4.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "4.99"
+	"ORDERS_30D": null
 }

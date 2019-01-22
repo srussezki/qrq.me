@@ -1,4 +1,5 @@
 {
+	"item_group": "Geschenkverpackungen",
 	"current_stock_003_halle_altstadt": 16,
 	"image": "/files/4018164013695.jpg",
 	"creation": "2018-08-02T11:48:06.901861",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 21,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 7,
 	"marketing_text": "Für Bürohelden und Heldinnen!",
+	"ORDERS_ALLTIME": 119,
 	"item_name": "Multi-Spule versch. Motive 5mx10mm",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=406ee8ea-c8d2-46ff-a1a6-01f03b8307e1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4018164013695",
 	"item_code": "PP-000011948",
-	"current_stock_001_kaufpark_eiche": 18,
 	"name": "PP-000011948",
+	"current_stock_001_kaufpark_eiche": 17,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Geschenkverpackungen",
+	"BARCODE": "4018164013695",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 18
 }

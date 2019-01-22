@@ -1,4 +1,5 @@
 {
+	"item_group": "Keramik & Porzellan",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-04-27T12:23:41.656318",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-25",
+	"ORDERS_7D": 0,
 	"marketing_text": "Für die Profiköche gehts online weiter",
+	"ORDERS_ALLTIME": 19,
 	"item_name": "Tasse m. Spruch Weltbester Mitarbeiter",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7ac88771-fc2d-44cb-a442-cf545a01668f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4010070287597",
 	"item_code": "PP-000008196",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000008196",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Keramik & Porzellan",
+	"BARCODE": "4010070287597",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 0
 }

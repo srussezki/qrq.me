@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 4,
 	"image": "/files/0013051367947.png",
 	"creation": "2018-08-27T13:14:30.203435",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 22,
 	"item_name": "Minnie Maus Ohren Polka Dot 4stk",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=676b5e61-44ca-48f3-a6a9-218b37599625",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000012867",
 	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000012867",
+	"_timestamp": "20190122 150229.259",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": "013051367947",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 2
 }

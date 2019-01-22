@@ -5,11 +5,12 @@ import './app.scss';
 const ProductCard = require('./../../components/product-card/product-card');
 const YoutubeVideosCard = require('./../../components/youtube-video/youtube-video');
 const PriceComparisonCard = require('./../../components/price-comparison/price-comparison');
+const ProductAttributes = require('./../../components/attributes-list/attributes-list');
 
 const renderFn = require('./app.pug');
 
 const urlParams = new URLSearchParams(window.location.search);
-const ean = urlParams.get('e');
+const ean = urlParams.get('e') || urlParams.get('p');
 // const storeId = urlParams.get('s');
 
 var appData = {};
@@ -25,10 +26,11 @@ if (ean && ean.match(/^\d+$/)) {
 
   $externalDataRequest.then(data => {
     var productData = data && data.product_external_data;
-    console.log(productData);
+    console.log('productData', productData);
 
     appData.youtubeVideo = YoutubeVideosCard(productData);
     appData.priceComparison = PriceComparisonCard(productData);
+    appData.productAtributes = ProductAttributes(productData);
 
     render();
   });

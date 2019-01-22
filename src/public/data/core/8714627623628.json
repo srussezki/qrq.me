@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T18:55:53.638267",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 4,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 117,
 	"item_name": "Dart Spiel",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c0b06094-04e5-4d08-887f-c94ae107493e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627623628",
 	"item_code": "PP-000001514",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000001514",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "4",
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8714627623628",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "2.69",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.69"
+	"ORDERS_30D": 14
 }

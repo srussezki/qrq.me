@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 41,
+	"item_group": "Bastelbedarf",
+	"current_stock_003_halle_altstadt": 40,
 	"image": "/files/8711252910161.jpg",
 	"creation": "2018-09-18T12:53:14.692930",
 	"website_image": "/files/8711252910161.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 72,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 46,
 	"item_name": "Massband 150cm",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=214b5cb1-b361-4daa-ae11-10b56573f634",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252910161",
 	"item_code": "PP-000013807",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000013807",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Bastelbedarf",
+	"BARCODE": "8711252910161",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.59",
 	"current_gross_selling_price": 0.59,
-	"base_price": "0.59"
+	"ORDERS_30D": 12
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/7702018866984.png",
 	"creation": "2018-08-17T10:09:50.478692",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "120.800 weitere Beautyartikel in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Gillette Fusion Manual 4 pcs",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e9181039-e9e8-4c3a-9157-55f2284118b3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "7702018866984",
 	"item_code": "PP-000012616",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000012616",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "9.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "9.99"
+	"ORDERS_30D": null
 }

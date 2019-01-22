@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 43,
+	"item_group": "Parfüm",
+	"current_stock_003_halle_altstadt": 42,
 	"image": "/files/8715658013099.jpg",
 	"creation": "2018-08-31T12:11:02.715129",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 92,
 	"item_name": "EDT 100ml Rocks& Stones",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=80b267f5-0045-4469-bcf0-6f7fd654730c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8715658013099",
 	"item_code": "PP-000013062",
-	"current_stock_001_kaufpark_eiche": 39,
 	"name": "PP-000013062",
+	"current_stock_001_kaufpark_eiche": 39,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Parfüm",
+	"BARCODE": "8715658013099",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 20
 }

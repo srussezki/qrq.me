@@ -1,4 +1,5 @@
 {
+	"item_group": "Reinigung hart",
 	"current_stock_003_halle_altstadt": 13,
 	"image": "/files/8711252823171.jpg",
 	"creation": "2018-06-07T12:25:52.552528",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 9,
 	"marketing_text": "Putzen geht noch billiger in unserer App",
+	"ORDERS_ALLTIME": 57,
 	"item_name": "Microfaser Glastuch 40x50cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9fe1966e-aaf3-4bd2-bdab-7c21d0dc6d7a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252823171",
 	"item_code": "PP-000009662",
-	"current_stock_001_kaufpark_eiche": 35,
 	"name": "PP-000009662",
+	"current_stock_001_kaufpark_eiche": 35,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Reinigung hart",
+	"BARCODE": "8711252823171",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.49",
 	"current_gross_selling_price": 0.49,
-	"base_price": "0.49"
+	"ORDERS_30D": 13
 }

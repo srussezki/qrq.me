@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 18,
+	"item_group": "Werkzeug",
+	"current_stock_003_halle_altstadt": 17,
 	"image": "/files/8711252838397.jpg",
 	"creation": "2018-12-11T14:34:48.051202",
 	"website_image": "/files/8711252838397.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 13,
 	"marketing_text": "Alles für den Wuffi & die Mieze",
+	"ORDERS_ALLTIME": 21,
 	"item_name": "4in1 Öffner für Drehverschluss",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252838397",
 	"item_code": "PP-000016624",
-	"current_stock_001_kaufpark_eiche": 15,
 	"name": "PP-000016624",
+	"current_stock_001_kaufpark_eiche": 15,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Werkzeug",
+	"BARCODE": "8711252838397",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 21
 }

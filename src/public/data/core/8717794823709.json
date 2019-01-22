@@ -1,4 +1,5 @@
 {
+	"item_group": "Weihnachten",
 	"current_stock_003_halle_altstadt": 5,
 	"image": "/files/8717794823709.jpg",
 	"creation": "2018-09-13T12:00:51.680302",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 6,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 782,
 	"item_name": "Kunstbaum mit LED 30cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8717794823709",
 	"item_code": "PP-000013354",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000013354",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Weihnachten",
+	"BARCODE": "8717794823709",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 6.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 15
 }

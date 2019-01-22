@@ -1,4 +1,5 @@
 {
+	"item_group": "Getränke",
 	"current_stock_003_halle_altstadt": 8,
 	"image": "/files/4052700012711.jpg",
 	"creation": "2018-07-26T12:44:16.207458",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 12,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 28,
 	"item_name": "Krueger Fruechtetee Zitrone 400G",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c9451d41-6f37-48fa-b2f5-76c93f18d039",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4052700012711",
 	"item_code": "PP-000011622",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000011622",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "4052700012711",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": null,
 	"current_gross_selling_price": 1.59,
-	"base_price": null
+	"ORDERS_30D": 5
 }

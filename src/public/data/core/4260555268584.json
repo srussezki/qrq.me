@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 7,
+	"item_group": "Herrenbekleidung",
+	"current_stock_003_halle_altstadt": 6,
 	"image": null,
 	"creation": "2018-08-01T11:38:54.953837",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 21,
 	"item_name": "Herren Jacke khaki & olive",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=598b326a-6377-4635-aca8-21dc4fd1bd34",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4260555268584",
 	"item_code": "PP-000011847",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000011847",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Herrenbekleidung",
+	"BARCODE": "4260555268584",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "19.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "19.99"
+	"ORDERS_30D": 16
 }

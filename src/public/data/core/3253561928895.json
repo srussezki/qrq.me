@@ -1,4 +1,5 @@
 {
+	"item_group": "Aufbewahrung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/3253561928895.jpg",
 	"creation": "2018-04-19T18:07:47.221530",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-13",
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 11,
 	"item_name": "Stanley Organizer 27,2x4,6x18,9cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3f498b71-1c06-4555-b583-c0ee01302c86",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3253561928895",
 	"item_code": "PP-000007394",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000007394",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Aufbewahrung",
+	"BARCODE": "3253561928895",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 0
 }

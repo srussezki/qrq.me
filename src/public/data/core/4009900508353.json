@@ -1,12 +1,15 @@
 {
+	"item_group": "Süßigkeiten & Kaugummi",
 	"current_stock_003_halle_altstadt": 21,
 	"image": "/files/4009900508353.jpg",
 	"creation": "2018-04-19T18:07:41.637702",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 132,
+	"current_stock_wh_ludwigsfelde": 126,
 	"first_time_ordered_on_": "2018-04-13",
+	"ORDERS_7D": 9,
 	"marketing_text": "Alles für die Naschkatzen bei factorymarket",
+	"ORDERS_ALLTIME": 153,
 	"item_name": "Airwaves Menthol&Eucalyptos 50 Dragees",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d22c0302-ff96-4d75-b0fc-1b5cda9435f5",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4009900508353",
 	"item_code": "PP-000007363",
-	"current_stock_001_kaufpark_eiche": 18,
 	"name": "PP-000007363",
+	"current_stock_001_kaufpark_eiche": 24,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "4009900508353",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.89",
 	"current_gross_selling_price": 1.89,
-	"base_price": "1.89"
+	"ORDERS_30D": 31
 }

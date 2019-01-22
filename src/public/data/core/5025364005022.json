@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Haushalt",
 	"current_stock_003_halle_altstadt": 16,
 	"image": "/files/5025364005022.png",
 	"creation": "2018-08-20T16:45:28.517239",
@@ -6,12 +7,14 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Die besten Küchenhelfer, auch in unserer App",
+	"ORDERS_ALLTIME": 38,
 	"item_name": "A.I.L. Gefrierbeutel",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=77ca9eb3-5b7a-4779-8c95-f2f57e86421c",
 	"is_sales_item": 1,
-	"current_stock_002_halle_neustadt": 42,
+	"current_stock_002_halle_neustadt": 41,
 	"rack_number": null,
 	"item_group_level_0": null,
 	"base_price_text": "0.99 € je 1 Stück",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5025364005022",
 	"item_code": "PP-000012694",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000012694",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "FMCG Haushalt",
+	"BARCODE": "5025364005022",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 7
 }

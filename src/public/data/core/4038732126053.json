@@ -1,4 +1,5 @@
 {
+	"item_group": "Armbanduhren",
 	"current_stock_003_halle_altstadt": 32,
 	"image": "/files/4038732126053.jpg",
 	"creation": "2018-11-12T14:10:17.711357",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 9,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 29,
 	"item_name": "Sportuhr",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=42ccb1d8-5b3b-4aa6-9562-6ce1993ef5e4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4038732126053",
 	"item_code": "PP-000015888",
-	"current_stock_001_kaufpark_eiche": 38,
 	"name": "PP-000015888",
+	"current_stock_001_kaufpark_eiche": 38,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Armbanduhren",
+	"BARCODE": "4038732126053",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.19",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.19"
+	"ORDERS_30D": 25
 }

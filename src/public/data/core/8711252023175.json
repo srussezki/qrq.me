@@ -1,4 +1,5 @@
 {
+	"item_group": "Mundpflege",
 	"current_stock_003_halle_altstadt": 21,
 	"image": "/files/8711252023175.jpg",
 	"creation": "2018-05-02T18:33:41.251336",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 144,
 	"first_time_ordered_on_": "2018-05-02",
+	"ORDERS_7D": 1,
 	"marketing_text": "Pflege für Sie & Ihn in der App",
+	"ORDERS_ALLTIME": 105,
 	"item_name": "Weiche Zahnstocher in Reiseetui 40stk",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b4290838-5bf1-4592-9f8f-cdb10f13e674",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252023175",
 	"item_code": "PP-000008314",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000008314",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Mundpflege",
+	"BARCODE": "8711252023175",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.79",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.79"
+	"ORDERS_30D": 11
 }

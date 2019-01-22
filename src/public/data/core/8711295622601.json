@@ -1,4 +1,5 @@
 {
+	"item_group": "Vorratsdosen",
 	"current_stock_003_halle_altstadt": 28,
 	"image": "/files/8711295622601.jpg",
 	"creation": "2018-02-13T19:02:49.032990",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 80,
 	"first_time_ordered_on_": "2017-12-27",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 104,
 	"item_name": "Vorratsdose ca 15x11x12cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=27a1664f-7cc0-4c78-8b37-98cd38b0f5af",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295622601",
 	"item_code": "PP-000003103",
-	"current_stock_001_kaufpark_eiche": 27,
 	"name": "PP-000003103",
+	"current_stock_001_kaufpark_eiche": 27,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Vorratsdosen",
+	"BARCODE": "8711295622601",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.69",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.69"
+	"ORDERS_30D": 3
 }

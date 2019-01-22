@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Mädchen",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/5055114295441.jpg",
 	"creation": "2018-11-15T11:32:58.116312",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Frozen Service 10-teilig",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c2beeb7e-3d79-42c6-8a73-48b80c7d7644",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5055114295441",
 	"item_code": "PP-000015958",
-	"current_stock_001_kaufpark_eiche": 52,
 	"name": "PP-000015958",
+	"current_stock_001_kaufpark_eiche": 52,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Spielwaren Mädchen",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "7.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "7.99"
+	"ORDERS_30D": null
 }

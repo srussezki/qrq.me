@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 13,
 	"image": "/files/4029811395774.png",
 	"creation": "2018-07-03T10:01:18.208689",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": "Mehr Artikel für die Kleinenin unserer App",
+	"ORDERS_ALLTIME": 73,
 	"item_name": "Squeeze-Muschel m. Meerjungfrau versch. Farben",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e94df009-3ee8-4188-a80d-5402507e8141",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4029811395774",
 	"item_code": "PP-000010388",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000010388",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "4029811395774",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.99"
+	"ORDERS_30D": 20
 }

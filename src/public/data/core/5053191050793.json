@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Reinigungsmittel",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5053191050793.jpg",
 	"creation": "2018-02-14T16:00:29.088536",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-27",
+	"ORDERS_7D": null,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Falteimer Türkis 10l",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=883dd4a9-951d-461e-80d3-40959a160da8",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5053191050793",
 	"item_code": "PP-000004167",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004167",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "FMCG Reinigungsmittel",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "0.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "0.99"
+	"ORDERS_30D": null
 }

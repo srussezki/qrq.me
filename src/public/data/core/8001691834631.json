@@ -1,4 +1,5 @@
 {
+	"item_group": "Glas",
 	"current_stock_003_halle_altstadt": 13,
 	"image": null,
 	"creation": "2018-10-04T12:38:15.147007",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 65,
 	"item_name": "HIRSCH Wasserglas",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=af47d520-7e13-49da-9fbc-b4494bdc21f2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8001691834631",
 	"item_code": "PP-000014288",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000014288",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Glas",
+	"BARCODE": "8001691834631",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 7
 }

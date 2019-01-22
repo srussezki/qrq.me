@@ -1,4 +1,5 @@
 {
+	"item_group": "Geschenkverpackungen",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/4020607608375.jpg",
 	"creation": "2018-07-17T09:58:31.779083",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 104,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Verschönere dein Zuhause, jetzt auch online",
+	"ORDERS_ALLTIME": 44,
 	"item_name": "Kartonage Herzi Rot L25cm",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=dc54fe14-9f3c-4991-9a96-8221229289ec",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4020607608375",
 	"item_code": "PP-000010803",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000010803",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Geschenkverpackungen",
+	"BARCODE": "4020607608375",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 9
 }

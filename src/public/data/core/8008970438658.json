@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekorative Kosmetik",
 	"current_stock_003_halle_altstadt": 40,
 	"image": null,
 	"creation": "2018-05-22T11:04:10.476057",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": null,
 	"item_name": "NYX Double Stacked Mascara Black&White",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ee1ec845-2791-4aed-af82-e0508db1b8fb",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8008970438658",
 	"item_code": "PP-000009066",
-	"current_stock_001_kaufpark_eiche": 51,
 	"name": "PP-000009066",
+	"current_stock_001_kaufpark_eiche": 51,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Dekorative Kosmetik",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "3.99",
 	"current_gross_selling_price": 5.49,
-	"base_price": "3.99"
+	"ORDERS_30D": null
 }

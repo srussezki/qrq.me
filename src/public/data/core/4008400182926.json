@@ -1,4 +1,5 @@
 {
+	"item_group": "Schokolade",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4008400182926.png",
 	"creation": "2018-02-14T16:00:27.774235",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-01",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 50,
 	"item_name": "Raffaello Geschenkpackung 270gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=feeb886a-efa9-4639-a273-43f3b470037c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008400182926",
 	"item_code": "PP-000004262",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004262",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schokolade",
+	"BARCODE": "4008400182926",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.55",
 	"current_gross_selling_price": 1.49,
-	"base_price": "0.55"
+	"ORDERS_30D": 0
 }

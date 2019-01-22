@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 20,
+	"item_group": "Vorratsdosen",
+	"current_stock_003_halle_altstadt": 19,
 	"image": "/files/8711252852652.jpg",
 	"creation": "2018-05-02T18:33:55.434709",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": "2018-05-02",
+	"ORDERS_7D": 17,
 	"marketing_text": "Dekorieren bis zum Umfallen in der App",
+	"ORDERS_ALLTIME": 109,
 	"item_name": "Aufbewahrungsdose Emoji TP 3ass dsg 15,5x15,5x6,5cm 0,2mm bc 7323990090000000",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=49d782f4-732a-4ac3-a9f4-272d6f1279de",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252852652",
 	"item_code": "PP-000008390",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000008390",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Vorratsdosen",
+	"BARCODE": "8711252852652",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 21
 }

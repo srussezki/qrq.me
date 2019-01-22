@@ -1,4 +1,5 @@
 {
+	"item_group": "Babybekleidung",
 	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/4040073012988.jpg",
 	"creation": "2018-04-24T18:00:40.550621",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 9,
 	"first_time_ordered_on_": "2018-05-07",
+	"ORDERS_7D": 0,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": 7,
 	"item_name": "Baby Snoopy Body Rosa Gr. 62/68",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b8b84dff-789f-4aec-a969-93b6188710f5",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4040073012988",
 	"item_code": "PP-000007695",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000007695",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Babybekleidung",
+	"BARCODE": "4040073012988",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 0
 }

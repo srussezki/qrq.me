@@ -2,6 +2,12 @@
   .header.site-header.sticky-top.py-1
     img(src='./public/images/headerLogo.svg')
   
-  .card!= productData
-  .card!= priceComparison
-  .card!= youtubeVideo
+  if productData
+    .card!= productData
+  if productAtributes
+    .card!= productAtributes
+  if priceComparison
+    .card!= priceComparison
+  if youtubeVideo
+    .card!= youtubeVideo
+    

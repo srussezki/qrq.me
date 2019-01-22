@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 13,
+	"item_group": "Schreibwaren Schule",
+	"current_stock_003_halle_altstadt": 12,
 	"image": null,
 	"creation": "2018-11-07T12:10:20.652769",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 24,
 	"item_name": "Idena Packpapier 1x5m Rolle, 80g/m²",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d17ec2c8-3797-4603-9dcc-267821a03cd0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002372000066",
 	"item_code": "PP-000015521",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015521",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schreibwaren Schule",
+	"BARCODE": "4002372000066",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.19",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.19"
+	"ORDERS_30D": 4
 }

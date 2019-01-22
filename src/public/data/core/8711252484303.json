@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 2,
+	"item_group": "Bad hart",
+	"current_stock_003_halle_altstadt": 1,
 	"image": "/files/8711252484303.jpg",
 	"creation": "2018-03-14T16:33:27.884716",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 4,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 122,
 	"item_name": "Zahncremehalter Bambus",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252484303",
 	"item_code": "PP-000005435",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000005435",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Bad hart",
+	"BARCODE": "8711252484303",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 31
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Schokolade",
 	"current_stock_003_halle_altstadt": 1,
 	"image": "/files/5908234810318.jpg",
 	"creation": "2018-09-09T11:34:14.716314",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Für den Hunger zwischendurch und danach",
+	"ORDERS_ALLTIME": 190,
 	"item_name": "Happy Cappuccino Wafers 130gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b97c89f2-1dea-49fe-8999-0c65cc089e28",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5908234810318",
 	"item_code": "PP-000013174",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000013174",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schokolade",
+	"BARCODE": "5908234810318",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.29",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.29"
+	"ORDERS_30D": 28
 }

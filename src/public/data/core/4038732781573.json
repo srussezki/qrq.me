@@ -1,4 +1,5 @@
 {
+	"item_group": "Schmuck",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4038732781573.jpg",
 	"creation": "2018-04-09T11:22:42.555321",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-11",
+	"ORDERS_7D": null,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Armband Perlen Schwarz/Weiß",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1e115934-6fef-4d75-ad5a-38658a0af111",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4038732781573",
 	"item_code": "PP-000006903",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000006903",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Schmuck",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": null
 }

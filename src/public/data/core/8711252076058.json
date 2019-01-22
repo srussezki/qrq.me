@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 3,
+	"item_group": "Töpfe & Pfannen",
+	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/8711252076058.jpg",
 	"creation": "2018-06-07T12:25:50.921767",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Die besten Küchenhelfer, auch in unserer App",
+	"ORDERS_ALLTIME": 34,
 	"item_name": "Bratpfanne 24cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e881e241-1b19-4c9d-9404-c5c1f811d9ec",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252076058",
 	"item_code": "PP-000009636",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000009636",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Töpfe & Pfannen",
+	"BARCODE": "8711252076058",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "7.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "7.99"
+	"ORDERS_30D": 7
 }

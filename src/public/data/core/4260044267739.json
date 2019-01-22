@@ -1,4 +1,5 @@
 {
+	"item_group": "Nahrungsergänzungsmittel",
 	"current_stock_003_halle_altstadt": -1,
 	"image": "/files/4260044267739.jpg",
 	"creation": "2018-06-25T12:14:04.924594",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Sommer is comming! Alles für dein Training",
+	"ORDERS_ALLTIME": 26,
 	"item_name": "Power System Lower Carb Cookie-Dough 40g",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=608c3592-0c39-4e3c-9943-fe3bf87e59ff",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4260044267739",
 	"item_code": "PP-000010333",
-	"current_stock_001_kaufpark_eiche": 19,
 	"name": "PP-000010333",
+	"current_stock_001_kaufpark_eiche": 19,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Nahrungsergänzungsmittel",
+	"BARCODE": "4260044267739",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.225",
 	"current_gross_selling_price": 1.29,
-	"base_price": "3.225"
+	"ORDERS_30D": 5
 }

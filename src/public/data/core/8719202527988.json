@@ -1,4 +1,5 @@
 {
+	"item_group": "Beautyaccessoires",
 	"current_stock_003_halle_altstadt": 15,
 	"image": "/files/8719202527988.jpg",
 	"creation": "2018-02-13T19:02:21.031339",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 92,
 	"first_time_ordered_on_": "2018-02-08",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 75,
 	"item_name": "Nagelfeile",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=48d41cba-9b5e-4acb-9d11-52774f8d031b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202527988",
 	"item_code": "PP-000000734",
-	"current_stock_001_kaufpark_eiche": 29,
 	"name": "PP-000000734",
+	"current_stock_001_kaufpark_eiche": 29,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Beautyaccessoires",
+	"BARCODE": "8719202527988",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.49",
 	"current_gross_selling_price": 0.49,
-	"base_price": "0.49"
+	"ORDERS_30D": 0
 }

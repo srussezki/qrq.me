@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Jungs",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5702016109917.jpg",
 	"creation": "2018-02-14T09:14:03.606596",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-07",
+	"ORDERS_7D": 0,
 	"marketing_text": "Spielzeug für Groß und Klein auch online",
+	"ORDERS_ALLTIME": 22,
 	"item_name": "Lego Star Wars Battle Pack",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4164f13c-c703-4ae3-8c87-0e7d8ad244ed",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5702016109917",
 	"item_code": "PP-000004675",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000004675",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Jungs",
+	"BARCODE": "5702016109917",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "15.99",
 	"current_gross_selling_price": 12.99,
-	"base_price": "15.99"
+	"ORDERS_30D": 1
 }

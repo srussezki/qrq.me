@@ -1,4 +1,5 @@
 {
+	"item_group": "Office",
 	"current_stock_003_halle_altstadt": 8,
 	"image": "/files/4002372161040.jpg",
 	"creation": "2018-11-07T12:10:16.282199",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 34,
 	"item_name": "Idena Prospekthülle A4 30stk glasklar",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1672b2c1-e425-4820-be15-4b803d859c7a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002372161040",
 	"item_code": "PP-000015449",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015449",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Office",
+	"BARCODE": "4002372161040",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 6
 }

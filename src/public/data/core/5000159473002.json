@@ -1,4 +1,5 @@
 {
+	"item_group": "Schokolade",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5000159473002.png",
 	"creation": "2018-03-14T16:33:06.096097",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-06",
+	"ORDERS_7D": 0,
 	"marketing_text": "Alles für die Naschkatzen bei factorymarket",
+	"ORDERS_ALLTIME": 814,
 	"item_name": "Minis Twix 206gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=990adb14-e0a9-4cf2-b963-af36e083c23a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5000159473002",
 	"item_code": "PP-000005150",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000005150",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schokolade",
+	"BARCODE": "5000159473002",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.62",
 	"current_gross_selling_price": 1.29,
-	"base_price": "0.62"
+	"ORDERS_30D": 7
 }

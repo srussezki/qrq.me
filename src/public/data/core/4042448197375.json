@@ -1,4 +1,5 @@
 {
+	"item_group": "Office",
 	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/4042448197375.jpg",
 	"creation": "2018-11-07T12:10:18.959588",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 8,
 	"item_name": "Tesa Tischabroller gefül. 10m:15mm Eco & Clear",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=92e3f3ae-fda6-4f62-887a-53225ca2ea5b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4042448197375",
 	"item_code": "PP-000015497",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015497",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Office",
+	"BARCODE": "4042448197375",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 3
 }

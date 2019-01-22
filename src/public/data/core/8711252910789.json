@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 23,
 	"image": "/files/8711252910789.png",
 	"creation": "2018-02-14T16:00:23.930918",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 72,
 	"first_time_ordered_on_": "2017-11-02",
+	"ORDERS_7D": 2,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 40,
 	"item_name": "Flaschenkühler",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=dd944250-1481-4191-b4e0-72121be5a914",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252910789",
 	"item_code": "PP-000002034",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000002034",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Küchenhelfer",
+	"BARCODE": "8711252910789",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.69",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.69"
+	"ORDERS_30D": 8
 }

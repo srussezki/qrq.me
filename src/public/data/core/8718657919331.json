@@ -1,4 +1,5 @@
 {
+	"item_group": "Fitness",
 	"current_stock_003_halle_altstadt": 4,
 	"image": "#REF!",
 	"creation": "2018-12-28T14:22:14.586090",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "XQ Max Push Up Twister 3-in-1",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718657919331",
 	"item_code": "PP-000016772",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000016772",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Fitness",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "14.99",
 	"current_gross_selling_price": 14.99,
-	"base_price": "14.99"
+	"ORDERS_30D": null
 }

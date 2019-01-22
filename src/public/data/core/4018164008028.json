@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 11,
+	"item_group": "Geschenkverpackungen",
+	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/4018164008028.jpg",
 	"creation": "2018-10-12T14:39:25.366564",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 150,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 8,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 82,
 	"item_name": "Geschenktasche Medium ",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=40a587ea-0b4d-4a6b-a377-16d521a75dd1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4018164008028",
 	"item_code": "PP-000014705",
-	"current_stock_001_kaufpark_eiche": 16,
 	"name": "PP-000014705",
+	"current_stock_001_kaufpark_eiche": 14,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Geschenkverpackungen",
+	"BARCODE": "4018164008028",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 25
 }

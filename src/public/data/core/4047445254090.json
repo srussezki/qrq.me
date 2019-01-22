@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 40,
+	"item_group": "Beautyaccessoires",
+	"current_stock_003_halle_altstadt": 39,
 	"image": "/files/4047445254090.png",
 	"creation": "2018-08-10T11:55:20.983858",
 	"website_image": "/files/4047445254090.png",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 96,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 15,
 	"item_name": "Nagelpflege Set",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3a102e55-166e-4060-ba2a-6d00c94d0e09",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4047445254090",
 	"item_code": "PP-000012483",
-	"current_stock_001_kaufpark_eiche": 21,
 	"name": "PP-000012483",
+	"current_stock_001_kaufpark_eiche": 21,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Beautyaccessoires",
+	"BARCODE": "4047445254090",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 2
 }

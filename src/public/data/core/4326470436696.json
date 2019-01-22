@@ -1,4 +1,5 @@
 {
+	"item_group": "Autopflege",
 	"current_stock_003_halle_altstadt": 15,
 	"image": "/files/4326470436696.jpg",
 	"creation": "2018-02-13T18:51:35.176634",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-11-02",
+	"ORDERS_7D": 1,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 47,
 	"item_name": "Auto Feuchttücher Sauber",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c71815a3-e621-41d6-845a-625c1293be1d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470436696",
 	"item_code": "PP-000001058",
-	"current_stock_001_kaufpark_eiche": 16,
 	"name": "PP-000001058",
+	"current_stock_001_kaufpark_eiche": 16,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Autopflege",
+	"BARCODE": "4326470436696",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 2
 }

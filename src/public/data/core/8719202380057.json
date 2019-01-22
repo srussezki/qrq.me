@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 3,
+	"item_group": "Werkzeug",
+	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/8719202380057.jpg",
 	"creation": "2018-02-14T09:14:26.714965",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 96,
 	"first_time_ordered_on_": "2018-02-09",
+	"ORDERS_7D": 6,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 77,
 	"item_name": "Cutter Messer",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7c3b8c24-f2e7-4845-b379-c32b6dcf18ad",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202380057",
 	"item_code": "PP-000004433",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000004433",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Werkzeug",
+	"BARCODE": "8719202380057",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.89"
+	"ORDERS_30D": 14
 }

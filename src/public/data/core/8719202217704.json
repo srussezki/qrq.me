@@ -1,4 +1,5 @@
 {
+	"item_group": "Deko LED",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/8719202217704.jpg",
 	"creation": "2018-07-22T21:42:42.426809",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 60,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere aufregende Themenwelten in der App",
+	"ORDERS_ALLTIME": 1,
 	"item_name": "Lichterkette Kürbis 12 LED",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a171e4fd-a8ae-4809-ba93-adc9a6182a1c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202217704",
 	"item_code": "PP-000011269",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000011269",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Deko LED",
+	"BARCODE": "8719202217704",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 1.99,
-	"base_price": null
+	"ORDERS_30D": 1
 }

@@ -1,12 +1,15 @@
 {
+	"item_group": "Dekorative Kosmetik",
 	"current_stock_003_halle_altstadt": 6,
 	"image": null,
 	"creation": "2018-11-26T14:11:14.476788",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 6,
+	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "CF Gel Effekt Nagellack 11ml , Farb-Nr. 228",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4054495005190",
 	"item_code": "PP-000016035",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000016035",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Dekorative Kosmetik",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": null
 }

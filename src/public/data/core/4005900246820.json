@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4005900246820.jpg",
 	"creation": "2018-02-13T18:55:11.805496",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-04",
+	"ORDERS_7D": 0,
 	"marketing_text": "Pflege für Sie & Ihn in der App",
+	"ORDERS_ALLTIME": 14,
 	"item_name": "Nivea Sun Sunmilk Schutz&Pflege LF10 250ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e52dce73-d69e-4f2c-ae14-ac4e288d7271",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4005900246820",
 	"item_code": "PP-000003661",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000003661",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "4005900246820",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 0
 }

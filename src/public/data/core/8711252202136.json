@@ -1,4 +1,5 @@
 {
+	"item_group": "Hunde",
 	"current_stock_003_halle_altstadt": 23,
 	"image": "/files/8711252202136.png",
 	"creation": "2018-07-18T15:00:49.165939",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Alles für Hund, Katze, Maus gibts auch online",
+	"ORDERS_ALLTIME": 31,
 	"item_name": "Hundenriemen 40cm",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8dbd7290-0d6c-46e1-827b-6ecd05797020",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252202136",
 	"item_code": "PP-000010977",
-	"current_stock_001_kaufpark_eiche": 24,
 	"name": "PP-000010977",
+	"current_stock_001_kaufpark_eiche": 24,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hunde",
+	"BARCODE": "8711252202136",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 8
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchentextilien",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4326470604880.jpg",
 	"creation": "2018-02-13T18:56:58.696227",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-11-02",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 90,
 	"item_name": "Topflappen",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=774e4312-25c1-4297-8f6e-e1a5869ec904",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470604880",
 	"item_code": "PP-000001161",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000001161",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Küchentextilien",
+	"BARCODE": "4326470604880",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.69",
 	"current_gross_selling_price": 0.69,
-	"base_price": "0.69"
+	"ORDERS_30D": 6
 }

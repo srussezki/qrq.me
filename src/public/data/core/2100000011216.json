@@ -1,4 +1,5 @@
 {
+	"item_group": "Schuhe",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/2100000011216.jpg",
 	"creation": "2019-01-17T12:12:23.471957",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Hausschuhe mit Spruch",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "2100000011216",
 	"item_code": "PP-000017367",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000017367",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Schuhe",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": null
 }

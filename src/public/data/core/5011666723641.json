@@ -1,4 +1,5 @@
 {
+	"item_group": "Baby- & Kleinkindspielzeug",
 	"current_stock_003_halle_altstadt": 15,
 	"image": "/files/5011666723641.jpg",
 	"creation": "2018-09-06T18:55:59.079396",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 12,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 40,
 	"item_name": "Disney Winnie the Pooh 3in1 \"Lies mit mir\"",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=cce05519-f2f3-4c72-ae5c-8cb912d54edd",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5011666723641",
 	"item_code": "PP-000013135",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000013135",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Baby- & Kleinkindspielzeug",
+	"BARCODE": "5011666723641",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "19.99",
 	"current_gross_selling_price": 14.99,
-	"base_price": "19.99"
+	"ORDERS_30D": 7
 }

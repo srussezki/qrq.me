@@ -1,4 +1,5 @@
 {
+	"item_group": "Schlüsselanhänger",
 	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/4012390395402.jpg",
 	"creation": "2018-11-06T13:47:34.367734",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 6,
 	"item_name": "Ayumi Faith Schlüsselanhänger",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3b942962-0c07-49e2-b2fb-f762a27fb8d6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4012390395402",
 	"item_code": "PP-000015383",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015383",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schlüsselanhänger",
+	"BARCODE": "4012390395402",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 1
 }

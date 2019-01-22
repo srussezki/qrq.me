@@ -1,4 +1,5 @@
 {
+	"item_group": "Mundpflege",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/1111111111111.jpg",
 	"creation": "2018-10-04T10:37:47.627380",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "120.800 weitere Beautyartikel in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Zahn Mundspülung Listerine 2x95ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0c453c70-29f6-4e92-b9e0-2e218abbd8cd",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000014438",
 	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000014438",
+	"_timestamp": "20190122 150229.485",
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Mundpflege",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": null
 }

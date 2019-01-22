@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/737052435640.jpg",
 	"creation": "2018-02-13T18:58:10.079387",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-04",
+	"ORDERS_7D": 0,
 	"marketing_text": "Noch mehr Beauty auf factorymarket.de",
+	"ORDERS_ALLTIME": 17,
 	"item_name": "Puma Duschgel Jam Damen 150ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=67dec7df-925b-47c2-bb72-35a268186562",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "737052435640",
 	"item_code": "PP-000003690",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000003690",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "737052435640",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 0
 }

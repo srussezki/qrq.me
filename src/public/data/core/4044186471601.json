@@ -1,4 +1,5 @@
 {
+	"item_group": "Schreibwaren Schule",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-06-14T19:08:18.723237",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 80,
 	"item_name": "Schultüte eckig 85cm",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5cb367ce-f041-4a25-a725-cf0231694839",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4044186471601",
 	"item_code": "PP-000010005",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000010005",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schreibwaren Schule",
+	"BARCODE": "4044186471601",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 0
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 14,
+	"item_group": "Künstlerbedarf",
+	"current_stock_003_halle_altstadt": 13,
 	"image": "/files/8711252707716.png",
 	"creation": "2018-02-13T19:01:41.613773",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-28",
+	"ORDERS_7D": 17,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 502,
 	"item_name": "Bespannter Kanvaskeilrahmen 18x24cm",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=25c4d961-4a60-4edc-a1e2-fd610c5efedc",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252707716",
 	"item_code": "PP-000001694",
-	"current_stock_001_kaufpark_eiche": 39,
 	"name": "PP-000001694",
+	"current_stock_001_kaufpark_eiche": 39,
+	"ORDERS_TODAY": 2,
 	"shelf_number": "3",
-	"item_group": "Künstlerbedarf",
+	"BARCODE": "8711252707716",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 38
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Trinkflaschen",
 	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/8711295722905.jpg",
 	"creation": "2018-02-13T18:58:39.713032",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-27",
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 89,
 	"item_name": "Lunchbox &amp; Sportflasche 3 Farbig Sortiert",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f88a6e6d-06c7-46ee-9ed6-c649431f1b4e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295722905",
 	"item_code": "PP-000002922",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000002922",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Trinkflaschen",
+	"BARCODE": "8711295722905",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.89",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.89"
+	"ORDERS_30D": 1
 }

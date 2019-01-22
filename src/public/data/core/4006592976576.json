@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Jungs",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4006592976576.png",
 	"creation": "2018-07-11T19:01:46.273517",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Das Abenteuer geht weiter in unserer App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Sam Mercury-Quad mit Figur",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d09e7604-eb84-4fcc-b5e5-4c68ca5ec775",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4006592976576",
 	"item_code": "PP-000010692",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000010692",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Spielwaren Jungs",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "14.99",
 	"current_gross_selling_price": 14.99,
-	"base_price": "14.99"
+	"ORDERS_30D": null
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Aufbewahrung",
 	"current_stock_003_halle_altstadt": 23,
 	"image": "/files/3800058200189.jpg",
 	"creation": "2018-02-13T18:51:24.361899",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": "2018-11-02",
+	"ORDERS_7D": 1,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 132,
 	"item_name": "Kleiderbügel Kunststoff 5 Stk.",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=cbfef4c1-da4a-46c2-b1ee-770ea15fadc5",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3800058200189",
 	"item_code": "PP-000001107",
-	"current_stock_001_kaufpark_eiche": 24,
 	"name": "PP-000001107",
+	"current_stock_001_kaufpark_eiche": 24,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "7",
-	"item_group": "Aufbewahrung",
+	"BARCODE": "3800058200189",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.19",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.19"
+	"ORDERS_30D": 14
 }

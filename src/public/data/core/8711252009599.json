@@ -1,4 +1,5 @@
 {
+	"item_group": "Garten",
 	"current_stock_003_halle_altstadt": 17,
 	"image": "/files/8711252009599.jpg",
 	"creation": "2018-02-14T16:04:38.631431",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-02",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 89,
 	"item_name": "Pflanzenhänger",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b029f588-39a4-4177-a08d-4d0308e0b980",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252009599",
 	"item_code": "PP-000001826",
-	"current_stock_001_kaufpark_eiche": 14,
 	"name": "PP-000001826",
+	"current_stock_001_kaufpark_eiche": 14,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Garten",
+	"BARCODE": "8711252009599",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.19",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.19"
+	"ORDERS_30D": 2
 }

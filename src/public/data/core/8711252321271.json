@@ -1,4 +1,5 @@
 {
+	"item_group": "Kinderbekleidung",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8711252321271.jpg",
 	"creation": "2018-07-17T10:54:57.877264",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "App, App Hura! Noch mehr Auswahl!",
+	"ORDERS_ALLTIME": 80,
 	"item_name": "T-Shirt Junge / Mädchen Versch. Varianten",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ba94c579-b73d-4d06-a54d-e6ec5c03ed7e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252321271",
 	"item_code": "PP-000010835",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000010835",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Kinderbekleidung",
+	"BARCODE": "8711252321271",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 3
 }

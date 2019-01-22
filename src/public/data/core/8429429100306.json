@@ -1,4 +1,5 @@
 {
+	"item_group": "Hunde",
 	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/8429429100306.jpg",
 	"creation": "2018-09-24T17:35:12.314972",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Alles für Hund, Katze, Maus gibts auch online",
+	"ORDERS_ALLTIME": 20,
 	"item_name": "Hundekorb 50cm",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e3e65b15-d884-4a82-80ab-208dfa9e7a16",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8429429100306",
 	"item_code": "PP-000013923",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000013923",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hunde",
+	"BARCODE": "8429429100306",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 8
 }

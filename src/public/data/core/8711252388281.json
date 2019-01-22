@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 31,
+	"item_group": "Katzen",
+	"current_stock_003_halle_altstadt": 29,
 	"image": "/files/8711252388281.jpg",
 	"creation": "2018-04-19T18:43:36.410380",
 	"website_image": "/files/8711252388281.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-09",
+	"ORDERS_7D": 8,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 105,
 	"item_name": "Katzentunnel 50x24cm",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=da7d97a6-990d-4cbb-b553-9a70e52c8439",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252388281",
 	"item_code": "PP-000007507",
-	"current_stock_001_kaufpark_eiche": 51,
 	"name": "PP-000007507",
+	"current_stock_001_kaufpark_eiche": 51,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Katzen",
+	"BARCODE": "8711252388281",
+	"ORDERS_YESTERDAY": 4,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 17
 }

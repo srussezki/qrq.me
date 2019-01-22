@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Jungs",
 	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/8711252536293.png",
 	"creation": "2018-02-13T18:49:19.583231",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 1,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 125,
 	"item_name": "Schwert mit Licht und Ton",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=bf004d8b-b68d-4db5-bfd4-cebcb5285310",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252536293",
 	"item_code": "PP-000000288",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000000288",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "Spielwaren Jungs",
+	"BARCODE": "8711252536293",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 1.79,
-	"base_price": "2.49"
+	"ORDERS_30D": 1
 }

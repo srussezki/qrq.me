@@ -1,4 +1,5 @@
 {
+	"item_group": "Fahrrad",
 	"current_stock_003_halle_altstadt": 8,
 	"image": "/files/8711252871400.jpg",
 	"creation": "2018-02-14T16:04:35.024791",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 72,
 	"first_time_ordered_on_": "2018-02-02",
+	"ORDERS_7D": 5,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 116,
 	"item_name": "Sattel Regenschutz",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a7b761c7-76fb-4139-944d-0ed364d7de08",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252871400",
 	"item_code": "PP-000002022",
-	"current_stock_001_kaufpark_eiche": 20,
 	"name": "PP-000002022",
+	"current_stock_001_kaufpark_eiche": 19,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Fahrrad",
+	"BARCODE": "8711252871400",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.19",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.19"
+	"ORDERS_30D": 13
 }

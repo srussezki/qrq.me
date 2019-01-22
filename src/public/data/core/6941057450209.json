@@ -1,4 +1,5 @@
 {
+	"item_group": "Saisonale Spielwaren",
 	"current_stock_003_halle_altstadt": 72,
 	"image": "/files/6941057450209.jpg",
 	"creation": "2018-08-08T19:19:58.458443",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 252,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Sommer is comming! Alles für dein Training",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Strandball 50cm",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=27b9140f-f9dc-4205-b062-411af51d0451",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "6941057450209",
 	"item_code": "PP-000012400",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000012400",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Saisonale Spielwaren",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": null
 }

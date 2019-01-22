@@ -1,4 +1,5 @@
 {
+	"item_group": "Plüschtiere",
 	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/045557364984.jpeg",
 	"creation": "2018-08-02T10:22:03.197475",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Spielzeug für Groß und Klein auch online",
+	"ORDERS_ALLTIME": 27,
 	"item_name": "Findet Dorie Plüschtier Destiny",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=901c0673-d5cf-4afb-8f69-7da017c1788c",
@@ -24,8 +27,14 @@
 	"item_code": "PP-000011687",
 	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000011687",
+	"_timestamp": "20190122 150229.408",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Plüschtiere",
+	"BARCODE": "045557364984",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 4,
+	"top10": "Plüschtiere",
+	"top100": "Spielwaren"
 }

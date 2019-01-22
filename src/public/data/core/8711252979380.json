@@ -1,4 +1,5 @@
 {
+	"item_group": "Vorratsdosen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711252979380.jpg",
 	"creation": "2018-03-14T16:33:24.725312",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 24,
 	"item_name": "Teebox 6 Fächer 23X15,5X6,5",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3cd6e753-795a-421f-a9dc-8bcb8f289eff",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252979380",
 	"item_code": "PP-000005512",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000005512",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Vorratsdosen",
+	"BARCODE": "8711252979380",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.49",
 	"current_gross_selling_price": 3.49,
-	"base_price": "3.49"
+	"ORDERS_30D": 0
 }

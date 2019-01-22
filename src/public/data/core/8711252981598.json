@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 19,
 	"image": "/files/8711252981598.jpg",
 	"creation": "2018-03-14T16:33:28.584977",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 96,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 8,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 159,
 	"item_name": "Spatel 24,5Cm 4Versch. Farben",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4f70bbac-c0c3-4659-99cd-97a9271d4c97",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252981598",
 	"item_code": "PP-000005418",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000005418",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Küchenhelfer",
+	"BARCODE": "8711252981598",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.19",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.19"
+	"ORDERS_30D": 19
 }

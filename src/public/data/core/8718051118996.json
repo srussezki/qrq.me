@@ -1,4 +1,5 @@
 {
+	"item_group": "Kinderbekleidung",
 	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/8718051118996.jpg",
 	"creation": "2018-09-16T15:54:55.603104",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 50,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": 1,
 	"item_name": "Kinder Thermo Legging schwarz 92-98",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6b71efc1-18b3-47a9-b672-139cfe2a4f7e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718051118996",
 	"item_code": "PP-000013416",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000013416",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kinderbekleidung",
+	"BARCODE": "8718051118996",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 0
 }

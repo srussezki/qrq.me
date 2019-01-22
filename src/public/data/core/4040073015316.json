@@ -1,4 +1,5 @@
 {
+	"item_group": "Strümpfe",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/4040073015316.jpg",
 	"creation": "2018-04-24T18:00:39.598876",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-05-07",
+	"ORDERS_7D": 4,
 	"marketing_text": "Die neusten Trends auch in unserer App",
+	"ORDERS_ALLTIME": 21,
 	"item_name": "Baby Snoopy Socken 2er Set Blau Gr. 86/92",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ad556f6b-f5a1-4f01-be40-364e29c54acf",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4040073015316",
 	"item_code": "PP-000007691",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000007691",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Strümpfe",
+	"BARCODE": "4040073015316",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 4
 }

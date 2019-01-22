@@ -1,4 +1,5 @@
 {
+	"item_group": "Glas",
 	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/8711252031354.jpg",
 	"creation": "2018-02-13T18:57:44.873061",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 1,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 64,
 	"item_name": "Frühstückset 5St",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=70b89e0d-9dd6-464c-8ab2-7e94929ee929",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252031354",
 	"item_code": "PP-000003337",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000003337",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Glas",
+	"BARCODE": "8711252031354",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 4
 }

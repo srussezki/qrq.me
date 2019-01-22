@@ -1,4 +1,5 @@
 {
+	"item_group": "Kinderbekleidung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4040073064000.jpg",
 	"creation": "2018-11-07T15:16:08.485776",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Baby-Langarmshirt Winnie Pooh 56",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d35f40f4-c3ef-4a44-860d-738746bbb48d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4040073064000",
 	"item_code": "PP-000015742",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015742",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Kinderbekleidung",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": null
 }

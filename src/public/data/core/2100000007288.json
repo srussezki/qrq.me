@@ -1,4 +1,5 @@
 {
+	"item_group": "Damenbekleidung",
 	"current_stock_003_halle_altstadt": 1,
 	"image": null,
 	"creation": "2018-08-01T10:30:16.187474",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Die neusten Trends auch in unserer App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Frauen Hoodie S grau",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c76188e4-2cde-4d53-bd08-cfbbb44c19f3",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000011823",
 	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000011823",
+	"_timestamp": "20190122 150230.350",
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Damenbekleidung",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "9.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "9.99"
+	"ORDERS_30D": null
 }

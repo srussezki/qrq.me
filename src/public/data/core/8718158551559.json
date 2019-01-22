@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 17,
+	"item_group": "Weihnachten",
+	"current_stock_003_halle_altstadt": 16,
 	"image": "/files/8718158551559.jpg",
 	"creation": "2018-07-22T21:42:31.948772",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 232,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 20,
 	"marketing_text": "Weitere aufregende Themenwelten in der App",
+	"ORDERS_ALLTIME": 58,
 	"item_name": "Dekosteine 500g gold",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=70f20b3c-fa73-420e-bb45-c6830f51f43c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158551559",
 	"item_code": "PP-000011117",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000011117",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Weihnachten",
+	"BARCODE": "8718158551559",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "0.39",
 	"current_gross_selling_price": 0.19,
-	"base_price": "0.39"
+	"ORDERS_30D": 33
 }

@@ -1,12 +1,15 @@
 {
+	"item_group": "Hunde",
 	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/4036897208423.jpg",
 	"creation": "2018-08-13T11:55:55.641809",
 	"website_image": "/files/4036897208423.jpg",
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 42,
+	"current_stock_wh_ludwigsfelde": 35,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Weiter 250.000 Tierartikel online",
+	"ORDERS_ALLTIME": 61,
 	"item_name": "Perfecto Dog zarte Soft Cakes 150g",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=89e2d91f-b2a2-48eb-bb28-07b04e1bb88d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4036897208423",
 	"item_code": "PP-000012499",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000012499",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hunde",
+	"BARCODE": "4036897208423",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 5
 }

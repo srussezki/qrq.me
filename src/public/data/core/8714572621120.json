@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 37,
+	"item_group": "Feuerwerk",
+	"current_stock_003_halle_altstadt": 35,
 	"image": "/files/8714572621120.jpg",
 	"creation": "2018-09-17T18:47:14.645640",
 	"website_image": "/files/8714572621120.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 81,
 	"item_name": "Folat Wunderkerze Zahl 2",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2246bd26-d74a-4cc1-b0f4-fe11eae66e43",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714572621120",
 	"item_code": "PP-000013602",
-	"current_stock_001_kaufpark_eiche": 54,
 	"name": "PP-000013602",
+	"current_stock_001_kaufpark_eiche": 54,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Feuerwerk",
+	"BARCODE": "8714572621120",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "1.29",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.29"
+	"ORDERS_30D": 18
 }

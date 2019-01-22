@@ -1,4 +1,5 @@
 {
+	"item_group": "Beautyaccessoires",
 	"current_stock_003_halle_altstadt": 36,
 	"image": "/files/2100000004829.jpg",
 	"creation": "2018-07-04T16:39:57.826331",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 16,
 	"item_name": "Gesichtsreinigungsschwamm roter Lehm",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=dc82e841-26b8-40b1-b544-720eb5c8bc3c",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000010288",
 	"current_stock_001_kaufpark_eiche": 48,
 	"name": "PP-000010288",
+	"_timestamp": "20190122 150230.004",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Beautyaccessoires",
+	"BARCODE": "2100000004829",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.49"
+	"ORDERS_30D": 1
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Decken",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-06-27T10:37:21.628307",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Verschönere dein Zuhause, jetzt auch online",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Decke Supersoft 140x200cm",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a1b9a0aa-ea88-45b1-bee0-e94ddd60478b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4036812006271",
 	"item_code": "PP-000010364",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000010364",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Decken",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "4.49",
 	"current_gross_selling_price": 4.49,
-	"base_price": "4.49"
+	"ORDERS_30D": null
 }

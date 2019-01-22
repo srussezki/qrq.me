@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 12,
+	"item_group": "Katzen",
+	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/8719202636253.jpg",
 	"creation": "2018-03-23T21:08:10.688505",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": "2018-03-15",
+	"ORDERS_7D": 1,
 	"marketing_text": "Alles für den Wuffi & die Mieze",
+	"ORDERS_ALLTIME": 41,
 	"item_name": "Katzenspielzeug",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=dc76d479-722d-477e-84a9-53bc95a2ea38",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202636253",
 	"item_code": "PP-000005940",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000005940",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Katzen",
+	"BARCODE": "8719202636253",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 3
 }

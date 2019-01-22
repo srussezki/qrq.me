@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Jungs",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/887961494303.png",
 	"creation": "2018-03-01T14:56:12.903923",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-28",
+	"ORDERS_7D": null,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Hot Wheels Justice League Fahrzeug",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3db8cf33-b16b-4a0b-a00c-71a05eb2a0a2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "887961494303",
 	"item_code": "PP-000005055",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000005055",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Spielwaren Jungs",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "7.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "7.99"
+	"ORDERS_30D": null
 }

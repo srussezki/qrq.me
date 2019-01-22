@@ -1,4 +1,5 @@
 {
+	"item_group": "Geschenkverpackungen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T18:57:20.184822",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-01",
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 139,
 	"item_name": "3D Geschenktasche",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0a817731-6407-42d4-9db8-0ee9c5305002",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202079371",
 	"item_code": "PP-000000877",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000000877",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3 (4)",
-	"item_group": "Geschenkverpackungen",
+	"BARCODE": "8719202079371",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 0
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Getränke",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/87338577.jpg",
 	"creation": "2018-06-25T12:14:01.919545",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Lösch den Spardurst in dir, auf factorymarket",
+	"ORDERS_ALLTIME": 34,
 	"item_name": "AA Drink Isotone 0,33l",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0b90cfc7-a99b-408a-a5a5-84bd2887fa8d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "87338577",
 	"item_code": "PP-000010319",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000010319",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "87338577",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.27",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.27"
+	"ORDERS_30D": 3
 }

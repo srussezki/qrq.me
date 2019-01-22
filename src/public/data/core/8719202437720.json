@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 25,
 	"image": "/files/8719202437720.jpg",
 	"creation": "2018-02-13T19:02:10.747947",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 25,
 	"first_time_ordered_on_": "2017-11-20",
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 203,
 	"item_name": "Party-Hüte",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c1b4ddc4-7f1b-4a95-b560-a0f2bf1c34b0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202437720",
 	"item_code": "PP-000000781",
-	"current_stock_001_kaufpark_eiche": 26,
 	"name": "PP-000000781",
+	"current_stock_001_kaufpark_eiche": 26,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "4",
-	"item_group": "Partyartikel",
+	"BARCODE": "8719202437720",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 1
 }

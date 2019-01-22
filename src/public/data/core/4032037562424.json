@@ -1,4 +1,5 @@
 {
+	"item_group": "Schmuck",
 	"current_stock_003_halle_altstadt": 84,
 	"image": "/files/4032037562424.jpg",
 	"creation": "2018-09-27T09:38:45.349338",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 74,
 	"item_name": "Ohrringe \"Glamour\"",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e2c71ffc-61db-41f1-84b0-0e0f76ec696b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4032037562424",
 	"item_code": "PP-000014119",
-	"current_stock_001_kaufpark_eiche": 34,
 	"name": "PP-000014119",
+	"current_stock_001_kaufpark_eiche": 34,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schmuck",
+	"BARCODE": "4032037562424",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 3
 }

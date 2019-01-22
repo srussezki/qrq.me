@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 76,
+	"item_group": "Keramik & Porzellan",
+	"current_stock_003_halle_altstadt": 66,
 	"image": null,
 	"creation": "2018-12-07T11:54:22.352742",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 46,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 46,
 	"item_name": "Schale Opalglas rund 12cm Toledo",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8411712218867",
 	"item_code": "PP-000016574",
-	"current_stock_001_kaufpark_eiche": 74,
 	"name": "PP-000016574",
+	"current_stock_001_kaufpark_eiche": 74,
+	"ORDERS_TODAY": 9,
 	"shelf_number": null,
-	"item_group": "Keramik & Porzellan",
+	"BARCODE": "8411712218867",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "1.49",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.49"
+	"ORDERS_30D": 46
 }

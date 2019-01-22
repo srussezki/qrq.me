@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 5,
+	"item_group": "Kerzen & -zubehör",
+	"current_stock_003_halle_altstadt": 4,
 	"image": null,
 	"creation": "2018-02-13T18:47:56.842828",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-19",
+	"ORDERS_7D": 4,
 	"marketing_text": "Kerzen ohne Ende in unserer App",
+	"ORDERS_ALLTIME": 52,
 	"item_name": "Duftlicht Lavendel 25er-Beutel",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c6429add-e9e6-4c58-b989-dbe3866782f2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008495307655",
 	"item_code": "PP-000002462",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000002462",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": "4008495307655",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "1.69",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.69"
+	"ORDERS_30D": 8
 }

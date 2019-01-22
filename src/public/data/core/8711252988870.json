@@ -1,4 +1,5 @@
 {
+	"item_group": "Office",
 	"current_stock_003_halle_altstadt": 16,
 	"image": "/files/8711252988870.jpg",
 	"creation": "2018-02-13T18:48:51.947967",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 3,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 94,
 	"item_name": "Mini Tape 6stk",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2bba7544-581a-4ad2-8720-57be4a51dc6d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252988870",
 	"item_code": "PP-000000473",
-	"current_stock_001_kaufpark_eiche": 40,
 	"name": "PP-000000473",
+	"current_stock_001_kaufpark_eiche": 40,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Office",
+	"BARCODE": "8711252988870",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 8
 }

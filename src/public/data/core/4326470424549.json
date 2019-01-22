@@ -1,4 +1,5 @@
 {
+	"item_group": "Reinigung hart",
 	"current_stock_003_halle_altstadt": 26,
 	"image": "/files/4326470424549.jpg",
 	"creation": "2018-02-13T18:51:13.620886",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-15",
+	"ORDERS_7D": 1,
 	"marketing_text": "Wecke den Putzteufel in Dir!",
+	"ORDERS_ALLTIME": 162,
 	"item_name": "Spülbürste",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f104c795-fccc-4d7b-a5bf-cb0dd4915d73",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470424549",
 	"item_code": "PP-000001154",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000001154",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Reinigung hart",
+	"BARCODE": "4326470424549",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.15",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.15"
+	"ORDERS_30D": 9
 }

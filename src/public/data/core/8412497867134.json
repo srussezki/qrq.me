@@ -1,4 +1,5 @@
 {
+	"item_group": "Trinkflaschen",
 	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/8412497867134.jpg",
 	"creation": "2018-10-16T14:22:23.748550",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 19,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 109,
 	"item_name": "Paw Patrol Trinkflasche 300 ml",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=37d26a51-fa44-4108-8d89-94eb8add2c84",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8412497867134",
 	"item_code": "PP-000014746",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000014746",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Trinkflaschen",
+	"BARCODE": "8412497867134",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": null,
 	"current_gross_selling_price": 0.39,
-	"base_price": null
+	"ORDERS_30D": 46
 }

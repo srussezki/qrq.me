@@ -1,4 +1,5 @@
 {
+	"item_group": "Werkzeug",
 	"current_stock_003_halle_altstadt": 5,
 	"image": "/files/8711252795348.png",
 	"creation": "2018-02-14T09:13:55.143360",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-10-18",
+	"ORDERS_7D": 6,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 78,
 	"item_name": "Isolationstape 18mmx5m",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5c5b12a7-2cb9-45cb-a91f-41f80cf8406a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252795348",
 	"item_code": "PP-000000362",
-	"current_stock_001_kaufpark_eiche": 26,
 	"name": "PP-000000362",
+	"current_stock_001_kaufpark_eiche": 26,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Werkzeug",
+	"BARCODE": "8711252795348",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.59",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.59"
+	"ORDERS_30D": 19
 }

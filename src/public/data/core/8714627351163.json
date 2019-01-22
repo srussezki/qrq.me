@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 24,
+	"item_group": "Spielwaren Mädchen",
+	"current_stock_003_halle_altstadt": 21,
 	"image": "/files/8714627351163.JPG",
 	"creation": "2019-01-07T13:45:20.281705",
 	"website_image": "/files/8714627351163.JPG",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 5,
 	"item_name": "Einhorn Spielzeug im Ei zum Ausbrüten",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627351163",
 	"item_code": "PP-000016877",
-	"current_stock_001_kaufpark_eiche": 22,
 	"name": "PP-000016877",
+	"current_stock_001_kaufpark_eiche": 22,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Mädchen",
+	"BARCODE": "8714627351163",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 5
 }

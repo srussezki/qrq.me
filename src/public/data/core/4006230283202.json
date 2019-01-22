@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 11,
+	"item_group": "Schuhzubehör",
+	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/4006230283202.jpg",
 	"creation": "2018-02-13T18:51:25.489112",
 	"website_image": "/files/4006230283202.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": "2017-12-19",
+	"ORDERS_7D": 5,
 	"marketing_text": "Wecke den Putzteufel in Dir!",
+	"ORDERS_ALLTIME": 144,
 	"item_name": "Imprägnierspray",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ef76538c-5c96-423b-a6ca-f761704809a5",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4006230283202",
 	"item_code": "PP-000001103",
-	"current_stock_001_kaufpark_eiche": 16,
 	"name": "PP-000001103",
+	"current_stock_001_kaufpark_eiche": 15,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "4",
-	"item_group": "Schuhzubehör",
+	"BARCODE": "4006230283202",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.59",
 	"current_gross_selling_price": 1.79,
-	"base_price": "0.59"
+	"ORDERS_30D": 18
 }

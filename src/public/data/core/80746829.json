@@ -1,4 +1,5 @@
 {
+	"item_group": "Süßigkeiten & Kaugummi",
 	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/80746829.jpg",
 	"creation": "2018-09-18T12:52:43.994094",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 42,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": "Für den Hunger zwischendurch und danach",
+	"ORDERS_ALLTIME": 64,
 	"item_name": "Mentos Gum Dose 35Er Pure Fresh",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=62c4125b-fc60-4c17-ada6-ecce18318b14",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "80746829",
 	"item_code": "PP-000013638",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000013638",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "80746829",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 11
 }

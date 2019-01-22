@@ -1,4 +1,5 @@
 {
+	"item_group": "Kinderbekleidung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5051746647214.jpg",
 	"creation": "2018-05-22T15:28:06.848425",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 11,
 	"item_name": "Speedo Kinderbadehose Printed Leisure L",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=77ebcd92-63ae-4082-a248-8fa2b24d8849",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5051746647214",
 	"item_code": "PP-000009073",
-	"current_stock_001_kaufpark_eiche": 34,
 	"name": "PP-000009073",
+	"current_stock_001_kaufpark_eiche": 34,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kinderbekleidung",
+	"BARCODE": "5051746647214",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "6.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "6.99"
+	"ORDERS_30D": 0
 }

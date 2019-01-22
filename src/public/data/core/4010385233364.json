@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 8,
 	"image": null,
 	"creation": "2018-11-12T12:23:00.774088",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Dekorieren bis zum Umfallen in der App",
+	"ORDERS_ALLTIME": 5,
 	"item_name": "Besteckkasten mit Glasdeckel",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=71c990ab-29c4-4b3f-a41d-4f8874a9a1b4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4010385233364",
 	"item_code": "PP-000015847",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000015847",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Küchenhelfer",
+	"BARCODE": "4010385233364",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 4
 }

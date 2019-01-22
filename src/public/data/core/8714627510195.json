@@ -1,12 +1,15 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 21,
 	"image": "/files/8714627510195.jpg",
 	"creation": "2018-03-14T16:33:11.084779",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 61,
+	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 1,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 22,
 	"item_name": "Mikado Nerve Sticks",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9d279c14-a654-4bb1-9141-2e7b2b599511",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627510195",
 	"item_code": "PP-000005848",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000005848",
+	"current_stock_001_kaufpark_eiche": 45,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8714627510195",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 3
 }

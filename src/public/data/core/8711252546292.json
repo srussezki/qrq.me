@@ -1,4 +1,5 @@
 {
+	"item_group": "Glas",
 	"current_stock_003_halle_altstadt": 67,
 	"image": "/files/8711252546292.jpg",
 	"creation": "2018-02-13T18:57:43.650002",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 288,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 10,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 191,
 	"item_name": "Becher 200Ml",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7f4e51de-dd21-4475-9e00-56b237cd0c15",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252546292",
 	"item_code": "PP-000003436",
-	"current_stock_001_kaufpark_eiche": 32,
 	"name": "PP-000003436",
+	"current_stock_001_kaufpark_eiche": 32,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Glas",
+	"BARCODE": "8711252546292",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.59",
 	"current_gross_selling_price": 0.59,
-	"base_price": "0.59"
+	"ORDERS_30D": 15
 }

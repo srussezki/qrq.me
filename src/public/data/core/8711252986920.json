@@ -1,4 +1,5 @@
 {
+	"item_group": "Werkzeug",
 	"current_stock_003_halle_altstadt": 19,
 	"image": "/files/8711252986920.jpg",
 	"creation": "2018-02-13T18:48:53.169985",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 6,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 169,
 	"item_name": "Schleifstein oval 22cm",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ed95b812-d348-4222-8cc6-8008b9c9aad7",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252986920",
 	"item_code": "PP-000000465",
-	"current_stock_001_kaufpark_eiche": 20,
 	"name": "PP-000000465",
+	"current_stock_001_kaufpark_eiche": 20,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Werkzeug",
+	"BARCODE": "8711252986920",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 16
 }

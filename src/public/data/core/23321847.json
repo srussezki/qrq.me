@@ -1,4 +1,5 @@
 {
+	"item_group": "Bastelbedarf",
 	"current_stock_003_halle_altstadt": 5,
 	"image": null,
 	"creation": "2018-09-18T12:53:19.508126",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 25,
 	"item_name": "Malbuch mit CD / Creative Colouring",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8e7c6a21-6e50-4f37-8a17-25aea6ae1ed1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "23321847",
 	"item_code": "PP-000013830",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000013830",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Bastelbedarf",
+	"BARCODE": "23321847",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 0
 }

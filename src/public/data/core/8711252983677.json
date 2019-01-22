@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 6,
+	"item_group": "Reinigung hart",
+	"current_stock_003_halle_altstadt": 5,
 	"image": null,
 	"creation": "2018-05-02T18:33:59.044816",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-05-02",
+	"ORDERS_7D": 5,
 	"marketing_text": "Für die Profiköche gehts online weiter",
+	"ORDERS_ALLTIME": 66,
 	"item_name": "Topfreiniger 8pcs MT Lifetime clean bl 7323100000000000",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=faf530dc-2f70-4f21-a617-9c4dea095944",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252983677",
 	"item_code": "PP-000008409",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000008409",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Reinigung hart",
+	"BARCODE": "8711252983677",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.29",
 	"current_gross_selling_price": 0.29,
-	"base_price": "0.29"
+	"ORDERS_30D": 12
 }

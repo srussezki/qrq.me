@@ -1,4 +1,5 @@
 {
+	"item_group": "Office",
 	"current_stock_003_halle_altstadt": 25,
 	"image": "/files/4042448103918.jpg",
 	"creation": "2018-11-07T12:10:17.614972",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 6,
 	"item_name": "Tesa Poster Strips 20er 200g Haltekraft pro Strip",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6e48d013-a05a-4285-91cd-4e5551cde42b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4042448103918",
 	"item_code": "PP-000015465",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015465",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Office",
+	"BARCODE": "4042448103918",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 1
 }

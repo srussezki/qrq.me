@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflanzen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8718158387370.jpg",
 	"creation": "2018-02-22T10:38:59.929417",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 84,
 	"item_name": "Zuchttopf",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=40b48773-85fa-4141-9a2d-6fdb5655af5d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158387370",
 	"item_code": "PP-000004767",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000004767",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflanzen",
+	"BARCODE": "8718158387370",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.99"
+	"ORDERS_30D": 0
 }

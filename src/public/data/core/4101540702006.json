@@ -1,4 +1,5 @@
 {
+	"item_group": "Kekse & Backwaren",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4101540702006.jpg",
 	"creation": "2018-03-14T16:33:06.823791",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-05",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 40,
 	"item_name": "Zitrone Rondana 250gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=638473fa-edc9-4129-abdb-d0ef97cf0252",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4101540702006",
 	"item_code": "PP-000005132",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000005132",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kekse & Backwaren",
+	"BARCODE": "4101540702006",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.59",
 	"current_gross_selling_price": 0.59,
-	"base_price": "0.59"
+	"ORDERS_30D": 0
 }

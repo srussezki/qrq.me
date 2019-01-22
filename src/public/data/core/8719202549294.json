@@ -1,4 +1,5 @@
 {
+	"item_group": "Garten",
 	"current_stock_003_halle_altstadt": 72,
 	"image": null,
 	"creation": "2018-02-28T16:19:02.269078",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-27",
+	"ORDERS_7D": 0,
 	"marketing_text": "Pimp your Garden, auf factorymarket.de",
+	"ORDERS_ALLTIME": 8,
 	"item_name": "Gartenfigur Stehend Versch. Sorten",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8a08299a-6fff-4703-a05d-3d99b4830a91",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202549294",
 	"item_code": "PP-000005041",
-	"current_stock_001_kaufpark_eiche": 54,
 	"name": "PP-000005041",
+	"current_stock_001_kaufpark_eiche": 54,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Garten",
+	"BARCODE": "8719202549294",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.29",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.29"
+	"ORDERS_30D": 0
 }

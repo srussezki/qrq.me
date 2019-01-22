@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Raumduft",
 	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/5010508189805.jpg",
 	"creation": "2018-02-13T18:51:18.957343",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": "2018-11-02",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 43,
 	"item_name": "Raumspray Charm Cotton Fresh",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5797009d-353e-4a6c-ac48-cba6c142e0a3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5010508189805",
 	"item_code": "PP-000001132",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000001132",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "4",
-	"item_group": "FMCG Raumduft",
+	"BARCODE": "5010508189805",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.45",
 	"current_gross_selling_price": 1.09,
-	"base_price": "0.45"
+	"ORDERS_30D": 1
 }

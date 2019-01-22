@@ -1,4 +1,5 @@
 {
+	"item_group": "Getränke",
 	"current_stock_003_halle_altstadt": 80,
 	"image": null,
 	"creation": "2018-07-26T12:44:14.528214",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 360,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 14,
 	"marketing_text": "Lösch den Spardurst in dir, auf factorymarket",
+	"ORDERS_ALLTIME": 374,
 	"item_name": "Weserg.Apf-Kir.Fsg  0,20L",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3b1f2738-e2da-4720-bb42-8c1fdba370d2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4100060028344",
 	"item_code": "PP-000011589",
-	"current_stock_001_kaufpark_eiche": 34,
 	"name": "PP-000011589",
+	"current_stock_001_kaufpark_eiche": 34,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "4100060028344",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": null,
 	"current_gross_selling_price": 0.25,
-	"base_price": null
+	"ORDERS_30D": 30
 }

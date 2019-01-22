@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 20,
+	"item_group": "Garten",
+	"current_stock_003_halle_altstadt": 19,
 	"image": "/files/8711252078793.jpg",
 	"creation": "2018-08-02T17:03:12.803650",
 	"website_image": "/files/8711252078793.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Sommer is comming! Alles für dein Training",
+	"ORDERS_ALLTIME": 17,
 	"item_name": "Lampenöl 1Ltr",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e92546f5-3157-457e-a77d-6ee0978b26c0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252078793",
 	"item_code": "PP-000012083",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000012083",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Garten",
+	"BARCODE": "8711252078793",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 2
 }

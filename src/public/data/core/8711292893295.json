@@ -1,12 +1,15 @@
 {
+	"item_group": "Parfüm",
 	"current_stock_003_halle_altstadt": 25,
 	"image": "/files/8711292893295.jpg",
 	"creation": "2018-02-14T16:04:33.189791",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 150,
+	"current_stock_wh_ludwigsfelde": 144,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr als Beauty gibt’s auf factorymarket.de",
+	"ORDERS_ALLTIME": 51,
 	"item_name": "Eau De Parfum Man Outback",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=478b9cec-4394-4ab6-aeae-aaf663219a22",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711292893295",
 	"item_code": "PP-000002875",
-	"current_stock_001_kaufpark_eiche": 26,
 	"name": "PP-000002875",
+	"current_stock_001_kaufpark_eiche": 32,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "4",
-	"item_group": "Parfüm",
+	"BARCODE": "8711292893295",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 6
 }

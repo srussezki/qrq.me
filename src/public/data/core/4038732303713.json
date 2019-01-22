@@ -1,4 +1,5 @@
 {
+	"item_group": "Taschen & Rucksäcke",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-04-30T11:15:04.893771",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-21",
+	"ORDERS_7D": 0,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": 76,
 	"item_name": "Umhangtasche Matchbag Sequin 8 Farben",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6b5e3748-68c4-4495-9b75-bc9ad073bdcf",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4038732303713",
 	"item_code": "PP-000008234",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000008234",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Taschen & Rucksäcke",
+	"BARCODE": "4038732303713",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.49",
 	"current_gross_selling_price": 3.49,
-	"base_price": "3.49"
+	"ORDERS_30D": 0
 }

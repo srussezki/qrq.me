@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 11,
+	"item_group": "Taschen & Rucksäcke",
+	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/4029811387083.png",
 	"creation": "2018-09-13T12:00:50.729045",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 39,
 	"item_name": "Stoff-Wäschetasche Creme/Schw. 41x23x56cm",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=91b5e9d9-3a9b-4af6-8946-ff53eda62160",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4029811387083",
 	"item_code": "PP-000013313",
-	"current_stock_001_kaufpark_eiche": 18,
 	"name": "PP-000013313",
+	"current_stock_001_kaufpark_eiche": 18,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Taschen & Rucksäcke",
+	"BARCODE": "4029811387083",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 14
 }

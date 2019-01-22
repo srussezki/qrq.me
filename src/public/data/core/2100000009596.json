@@ -1,4 +1,5 @@
 {
+	"item_group": "Herrenbekleidung",
 	"current_stock_003_halle_altstadt": 40,
 	"image": null,
 	"creation": "2018-10-02T13:33:12.516460",
@@ -6,12 +7,14 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 17,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 55,
 	"item_name": "Herren Fleece Shirt",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f193adf3-b343-4d64-9707-af221b9f3e66",
 	"is_sales_item": 1,
-	"current_stock_002_halle_neustadt": 28,
+	"current_stock_002_halle_neustadt": 26,
 	"rack_number": null,
 	"item_group_level_0": null,
 	"base_price_text": "7.99 € je 1 Stück",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "2100000009596",
 	"item_code": "PP-000014361",
-	"current_stock_001_kaufpark_eiche": 38,
 	"name": "PP-000014361",
+	"current_stock_001_kaufpark_eiche": 33,
+	"ORDERS_TODAY": 5,
 	"shelf_number": null,
-	"item_group": "Herrenbekleidung",
+	"BARCODE": "2100000009596",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "7.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "7.99"
+	"ORDERS_30D": 43
 }

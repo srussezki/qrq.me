@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": -2,
+	"item_group": "Elektronikzubehör",
+	"current_stock_003_halle_altstadt": -3,
 	"image": null,
 	"creation": "2018-09-12T14:46:24.908305",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 94,
 	"item_name": "Verlängerungskabel, 3m, weiß, Euro ",
 	"level_0_item_group": "Elektro",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=87f53930-d128-4cf8-8f20-fa88a5ce5b9e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4250040928956",
 	"item_code": "PP-000013324",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000013324",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Elektronikzubehör",
+	"BARCODE": "4250040928956",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 5
 }

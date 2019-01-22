@@ -1,4 +1,5 @@
 {
+	"item_group": "Autopflege",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/8711252415802.jpg",
 	"creation": "2018-05-02T18:33:51.733881",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-05-02",
+	"ORDERS_7D": 0,
 	"marketing_text": "Putzt du noch oder shoppst du schon online?",
+	"ORDERS_ALLTIME": 34,
 	"item_name": "Dunlop Ausziehbarer Fensterabzieher",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9205dfe9-76db-4aa1-a311-f54c65f40642",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252415802",
 	"item_code": "PP-000008370",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000008370",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Autopflege",
+	"BARCODE": "8711252415802",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 4
 }

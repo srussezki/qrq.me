@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 20,
+	"item_group": "Badtextilien",
+	"current_stock_003_halle_altstadt": 17,
 	"image": "/files/7107103117284.jpg",
 	"creation": "2018-05-02T18:33:40.086264",
 	"website_image": "/files/7107103117284.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-05-02",
+	"ORDERS_7D": 14,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 65,
 	"item_name": "Disney Strandhandtuch Jackson Storm",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=98f337d3-8528-4893-9a7f-1047912b3c70",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "7107103117284",
 	"item_code": "PP-000008308",
-	"current_stock_001_kaufpark_eiche": 17,
 	"name": "PP-000008308",
+	"current_stock_001_kaufpark_eiche": 17,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Badtextilien",
+	"BARCODE": "7107103117284",
+	"ORDERS_YESTERDAY": 5,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 24
 }

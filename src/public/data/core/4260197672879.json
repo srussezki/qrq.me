@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4260197672879.jpg",
 	"creation": "2018-03-01T14:56:13.709183",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-28",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 11,
 	"item_name": "Eierwärmer 6er-Set 3xHuhn & 3xHase",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ecf95e0d-e546-405e-a2cb-b0f8d2368524",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4260197672879",
 	"item_code": "PP-000005082",
-	"current_stock_001_kaufpark_eiche": 37,
 	"name": "PP-000005082",
+	"current_stock_001_kaufpark_eiche": 37,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Küchenhelfer",
+	"BARCODE": "4260197672879",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 0
 }

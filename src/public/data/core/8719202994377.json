@@ -1,4 +1,5 @@
 {
+	"item_group": "Saisonale Dekoration",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8719202994377.jpg",
 	"creation": "2018-08-08T19:19:52.679177",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Pimp your Home",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Dekofigur Fisch",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2dca524c-dc11-4c63-8bf2-eaca8ead07f0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202994377",
 	"item_code": "PP-000012362",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000012362",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Saisonale Dekoration",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": null
 }

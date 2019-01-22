@@ -1,4 +1,5 @@
 {
+	"item_group": "Badtextilien",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4013165656940.jpg",
 	"creation": "2018-05-28T21:17:04.878711",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 1,
 	"item_name": "frottana Pearl Badteppich Uni ruby 60x60",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1f4bdfab-9e40-42f7-8840-c6decf607c78",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4013165656940",
 	"item_code": "PP-000009280",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000009280",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Badtextilien",
+	"BARCODE": "4013165656940",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "12.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "12.99"
+	"ORDERS_30D": 0
 }

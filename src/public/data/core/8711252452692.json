@@ -1,4 +1,5 @@
 {
+	"item_group": "Office",
 	"current_stock_003_halle_altstadt": 13,
 	"image": "/files/8711252452692.png",
 	"creation": "2018-02-13T18:51:43.189527",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 54,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 86,
 	"item_name": "Notizblätter Neon 100 Blatt",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=97652bc0-7b84-4be7-8cb0-2df4ab499d48",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252452692",
 	"item_code": "PP-000000222",
-	"current_stock_001_kaufpark_eiche": 18,
 	"name": "PP-000000222",
+	"current_stock_001_kaufpark_eiche": 18,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Office",
+	"BARCODE": "8711252452692",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 25
 }

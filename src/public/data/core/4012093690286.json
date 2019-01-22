@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 9,
+	"item_group": "Katzen",
+	"current_stock_003_halle_altstadt": 8,
 	"image": "/files/4012093690286.jpg",
 	"creation": "2018-02-13T18:50:03.815906",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 3,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 41,
 	"item_name": "Haustier Transportbox 50x33x32cm",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c01571a0-0b7a-4bab-840e-1a72c5c8068c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4012093690286",
 	"item_code": "PP-000001799",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000001799",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Katzen",
+	"BARCODE": "4012093690286",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 5
 }

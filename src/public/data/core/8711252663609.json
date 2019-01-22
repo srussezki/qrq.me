@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 36,
+	"item_group": "FMCG Haushalt",
+	"current_stock_003_halle_altstadt": 32,
 	"image": "/files/8711252663609.png",
 	"creation": "2018-02-13T18:57:43.522186",
 	"website_image": "/files/8711252663609.png",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 72,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 10,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 201,
 	"item_name": "Küchenrollenhalter",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2cd3c3af-38f6-4a18-8769-259207dcd427",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252663609",
 	"item_code": "PP-000003440",
-	"current_stock_001_kaufpark_eiche": 30,
 	"name": "PP-000003440",
+	"current_stock_001_kaufpark_eiche": 28,
+	"ORDERS_TODAY": 3,
 	"shelf_number": null,
-	"item_group": "FMCG Haushalt",
+	"BARCODE": "8711252663609",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 15
 }

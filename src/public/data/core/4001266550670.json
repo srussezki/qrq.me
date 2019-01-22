@@ -1,4 +1,5 @@
 {
+	"item_group": "Feuerwerk",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4001266550670.jpg",
 	"creation": "2018-02-13T18:54:46.115491",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-29",
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 98,
 	"item_name": "K-Hell Night",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ed7aa12b-efc4-4b06-a2b0-1564e1c1c962",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4001266550670",
 	"item_code": "PP-000002895",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000002895",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Feuerwerk",
+	"BARCODE": "4001266550670",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "17.99",
 	"current_gross_selling_price": 17.99,
-	"base_price": "17.99"
+	"ORDERS_30D": 78
 }

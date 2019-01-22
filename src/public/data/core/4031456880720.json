@@ -1,4 +1,5 @@
 {
+	"item_group": "Deko LED",
 	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/4031456880720.png",
 	"creation": "2018-03-14T16:33:05.775588",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 108,
 	"first_time_ordered_on_": "2018-03-07",
+	"ORDERS_7D": 2,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 254,
 	"item_name": "LED Licht In Diversen Motiven",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=39272f78-784a-427f-a033-3cba36a0816c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4031456880720",
 	"item_code": "PP-000005158",
-	"current_stock_001_kaufpark_eiche": 18,
 	"name": "PP-000005158",
+	"current_stock_001_kaufpark_eiche": 18,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Deko LED",
+	"BARCODE": "4031456880720",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 19
 }

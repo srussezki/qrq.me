@@ -1,4 +1,5 @@
 {
+	"item_group": "Malerbedarf",
 	"current_stock_003_halle_altstadt": 5,
 	"image": "/files/4000590075620.jpg",
 	"creation": "2018-05-30T11:56:23.576019",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 7,
 	"item_name": "einfach Schöner, Himml. Bordeaux",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5efe6c1a-0729-4f15-be72-96c8f31f58f0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4000590075620",
 	"item_code": "PP-000009412",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000009412",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Malerbedarf",
+	"BARCODE": "4000590075620",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "6.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "6.99"
+	"ORDERS_30D": 2
 }

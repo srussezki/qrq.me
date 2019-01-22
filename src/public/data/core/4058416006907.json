@@ -1,4 +1,5 @@
 {
+	"item_group": "Babybekleidung",
 	"current_stock_003_halle_altstadt": 22,
 	"image": "/files/4058416006907.png",
 	"creation": "2018-02-13T18:50:37.284518",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-02",
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 145,
 	"item_name": "Baby / Kleinkinder Jogginganzüge",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6bcfcb6c-da37-4b7d-b239-0acd3acb0ca0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4058416006907",
 	"item_code": "PP-000001557",
-	"current_stock_001_kaufpark_eiche": 29,
 	"name": "PP-000001557",
+	"current_stock_001_kaufpark_eiche": 29,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1,2 (3)",
-	"item_group": "Babybekleidung",
+	"BARCODE": "4058416006907",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 2
 }

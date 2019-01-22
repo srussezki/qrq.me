@@ -1,4 +1,5 @@
 {
+	"item_group": "Elektronikgeräte",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-11-08T12:06:04.308783",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "In-Ear-Kopfhörer",
 	"level_0_item_group": "Elektro",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5f5ea8e4-996b-43bf-b4da-a0025e9aee79",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8715986800194",
 	"item_code": "PP-000015826",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015826",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Elektronikgeräte",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "14.99",
 	"current_gross_selling_price": 14.99,
-	"base_price": "14.99"
+	"ORDERS_30D": null
 }

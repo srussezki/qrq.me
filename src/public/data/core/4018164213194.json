@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 40,
+	"item_group": "Geschenkverpackungen",
+	"current_stock_003_halle_altstadt": 39,
 	"image": "/files/4018164213194.jpg",
 	"creation": "2018-08-02T11:48:04.877536",
 	"website_image": "/files/4018164213194.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 40,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 8,
 	"marketing_text": "Für Bürohelden und Heldinnen!",
+	"ORDERS_ALLTIME": 238,
 	"item_name": "Geschenkpapier Frozen 2mx70cm",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ed3f1ae4-7b21-4d35-be44-7dc72d281cfe",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4018164213194",
 	"item_code": "PP-000011940",
-	"current_stock_001_kaufpark_eiche": 38,
 	"name": "PP-000011940",
+	"current_stock_001_kaufpark_eiche": 38,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Geschenkverpackungen",
+	"BARCODE": "4018164213194",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.79"
+	"ORDERS_30D": 17
 }

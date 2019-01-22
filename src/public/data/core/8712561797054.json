@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Reinigungsmittel",
 	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/8712561797054.jpg",
 	"creation": "2018-05-25T15:28:16.820348",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 9,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Putzen geht noch billiger in unserer App",
+	"ORDERS_ALLTIME": 121,
 	"item_name": "Domestos WC Stein Power 5 Ocean 1stk",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ce2e5785-a392-45e5-9256-3267ea71f432",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8712561797054",
 	"item_code": "PP-000009192",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000009192",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "FMCG Reinigungsmittel",
+	"BARCODE": "8712561797054",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.15",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.15"
+	"ORDERS_30D": 16
 }

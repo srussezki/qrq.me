@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Jungs",
 	"current_stock_003_halle_altstadt": 5,
 	"image": "/files/8719202180121.jpg",
 	"creation": "2018-02-14T09:13:41.418826",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 39,
 	"item_name": "Traktor 22cm 4var",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=799d7c97-b667-41bc-bb2f-db910ae0fb26",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202180121",
 	"item_code": "PP-000003023",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000003023",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Jungs",
+	"BARCODE": "8719202180121",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 1
 }

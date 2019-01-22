@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 19,
 	"image": "/files/8714627450941.jpg",
 	"creation": "2018-03-14T16:33:11.985495",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 1,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 136,
 	"item_name": "Tattoos für Jungen & Mädchen 2 Variationen",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=298b3b64-b5df-4766-946f-531f3df245ed",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627450941",
 	"item_code": "PP-000005826",
-	"current_stock_001_kaufpark_eiche": 52,
 	"name": "PP-000005826",
+	"current_stock_001_kaufpark_eiche": 52,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8714627450941",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 18
 }

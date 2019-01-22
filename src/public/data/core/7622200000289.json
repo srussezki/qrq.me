@@ -1,4 +1,5 @@
 {
+	"item_group": "Schokolade",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/7622200000289.jpg",
 	"creation": "2018-04-08T22:22:37.322396",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-06",
+	"ORDERS_7D": null,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Milka Tafel ganz. Haselnüsse 5x87gr/100gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a044f75e-8a52-4b3a-ab5c-809ce36914ff",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "7622200000289",
 	"item_code": "PP-000006929",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006929",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Schokolade",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "0.21",
 	"current_gross_selling_price": 0.95,
-	"base_price": "0.21"
+	"ORDERS_30D": null
 }

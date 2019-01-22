@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/5949067501332.png",
 	"creation": "2018-08-02T16:59:21.848667",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Pflege für Sie & Ihn in der App",
+	"ORDERS_ALLTIME": 10,
 	"item_name": "celeste duschgel 400ml helene",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d7a587bd-8b82-43a2-b281-b3a69c9a2d88",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5949067501332",
 	"item_code": "PP-000012058",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000012058",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "5949067501332",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.39",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.39"
+	"ORDERS_30D": 2
 }

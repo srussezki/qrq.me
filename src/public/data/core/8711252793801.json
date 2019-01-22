@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 2,
+	"item_group": "Deko LED",
+	"current_stock_003_halle_altstadt": 1,
 	"image": "/files/8711252793801.jpg",
 	"creation": "2018-06-20T18:47:24.458061",
 	"website_image": "/files/8711252793801.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 129,
 	"item_name": "Lichterkette mit 20 LED",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=929b39b2-7cbc-4d10-bb5f-f8419f356090",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252793801",
 	"item_code": "PP-000010062",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000010062",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Deko LED",
+	"BARCODE": "8711252793801",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 23
 }

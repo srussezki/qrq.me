@@ -1,4 +1,5 @@
 {
+	"item_group": "Bad hart",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5053191046536.jpg",
 	"creation": "2018-02-14T16:00:29.841032",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-27",
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 17,
 	"item_name": "Badezimmer Regal",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9a0ba698-4fe6-41a9-9b9f-6eb7e11f3ff2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5053191046536",
 	"item_code": "PP-000004216",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000004216",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Bad hart",
+	"BARCODE": "5053191046536",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "7.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "7.99"
+	"ORDERS_30D": 2
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Camping",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-10-02T17:13:33.303137",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Reise-Schlafset",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=942245ae-7738-49ec-a336-4ba3a8bf4722",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470521897",
 	"item_code": "PP-000014374",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000014374",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Camping",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": null
 }

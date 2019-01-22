@@ -1,4 +1,5 @@
 {
+	"item_group": "Werkzeug",
 	"current_stock_003_halle_altstadt": 1,
 	"image": "/files/8711252718941.png",
 	"creation": "2018-02-13T18:49:12.675715",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 45,
 	"item_name": "Klauenhammer 450gr",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1f039f39-8f71-415c-948a-86d0edadc831",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252718941",
 	"item_code": "PP-000000332",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000000332",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Werkzeug",
+	"BARCODE": "8711252718941",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 4
 }

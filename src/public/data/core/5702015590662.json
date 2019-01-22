@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Jungs",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5702015590662.jpg",
 	"creation": "2018-04-30T15:26:20.907465",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-27",
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel für die Kleinenin unserer App",
+	"ORDERS_ALLTIME": 4,
 	"item_name": "Lego Juniors Verfolgung mit dem Polizeih.",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8487237f-1aff-4af6-96af-eec7f69e69a2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5702015590662",
 	"item_code": "PP-000008301",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000008301",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Jungs",
+	"BARCODE": "5702015590662",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "7.89",
 	"current_gross_selling_price": 7.89,
-	"base_price": "7.89"
+	"ORDERS_30D": 0
 }

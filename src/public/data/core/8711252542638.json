@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 12,
+	"item_group": "Reinigung hart",
+	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/8711252542638.jpg",
 	"creation": "2018-02-13T18:54:26.780809",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 288,
 	"first_time_ordered_on_": "2017-12-01",
+	"ORDERS_7D": 14,
 	"marketing_text": "Wecke den Putzteufel in Dir!",
+	"ORDERS_ALLTIME": 544,
 	"item_name": "Mikrofasertücher 30X30Cm 3St",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c5e3803e-ae71-47e5-af86-8d03901da267",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252542638",
 	"item_code": "PP-000002625",
-	"current_stock_001_kaufpark_eiche": 44,
 	"name": "PP-000002625",
+	"current_stock_001_kaufpark_eiche": 44,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Reinigung hart",
+	"BARCODE": "8711252542638",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 34
 }

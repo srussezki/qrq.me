@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 16,
+	"item_group": "Kerzen & -zubehör",
+	"current_stock_003_halle_altstadt": 11,
 	"image": null,
 	"creation": "2018-02-13T18:47:55.084193",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 16,
 	"first_time_ordered_on_": "2017-11-19",
+	"ORDERS_7D": 14,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 66,
 	"item_name": "Leuchterkerze Elfenbein 10stk",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=dddb338d-7ad6-4a91-986e-478463d912ba",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008495274346",
 	"item_code": "PP-000002552",
-	"current_stock_001_kaufpark_eiche": 19,
 	"name": "PP-000002552",
+	"current_stock_001_kaufpark_eiche": 19,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "1",
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": "4008495274346",
+	"ORDERS_YESTERDAY": 5,
+	"base_price": "2.25",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.25"
+	"ORDERS_30D": 22
 }

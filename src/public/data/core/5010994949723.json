@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Mädchen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5010994949723.jpg",
 	"creation": "2018-02-14T16:00:32.634882",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-09",
+	"ORDERS_7D": 1,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 15,
 	"item_name": "Die Eiskönigin Elsa",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=bcfc8366-0a30-4360-b617-feae4b763a06",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5010994949723",
 	"item_code": "PP-000004238",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000004238",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Mädchen",
+	"BARCODE": "5010994949723",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "14.99",
 	"current_gross_selling_price": 14.99,
-	"base_price": "14.99"
+	"ORDERS_30D": 2
 }

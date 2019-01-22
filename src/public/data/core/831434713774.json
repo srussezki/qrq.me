@@ -1,4 +1,5 @@
 {
+	"item_group": "Herrenbekleidung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-14T09:13:48.793606",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": 21,
 	"item_name": "Reebok T-Shirt",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2fbdc008-5395-4570-8254-4b54ffe87da3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "831434713774",
 	"item_code": "PP-000001792",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000001792",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Herrenbekleidung",
+	"BARCODE": "831434713774",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 0
 }

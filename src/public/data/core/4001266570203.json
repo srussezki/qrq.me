@@ -1,4 +1,5 @@
 {
+	"item_group": "Feuerwerk",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-14T16:00:23.209608",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-22",
+	"ORDERS_7D": null,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": null,
 	"item_name": "K-More & More",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=71b01d94-322e-47ab-8c20-4c1c14904967",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4001266570203",
 	"item_code": "PP-000002899",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000002899",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Feuerwerk",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "7.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "7.99"
+	"ORDERS_30D": null
 }

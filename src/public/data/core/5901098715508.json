@@ -1,4 +1,5 @@
 {
+	"item_group": "Aufbewahrung",
 	"current_stock_003_halle_altstadt": 1,
 	"image": "/files/5901098715508.jpg",
 	"creation": "2018-12-19T15:59:32.218076",
@@ -6,12 +7,14 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 10,
 	"marketing_text": "Dekorieren bis zum Umfallen in der App",
+	"ORDERS_ALLTIME": 33,
 	"item_name": "JASMINE Box 55 l mit Rollen",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": null,
 	"is_sales_item": 1,
-	"current_stock_002_halle_neustadt": 8,
+	"current_stock_002_halle_neustadt": 5,
 	"rack_number": null,
 	"item_group_level_0": null,
 	"base_price_text": "7.99 € je 1 Stück",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5901098715508",
 	"item_code": "PP-000016761",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000016761",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Aufbewahrung",
+	"BARCODE": "5901098715508",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "7.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "7.99"
+	"ORDERS_30D": 33
 }

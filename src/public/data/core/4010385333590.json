@@ -1,4 +1,5 @@
 {
+	"item_group": "Kerzen & -zubehör",
 	"current_stock_003_halle_altstadt": 17,
 	"image": null,
 	"creation": "2018-11-12T12:23:04.472785",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 7,
 	"item_name": "WIndlicht 7,4x7,5 cm braun",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=18b4e49c-f592-43f8-8259-0f1c6465931f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4010385333590",
 	"item_code": "PP-000015871",
-	"current_stock_001_kaufpark_eiche": 24,
 	"name": "PP-000015871",
+	"current_stock_001_kaufpark_eiche": 24,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": "4010385333590",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 4
 }

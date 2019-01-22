@@ -1,4 +1,5 @@
 {
+	"item_group": "Reinigung hart",
 	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/5053191035035.jpg",
 	"creation": "2018-07-24T17:45:38.166670",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 1,
 	"item_name": "BELDRAY 26M ROTARY AIRER TURQ",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a678613b-b5a1-4ff3-af8c-09438c429cb5",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5053191035035",
 	"item_code": "PP-000011461",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000011461",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Reinigung hart",
+	"BARCODE": "5053191035035",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "14.99",
 	"current_gross_selling_price": 14.99,
-	"base_price": "14.99"
+	"ORDERS_30D": 0
 }

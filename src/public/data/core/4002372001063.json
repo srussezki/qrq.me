@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 5,
+	"item_group": "Hefte & Blöcke",
+	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/4002372001063.jpg",
 	"creation": "2018-03-23T21:05:39.512947",
 	"website_image": "/files/4002372001063.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-23",
+	"ORDERS_7D": 6,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 29,
 	"item_name": "Karteikarten Liniert Weiss 100stk",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=769c8a7d-7d9e-4de3-b92d-d0df0a9dd6d4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002372001063",
 	"item_code": "PP-000006261",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006261",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 3,
 	"shelf_number": null,
-	"item_group": "Hefte & Blöcke",
+	"BARCODE": "4002372001063",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 8
 }

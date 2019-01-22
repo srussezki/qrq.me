@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 22,
+	"item_group": "Dekoration",
+	"current_stock_003_halle_altstadt": 21,
 	"image": "/files/8711252073941.jpg",
 	"creation": "2018-04-19T18:43:33.680212",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-09",
+	"ORDERS_7D": 8,
 	"marketing_text": "Pimp your Home",
+	"ORDERS_ALLTIME": 106,
 	"item_name": "Dekogirlande 9x12cm versch. Varianten",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=782de650-2dfc-4503-9af0-e042b1376204",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252073941",
 	"item_code": "PP-000007493",
-	"current_stock_001_kaufpark_eiche": 24,
 	"name": "PP-000007493",
+	"current_stock_001_kaufpark_eiche": 24,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Dekoration",
+	"BARCODE": "8711252073941",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.39",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.39"
+	"ORDERS_30D": 26
 }

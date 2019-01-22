@@ -1,4 +1,5 @@
 {
+	"item_group": "Weihnachten",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4020607530461.jpg",
 	"creation": "2018-02-28T16:19:02.753771",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-27",
+	"ORDERS_7D": 0,
 	"marketing_text": "174.074 Artikel mehr online",
+	"ORDERS_ALLTIME": 75,
 	"item_name": "Kantenhocker Wichtel Alfa",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5f843233-c6e1-4703-a8f3-8713fc55fa44",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4020607530461",
 	"item_code": "PP-000004967",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004967",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Weihnachten",
+	"BARCODE": "4020607530461",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 0
 }

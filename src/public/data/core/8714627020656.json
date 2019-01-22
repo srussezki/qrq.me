@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Mädchen",
 	"current_stock_003_halle_altstadt": 34,
 	"image": "/files/8714627020656.jpg",
 	"creation": "2018-09-11T18:04:57.765949",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 109,
 	"item_name": "Babypuppe im Ball versch. Varianten",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3b744c93-b11a-44e0-9b4e-92b9605f3616",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627020656",
 	"item_code": "PP-000013223",
-	"current_stock_001_kaufpark_eiche": 23,
 	"name": "PP-000013223",
+	"current_stock_001_kaufpark_eiche": 22,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Mädchen",
+	"BARCODE": "8714627020656",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "3.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 8
 }

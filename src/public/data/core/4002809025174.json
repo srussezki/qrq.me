@@ -1,4 +1,5 @@
 {
+	"item_group": "Kekse & Backwaren",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4002809025174.jpg",
 	"creation": "2018-10-04T17:15:52.379513",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 25,
 	"item_name": "RUF Dekor Blue Ice 85 g Dose",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3df7e08e-3dce-4be8-9c06-361f22b565d6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002809025174",
 	"item_code": "PP-000014512",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000014512",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kekse & Backwaren",
+	"BARCODE": "4002809025174",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.79",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.79"
+	"ORDERS_30D": 2
 }

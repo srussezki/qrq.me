@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4326470522610.jpg",
 	"creation": "2018-02-13T18:51:41.142936",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-11-02",
+	"ORDERS_7D": 0,
 	"marketing_text": "Pflege für Sie & Ihn in der App",
+	"ORDERS_ALLTIME": 52,
 	"item_name": "Sonneschutz Creme Lsf 50",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=77a0b3a0-ad4a-4066-b595-40c98e802237",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470522610",
 	"item_code": "PP-000001027",
-	"current_stock_001_kaufpark_eiche": 43,
 	"name": "PP-000001027",
+	"current_stock_001_kaufpark_eiche": 43,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "4326470522610",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 0
 }

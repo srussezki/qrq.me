@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/4018164006000.jpg",
 	"creation": "2018-08-02T11:48:11.872789",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 138,
 	"item_name": "Girlande \"Neon\", Länge 3,6m,4 Farben sortiert",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e00cea74-b70b-4683-82e3-005640913a75",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4018164006000",
 	"item_code": "PP-000011974",
-	"current_stock_001_kaufpark_eiche": 24,
 	"name": "PP-000011974",
+	"current_stock_001_kaufpark_eiche": 24,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": "4018164006000",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 49
 }

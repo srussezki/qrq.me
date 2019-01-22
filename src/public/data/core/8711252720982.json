@@ -1,12 +1,15 @@
 {
+	"item_group": "Werkzeug",
 	"current_stock_003_halle_altstadt": 6,
 	"image": null,
 	"creation": "2018-06-20T18:47:29.401011",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 12,
+	"current_stock_wh_ludwigsfelde": 6,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Do it yourself, mit unserer App",
+	"ORDERS_ALLTIME": 31,
 	"item_name": "Zange",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=862e35f4-c149-42fb-ad95-7dd1a65a9d1f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252720982",
 	"item_code": "PP-000010086",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000010086",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Werkzeug",
+	"BARCODE": "8711252720982",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 3
 }

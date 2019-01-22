@@ -1,4 +1,5 @@
 {
+	"item_group": "Salzige Snacks",
 	"current_stock_003_halle_altstadt": 25,
 	"image": "/files/4018077714399.jpg",
 	"creation": "2018-10-02T17:13:36.500307",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Alles für die Naschkatzen bei factorymarket",
+	"ORDERS_ALLTIME": 38,
 	"item_name": "Naturals Chips Milde Paprika 110g",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=dce8ced5-cf44-4cd0-814b-6b525d3b2bca",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4018077714399",
 	"item_code": "PP-000014395",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000014395",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Salzige Snacks",
+	"BARCODE": "4018077714399",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 1.49,
-	"base_price": "0.99"
+	"ORDERS_30D": 7
 }

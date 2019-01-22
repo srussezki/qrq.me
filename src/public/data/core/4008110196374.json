@@ -1,4 +1,5 @@
 {
+	"item_group": "Stifte",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4008110196374.jpg",
 	"creation": "2018-04-12T14:44:57.830196",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-12",
+	"ORDERS_7D": 0,
 	"marketing_text": "Alles für die Schule und das Büro bei uns",
+	"ORDERS_ALLTIME": 4,
 	"item_name": "Kugelschreiber Dynamics",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=531e4250-4f0b-4598-809a-90f7898f9953",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008110196374",
 	"item_code": "PP-000007097",
-	"current_stock_001_kaufpark_eiche": 14,
 	"name": "PP-000007097",
+	"current_stock_001_kaufpark_eiche": 14,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Stifte",
+	"BARCODE": "4008110196374",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 0
 }

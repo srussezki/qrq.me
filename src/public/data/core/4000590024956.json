@@ -1,12 +1,15 @@
 {
+	"item_group": "Malerbedarf",
 	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/4000590024956.jpg",
 	"creation": "2018-05-30T11:56:17.832817",
 	"website_image": "/files/4000590024956.jpg",
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 12,
+	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Do it yourself, mit unserer App",
+	"ORDERS_ALLTIME": 9,
 	"item_name": "Wi-Spray Lack Hochgl., RAL 7016, Anthrazit",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=84a95e45-cb12-4c7e-9df3-322719758a8c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4000590024956",
 	"item_code": "PP-000009381",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000009381",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Malerbedarf",
+	"BARCODE": "4000590024956",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "8.725",
 	"current_gross_selling_price": 3.49,
-	"base_price": "8.725"
+	"ORDERS_30D": 1
 }

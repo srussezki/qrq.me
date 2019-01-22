@@ -1,4 +1,5 @@
 {
+	"item_group": "Kerzen & -zubehör",
 	"current_stock_003_halle_altstadt": 11,
 	"image": null,
 	"creation": "2018-09-20T14:16:16.870429",
@@ -6,12 +7,14 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 21,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 11,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 82,
 	"item_name": "Kerzen 5er-Pack Weiß",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f75ba52e-e5e8-4002-864e-6f2852e57d4e",
 	"is_sales_item": 1,
-	"current_stock_002_halle_neustadt": 44,
+	"current_stock_002_halle_neustadt": 43,
 	"rack_number": null,
 	"item_group_level_0": null,
 	"base_price_text": "1.428 € je 1 Stück",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008495750659",
 	"item_code": "PP-000013853",
-	"current_stock_001_kaufpark_eiche": 58,
 	"name": "PP-000013853",
+	"current_stock_001_kaufpark_eiche": 57,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": "4008495750659",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 1.49,
-	"base_price": "0.99"
+	"ORDERS_30D": 19
 }

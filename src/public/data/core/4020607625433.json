@@ -1,4 +1,5 @@
 {
+	"item_group": "Geschenkverpackungen",
 	"current_stock_003_halle_altstadt": 16,
 	"image": null,
 	"creation": "2018-07-17T09:58:33.082385",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": "Verschönere dein Zuhause, jetzt auch online",
+	"ORDERS_ALLTIME": 52,
 	"item_name": "Kartonage Lovy Rot L23cm",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3d841edc-588d-4724-828b-83897bf2a983",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4020607625433",
 	"item_code": "PP-000010816",
-	"current_stock_001_kaufpark_eiche": 19,
 	"name": "PP-000010816",
+	"current_stock_001_kaufpark_eiche": 19,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Geschenkverpackungen",
+	"BARCODE": "4020607625433",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 11
 }

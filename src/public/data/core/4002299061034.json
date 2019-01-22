@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4002299061034.jpg",
 	"creation": "2018-02-13T19:02:38.121966",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-26",
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 28,
 	"item_name": "Color-High-Lights Spray Schwarz",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5e090f92-554b-481b-b168-b257e6c0b048",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002299061034",
 	"item_code": "PP-000003956",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000003956",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": "4002299061034",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.19",
 	"current_gross_selling_price": 0.29,
-	"base_price": "1.19"
+	"ORDERS_30D": 0
 }

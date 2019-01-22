@@ -1,4 +1,5 @@
 {
+	"item_group": "Vasen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8713368088642.jpg",
 	"creation": "2018-03-14T16:33:31.515879",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-13",
+	"ORDERS_7D": null,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Vasen In Diversen Formen",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d1f9ee12-dbda-4abc-ac1f-45a43d7fcc40",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8713368088642",
 	"item_code": "PP-000005350",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000005350",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Vasen",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "3.49",
 	"current_gross_selling_price": 3.49,
-	"base_price": "3.49"
+	"ORDERS_30D": null
 }

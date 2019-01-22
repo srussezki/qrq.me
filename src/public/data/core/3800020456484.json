@@ -1,4 +1,5 @@
 {
+	"item_group": "Schokolade",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/3800020456484.png",
 	"creation": "2018-03-14T16:33:06.013808",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-06",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 380,
 	"item_name": "Nestlé Kitkat Singles 10x15,2gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=eeee91d7-e9b3-4726-b028-60c5fa938ff1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3800020456484",
 	"item_code": "PP-000005152",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000005152",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schokolade",
+	"BARCODE": "3800020456484",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.59",
 	"current_gross_selling_price": 1.59,
-	"base_price": "1.59"
+	"ORDERS_30D": 0
 }

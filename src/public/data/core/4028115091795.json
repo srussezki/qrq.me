@@ -1,4 +1,5 @@
 {
+	"item_group": "Herrenbekleidung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-08-01T11:38:57.426743",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": null,
 	"item_name": "Centerline Herren Pullover 3XL dnkl-rot",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5cdbff5f-ed35-4991-b2ea-2ceb923bece6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4028115091795",
 	"item_code": "PP-000011860",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000011860",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Herrenbekleidung",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "15.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "15.99"
+	"ORDERS_30D": null
 }

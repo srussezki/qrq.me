@@ -1,4 +1,5 @@
 {
+	"item_group": "Werkzeug",
 	"current_stock_003_halle_altstadt": 21,
 	"image": "/files/8711252486642.jpg",
 	"creation": "2018-02-13T18:49:26.178453",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 2,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 217,
 	"item_name": "Heißklebepistole 40 Watt",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7d55663b-e23f-47d0-929c-bb0e56bc9eb9",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252486642",
 	"item_code": "PP-000000235",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000000235",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "4",
-	"item_group": "Werkzeug",
+	"BARCODE": "8711252486642",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.69",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.69"
+	"ORDERS_30D": 3
 }

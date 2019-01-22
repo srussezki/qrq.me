@@ -1,4 +1,5 @@
 {
+	"item_group": "Grußkarten",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4020607552722.png",
 	"creation": "2018-03-14T16:32:24.485468",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-12",
+	"ORDERS_7D": null,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Postkarte Mit Sprüchen",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8155fd1f-97cb-4733-b423-63891f21876f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4020607552722",
 	"item_code": "PP-000005275",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000005275",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Grußkarten",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "1",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1"
+	"ORDERS_30D": null
 }

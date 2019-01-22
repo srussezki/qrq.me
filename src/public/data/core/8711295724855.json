@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 25,
+	"item_group": "Spielwaren Unisex",
+	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8711295724855.png",
 	"creation": "2018-02-13T19:00:51.294714",
 	"website_image": "/files/8711295724855.png",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-27",
+	"ORDERS_7D": 3,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 57,
 	"item_name": "Knete Mit Zubehör 5var",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ccff09d7-3fc6-44dd-ac2a-36a51cacec17",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295724855",
 	"item_code": "PP-000002999",
-	"current_stock_001_kaufpark_eiche": 24,
 	"name": "PP-000002999",
+	"current_stock_001_kaufpark_eiche": 24,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8711295724855",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.59",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.59"
+	"ORDERS_30D": 7
 }

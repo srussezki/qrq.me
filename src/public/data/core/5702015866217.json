@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Mädchen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5702015866217.jpg",
 	"creation": "2018-04-19T18:07:46.289792",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-13",
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel für die Kleinenin unserer App",
+	"ORDERS_ALLTIME": 11,
 	"item_name": "LEGO Friends Welpenpark",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f1681592-4304-4653-b7c2-71f84ddd43dc",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5702015866217",
 	"item_code": "PP-000007389",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000007389",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Mädchen",
+	"BARCODE": "5702015866217",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 0
 }

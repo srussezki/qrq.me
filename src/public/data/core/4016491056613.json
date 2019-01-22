@@ -1,4 +1,5 @@
 {
+	"item_group": "Getränke",
 	"current_stock_003_halle_altstadt": 46,
 	"image": "/files/4016491056613.jpg",
 	"creation": "2018-10-15T14:08:53.896319",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 17,
 	"marketing_text": "App, App Hura! Noch mehr Auswahl!",
+	"ORDERS_ALLTIME": 352,
 	"item_name": "Sauvignon & Merlot 2013 Trocken 0.75l",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=62329b8d-c1fb-478b-aa92-186f659e21b7",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4016491056613",
 	"item_code": "PP-000014735",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000014735",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "4016491056613",
+	"ORDERS_YESTERDAY": 7,
+	"base_price": null,
 	"current_gross_selling_price": 1.99,
-	"base_price": null
+	"ORDERS_30D": 100
 }

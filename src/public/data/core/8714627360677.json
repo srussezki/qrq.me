@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Mädchen",
 	"current_stock_003_halle_altstadt": 27,
 	"image": "/files/8714627360677.jpg",
 	"creation": "2018-02-22T10:38:59.051627",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 49,
 	"first_time_ordered_on_": "2018-02-16",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 83,
 	"item_name": "Schmetterlings-Flummi Licht",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c0b16bc4-5f02-4705-ada2-79aa2cde5be7",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627360677",
 	"item_code": "PP-000004782",
-	"current_stock_001_kaufpark_eiche": 29,
 	"name": "PP-000004782",
+	"current_stock_001_kaufpark_eiche": 29,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Mädchen",
+	"BARCODE": "8714627360677",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.29",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.29"
+	"ORDERS_30D": 6
 }

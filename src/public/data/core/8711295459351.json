@@ -1,4 +1,5 @@
 {
+	"item_group": "Stifte",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T18:59:57.785979",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-22",
+	"ORDERS_7D": 0,
 	"marketing_text": "Die App für Bürohelden und Heldinnen",
+	"ORDERS_ALLTIME": 38,
 	"item_name": "Kugelschreiber-Set 2-Teilig 3var",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=68cd71e5-31d5-4b3c-b1e6-e9a2bc86a478",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295459351",
 	"item_code": "PP-000003158",
-	"current_stock_001_kaufpark_eiche": 56,
 	"name": "PP-000003158",
+	"current_stock_001_kaufpark_eiche": 56,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "4",
-	"item_group": "Stifte",
+	"BARCODE": "8711295459351",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 3
 }

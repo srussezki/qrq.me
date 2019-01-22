@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 20,
+	"item_group": "Aufbewahrung",
+	"current_stock_003_halle_altstadt": 19,
 	"image": "/files/8711252029276.jpg",
 	"creation": "2018-03-14T16:33:27.033965",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 23,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 196,
 	"item_name": "Besteckhalter 15,5X12,5Cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252029276",
 	"item_code": "PP-000005456",
-	"current_stock_001_kaufpark_eiche": 18,
 	"name": "PP-000005456",
+	"current_stock_001_kaufpark_eiche": 17,
+	"ORDERS_TODAY": 3,
 	"shelf_number": null,
-	"item_group": "Aufbewahrung",
+	"BARCODE": "8711252029276",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 54
 }

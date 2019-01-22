@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 5,
+	"item_group": "Süßigkeiten & Kaugummi",
+	"current_stock_003_halle_altstadt": 4,
 	"image": "/files/80894131.jpg",
 	"creation": "2018-09-18T12:52:44.364013",
 	"website_image": "/files/80894131.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 60,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 8,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 63,
 	"item_name": "Mentos Chew Gum Squeez Erdbeer",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=05067569-0515-4902-83a2-223da30fad71",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "80894131",
 	"item_code": "PP-000013640",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000013640",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "80894131",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 23
 }

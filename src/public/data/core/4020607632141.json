@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekoration",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4020607632141.jpg",
 	"creation": "2018-08-31T17:15:45.391285",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 2,
 	"item_name": "Aufsteller Worte 4sort L25cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=365769aa-9f63-4937-81d1-4f45c20ea3c4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4020607632141",
 	"item_code": "PP-000012971",
-	"current_stock_001_kaufpark_eiche": 34,
 	"name": "PP-000012971",
+	"current_stock_001_kaufpark_eiche": 34,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekoration",
+	"BARCODE": "4020607632141",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": null,
 	"current_gross_selling_price": 1.99,
-	"base_price": null
+	"ORDERS_30D": 2
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Stifte",
 	"current_stock_003_halle_altstadt": 16,
 	"image": "/files/4044186605440.png",
 	"creation": "2018-08-02T11:42:57.385690",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 7,
 	"marketing_text": "Billiger gibts nur in der App!",
+	"ORDERS_ALLTIME": 39,
 	"item_name": "Textmarker in Nagellackoptik",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6e3a9939-17c0-42d3-9938-568adacf7970",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4044186605440",
 	"item_code": "PP-000012214",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000012214",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Stifte",
+	"BARCODE": "4044186605440",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 9
 }

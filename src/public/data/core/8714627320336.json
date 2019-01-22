@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekouhren",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T18:55:58.344295",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 0,
 	"marketing_text": "factorymarket.de hat an der Uhr gedreht",
+	"ORDERS_ALLTIME": 10,
 	"item_name": "Digital-Silikon-Uhr",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e07d38eb-7737-48b8-8a48-3a717905539f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627320336",
 	"item_code": "PP-000001441",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000001441",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Dekouhren",
+	"BARCODE": "8714627320336",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 0
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Geschenkverpackungen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/013051527334.jpeg",
 	"creation": "2018-04-09T18:13:46.158302",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-28",
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 10,
 	"item_name": "Geschenkboxen Wedding Silber 50stk",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1bb041b8-bbbf-4cb7-b6c6-b9d77f89b4b9",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000007037",
 	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000007037",
+	"_timestamp": "20190122 150229.276",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Geschenkverpackungen",
+	"BARCODE": "013051527334",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.15",
 	"current_gross_selling_price": 1.79,
-	"base_price": "0.15"
+	"ORDERS_30D": 0
 }

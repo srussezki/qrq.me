@@ -1,4 +1,5 @@
 {
+	"item_group": "Laternen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4020606199386.png",
 	"creation": "2018-03-14T16:32:23.603143",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-12",
+	"ORDERS_7D": null,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Dunkle Große Laterne 12,5cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8a64d6d7-a36b-4aa4-8103-35a44e9c93ed",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4020606199386",
 	"item_code": "PP-000005298",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000005298",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Laternen",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "2.09",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.09"
+	"ORDERS_30D": null
 }

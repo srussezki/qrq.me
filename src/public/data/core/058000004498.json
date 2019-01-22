@@ -1,4 +1,5 @@
 {
+	"item_group": "Mundpflege",
 	"current_stock_003_halle_altstadt": 14,
 	"image": "/files/058000004498.png",
 	"creation": "2018-07-13T16:53:46.982305",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 60,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 8,
 	"marketing_text": "Das Abenteuer geht weiter in unserer App",
+	"ORDERS_ALLTIME": 111,
 	"item_name": "Colgate Zahnbürste Max Fresh Soft",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8db8b3f6-85f4-4a97-8219-dec7a1f7463c",
@@ -24,8 +27,14 @@
 	"item_code": "PP-000010715",
 	"current_stock_001_kaufpark_eiche": 18,
 	"name": "PP-000010715",
+	"_timestamp": "20190122 150229.425",
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Mundpflege",
+	"BARCODE": "058000004498",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 22,
+	"top10": "Mundpflege",
+	"top100": "Health & Beauty"
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 30,
+	"item_group": "FMCG Reinigungsmittel",
+	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/4013162000012.jpg",
 	"creation": "2018-04-19T18:07:54.511418",
 	"website_image": "/files/4013162000012.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": "2018-04-13",
+	"ORDERS_7D": 14,
 	"marketing_text": "Wecke den Putzteufel in Dir!",
+	"ORDERS_ALLTIME": 200,
 	"item_name": "fit Spülmittel 500ml",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fd4f3bf3-bddc-49d9-8a89-812f12ad6bcd",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4013162000012",
 	"item_code": "PP-000007432",
-	"current_stock_001_kaufpark_eiche": 25,
 	"name": "PP-000007432",
+	"current_stock_001_kaufpark_eiche": 25,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "FMCG Reinigungsmittel",
+	"BARCODE": "4013162000012",
+	"ORDERS_YESTERDAY": 7,
+	"base_price": "0.15",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.15"
+	"ORDERS_30D": 14
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Hygieneartikel",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/8719497837656.jpg",
 	"creation": "2018-12-04T15:38:26.743331",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 1,
 	"item_name": "Slipeinlagen 25Stk normal",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719497837656",
 	"item_code": "PP-000016462",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000016462",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hygieneartikel",
+	"BARCODE": "8719497837656",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 1
 }

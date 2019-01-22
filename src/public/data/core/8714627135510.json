@@ -1,12 +1,15 @@
 {
+	"item_group": "Spielwaren Mädchen",
 	"current_stock_003_halle_altstadt": 6,
 	"image": null,
 	"creation": "2018-03-14T16:33:14.552471",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 24,
+	"current_stock_wh_ludwigsfelde": 16,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 2,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 16,
 	"item_name": "Spielset Obst & Gemüse 2er-Set",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1c569d4c-0ee0-4266-b28e-f82dba63b8cb",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627135510",
 	"item_code": "PP-000005765",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000005765",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Mädchen",
+	"BARCODE": "8714627135510",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "7.49",
 	"current_gross_selling_price": 7.99,
-	"base_price": "7.49"
+	"ORDERS_30D": 3
 }

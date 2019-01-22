@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 9,
+	"item_group": "Vorratsdosen",
+	"current_stock_003_halle_altstadt": 8,
 	"image": "/files/2100000006441.jpg",
 	"creation": "2018-08-07T16:43:29.624253",
 	"website_image": "/files/2100000006441.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 108,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 6,
 	"marketing_text": "Die besten Küchenhelfer, auch in unserer App",
+	"ORDERS_ALLTIME": 72,
 	"item_name": "Gefrierdose \"Easy\" mittel 1l",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=629baee2-7212-4027-82a1-c37469994938",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000012169",
 	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000012169",
+	"_timestamp": "20190122 150230.234",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Vorratsdosen",
+	"BARCODE": "2100000006441",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 13
 }

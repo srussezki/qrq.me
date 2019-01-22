@@ -1,4 +1,5 @@
 {
+	"item_group": "Schreibwaren Schule",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4044186473537.png",
 	"creation": "2018-06-14T19:08:16.541956",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Für Bürohelden und Heldinnen!",
+	"ORDERS_ALLTIME": 37,
 	"item_name": "Schüleretui Triple Decker",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=695086b1-665b-4b46-8eee-a287b1d22c6f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4044186473537",
 	"item_code": "PP-000009995",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000009995",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schreibwaren Schule",
+	"BARCODE": "4044186473537",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 5
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Schmuck",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4038732780415.jpg",
 	"creation": "2018-04-09T11:22:43.205486",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-11",
+	"ORDERS_7D": 1,
 	"marketing_text": "Pflege für Sie & Ihn in der App",
+	"ORDERS_ALLTIME": 45,
 	"item_name": "Haarband Blume Rosa",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3a5f6036-6163-4329-8ffd-a3ad67229873",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4038732780415",
 	"item_code": "PP-000006921",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006921",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schmuck",
+	"BARCODE": "4038732780415",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.59",
 	"current_gross_selling_price": 0.59,
-	"base_price": "0.59"
+	"ORDERS_30D": 1
 }

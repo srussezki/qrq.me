@@ -1,4 +1,5 @@
 {
+	"item_group": "Office",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4008115171802.jpg",
 	"creation": "2018-04-12T14:45:00.843591",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-12",
+	"ORDERS_7D": 0,
 	"marketing_text": "Für Bürohelden und Heldinnen!",
+	"ORDERS_ALLTIME": 19,
 	"item_name": "Ordner maX.file nature Schwarz A4 8cm",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=211ef4c4-6d16-43eb-9e42-f2326706a4c6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008115171802",
 	"item_code": "PP-000007180",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000007180",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Office",
+	"BARCODE": "4008115171802",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.29",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.29"
+	"ORDERS_30D": 0
 }

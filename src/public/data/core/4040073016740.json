@@ -1,4 +1,5 @@
 {
+	"item_group": "Strümpfe",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4040073016740.jpg",
 	"creation": "2018-08-24T13:32:14.849796",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": 10,
 	"item_name": "Sneaker Socken Jungs 31-34",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3ebdc6f9-21c0-4984-99c9-d0892caf8125",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4040073016740",
 	"item_code": "PP-000012801",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000012801",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Strümpfe",
+	"BARCODE": "4040073016740",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.69",
 	"current_gross_selling_price": 1.99,
-	"base_price": "2.69"
+	"ORDERS_30D": 1
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 16,
+	"item_group": "Bälle",
+	"current_stock_003_halle_altstadt": 15,
 	"image": "/files/8718158065117.jpg",
 	"creation": "2018-02-13T19:01:27.844391",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 17,
 	"item_name": "Ball 3er-Set 2var",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=aebbe73a-7059-49cf-9736-2d07fbcaac63",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158065117",
 	"item_code": "PP-000003065",
-	"current_stock_001_kaufpark_eiche": 17,
 	"name": "PP-000003065",
+	"current_stock_001_kaufpark_eiche": 17,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Bälle",
+	"BARCODE": "8718158065117",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.69",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.69"
+	"ORDERS_30D": 2
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 7,
+	"item_group": "Koffer",
+	"current_stock_003_halle_altstadt": 6,
 	"image": null,
 	"creation": "2018-06-18T16:13:32.682910",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 9,
 	"item_name": "Koziol Kunststofftasche Himbeer XL",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=05bd2b9a-d97a-4ead-ba34-30f4e907c03e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002942334232",
 	"item_code": "PP-000010139",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000010139",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Koffer",
+	"BARCODE": "4002942334232",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "26.95",
 	"current_gross_selling_price": 9.99,
-	"base_price": "26.95"
+	"ORDERS_30D": 4
 }

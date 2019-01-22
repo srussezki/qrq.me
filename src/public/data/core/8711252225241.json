@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 8,
+	"item_group": "Küchenhelfer",
+	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/8711252225241.jpg",
 	"creation": "2018-03-14T16:33:26.819780",
 	"website_image": "/files/8711252225241.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 28,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 130,
 	"item_name": "Schneidebrett 27X22,5X1,5Cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252225241",
 	"item_code": "PP-000005461",
-	"current_stock_001_kaufpark_eiche": 26,
 	"name": "PP-000005461",
+	"current_stock_001_kaufpark_eiche": 26,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Küchenhelfer",
+	"BARCODE": "8711252225241",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 43
 }

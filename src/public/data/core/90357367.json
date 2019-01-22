@@ -1,4 +1,5 @@
 {
+	"item_group": "Getränke",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/90357367.jpg",
 	"creation": "2018-06-25T12:14:00.233228",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 12,
 	"item_name": "Powerade Mountain Wild Cherry 0,5l",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=20f17eb5-f996-4d3a-a672-6b5987529b21",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "90357367",
 	"item_code": "PP-000010311",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000010311",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "90357367",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.26",
 	"current_gross_selling_price": 1.29,
-	"base_price": "0.26"
+	"ORDERS_30D": 0
 }

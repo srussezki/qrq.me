@@ -1,4 +1,5 @@
 {
+	"item_group": "Sportaccessoires",
 	"current_stock_003_halle_altstadt": 42,
 	"image": "/files/5013317121103.jpg",
 	"creation": "2018-02-14T09:13:36.451703",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-02",
+	"ORDERS_7D": 5,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 37,
 	"item_name": "Tennisball 3stk",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a11a5cfe-54c7-4967-b50f-4c145a646a2c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5013317121103",
 	"item_code": "PP-000001803",
-	"current_stock_001_kaufpark_eiche": 67,
 	"name": "PP-000001803",
+	"current_stock_001_kaufpark_eiche": 67,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Sportaccessoires",
+	"BARCODE": "5013317121103",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 10
 }

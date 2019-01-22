@@ -1,4 +1,5 @@
 {
+	"item_group": "Autoschmierstoffe",
 	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/8711252049816.jpg",
 	"creation": "2018-05-02T18:33:43.231393",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-05-02",
+	"ORDERS_7D": 0,
 	"marketing_text": "Pimp dein Auto, auch online auf factorymarket",
+	"ORDERS_ALLTIME": 11,
 	"item_name": "Dunlop VollsynthetischesMotoröl",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3930384f-be64-4520-b241-c5b9509d7709",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252049816",
 	"item_code": "PP-000008325",
-	"current_stock_001_kaufpark_eiche": 15,
 	"name": "PP-000008325",
+	"current_stock_001_kaufpark_eiche": 15,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Autoschmierstoffe",
+	"BARCODE": "8711252049816",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "7.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "7.99"
+	"ORDERS_30D": 0
 }

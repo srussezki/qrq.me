@@ -1,4 +1,5 @@
 {
+	"item_group": "Aufbewahrung",
 	"current_stock_003_halle_altstadt": 43,
 	"image": "/files/8711252988030.jpg",
 	"creation": "2018-06-20T18:47:29.040875",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 72,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Verschönere dein Zuhause, jetzt auch online",
+	"ORDERS_ALLTIME": 37,
 	"item_name": "Haken 12tlg.",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f192e060-649e-42bb-8d8b-7a74a58fc0e3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252988030",
 	"item_code": "PP-000010084",
-	"current_stock_001_kaufpark_eiche": 16,
 	"name": "PP-000010084",
+	"current_stock_001_kaufpark_eiche": 15,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Aufbewahrung",
+	"BARCODE": "8711252988030",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 9
 }

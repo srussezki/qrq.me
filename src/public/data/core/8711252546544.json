@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 14,
+	"item_group": "Küchenhelfer",
+	"current_stock_003_halle_altstadt": 13,
 	"image": "/files/8711252546544.jpg",
 	"creation": "2018-03-14T16:33:29.336074",
 	"website_image": "/files/8711252546544.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 40,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 115,
 	"item_name": "Schäler Xl 8,5X17Cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=19eafe34-d1c8-4468-961d-3b8a92502dda",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252546544",
 	"item_code": "PP-000005400",
-	"current_stock_001_kaufpark_eiche": 100,
 	"name": "PP-000005400",
+	"current_stock_001_kaufpark_eiche": 99,
+	"ORDERS_TODAY": 5,
 	"shelf_number": null,
-	"item_group": "Küchenhelfer",
+	"BARCODE": "8711252546544",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.99"
+	"ORDERS_30D": 44
 }

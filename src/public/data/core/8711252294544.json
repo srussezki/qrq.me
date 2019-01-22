@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 10,
+	"item_group": "Hunde",
+	"current_stock_003_halle_altstadt": 9,
 	"image": "/files/8711252294544.jpg",
 	"creation": "2018-04-12T12:45:01.999505",
 	"website_image": "/files/8711252294544.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-09",
+	"ORDERS_7D": 2,
 	"marketing_text": "Alles für Hund, Katze, Maus gibts auch online",
+	"ORDERS_ALLTIME": 85,
 	"item_name": "Kauriegel 330gr",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d4ab1c96-7de8-482d-b674-02c228e42048",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252294544",
 	"item_code": "PP-000007288",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000007288",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Hunde",
+	"BARCODE": "8711252294544",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.45",
 	"current_gross_selling_price": 1.49,
-	"base_price": "0.45"
+	"ORDERS_30D": 5
 }

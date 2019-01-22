@@ -1,4 +1,5 @@
 {
+	"item_group": "Mützen, Schals & Handschuhe",
 	"current_stock_003_halle_altstadt": 4,
 	"image": null,
 	"creation": "2018-11-05T14:41:42.424955",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 5,
 	"item_name": "Set aus Mütze und Schal grau-weiß",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=49734e3e-e51b-4907-963d-3312b46cb661",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8030352556612",
 	"item_code": "PP-000015317",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000015317",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Mützen, Schals & Handschuhe",
+	"BARCODE": "8030352556612",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 2
 }

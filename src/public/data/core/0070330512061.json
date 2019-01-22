@@ -1,4 +1,5 @@
 {
+	"item_group": "Office",
 	"current_stock_003_halle_altstadt": 16,
 	"image": "/files/70330512061.jpg",
 	"creation": "2018-11-07T12:10:18.579958",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 5,
 	"item_name": "Korrekturroller Mini Pocket Mouse 5mm x6m",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b7afb502-fa6b-40cc-98a1-0ccc516d8528",
@@ -24,8 +27,14 @@
 	"item_code": "PP-000015486",
 	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015486",
+	"_timestamp": "20190122 150229.235",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Office",
+	"BARCODE": "0070330512061",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 1,
+	"top10": "Office",
+	"top100": "Schreibwaren"
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Schokolade",
 	"current_stock_003_halle_altstadt": 25,
 	"image": "/files/8592601108275.jpg",
 	"creation": "2018-09-09T11:34:14.580994",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 126,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Für den Hunger zwischendurch und danach",
+	"ORDERS_ALLTIME": 86,
 	"item_name": "Juicee Gummee Belts Sour Apple 85gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6c071709-c075-4e2f-9191-1ba82370ef82",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8592601108275",
 	"item_code": "PP-000013170",
-	"current_stock_001_kaufpark_eiche": 16,
 	"name": "PP-000013170",
+	"current_stock_001_kaufpark_eiche": 15,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schokolade",
+	"BARCODE": "8592601108275",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.59",
 	"current_gross_selling_price": 0.59,
-	"base_price": "0.59"
+	"ORDERS_30D": 16
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 39,
+	"item_group": "Getränke",
+	"current_stock_003_halle_altstadt": 38,
 	"image": "/files/5000112630329.png",
 	"creation": "2018-07-26T12:44:15.369395",
 	"website_image": "/files/5000112630329.png",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 118,
 	"item_name": "Fuze Tea Pfirsich 1,00L Dpg",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6fa1696d-1e40-459e-9598-69711a89e9c4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5000112630329",
 	"item_code": "PP-000011613",
-	"current_stock_001_kaufpark_eiche": 28,
 	"name": "PP-000011613",
+	"current_stock_001_kaufpark_eiche": 28,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "5000112630329",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 1.79,
-	"base_price": null
+	"ORDERS_30D": 20
 }

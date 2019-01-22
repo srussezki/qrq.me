@@ -1,12 +1,15 @@
 {
+	"item_group": "Getränke",
 	"current_stock_003_halle_altstadt": 14,
 	"image": "/files/5000112548204.png",
 	"creation": "2018-02-14T16:00:27.495985",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 168,
+	"current_stock_wh_ludwigsfelde": 156,
 	"first_time_ordered_on_": "2018-01-05",
+	"ORDERS_7D": 13,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 846,
 	"item_name": "Mezzo Mix Orange Pet",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=bd496d88-377d-4031-a85b-051fe85a2063",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5000112548204",
 	"item_code": "PP-000003776",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000003776",
+	"current_stock_001_kaufpark_eiche": 18,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "5000112548204",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.49",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.49"
+	"ORDERS_30D": 32
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 4,
+	"item_group": "Dekoration",
+	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/8711252055626.jpg",
 	"creation": "2018-02-13T19:01:34.197817",
 	"website_image": "/files/8711252055626.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 27,
 	"item_name": "Tisch Mit Deko",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=661540e2-cdde-48fb-94ed-b118b70f93ea",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252055626",
 	"item_code": "PP-000001876",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000001876",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Dekoration",
+	"BARCODE": "8711252055626",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "14.99",
 	"current_gross_selling_price": 14.99,
-	"base_price": "14.99"
+	"ORDERS_30D": 4
 }

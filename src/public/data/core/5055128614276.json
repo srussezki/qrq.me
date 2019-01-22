@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflanzen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5055128614276.png",
 	"creation": "2018-02-16T10:33:30.888075",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-06",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 1,
 	"item_name": "Wildblumen & Zuchtgartenset",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fc622e80-5179-49ba-9b36-33d2e621c19b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5055128614276",
 	"item_code": "PP-000004732",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004732",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflanzen",
+	"BARCODE": "5055128614276",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 0
 }

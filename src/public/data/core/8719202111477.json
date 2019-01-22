@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-14T09:13:42.967614",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "308.401 weitere Kinderartikel online",
+	"ORDERS_ALLTIME": 80,
 	"item_name": "Abschiesser 12er-Set",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ed481798-1992-4972-b508-c0f180c5903a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202111477",
 	"item_code": "PP-000003075",
-	"current_stock_001_kaufpark_eiche": 16,
 	"name": "PP-000003075",
+	"current_stock_001_kaufpark_eiche": 16,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8719202111477",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 2
 }

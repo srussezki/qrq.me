@@ -1,4 +1,5 @@
 {
+	"item_group": "Herrenbekleidung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-08-10T11:50:47.010718",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "App, App Hura! Noch mehr Auswahl!",
+	"ORDERS_ALLTIME": 76,
 	"item_name": "Jogginghose für Herren",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=315d115f-b896-4f53-86c4-7d1e901010b8",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "2100000008247",
 	"item_code": "PP-000012503",
-	"current_stock_001_kaufpark_eiche": 50,
 	"name": "PP-000012503",
+	"current_stock_001_kaufpark_eiche": 50,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Herrenbekleidung",
+	"BARCODE": "2100000008247",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 0
 }

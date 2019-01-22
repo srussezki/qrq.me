@@ -1,4 +1,5 @@
 {
+	"item_group": "Weihnachten",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711295361005.jpg",
 	"creation": "2018-07-22T21:42:31.902627",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere aufregende Themenwelten in der App",
+	"ORDERS_ALLTIME": 558,
 	"item_name": "Schablone 38cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ff5bbb15-1b36-497c-ae9a-07f5898b798d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295361005",
 	"item_code": "PP-000011116",
-	"current_stock_001_kaufpark_eiche": 103,
 	"name": "PP-000011116",
+	"current_stock_001_kaufpark_eiche": 103,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Weihnachten",
+	"BARCODE": "8711295361005",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.29",
 	"current_gross_selling_price": 0.09,
-	"base_price": "0.29"
+	"ORDERS_30D": 78
 }

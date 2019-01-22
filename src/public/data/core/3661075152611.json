@@ -1,4 +1,5 @@
 {
+	"item_group": "Raucherbedarf",
 	"current_stock_003_halle_altstadt": 1,
 	"image": "/files/3661075152611.png",
 	"creation": "2018-09-10T12:23:28.488125",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 479,
 	"item_name": "Stabfeuerzeug ",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1d10ad95-7df8-4059-a0e8-ddc50ea67445",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3661075152611",
 	"item_code": "PP-000013149",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000013149",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Raucherbedarf",
+	"BARCODE": "3661075152611",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 63
 }

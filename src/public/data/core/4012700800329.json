@@ -1,4 +1,5 @@
 {
+	"item_group": "Schreibwaren Schule",
 	"current_stock_003_halle_altstadt": 1,
 	"image": "/files/4012700800329.jpg",
 	"creation": "2018-04-12T14:45:03.393825",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-12",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 6,
 	"item_name": "Pelikan Wasserbox Space WSPM Magenta",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=783d6295-8511-4fd8-9b10-41c361279d65",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4012700800329",
 	"item_code": "PP-000007249",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000007249",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schreibwaren Schule",
+	"BARCODE": "4012700800329",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 0
 }

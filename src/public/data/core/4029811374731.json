@@ -1,4 +1,5 @@
 {
+	"item_group": "Schuhe",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4029811374731.png",
 	"creation": "2018-09-13T12:00:48.819405",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": 71,
 	"item_name": "Kuschel-Hausschuhe Einhorn Gr. 38, 40, 42",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b2cb7cdb-3b1a-46d2-90b4-4b727d7608b2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4029811374731",
 	"item_code": "PP-000013286",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000013286",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schuhe",
+	"BARCODE": "4029811374731",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 13
 }

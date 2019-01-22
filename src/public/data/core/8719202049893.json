@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 8,
+	"item_group": "Beautyaccessoires",
+	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/8719202049893.jpg",
 	"creation": "2018-02-14T09:13:45.232156",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-08",
+	"ORDERS_7D": 6,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 82,
 	"item_name": "Lidschatten-Applikator",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a0331d47-ba49-4428-ad4a-44d55f17972c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202049893",
 	"item_code": "PP-000000699",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000000699",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Beautyaccessoires",
+	"BARCODE": "8719202049893",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.59",
 	"current_gross_selling_price": 0.59,
-	"base_price": "0.59"
+	"ORDERS_30D": 15
 }

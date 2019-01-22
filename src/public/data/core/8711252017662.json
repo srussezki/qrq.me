@@ -1,4 +1,5 @@
 {
+	"item_group": "Kerzen & -zubehör",
 	"current_stock_003_halle_altstadt": 5,
 	"image": "/files/8711252017662.jpg",
 	"creation": "2018-02-13T18:50:30.836295",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-28",
+	"ORDERS_7D": 9,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 228,
 	"item_name": "Duftkerze Religiös",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=513a1cbe-aaf2-401d-9fc5-b4e6ec225d4d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252017662",
 	"item_code": "PP-000001594",
-	"current_stock_001_kaufpark_eiche": 18,
 	"name": "PP-000001594",
+	"current_stock_001_kaufpark_eiche": 18,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "5",
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": "8711252017662",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 16
 }

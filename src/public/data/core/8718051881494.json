@@ -1,4 +1,5 @@
 {
+	"item_group": "Damenbekleidung",
 	"current_stock_003_halle_altstadt": 10,
 	"image": null,
 	"creation": "2018-09-16T15:54:55.154312",
@@ -6,12 +7,14 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": 53,
 	"item_name": "Damen Thermo Leggings schwarz S/M",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=90802156-c325-46a5-a77f-5f7295168747",
 	"is_sales_item": 1,
-	"current_stock_002_halle_neustadt": 12,
+	"current_stock_002_halle_neustadt": 11,
 	"rack_number": null,
 	"item_group_level_0": null,
 	"base_price_text": "3.99 € je 1 Stück",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718051881494",
 	"item_code": "PP-000013407",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000013407",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Damenbekleidung",
+	"BARCODE": "8718051881494",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 10
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Taschen & Rucksäcke",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5055114339138.jpg",
 	"creation": "2018-06-22T15:27:55.364574",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 9,
 	"item_name": "Blaze Rucksack 30x28cm",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=37385faa-225c-4026-ae6c-77a2c4d6f1a7",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5055114339138",
 	"item_code": "PP-000010212",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000010212",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Taschen & Rucksäcke",
+	"BARCODE": "5055114339138",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 0
 }

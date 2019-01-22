@@ -1,12 +1,15 @@
 {
+	"item_group": "Kunstblumen",
 	"current_stock_003_halle_altstadt": 14,
 	"image": "/files/8719202551853.jpg",
 	"creation": "2018-02-14T09:14:32.009807",
 	"website_image": "/files/8719202551853.jpg",
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 43,
+	"current_stock_wh_ludwigsfelde": 31,
 	"first_time_ordered_on_": "2018-02-09",
+	"ORDERS_7D": 6,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 111,
 	"item_name": "Pflanze Im Glastopf",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=76c55711-f2c1-4348-8ab1-8f69f7ce6c49",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202551853",
 	"item_code": "PP-000004469",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000004469",
+	"current_stock_001_kaufpark_eiche": 18,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kunstblumen",
+	"BARCODE": "8719202551853",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "6.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "6.99"
+	"ORDERS_30D": 15
 }

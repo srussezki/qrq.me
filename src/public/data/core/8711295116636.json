@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 69,
+	"item_group": "Wolle",
+	"current_stock_003_halle_altstadt": 65,
 	"image": "/files/8711295116636.jpg",
 	"creation": "2018-07-22T21:42:45.982450",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 22,
 	"marketing_text": "Noch mehr Auswahl online",
+	"ORDERS_ALLTIME": 362,
 	"item_name": "Bindfaden versch. Farben",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6765c05b-35ca-4b41-9fa3-66cc0e65473d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295116636",
 	"item_code": "PP-000011290",
-	"current_stock_001_kaufpark_eiche": 54,
 	"name": "PP-000011290",
+	"current_stock_001_kaufpark_eiche": 54,
+	"ORDERS_TODAY": 3,
 	"shelf_number": null,
-	"item_group": "Wolle",
+	"BARCODE": "8711295116636",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.49",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.49"
+	"ORDERS_30D": 80
 }

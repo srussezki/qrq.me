@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 14,
+	"item_group": "Office",
+	"current_stock_003_halle_altstadt": 13,
 	"image": null,
 	"creation": "2018-11-07T12:11:00.396628",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 22,
 	"item_name": "Idena Versandtasche C5 braun 90g/m²,10stk",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=76071b2a-5432-4080-8e39-0c9195df64ee",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002372402259",
 	"item_code": "PP-000015720",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015720",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Office",
+	"BARCODE": "4002372402259",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 4
 }

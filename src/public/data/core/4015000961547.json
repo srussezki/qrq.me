@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Reinigungsmittel",
 	"current_stock_003_halle_altstadt": 1,
 	"image": "/files/4015000961547.png",
 	"creation": "2018-02-22T10:38:58.216715",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-20",
+	"ORDERS_7D": 0,
 	"marketing_text": "Wecke den Putzteufel in Dir!",
+	"ORDERS_ALLTIME": 22,
 	"item_name": "Sidolin Cristal 500ml",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7a3c2e16-d69f-4d29-a960-b003f9f1109d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4015000961547",
 	"item_code": "PP-000004810",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000004810",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "FMCG Reinigungsmittel",
+	"BARCODE": "4015000961547",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.35",
 	"current_gross_selling_price": 1.79,
-	"base_price": "0.35"
+	"ORDERS_30D": 0
 }

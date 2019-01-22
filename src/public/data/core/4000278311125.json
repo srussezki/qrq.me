@@ -1,4 +1,5 @@
 {
+	"item_group": "Malerbedarf",
 	"current_stock_003_halle_altstadt": 4,
 	"image": null,
 	"creation": "2018-06-22T16:08:07.050768",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 8,
 	"item_name": "Vliestapete Streifen beige",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e3bc9bb7-a782-4b38-b05d-ce8732c06f83",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4000278311125",
 	"item_code": "PP-000010301",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000010301",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Malerbedarf",
+	"BARCODE": "4000278311125",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "6.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "6.99"
+	"ORDERS_30D": 0
 }

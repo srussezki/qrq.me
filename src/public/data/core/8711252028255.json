@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8711252028255.png",
 	"creation": "2018-02-13T18:57:45.006522",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 119,
 	"item_name": "Strohhalm 3D Tiere 28cm 2stk",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b76d3691-c6f1-46ea-b531-d04c8a14a05e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252028255",
 	"item_code": "PP-000003335",
-	"current_stock_001_kaufpark_eiche": 30,
 	"name": "PP-000003335",
+	"current_stock_001_kaufpark_eiche": 30,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": "8711252028255",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 8
 }

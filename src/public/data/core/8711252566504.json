@@ -1,4 +1,5 @@
 {
+	"item_group": "Koffer",
 	"current_stock_003_halle_altstadt": 14,
 	"image": "/files/8711252566504.jpg",
 	"creation": "2018-02-14T16:00:23.036715",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 12,
 	"first_time_ordered_on_": "2017-11-02",
+	"ORDERS_7D": 9,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 79,
 	"item_name": "Gepäckwaage",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=51a13221-e076-4af4-a5bf-b22082389ac1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252566504",
 	"item_code": "PP-000001988",
-	"current_stock_001_kaufpark_eiche": 20,
 	"name": "PP-000001988",
+	"current_stock_001_kaufpark_eiche": 20,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Koffer",
+	"BARCODE": "8711252566504",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "3.49",
 	"current_gross_selling_price": 3.49,
-	"base_price": "3.49"
+	"ORDERS_30D": 19
 }

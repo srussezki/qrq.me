@@ -1,4 +1,5 @@
 {
+	"item_group": "Herrenbekleidung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8454370853483.png",
 	"creation": "2018-02-13T18:54:27.235593",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-21",
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 301,
 	"item_name": "Joggingjacke für Herren ",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f06c16dd-9f51-46ca-83d4-eaefd7398171",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8454370853483",
 	"item_code": "PP-000000011",
-	"current_stock_001_kaufpark_eiche": 38,
 	"name": "PP-000000011",
+	"current_stock_001_kaufpark_eiche": 37,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Herrenbekleidung",
+	"BARCODE": "8454370853483",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "6.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "6.99"
+	"ORDERS_30D": 1
 }

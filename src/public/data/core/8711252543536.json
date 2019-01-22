@@ -1,4 +1,5 @@
 {
+	"item_group": "Lampen",
 	"current_stock_003_halle_altstadt": 1,
 	"image": "/files/8711252543536.jpg",
 	"creation": "2018-02-13T18:49:17.985858",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 137,
 	"item_name": "Öllampe & Duftöl 3x10ml",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=942941bc-80bb-4260-b200-98c91cfc069b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252543536",
 	"item_code": "PP-000000298",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000000298",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Lampen",
+	"BARCODE": "8711252543536",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.79",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.79"
+	"ORDERS_30D": 6
 }

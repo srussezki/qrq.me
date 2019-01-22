@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 1,
+	"item_group": "Partyartikel",
+	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8718158310682.jpg",
 	"creation": "2018-03-23T21:08:13.660062",
 	"website_image": "/files/8718158310682.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-15",
+	"ORDERS_7D": 8,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 246,
 	"item_name": "Strohhalme Bunt 24cm 100stk",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ad44c2d3-2f3d-4784-93ec-318bcdccc956",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158310682",
 	"item_code": "PP-000006006",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000006006",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": "8718158310682",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.69",
 	"current_gross_selling_price": 0.69,
-	"base_price": "0.69"
+	"ORDERS_30D": 64
 }

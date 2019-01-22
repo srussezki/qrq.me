@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 5,
 	"image": "/files/3032167501646.jpg",
 	"creation": "2018-09-10T12:23:29.377819",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 13,
 	"item_name": "Paw Patrol 3-Rad Roller",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=361bf210-56e1-4ea5-8390-c344c5929e32",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3032167501646",
 	"item_code": "PP-000013188",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000013188",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "3032167501646",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "19.99",
 	"current_gross_selling_price": 19.99,
-	"base_price": "19.99"
+	"ORDERS_30D": 4
 }

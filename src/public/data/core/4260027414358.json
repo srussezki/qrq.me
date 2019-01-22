@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 24,
+	"item_group": "Damenbekleidung",
+	"current_stock_003_halle_altstadt": 23,
 	"image": "/files/4260027414358.png",
 	"creation": "2018-08-13T17:12:42.752718",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 6,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 28,
 	"item_name": "Damenweste",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=dab84943-9f51-467a-9d13-977475455ff1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4260027414358",
 	"item_code": "PP-000012574",
-	"current_stock_001_kaufpark_eiche": 22,
 	"name": "PP-000012574",
+	"current_stock_001_kaufpark_eiche": 22,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Damenbekleidung",
+	"BARCODE": "4260027414358",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "15.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "15.99"
+	"ORDERS_30D": 11
 }

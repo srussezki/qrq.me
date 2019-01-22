@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 12,
+	"item_group": "Badtextilien",
+	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/4001626031160.jpg",
 	"creation": "2018-10-11T17:08:11.949595",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 40,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 7,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 72,
 	"item_name": "Luxus-ChenilleBadteppich 60x100 cm, grau",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a8195753-cc74-45bf-a4bf-010b8c1d2ede",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4001626031160",
 	"item_code": "PP-000014721",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000014721",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Badtextilien",
+	"BARCODE": "4001626031160",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": null,
 	"current_gross_selling_price": 8.99,
-	"base_price": null
+	"ORDERS_30D": 24
 }

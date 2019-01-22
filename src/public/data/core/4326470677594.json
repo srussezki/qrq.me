@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 12,
+	"item_group": "Mundpflege",
+	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/4326470677594.jpg",
 	"creation": "2018-02-13T18:51:37.565197",
 	"website_image": "/files/4326470677594.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": "2017-12-27",
+	"ORDERS_7D": 3,
 	"marketing_text": "Pflege für Sie & Ihn in der App",
+	"ORDERS_ALLTIME": 47,
 	"item_name": "Elina Dent Zahncreme Kariesschutz 100ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=20fb626f-8fd3-4866-bf6a-de223c0da123",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470677594",
 	"item_code": "PP-000001044",
-	"current_stock_001_kaufpark_eiche": 34,
 	"name": "PP-000001044",
+	"current_stock_001_kaufpark_eiche": 34,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "2",
-	"item_group": "Mundpflege",
+	"BARCODE": "4326470677594",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.69",
 	"current_gross_selling_price": 0.69,
-	"base_price": "0.69"
+	"ORDERS_30D": 5
 }

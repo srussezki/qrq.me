@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 22,
+	"item_group": "Spielwaren Mädchen",
+	"current_stock_003_halle_altstadt": 21,
 	"image": null,
 	"creation": "2018-09-11T18:04:59.582443",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 108,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 49,
 	"item_name": "L.O.L. Surprise mittel - Schmuck",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=957d65aa-34ea-4349-a4ad-6e0522560790",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8712916080626",
 	"item_code": "PP-000013282",
-	"current_stock_001_kaufpark_eiche": 29,
 	"name": "PP-000013282",
+	"current_stock_001_kaufpark_eiche": 29,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Spielwaren Mädchen",
+	"BARCODE": "8712916080626",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 10
 }

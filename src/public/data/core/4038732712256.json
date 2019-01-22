@@ -1,4 +1,5 @@
 {
+	"item_group": "Ballons",
 	"current_stock_003_halle_altstadt": 14,
 	"image": "/files/4038732712256.jpg",
 	"creation": "2018-06-01T11:13:43.763695",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Las die Party nie enden: Shoppe online",
+	"ORDERS_ALLTIME": 33,
 	"item_name": "Folienballon Buchstabe - T , 80cm silber",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ce00863a-6bc5-466c-a18f-3ac0b671cf0e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4038732712256",
 	"item_code": "PP-000009479",
-	"current_stock_001_kaufpark_eiche": 14,
 	"name": "PP-000009479",
+	"current_stock_001_kaufpark_eiche": 14,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Ballons",
+	"BARCODE": "4038732712256",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 7
 }

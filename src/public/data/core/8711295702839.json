@@ -1,4 +1,5 @@
 {
+	"item_group": "Sticker & Stempel",
 	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/8711295702839.jpg",
 	"creation": "2018-02-13T18:49:32.419393",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-20",
+	"ORDERS_7D": 5,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 137,
 	"item_name": "Stempelset 12-Teilig",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=efd8bfc6-9b09-44fc-81a0-adf7c101e209",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295702839",
 	"item_code": "PP-000002732",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000002732",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 2,
 	"shelf_number": "1",
-	"item_group": "Sticker & Stempel",
+	"BARCODE": "8711295702839",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.79",
 	"current_gross_selling_price": 0.89,
-	"base_price": "1.79"
+	"ORDERS_30D": 10
 }

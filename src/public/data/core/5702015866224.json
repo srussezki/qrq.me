@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Mädchen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5702015866224.jpg",
 	"creation": "2018-04-30T15:26:19.966320",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-27",
+	"ORDERS_7D": 0,
 	"marketing_text": "Das Abenteuer geht weiter in unserer App",
+	"ORDERS_ALLTIME": 8,
 	"item_name": "Lego Friends Emmas Fotostudio",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=24f40205-59c6-4a20-987b-278859191760",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5702015866224",
 	"item_code": "PP-000008296",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000008296",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Mädchen",
+	"BARCODE": "5702015866224",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "7.89",
 	"current_gross_selling_price": 9.99,
-	"base_price": "7.89"
+	"ORDERS_30D": 1
 }

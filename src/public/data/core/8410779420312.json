@@ -1,4 +1,5 @@
 {
+	"item_group": "Plüschtiere",
 	"current_stock_003_halle_altstadt": 43,
 	"image": "/files/8410779420312.jpg",
 	"creation": "2018-07-18T15:00:43.586709",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 8,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 82,
 	"item_name": "Plüschtier mit großen Augen",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=396912b7-db60-4cbd-9e7c-5b4596d90d11",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8410779420312",
 	"item_code": "PP-000010933",
-	"current_stock_001_kaufpark_eiche": 22,
 	"name": "PP-000010933",
+	"current_stock_001_kaufpark_eiche": 21,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Plüschtiere",
+	"BARCODE": "8410779420312",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "4.49",
 	"current_gross_selling_price": 2.99,
-	"base_price": "4.49"
+	"ORDERS_30D": 8
 }

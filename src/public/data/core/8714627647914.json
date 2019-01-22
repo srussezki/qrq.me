@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8714627647914.jpg",
 	"creation": "2018-02-13T18:48:21.772626",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 0,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 9,
 	"item_name": "Tennistrainer",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a5cb29c1-d8bd-4d03-84b1-14e1bfd95298",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627647914",
 	"item_code": "PP-000001518",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000001518",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8714627647914",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 0
 }

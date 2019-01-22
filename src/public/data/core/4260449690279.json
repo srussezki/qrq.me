@@ -1,4 +1,5 @@
 {
+	"item_group": "Getränke",
 	"current_stock_003_halle_altstadt": 14,
 	"image": "/files/4260449690279.jpg",
 	"creation": "2018-07-26T12:44:14.923766",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 60,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 8,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 206,
 	"item_name": "Ahoj-Brause Himb. 0,33L Ds Dpg",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6c179c14-4e57-472b-b76c-687a36367736",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4260449690279",
 	"item_code": "PP-000011600",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000011600",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "4260449690279",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": null,
 	"current_gross_selling_price": 0.79,
-	"base_price": null
+	"ORDERS_30D": 25
 }

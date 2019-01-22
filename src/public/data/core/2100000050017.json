@@ -1,4 +1,5 @@
 {
+	"item_group": "Smartphone- & Tabletzubehör",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-06-05T16:22:00.376083",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-06-05",
+	"ORDERS_7D": null,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Mini USB Ventilator",
 	"level_0_item_group": "Elektro",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=27a14654-14e9-4733-84a4-e38948407d5f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "2100000050017",
 	"item_code": "PP-000009624",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000009624",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Smartphone- & Tabletzubehör",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": null
 }

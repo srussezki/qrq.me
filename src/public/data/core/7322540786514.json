@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 20,
+	"item_group": "Hygieneartikel",
+	"current_stock_003_halle_altstadt": 18,
 	"image": "/files/7322540786514.jpg",
 	"creation": "2018-10-04T10:37:41.477012",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 12,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 43,
 	"item_name": "Tempo Taschentücher 15X10 4lagig",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=19e6b445-e302-499e-99e2-3952cae89e92",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "7322540786514",
 	"item_code": "PP-000014410",
-	"current_stock_001_kaufpark_eiche": 28,
 	"name": "PP-000014410",
+	"current_stock_001_kaufpark_eiche": 28,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Hygieneartikel",
+	"BARCODE": "7322540786514",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 24
 }

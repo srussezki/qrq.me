@@ -1,4 +1,5 @@
 {
+	"item_group": "Glas",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711295727320.jpg",
 	"creation": "2018-03-23T21:08:09.654315",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-15",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 60,
 	"item_name": "Kanne Mit Kühlelement 2 Liter",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5ffc391b-59bc-45eb-9732-353002d88af2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295727320",
 	"item_code": "PP-000005917",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000005917",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Glas",
+	"BARCODE": "8711295727320",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.49",
 	"current_gross_selling_price": 3.49,
-	"base_price": "3.49"
+	"ORDERS_30D": 0
 }

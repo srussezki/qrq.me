@@ -1,4 +1,5 @@
 {
+	"item_group": "Süßigkeiten & Kaugummi",
 	"current_stock_003_halle_altstadt": 21,
 	"image": "/files/4009077024106.jpg",
 	"creation": "2018-11-08T15:07:37.824603",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 240,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Alles für die Naschkatzen bei factorymarket",
+	"ORDERS_ALLTIME": 19,
 	"item_name": "Em Eukal Klassisch zuckerfrei 75g",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fe5972fe-68b9-4e8b-9645-2b17c24058de",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4009077024106",
 	"item_code": "PP-000015421",
-	"current_stock_001_kaufpark_eiche": 40,
 	"name": "PP-000015421",
+	"current_stock_001_kaufpark_eiche": 40,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "4009077024106",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 5
 }

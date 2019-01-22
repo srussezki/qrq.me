@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 22,
+	"item_group": "Schmuck",
+	"current_stock_003_halle_altstadt": 21,
 	"image": "/files/4029811366682.png",
 	"creation": "2018-07-03T10:01:19.919745",
 	"website_image": "/files/4029811366682.png",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 144,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": "Pflege für Sie & Ihn in der App",
+	"ORDERS_ALLTIME": 169,
 	"item_name": "Spiral-Haargummi 5stk",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3379df60-a53f-43e2-a2fe-eaf03d736605",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4029811366682",
 	"item_code": "PP-000010423",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000010423",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schmuck",
+	"BARCODE": "4029811366682",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 16
 }

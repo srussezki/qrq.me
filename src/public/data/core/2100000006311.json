@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 28,
+	"item_group": "Vorratsdosen",
+	"current_stock_003_halle_altstadt": 27,
 	"image": "/files/2100000006311.jpg",
 	"creation": "2018-08-07T16:43:29.107803",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 20,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 10,
 	"marketing_text": "Die besten Küchenhelfer, auch in unserer App",
+	"ORDERS_ALLTIME": 166,
 	"item_name": "Snack-Box mini",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d9e14399-1d12-4dee-84fe-f32d65e5c808",
@@ -24,8 +27,13 @@
 	"item_code": "PP-000012156",
 	"current_stock_001_kaufpark_eiche": 20,
 	"name": "PP-000012156",
+	"_timestamp": "20190122 150230.209",
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Vorratsdosen",
+	"BARCODE": "2100000006311",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.69",
 	"current_gross_selling_price": 0.69,
-	"base_price": "0.69"
+	"ORDERS_30D": 46,
+	"top10": "Vorratsdosen"
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 31,
 	"image": "/files/4326470450418.jpg",
 	"creation": "2018-02-13T18:50:52.018089",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": "2017-12-19",
+	"ORDERS_7D": 9,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 211,
 	"item_name": "Elina Handreinigungsgel Aloe Vera 100ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=04aedced-c2e4-4805-98dc-f1358f06415b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470450418",
 	"item_code": "PP-000001264",
-	"current_stock_001_kaufpark_eiche": 28,
 	"name": "PP-000001264",
+	"current_stock_001_kaufpark_eiche": 27,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "2",
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "4326470450418",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 19
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Jungs",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/887961625615.jpg",
 	"creation": "2018-11-02T12:47:02.466568",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Hot Wheels City Feuerwache Rot 17cm ",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=29806fd6-fcb0-4d8f-8352-20d101ef4463",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000015179",
 	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000015179",
+	"_timestamp": "20190122 150229.483",
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Spielwaren Jungs",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "18.99",
 	"current_gross_selling_price": 14.99,
-	"base_price": "18.99"
+	"ORDERS_30D": null
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Fahrrad",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/8711252322186.jpg",
 	"creation": "2018-02-14T16:04:36.789960",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 18,
 	"first_time_ordered_on_": "2018-02-02",
+	"ORDERS_7D": 0,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 101,
 	"item_name": "Fahrradschloss",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7775af56-4981-4013-bcb0-602daeebd85e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252322186",
 	"item_code": "PP-000001925",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000001925",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Fahrrad",
+	"BARCODE": "8711252322186",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "7.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "7.99"
+	"ORDERS_30D": 5
 }

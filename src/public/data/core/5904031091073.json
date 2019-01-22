@@ -1,4 +1,5 @@
 {
+	"item_group": "Schokolade",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5904031091073.png",
 	"creation": "2018-02-13T18:55:47.069321",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-17",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 502,
 	"item_name": "Chocolate Delicious Truffle Christm. 150gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=28f559d9-0f33-4c82-8e0f-1ac3cf4eb880",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5904031091073",
 	"item_code": "PP-000000539",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000000539",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Schokolade",
+	"BARCODE": "5904031091073",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.32",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.32"
+	"ORDERS_30D": 0
 }

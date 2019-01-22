@@ -1,4 +1,5 @@
 {
+	"item_group": "Babypflege",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/40306510427428c6dfb.jpg",
 	"creation": "2018-03-28T16:44:50.735374",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-27",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 18,
 	"item_name": "Tinti Malseife Grün 70ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6bb2045e-dd6c-4d9a-a28b-78540a5946bd",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4030651042742",
 	"item_code": "PP-000006666",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000006666",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Babypflege",
+	"BARCODE": "4030651042742",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 0
 }

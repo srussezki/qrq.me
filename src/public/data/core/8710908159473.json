@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 25,
 	"image": "/files/8710908159473.jpg",
 	"creation": "2018-10-04T10:37:39.551026",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 59,
 	"item_name": "Duschdas Duschgel Kaminzauber 250 ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0ae28eab-7bf0-4156-8114-c36ae3137d97",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8710908159473",
 	"item_code": "PP-000014402",
-	"current_stock_001_kaufpark_eiche": 24,
 	"name": "PP-000014402",
+	"current_stock_001_kaufpark_eiche": 24,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "8710908159473",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 8
 }

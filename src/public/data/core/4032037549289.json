@@ -1,4 +1,5 @@
 {
+	"item_group": "Ballons",
 	"current_stock_003_halle_altstadt": 20,
 	"image": "/files/4032037549289.png",
 	"creation": "2018-07-04T08:17:15.265218",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 260,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 157,
 	"item_name": "LED Luftballon versch. Farben 5stk",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0f8671c2-6b14-4912-978c-924de4a4f51e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4032037549289",
 	"item_code": "PP-000010479",
-	"current_stock_001_kaufpark_eiche": 20,
 	"name": "PP-000010479",
+	"current_stock_001_kaufpark_eiche": 20,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Ballons",
+	"BARCODE": "4032037549289",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 24
 }

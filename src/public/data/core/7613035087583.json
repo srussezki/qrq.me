@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 8,
+	"item_group": "Kekse & Backwaren",
+	"current_stock_003_halle_altstadt": 1,
 	"image": "/files/7613035087583.jpg",
 	"creation": "2018-05-22T14:22:55.424933",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 16,
 	"marketing_text": "Alles für die Naschkatzen bei factorymarket",
+	"ORDERS_ALLTIME": 75,
 	"item_name": "Maggi Asia Noodle Cup Chicken",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3f86f541-e402-4a26-9679-533c6cf8df79",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "7613035087583",
 	"item_code": "PP-000009006",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000009006",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 7,
 	"shelf_number": null,
-	"item_group": "Kekse & Backwaren",
+	"BARCODE": "7613035087583",
+	"ORDERS_YESTERDAY": 8,
+	"base_price": "0.29",
 	"current_gross_selling_price": 0.29,
-	"base_price": "0.29"
+	"ORDERS_30D": 16
 }

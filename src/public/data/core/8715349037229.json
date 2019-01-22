@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8715349037229.jpg",
 	"creation": "2018-07-24T08:06:14.704236",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Das Abenteuer geht weiter in unserer App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Ballfangspiel",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1f77894e-dc67-4e5b-9eea-79cd076fdbe9",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8715349037229",
 	"item_code": "PP-000011383",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000011383",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": null,
 	"current_gross_selling_price": 3.99,
-	"base_price": null
+	"ORDERS_30D": null
 }

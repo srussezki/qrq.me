@@ -1,4 +1,5 @@
 {
+	"item_group": "Stifte",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4008118608008.jpg",
 	"creation": "2018-04-12T14:45:01.423572",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-12",
+	"ORDERS_7D": 1,
 	"marketing_text": "Alles für die Schule und das Büro bei uns",
+	"ORDERS_ALLTIME": 9,
 	"item_name": "Kugelschreibermine schwarz A3 5stk",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=539774e9-9f5a-4d8e-b6de-1fa49a195a70",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008118608008",
 	"item_code": "PP-000007195",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000007195",
+	"current_stock_001_kaufpark_eiche": -1,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Stifte",
+	"BARCODE": "4008118608008",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.23",
 	"current_gross_selling_price": 1.19,
-	"base_price": "0.23"
+	"ORDERS_30D": 1
 }

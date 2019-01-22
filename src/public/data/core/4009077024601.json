@@ -1,4 +1,5 @@
 {
+	"item_group": "Süßigkeiten & Kaugummi",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4009077024601.jpg",
 	"creation": "2018-11-08T15:07:37.758065",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": "Alles für die Naschkatzen bei factorymarket",
+	"ORDERS_ALLTIME": 31,
 	"item_name": "Em Eukal Salbei zuckerfrei 75g",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4a8b6022-4da3-4555-9cdd-ca5b3f962535",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4009077024601",
 	"item_code": "PP-000015419",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015419",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 4,
 	"shelf_number": null,
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "4009077024601",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 14
 }

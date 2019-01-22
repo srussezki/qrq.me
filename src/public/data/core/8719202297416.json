@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T18:57:38.881295",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-22",
+	"ORDERS_7D": 0,
 	"marketing_text": "Pimp your Home, auf factorymarket.de",
+	"ORDERS_ALLTIME": 25,
 	"item_name": "Party Deko hängend 24cm 3stk",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=679b996d-5628-452d-92f3-8428df972e7d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202297416",
 	"item_code": "PP-000003263",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000003263",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Partyartikel",
+	"BARCODE": "8719202297416",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 3
 }

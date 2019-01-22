@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekoration",
 	"current_stock_003_halle_altstadt": 9,
 	"image": null,
 	"creation": "2018-06-20T18:47:34.421104",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Verschönere dein Zuhause, jetzt auch online",
+	"ORDERS_ALLTIME": 98,
 	"item_name": "Getränkespender mit Zapfhahn",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=cc7c4902-a249-4466-b898-db0faec17856",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252907918",
 	"item_code": "PP-000010112",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000010112",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Dekoration",
+	"BARCODE": "8711252907918",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 11
 }

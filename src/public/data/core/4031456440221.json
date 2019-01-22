@@ -1,4 +1,5 @@
 {
+	"item_group": "Saisonale Dekoration",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-05-07T16:40:03.599826",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-16",
+	"ORDERS_7D": 0,
 	"marketing_text": "Noch mehr Auswahl online",
+	"ORDERS_ALLTIME": 67,
 	"item_name": "Deutschland Auto Außenspiegelüberzug",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=40e1d4f3-e412-4f8c-8406-a58387ffb35f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4031456440221",
 	"item_code": "PP-000008503",
-	"current_stock_001_kaufpark_eiche": 37,
 	"name": "PP-000008503",
+	"current_stock_001_kaufpark_eiche": 37,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Saisonale Dekoration",
+	"BARCODE": "4031456440221",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.39",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.39"
+	"ORDERS_30D": 0
 }

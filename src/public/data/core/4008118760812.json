@@ -1,4 +1,5 @@
 {
+	"item_group": "Office",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4008118760812.jpg",
 	"creation": "2018-04-12T14:45:02.457719",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-12",
+	"ORDERS_7D": 0,
 	"marketing_text": "Billiger gibts nur in der App!",
+	"ORDERS_ALLTIME": 11,
 	"item_name": "Büroklammer Metall Box 26mm 100stk",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=eff9a1e8-8b7f-4ecb-bfbb-eef72dd8f3b5",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008118760812",
 	"item_code": "PP-000007224",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000007224",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Office",
+	"BARCODE": "4008118760812",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.01",
 	"current_gross_selling_price": 1.59,
-	"base_price": "0.01"
+	"ORDERS_30D": 1
 }

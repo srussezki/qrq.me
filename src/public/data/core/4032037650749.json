@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekoration",
 	"current_stock_003_halle_altstadt": -1,
 	"image": "/files/4032037650749.jpg",
 	"creation": "2018-11-09T14:23:20.511324",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 16,
 	"item_name": "Beistelltisch schwarz aus Holz klein",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f9b2126d-9b43-4e5a-9329-314edf3e8641",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4032037650749",
 	"item_code": "PP-000015823",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015823",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekoration",
+	"BARCODE": "4032037650749",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 8
 }

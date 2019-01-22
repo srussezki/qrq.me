@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/5000174500004.jpg",
 	"creation": "2018-02-13T18:53:55.086331",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 18,
 	"first_time_ordered_on_": "2017-11-22",
+	"ORDERS_7D": 2,
 	"marketing_text": "Pflege für Sie & Ihn in der App",
+	"ORDERS_ALLTIME": 61,
 	"item_name": "Pantene Shampoo Smooth&Sleek 400ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c897644d-c2a9-4335-9dc8-456b2d3c7bc4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5000174500004",
 	"item_code": "PP-000000611",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000000611",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "5000174500004",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 5
 }

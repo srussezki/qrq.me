@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 123,
+	"item_group": "FMCG Reinigungsmittel",
+	"current_stock_003_halle_altstadt": 122,
 	"image": "/files/4002448046424.jpg",
 	"creation": "2018-05-14T14:10:14.050123",
 	"website_image": "/files/4002448046424.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 13,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 260,
 	"item_name": "Finish Spezial-Salz 1,2kg",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=231127ac-3825-4042-ab99-f0282c3cbf6e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002448046424",
 	"item_code": "PP-000008753",
-	"current_stock_001_kaufpark_eiche": 21,
 	"name": "PP-000008753",
+	"current_stock_001_kaufpark_eiche": 21,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "FMCG Reinigungsmittel",
+	"BARCODE": "4002448046424",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.7475",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.7475"
+	"ORDERS_30D": 52
 }

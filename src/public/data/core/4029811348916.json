@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 33,
 	"image": "/files/4029811348916.png",
 	"creation": "2018-09-13T12:00:49.453183",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 96,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 185,
 	"item_name": "Zauberhandtuch Dinos 30x30cm 6var.",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ab241c2e-1975-4192-9a9d-9e9f5268e684",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4029811348916",
 	"item_code": "PP-000013301",
-	"current_stock_001_kaufpark_eiche": 34,
 	"name": "PP-000013301",
+	"current_stock_001_kaufpark_eiche": 34,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "4029811348916",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 30
 }

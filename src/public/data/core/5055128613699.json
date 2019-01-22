@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflanzen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-16T10:46:13.621326",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-06",
+	"ORDERS_7D": 0,
 	"marketing_text": "Pimp your Garden, auf factorymarket.de",
+	"ORDERS_ALLTIME": 54,
 	"item_name": "Speedy Seed - Duftender Garten Shaker",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=eedd3a12-2f71-4554-b100-c6c2d6bab2a6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5055128613699",
 	"item_code": "PP-000004746",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004746",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflanzen",
+	"BARCODE": "5055128613699",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 0
 }

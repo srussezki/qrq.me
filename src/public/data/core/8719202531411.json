@@ -1,4 +1,5 @@
 {
+	"item_group": "Schreibwaren Schule",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8719202531411.jpg",
 	"creation": "2018-02-14T09:14:11.023913",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 20,
 	"item_name": "Schere 16cm",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7fe77386-6c72-476a-ae2c-e9598acf895c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202531411",
 	"item_code": "PP-000004308",
-	"current_stock_001_kaufpark_eiche": 59,
 	"name": "PP-000004308",
+	"current_stock_001_kaufpark_eiche": 59,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schreibwaren Schule",
+	"BARCODE": "8719202531411",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 8
 }

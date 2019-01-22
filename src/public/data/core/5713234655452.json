@@ -1,4 +1,5 @@
 {
+	"item_group": "Damenbekleidung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-09-21T19:31:34.039431",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 7,
 	"item_name": "Damen Oversized Pullover bordo M",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=582c97c7-7a04-4a7d-8dce-6da0c6476034",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5713234655452",
 	"item_code": "PP-000013901",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000013901",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Damenbekleidung",
+	"BARCODE": "5713234655452",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "14.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "14.99"
+	"ORDERS_30D": 3
 }

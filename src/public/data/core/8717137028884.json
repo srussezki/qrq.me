@@ -1,4 +1,5 @@
 {
+	"item_group": "Unterwäsche & Bademode",
 	"current_stock_003_halle_altstadt": 2,
 	"image": null,
 	"creation": "2018-05-07T16:37:12.496508",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-05-07",
+	"ORDERS_7D": 4,
 	"marketing_text": "Noch mehr Auswahl online",
+	"ORDERS_ALLTIME": 8,
 	"item_name": "Boxer Navy S",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8427c1b9-ba64-4023-9d95-fa9d7871d5e3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8717137028884",
 	"item_code": "PP-000008489",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000008489",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Unterwäsche & Bademode",
+	"BARCODE": "8717137028884",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 7
 }

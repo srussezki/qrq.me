@@ -1,12 +1,15 @@
 {
+	"item_group": "Mundpflege",
 	"current_stock_003_halle_altstadt": 23,
 	"image": "/files/8711295086472.jpg",
 	"creation": "2018-02-13T18:53:50.828642",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 96,
+	"current_stock_wh_ludwigsfelde": 84,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 343,
 	"item_name": "Zahnbürste",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2c74f65d-e43f-4c8a-91c4-5e76d4430321",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295086472",
 	"item_code": "PP-000000628",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000000628",
+	"current_stock_001_kaufpark_eiche": 18,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Mundpflege",
+	"BARCODE": "8711295086472",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.29",
 	"current_gross_selling_price": 0.19,
-	"base_price": "0.29"
+	"ORDERS_30D": 17
 }

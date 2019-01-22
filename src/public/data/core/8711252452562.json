@@ -1,4 +1,5 @@
 {
+	"item_group": "Stifte",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711252452562.png",
 	"creation": "2018-02-13T18:51:43.773559",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 3,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 195,
 	"item_name": "Marker Whiteboard 3stk",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5bcc9609-0f21-4b31-b32e-813d94c4d452",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252452562",
 	"item_code": "PP-000000220",
-	"current_stock_001_kaufpark_eiche": 16,
 	"name": "PP-000000220",
+	"current_stock_001_kaufpark_eiche": 16,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1,2,3,4",
-	"item_group": "Stifte",
+	"BARCODE": "8711252452562",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 9
 }

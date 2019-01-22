@@ -1,4 +1,5 @@
 {
+	"item_group": "Autoschmierstoffe",
 	"current_stock_003_halle_altstadt": 13,
 	"image": "/files/8711252013053.jpg",
 	"creation": "2018-02-13T18:57:45.449957",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 2,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 69,
 	"item_name": "Motoröl 1l 5-30W",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f19cb6a2-7a18-4d29-84d2-afd222b4efbb",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252013053",
 	"item_code": "PP-000003320",
-	"current_stock_001_kaufpark_eiche": 14,
 	"name": "PP-000003320",
+	"current_stock_001_kaufpark_eiche": 14,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Autoschmierstoffe",
+	"BARCODE": "8711252013053",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "6.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "6.99"
+	"ORDERS_30D": 7
 }

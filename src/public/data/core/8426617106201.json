@@ -1,12 +1,15 @@
 {
+	"item_group": "Süßigkeiten & Kaugummi",
 	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/8426617106201.jpg",
 	"creation": "2018-04-30T15:26:11.905323",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 18,
+	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-27",
+	"ORDERS_7D": 5,
 	"marketing_text": "Alles für die Naschkatzen bei factorymarket",
+	"ORDERS_ALLTIME": 127,
 	"item_name": "Haribo Pico Balla Fruchtgummi 175g",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1f5936b2-3da0-4287-8a88-2777884c41cc",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8426617106201",
 	"item_code": "PP-000008254",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000008254",
+	"current_stock_001_kaufpark_eiche": 22,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "8426617106201",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.44",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.44"
+	"ORDERS_30D": 14
 }

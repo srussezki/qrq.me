@@ -1,4 +1,5 @@
 {
+	"item_group": "Parfüm",
 	"current_stock_003_halle_altstadt": 60,
 	"image": "/files/8711292893257.jpg",
 	"creation": "2018-02-13T19:02:34.799909",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 60,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 86,
 	"item_name": "Eau De Parfum Woman",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=33f32197-6aa3-4f17-851b-829ed9be3bef",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711292893257",
 	"item_code": "PP-000002668",
-	"current_stock_001_kaufpark_eiche": 31,
 	"name": "PP-000002668",
+	"current_stock_001_kaufpark_eiche": 31,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "4",
-	"item_group": "Parfüm",
+	"BARCODE": "8711292893257",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 5
 }

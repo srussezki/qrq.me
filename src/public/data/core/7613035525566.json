@@ -1,4 +1,5 @@
 {
+	"item_group": "Salzige Snacks",
 	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/7613035525566.jpg",
 	"creation": "2018-03-14T16:33:32.646712",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-13",
+	"ORDERS_7D": 0,
 	"marketing_text": "Alles für die Naschkatzen bei factorymarket",
+	"ORDERS_ALLTIME": 28,
 	"item_name": "Maggi 5 Min. Terrine Créme Fr. 60gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=932b7523-2f6b-4fa9-9471-6cf4d2c6f978",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "7613035525566",
 	"item_code": "PP-000005322",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000005322",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Salzige Snacks",
+	"BARCODE": "7613035525566",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.15",
 	"current_gross_selling_price": 1.29,
-	"base_price": "2.15"
+	"ORDERS_30D": 5
 }

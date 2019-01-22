@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 18,
+	"item_group": "Autopflege",
+	"current_stock_003_halle_altstadt": 17,
 	"image": "/files/4010126187710.jpg",
 	"creation": "2018-06-25T15:13:57.320638",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 40,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Verschönere dein Zuhause, jetzt auch online",
+	"ORDERS_ALLTIME": 16,
 	"item_name": "Fensterleder 30x30 cm",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d1f1391f-3549-4fc6-bd24-35a08141202b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4010126187710",
 	"item_code": "PP-000009780",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000009780",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Autopflege",
+	"BARCODE": "4010126187710",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 3
 }

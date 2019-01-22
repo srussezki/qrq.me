@@ -1,4 +1,5 @@
 {
+	"item_group": "Feuerwerk",
 	"current_stock_003_halle_altstadt": 29,
 	"image": "/files/4001266510100.jpg",
 	"creation": "2018-02-13T18:49:06.478292",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-03",
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 122,
 	"item_name": "K-Prosit Neujahr 2Er Beutel",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1019a299-de13-44eb-98a9-5e13bb2fab4a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4001266510100",
 	"item_code": "PP-000002755",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000002755",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Feuerwerk",
+	"BARCODE": "4001266510100",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.49",
 	"current_gross_selling_price": 3.49,
-	"base_price": "3.49"
+	"ORDERS_30D": 101
 }

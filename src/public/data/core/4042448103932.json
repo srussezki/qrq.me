@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 13,
+	"item_group": "Office",
+	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/4042448103932.jpg",
 	"creation": "2018-11-07T12:10:17.647163",
 	"website_image": "/files/4042448103932.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 23,
 	"item_name": "Tesa Power Strips 10er 2kg Haltekraft Pro Strip",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a1cda254-705b-49af-a865-cdf96fc57510",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4042448103932",
 	"item_code": "PP-000015466",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015466",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Office",
+	"BARCODE": "4042448103932",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 6
 }

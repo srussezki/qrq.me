@@ -1,4 +1,5 @@
 {
+	"item_group": "Reinigung hart",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711252955216.jpg",
 	"creation": "2018-03-14T16:33:03.709330",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-12",
+	"ORDERS_7D": 1,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 23,
 	"item_name": "Treteimer Chrom 12l",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4feaccd2-f272-442a-8678-2c5ec9d76dfc",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252955216",
 	"item_code": "PP-000005259",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000005259",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Reinigung hart",
+	"BARCODE": "8711252955216",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "12.99",
 	"current_gross_selling_price": 12.99,
-	"base_price": "12.99"
+	"ORDERS_30D": 4
 }

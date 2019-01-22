@@ -1,4 +1,5 @@
 {
+	"item_group": "Damenbekleidung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/2100000008261.png",
 	"creation": "2018-08-13T17:12:44.068750",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 8,
 	"item_name": "Damen Kunstleder Schaffell-Jacke schwarz",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7fc62584-5798-4a85-991d-5d0162e7b56f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "2100000008261",
 	"item_code": "PP-000012580",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000012580",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Damenbekleidung",
+	"BARCODE": "2100000008261",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "18.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "18.99"
+	"ORDERS_30D": 7
 }

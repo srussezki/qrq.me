@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 72,
+	"item_group": "Pflegende Kosmetik",
+	"current_stock_003_halle_altstadt": 71,
 	"image": null,
 	"creation": "2018-11-05T17:16:27.753760",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 47,
 	"item_name": "Adidas Deo Roller - Intensive Men 50ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=87068fd9-2973-4935-b9ab-3a6188b440ff",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3607347411536",
 	"item_code": "PP-000015325",
-	"current_stock_001_kaufpark_eiche": 45,
 	"name": "PP-000015325",
+	"current_stock_001_kaufpark_eiche": 45,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "3607347411536",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.58",
 	"current_gross_selling_price": 1.29,
-	"base_price": "2.58"
+	"ORDERS_30D": 9
 }

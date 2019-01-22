@@ -1,4 +1,5 @@
 {
+	"item_group": "Autozubehör",
 	"current_stock_003_halle_altstadt": 9,
 	"image": "/files/8711292180357.jpg",
 	"creation": "2018-02-13T18:50:07.200693",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 12,
 	"first_time_ordered_on_": "2017-11-28",
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 25,
 	"item_name": "Einparkhilfe",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0b32122b-c419-4180-93c8-d4eac5992dc4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711292180357",
 	"item_code": "PP-000001752",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000001752",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "5",
-	"item_group": "Autozubehör",
+	"BARCODE": "8711292180357",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 5
 }

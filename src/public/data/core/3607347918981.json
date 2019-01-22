@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 59,
 	"image": null,
 	"creation": "2018-11-05T17:16:27.479521",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 51,
 	"item_name": "Adidas Deo Roller - Cool&Care Women 50ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9657e388-50ff-47bd-8b1b-dabeeeea05f3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3607347918981",
 	"item_code": "PP-000015324",
-	"current_stock_001_kaufpark_eiche": 55,
 	"name": "PP-000015324",
+	"current_stock_001_kaufpark_eiche": 54,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "3607347918981",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.58",
 	"current_gross_selling_price": 1.29,
-	"base_price": "2.58"
+	"ORDERS_30D": 7
 }

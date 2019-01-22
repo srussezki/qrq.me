@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Jungs",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/887961042245.jpg",
 	"creation": "2018-05-22T14:22:52.618796",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Das Abenteuer geht weiter in unserer App",
+	"ORDERS_ALLTIME": 10,
 	"item_name": "Hot Wheels Auto Transporter",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=76435437-556c-49d8-b990-bacde5a3ee1b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "887961042245",
 	"item_code": "PP-000008991",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000008991",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Jungs",
+	"BARCODE": "887961042245",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "19.99",
 	"current_gross_selling_price": 19.99,
-	"base_price": "19.99"
+	"ORDERS_30D": 0
 }

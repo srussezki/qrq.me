@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Jungs",
 	"current_stock_003_halle_altstadt": 8,
 	"image": "/files/6938242955038.jpg",
 	"creation": "2018-11-01T16:02:44.137704",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 14,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 14,
 	"item_name": "Sluban Car Club Rennwagen",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f44f7748-53bd-46fa-8f1a-daad1beac4e8",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "6938242955038",
 	"item_code": "PP-000015018",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000015018",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Jungs",
+	"BARCODE": "6938242955038",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 3
 }

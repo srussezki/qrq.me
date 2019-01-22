@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 23,
+	"item_group": "Bad hart",
+	"current_stock_003_halle_altstadt": 22,
 	"image": "/files/8711252316826.jpg",
 	"creation": "2018-03-14T16:33:20.349296",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 7,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 119,
 	"item_name": "Seifenhalter 14X9.2X3Cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c9a75775-47fd-4cf5-b0c4-bc802d5f8d0b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252316826",
 	"item_code": "PP-000005616",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000005616",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Bad hart",
+	"BARCODE": "8711252316826",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 26
 }

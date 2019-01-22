@@ -1,4 +1,5 @@
 {
+	"item_group": "Nähzubehör",
 	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/4036014157252.png",
 	"creation": "2018-02-13T18:49:45.922717",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 38,
 	"item_name": "Nadelkissen Blume",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4d69435d-d2ba-43ac-99cc-14eb04eb3fe5",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4036014157252",
 	"item_code": "PP-000002249",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000002249",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "6",
-	"item_group": "Nähzubehör",
+	"BARCODE": "4036014157252",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 3
 }

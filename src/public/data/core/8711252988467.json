@@ -1,4 +1,5 @@
 {
+	"item_group": "Saisonale Spielwaren",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711252988467.jpg",
 	"creation": "2018-02-14T16:04:37.982373",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-02",
+	"ORDERS_7D": 0,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 73,
 	"item_name": "Kescher",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3a1ea532-fa53-46e2-95a2-af9fbbcebfc2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252988467",
 	"item_code": "PP-000002068",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000002068",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Saisonale Spielwaren",
+	"BARCODE": "8711252988467",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 0
 }

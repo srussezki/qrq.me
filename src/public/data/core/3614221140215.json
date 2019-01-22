@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/3614221140215.png",
 	"creation": "2018-08-08T13:00:53.041508",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-08-06",
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 16,
 	"item_name": "Playboy Duschgel Play it Wild Crml 250ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c4b07a10-8ae1-4d57-9b6b-228a842d2924",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3614221140215",
 	"item_code": "PP-000012357",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000012357",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "3614221140215",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.39",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.39"
+	"ORDERS_30D": 2
 }

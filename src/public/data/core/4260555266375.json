@@ -1,4 +1,5 @@
 {
+	"item_group": "Unterwäsche & Bademode",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4260555266375.jpg",
 	"creation": "2018-04-23T15:23:44.803469",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-26",
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 40,
 	"item_name": "Badehosen mit Muster",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1c760e66-c71a-4d5a-9bd4-d3eba4de42c6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4260555266375",
 	"item_code": "PP-000007651",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000007651",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Unterwäsche & Bademode",
+	"BARCODE": "4260555266375",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 0
 }

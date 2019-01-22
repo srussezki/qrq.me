@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 15,
+	"item_group": "Katzen",
+	"current_stock_003_halle_altstadt": 13,
 	"image": "/files/8711252159096.jpg",
 	"creation": "2018-02-13T18:52:01.013770",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 5,
 	"marketing_text": "Alles für den Wuffi & die Mieze",
+	"ORDERS_ALLTIME": 221,
 	"item_name": "Tierbürste",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7c7ffe82-7587-4974-8ad7-f90f97245fe7",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252159096",
 	"item_code": "PP-000000120",
-	"current_stock_001_kaufpark_eiche": 26,
 	"name": "PP-000000120",
+	"current_stock_001_kaufpark_eiche": 26,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "4",
-	"item_group": "Katzen",
+	"BARCODE": "8711252159096",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 14
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 13,
+	"item_group": "FMCG Wäschepflege",
+	"current_stock_003_halle_altstadt": 12,
 	"image": null,
 	"creation": "2018-11-07T16:58:10.427113",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 93,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 11,
 	"item_name": "Ariel Liquid Pods 3in1 35stk Pink",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3bd47908-170d-4091-8802-8f90551600fd",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8001090408679",
 	"item_code": "PP-000015750",
-	"current_stock_001_kaufpark_eiche": 18,
 	"name": "PP-000015750",
+	"current_stock_001_kaufpark_eiche": 18,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "FMCG Wäschepflege",
+	"BARCODE": "8001090408679",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "9.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 9
 }

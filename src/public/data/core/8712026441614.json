@@ -1,4 +1,5 @@
 {
+	"item_group": "Einwegartikel",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8712026441614.jpg",
 	"creation": "2018-04-27T13:15:16.148653",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-26",
+	"ORDERS_7D": 0,
 	"marketing_text": "App, App Hura! Noch mehr Auswahl!",
+	"ORDERS_ALLTIME": 1,
 	"item_name": "VIP Becher 6Stk",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=bc74b2e1-f072-4928-ae8c-a254281a22da",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8712026441614",
 	"item_code": "PP-000008026",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000008026",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Einwegartikel",
+	"BARCODE": "8712026441614",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.16",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.16"
+	"ORDERS_30D": 0
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 72,
+	"item_group": "Getränke",
+	"current_stock_003_halle_altstadt": 71,
 	"image": "/files/90162480.gif",
 	"creation": "2018-04-19T18:07:42.605603",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-13",
+	"ORDERS_7D": 18,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 320,
 	"item_name": "Red Bull Sugarfree 250ml",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f5fab647-94dd-4a69-a02c-379f290d96e3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "90162480",
 	"item_code": "PP-000007369",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000007369",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "90162480",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 22
 }

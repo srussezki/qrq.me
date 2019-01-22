@@ -1,4 +1,5 @@
 {
+	"item_group": "Taschen & Rucksäcke",
 	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/4047445229906.png",
 	"creation": "2018-08-10T11:13:19.477848",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "App, App Hura! Noch mehr Auswahl!",
+	"ORDERS_ALLTIME": 163,
 	"item_name": "Einkaufstasche M",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=58a6f7ee-4630-4627-be4a-88d1b208e827",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4047445229906",
 	"item_code": "PP-000012472",
-	"current_stock_001_kaufpark_eiche": 25,
 	"name": "PP-000012472",
+	"current_stock_001_kaufpark_eiche": 25,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Taschen & Rucksäcke",
+	"BARCODE": "4047445229906",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 7
 }

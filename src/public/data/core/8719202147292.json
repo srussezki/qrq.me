@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/8719202147292.jpg",
 	"creation": "2018-02-13T18:52:55.581271",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-01",
+	"ORDERS_7D": 2,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 126,
 	"item_name": "Schaumlöffel",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=734697f7-03d9-4aeb-b0c6-43183d79e782",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202147292",
 	"item_code": "PP-000000858",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000000858",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Küchenhelfer",
+	"BARCODE": "8719202147292",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.29",
 	"current_gross_selling_price": 1.99,
-	"base_price": "2.29"
+	"ORDERS_30D": 9
 }

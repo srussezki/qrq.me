@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 11,
+	"item_group": "Mützen, Schals & Handschuhe",
+	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/4022222510743.jpg",
 	"creation": "2018-02-13T18:51:04.743902",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-15",
+	"ORDERS_7D": 16,
 	"marketing_text": "Wecke den Putzteufel in Dir!",
+	"ORDERS_ALLTIME": 142,
 	"item_name": "Winter Herren Strickhandschuh",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=512bb837-9f8e-4323-be87-4088c780340a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4022222510743",
 	"item_code": "PP-000001200",
-	"current_stock_001_kaufpark_eiche": 19,
 	"name": "PP-000001200",
+	"current_stock_001_kaufpark_eiche": 19,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "4",
-	"item_group": "Mützen, Schals & Handschuhe",
+	"BARCODE": "4022222510743",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "3.19",
 	"current_gross_selling_price": 1.99,
-	"base_price": "3.19"
+	"ORDERS_30D": 26
 }

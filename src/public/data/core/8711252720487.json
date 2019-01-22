@@ -1,4 +1,5 @@
 {
+	"item_group": "Werkzeug",
 	"current_stock_003_halle_altstadt": 22,
 	"image": "/files/8711252720487.png",
 	"creation": "2018-02-13T18:50:15.356326",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-28",
+	"ORDERS_7D": 5,
 	"marketing_text": "Pimp your Home",
+	"ORDERS_ALLTIME": 54,
 	"item_name": "Dübel 10x50mm",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1c72b1b8-eb01-47ba-aef7-da23da338a1d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252720487",
 	"item_code": "PP-000001703",
-	"current_stock_001_kaufpark_eiche": 57,
 	"name": "PP-000001703",
+	"current_stock_001_kaufpark_eiche": 57,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Werkzeug",
+	"BARCODE": "8711252720487",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.65",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.65"
+	"ORDERS_30D": 14
 }

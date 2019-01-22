@@ -1,4 +1,5 @@
 {
+	"item_group": "Salzige Snacks",
 	"current_stock_003_halle_altstadt": 9,
 	"image": "/files/4018077606991.jpg",
 	"creation": "2018-12-07T14:03:19.400502",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Alles für die Naschkatzen bei factorymarket",
+	"ORDERS_ALLTIME": 27,
 	"item_name": "Lorenz Snack-Hits 320g",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4018077606991",
 	"item_code": "PP-000016580",
-	"current_stock_001_kaufpark_eiche": 15,
 	"name": "PP-000016580",
+	"current_stock_001_kaufpark_eiche": 15,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Salzige Snacks",
+	"BARCODE": "4018077606991",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.29",
 	"current_gross_selling_price": 2.29,
-	"base_price": "2.29"
+	"ORDERS_30D": 25
 }

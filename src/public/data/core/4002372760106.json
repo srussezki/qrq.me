@@ -1,4 +1,5 @@
 {
+	"item_group": "Office",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4002372760106.jpg",
 	"creation": "2018-03-23T21:05:38.473352",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-23",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 3,
 	"item_name": "Prospekthülle A4 100er-Pack",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2bbec67b-a9e9-4f02-90d7-9e1f9c221a5d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002372760106",
 	"item_code": "PP-000006290",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006290",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Office",
+	"BARCODE": "4002372760106",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 0
 }

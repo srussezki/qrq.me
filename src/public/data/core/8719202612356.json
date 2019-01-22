@@ -1,4 +1,5 @@
 {
+	"item_group": "Weihnachten",
 	"current_stock_003_halle_altstadt": 1,
 	"image": "/files/8719202612356.jpg",
 	"creation": "2018-07-22T21:42:34.611510",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 263,
 	"item_name": "Haus mit LED 40cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=95cc30b0-dede-47cc-bfd6-bcdff7989fa3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202612356",
 	"item_code": "PP-000011175",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000011175",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Weihnachten",
+	"BARCODE": "8719202612356",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 26
 }

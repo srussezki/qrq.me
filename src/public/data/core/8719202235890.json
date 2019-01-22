@@ -1,4 +1,5 @@
 {
+	"item_group": "Weihnachten",
 	"current_stock_003_halle_altstadt": 8,
 	"image": "/files/8719202235890.jpg",
 	"creation": "2018-07-22T21:42:33.576610",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere aufregende Themenwelten in der App",
+	"ORDERS_ALLTIME": 676,
 	"item_name": "Weihnachtskugel 24x25cm gold",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9d649824-5080-45a3-b066-7e4e83f8ee75",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202235890",
 	"item_code": "PP-000011144",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000011144",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Weihnachten",
+	"BARCODE": "8719202235890",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.29,
-	"base_price": "0.99"
+	"ORDERS_30D": 48
 }

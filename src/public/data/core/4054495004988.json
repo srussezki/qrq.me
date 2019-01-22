@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekorative Kosmetik",
 	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/4054495004988.jpg",
 	"creation": "2018-07-10T08:50:19.508548",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 11,
 	"item_name": "Gel Effekt Nagellack nude-perlmutt",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=00c40e41-ea20-4478-91b3-ec0f4b27eb42",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4054495004988",
 	"item_code": "PP-000010523",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000010523",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Dekorative Kosmetik",
+	"BARCODE": "4054495004988",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 2
 }

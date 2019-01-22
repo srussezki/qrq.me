@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 27,
+	"item_group": "Geschenkverpackungen",
+	"current_stock_003_halle_altstadt": 25,
 	"image": "/files/4006603188059.jpg",
 	"creation": "2018-08-02T11:48:05.941914",
 	"website_image": "/files/4006603188059.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 50,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Billiger gibts nur in der App!",
+	"ORDERS_ALLTIME": 41,
 	"item_name": "Geschenktüte f. Flaschen Weinmotive",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=374d6489-c4a0-46d4-8141-f89b57bf495e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4006603188059",
 	"item_code": "PP-000011944",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000011944",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Geschenkverpackungen",
+	"BARCODE": "4006603188059",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.6422",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.6422"
+	"ORDERS_30D": 6
 }

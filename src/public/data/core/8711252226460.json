@@ -1,4 +1,5 @@
 {
+	"item_group": "Sportaccessoires",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711252226460.jpg",
 	"creation": "2018-02-14T16:04:36.992241",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-02",
+	"ORDERS_7D": 0,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 46,
 	"item_name": "Tauchset",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6fc1983e-8945-4255-b8f7-9224c6551649",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252226460",
 	"item_code": "PP-000001916",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000001916",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Sportaccessoires",
+	"BARCODE": "8711252226460",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 0
 }

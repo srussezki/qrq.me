@@ -1,4 +1,5 @@
 {
+	"item_group": "Bettwaren",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4006891918706.jpg",
 	"creation": "2019-01-14T11:31:24.717688",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Bettwäsche Eiskönigin 135x200/80x80cm",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4006891918706",
 	"item_code": "PP-000017147",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000017147",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Bettwaren",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "24.99",
 	"current_gross_selling_price": 24.99,
-	"base_price": "24.99"
+	"ORDERS_30D": null
 }

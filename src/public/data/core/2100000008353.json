@@ -1,4 +1,5 @@
 {
+	"item_group": "Schuhe",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/2100000008353.jpg",
 	"creation": "2018-08-13T17:12:45.238466",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 19,
 	"item_name": "Damen Schuhe mit Strass beige",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4961322a-27f4-4ce0-bd8b-841ba1a100fe",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "2100000008353",
 	"item_code": "PP-000012589",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000012589",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schuhe",
+	"BARCODE": "2100000008353",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "14.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "14.99"
+	"ORDERS_30D": 2
 }

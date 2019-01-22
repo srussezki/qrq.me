@@ -1,12 +1,15 @@
 {
+	"item_group": "Laternen",
 	"current_stock_003_halle_altstadt": 5,
 	"image": null,
 	"creation": "2018-07-17T09:58:33.956233",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 29,
+	"current_stock_wh_ludwigsfelde": 28,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 20,
 	"item_name": "Laterne Metall/Glas Weiß H35cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1e8d4395-e800-4e20-84f9-050980f10d8f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4020607348592",
 	"item_code": "PP-000010820",
-	"current_stock_001_kaufpark_eiche": 16,
 	"name": "PP-000010820",
+	"current_stock_001_kaufpark_eiche": 17,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Laternen",
+	"BARCODE": "4020607348592",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 0
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Mädchen",
 	"current_stock_003_halle_altstadt": 19,
 	"image": null,
 	"creation": "2018-09-11T18:04:57.448621",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 64,
 	"item_name": "Babypuppe 40cm",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=693e35ce-7326-4698-9eed-52a5b37aa7d8",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719904020022",
 	"item_code": "PP-000013197",
-	"current_stock_001_kaufpark_eiche": 15,
 	"name": "PP-000013197",
+	"current_stock_001_kaufpark_eiche": 15,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Mädchen",
+	"BARCODE": "8719904020022",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 12
 }

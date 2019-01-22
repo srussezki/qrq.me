@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Jungs",
 	"current_stock_003_halle_altstadt": 20,
 	"image": "/files/8714627680867.jpg",
 	"creation": "2018-03-14T16:33:13.240510",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 70,
 	"item_name": "Mini Flugzeug Drachen 4 Variationen",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b2773187-a3dc-4cf8-8e14-dfda56783bdf",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627680867",
 	"item_code": "PP-000005795",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000005795",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Jungs",
+	"BARCODE": "8714627680867",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 0
 }

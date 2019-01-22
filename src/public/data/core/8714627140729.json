@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Jungs",
 	"current_stock_003_halle_altstadt": 26,
 	"image": null,
 	"creation": "2018-09-11T18:04:57.971624",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 6,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 52,
 	"item_name": "Polizeiauto ferngesteuert",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d01a76f6-dfa2-4ccf-9b83-443d6fcfcc30",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627140729",
 	"item_code": "PP-000013229",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000013229",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": -1,
 	"shelf_number": null,
-	"item_group": "Spielwaren Jungs",
+	"BARCODE": "8714627140729",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 19
 }

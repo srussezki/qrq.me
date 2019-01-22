@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 24,
+	"item_group": "FMCG Haushalt",
+	"current_stock_003_halle_altstadt": 23,
 	"image": "/files/4018164000954.jpg",
 	"creation": "2018-08-02T11:47:55.077522",
 	"website_image": "/files/4018164000954.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 96,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 17,
 	"marketing_text": "Für die Profiköche gehts online weiter",
+	"ORDERS_ALLTIME": 146,
 	"item_name": "Allzweckbeutel Druck-verschl 60 Stk ",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=bc110fed-f2dc-486a-be82-4ef744bcb056",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4018164000954",
 	"item_code": "PP-000011894",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000011894",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "FMCG Haushalt",
+	"BARCODE": "4018164000954",
+	"ORDERS_YESTERDAY": 5,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 38
 }

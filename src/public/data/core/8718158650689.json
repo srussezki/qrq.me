@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/8718158650689.jpg",
 	"creation": "2018-02-13T18:52:51.545120",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 60,
 	"first_time_ordered_on_": "2017-11-01",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 118,
 	"item_name": "Besteckhalter",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=50161f2a-a107-4b73-a12f-22fb2cf461f7",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158650689",
 	"item_code": "PP-000000872",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000000872",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Küchenhelfer",
+	"BARCODE": "8718158650689",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.79",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.79"
+	"ORDERS_30D": 0
 }

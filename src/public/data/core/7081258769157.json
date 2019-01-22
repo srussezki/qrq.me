@@ -1,4 +1,5 @@
 {
+	"item_group": "Hunde",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-05-17T16:06:47.573613",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Alles für den Wuffi & die Mieze",
+	"ORDERS_ALLTIME": 5,
 	"item_name": "Hundeleine Camouflage",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b25dcdcc-4d70-4f09-907c-2c7b20e9fa09",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "7081258769157",
 	"item_code": "PP-000009213",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000009213",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hunde",
+	"BARCODE": "7081258769157",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 0
 }

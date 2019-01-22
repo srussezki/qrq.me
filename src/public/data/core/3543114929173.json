@@ -1,4 +1,5 @@
 {
+	"item_group": "Herrenbekleidung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/3543114929173.jpg",
 	"creation": "2018-04-23T15:24:10.883679",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-24",
+	"ORDERS_7D": 0,
 	"marketing_text": "Noch mehr Auswahl online",
+	"ORDERS_ALLTIME": 2,
 	"item_name": "H. T-Shirt Grau mit Aufdruck Gr.L",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=472484af-b1f0-4124-a266-1fb08f5d8627",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3543114929173",
 	"item_code": "PP-000007838",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000007838",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Herrenbekleidung",
+	"BARCODE": "3543114929173",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 0
 }

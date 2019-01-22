@@ -1,4 +1,5 @@
 {
+	"item_group": "Hefte & Blöcke",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/4044186312973.png",
 	"creation": "2018-08-02T11:43:00.071025",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Für Bürohelden und Heldinnen!",
+	"ORDERS_ALLTIME": 38,
 	"item_name": "Haftnotizen-Set, 275 Blatt, FSC",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=827beeaf-725b-4c1a-a1a0-2226e03e1f02",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4044186312973",
 	"item_code": "PP-000012227",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000012227",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Hefte & Blöcke",
+	"BARCODE": "4044186312973",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 2
 }

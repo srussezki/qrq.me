@@ -1,4 +1,5 @@
 {
+	"item_group": "Weihnachten",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711252089416.jpg",
 	"creation": "2018-07-24T08:06:16.439617",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere aufregende Themenwelten in der App",
+	"ORDERS_ALLTIME": 41,
 	"item_name": "Weihnachtskranz 40cm 49LED",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8312d433-6653-4ded-823a-12813e3d2317",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252089416",
 	"item_code": "PP-000011417",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000011417",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Weihnachten",
+	"BARCODE": "8711252089416",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "7.49",
 	"current_gross_selling_price": 2.99,
-	"base_price": "7.49"
+	"ORDERS_30D": 0
 }

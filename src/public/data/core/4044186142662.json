@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/4044186142662.png",
 	"creation": "2018-08-02T11:43:05.241063",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 20,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": "Las die Party nie enden: Shoppe online",
+	"ORDERS_ALLTIME": 75,
 	"item_name": "Buchstabenkette \"Happy Birthday\"",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d7ddba89-5bd8-4251-a898-13af7fa42b34",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4044186142662",
 	"item_code": "PP-000012251",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000012251",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": "4044186142662",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 30
 }

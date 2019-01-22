@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekoration",
 	"current_stock_003_halle_altstadt": 8,
 	"image": "/files/4016471051430.jpg",
 	"creation": "2018-10-25T12:42:51.823961",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 22,
 	"item_name": "EASYmaxx LED-Memotafel Neon inkl. 3 Stifte",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=799471e3-9bb9-4ce5-9389-19602177053a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4016471051430",
 	"item_code": "PP-000014988",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000014988",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekoration",
+	"BARCODE": "4016471051430",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 2
 }

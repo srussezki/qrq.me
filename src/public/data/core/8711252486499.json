@@ -1,4 +1,5 @@
 {
+	"item_group": "Weihnachten",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T18:51:41.732038",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "174.074 Artikel mehr online",
+	"ORDERS_ALLTIME": 87,
 	"item_name": "Xmas Lichterkette Rot 6m",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3e8be1ae-bcfc-4f74-bf1b-600fcb168c7c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252486499",
 	"item_code": "PP-000000231",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000000231",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Weihnachten",
+	"BARCODE": "8711252486499",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 0
 }

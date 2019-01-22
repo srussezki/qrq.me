@@ -1,12 +1,15 @@
 {
+	"item_group": "Bastelbedarf",
 	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/9783849904470.jpg",
 	"creation": "2018-09-18T12:53:17.689545",
 	"website_image": "/files/9783849904470.jpg",
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 30,
+	"current_stock_wh_ludwigsfelde": 28,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 4,
 	"item_name": "Mal / Bastelbuch",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e5bb71e0-4302-4467-98db-c99e3c5a3b19",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "9783849904470",
 	"item_code": "PP-000013822",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000013822",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Bastelbedarf",
+	"BARCODE": "9783849904470",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 1
 }

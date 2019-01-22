@@ -1,4 +1,5 @@
 {
+	"item_group": "Autozubehör",
 	"current_stock_003_halle_altstadt": 15,
 	"image": "/files/8711252469614.jpg",
 	"creation": "2018-05-02T18:33:52.658223",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": "2018-05-02",
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 71,
 	"item_name": "Grundig KFZ-Verteiler USB",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4df17225-dbcf-452c-a338-62b8884a9fd2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252469614",
 	"item_code": "PP-000008375",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000008375",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Autozubehör",
+	"BARCODE": "8711252469614",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 5
 }

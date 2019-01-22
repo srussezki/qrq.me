@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 19,
+	"item_group": "Pflegende Kosmetik",
+	"current_stock_003_halle_altstadt": 18,
 	"image": "/files/4003573020969.jpg",
 	"creation": "2018-07-10T08:50:19.243505",
 	"website_image": "/files/4003573020969.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "120.800 weitere Beautyartikel in der App",
+	"ORDERS_ALLTIME": 46,
 	"item_name": "Schaebens Gesichtsmaske Hyaluron 2x5ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=115c105a-8c6d-4db9-b4d1-5cc9838ca059",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4003573020969",
 	"item_code": "PP-000010512",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000010512",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "4003573020969",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.29",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.29"
+	"ORDERS_30D": 16
 }

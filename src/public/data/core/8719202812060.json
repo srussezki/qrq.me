@@ -1,4 +1,5 @@
 {
+	"item_group": "Kinderschreibwaren",
 	"current_stock_003_halle_altstadt": -1,
 	"image": "/files/8719202812060.jpg",
 	"creation": "2018-07-22T21:42:49.789953",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": "Billiger gibts nur in der App!",
+	"ORDERS_ALLTIME": 21,
 	"item_name": "Kugelschreiber Flamingo",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d2b5ffb6-3e28-4d97-8776-6020f785561c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202812060",
 	"item_code": "PP-000011311",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000011311",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kinderschreibwaren",
+	"BARCODE": "8719202812060",
+	"ORDERS_YESTERDAY": 4,
+	"base_price": null,
 	"current_gross_selling_price": 1.49,
-	"base_price": null
+	"ORDERS_30D": 8
 }

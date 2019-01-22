@@ -1,4 +1,5 @@
 {
+	"item_group": "Bettwaren",
 	"current_stock_003_halle_altstadt": 6,
 	"image": null,
 	"creation": "2018-08-31T17:14:41.388517",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 25,
 	"item_name": "Seersucker Bettwäsche, Beer/Anthra135x200",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2cbf82db-4b67-4bbc-b49e-6d52082babec",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4060607002414",
 	"item_code": "PP-000012942",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000012942",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Bettwaren",
+	"BARCODE": "4060607002414",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 8.99,
-	"base_price": null
+	"ORDERS_30D": 10
 }

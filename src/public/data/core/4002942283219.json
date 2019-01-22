@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4002942283219.jpg",
 	"creation": "2018-06-18T14:47:09.169094",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Für die Profiköche gehts online weiter",
+	"ORDERS_ALLTIME": 5,
 	"item_name": "Koziol Frühstücksbrett Leckerbissen Weiß",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8cd1fe08-e587-4010-87a9-1e28e806300c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002942283219",
 	"item_code": "PP-000010127",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000010127",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Küchenhelfer",
+	"BARCODE": "4002942283219",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 1
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Kunstblumen",
 	"current_stock_003_halle_altstadt": 71,
 	"image": "/files/4027234318776.jpg",
 	"creation": "2018-08-03T13:26:26.205777",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Verschönere dein Zuhause, jetzt auch online",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Rosenbouquet, red/pink/cream, 32 cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d9d0d338-41a2-437d-b01e-336f5855a85e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4027234318776",
 	"item_code": "PP-000011998",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000011998",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Kunstblumen",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "1.19",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.19"
+	"ORDERS_30D": null
 }

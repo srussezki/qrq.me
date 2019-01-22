@@ -1,4 +1,5 @@
 {
+	"item_group": "Baby- & Kleinkindspielzeug",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-03-01T14:56:11.922460",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-12",
+	"ORDERS_7D": null,
 	"marketing_text": "Alles für den Haushalt in unserer App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Schwimmende Schildkröte Badespielzeug",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=69b7b94d-6b13-4c79-8d7c-906cc2d2ad97",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000004931",
 	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004931",
+	"_timestamp": "20190122 150229.567",
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Baby- & Kleinkindspielzeug",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "0.69",
 	"current_gross_selling_price": 0.69,
-	"base_price": "0.69"
+	"ORDERS_30D": null
 }

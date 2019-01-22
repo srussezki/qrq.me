@@ -1,4 +1,5 @@
 {
+	"item_group": "Servietten",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4037698072312.jpg",
 	"creation": "2018-08-15T14:12:57.263464",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Die besten Küchenhelfer, auch in unserer App",
+	"ORDERS_ALLTIME": 9,
 	"item_name": "16er Pack Buffetservietten 33x33 cm Vichy brown",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=14c88399-ad3f-4306-b37a-689a082495a3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4037698072312",
 	"item_code": "PP-000012610",
-	"current_stock_001_kaufpark_eiche": 15,
 	"name": "PP-000012610",
+	"current_stock_001_kaufpark_eiche": 15,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Servietten",
+	"BARCODE": "4037698072312",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 0.99,
-	"base_price": null
+	"ORDERS_30D": 0
 }

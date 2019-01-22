@@ -1,4 +1,5 @@
 {
+	"item_group": "Plüschtiere",
 	"current_stock_003_halle_altstadt": 13,
 	"image": "/files/4016833118788.jpg",
 	"creation": "2018-07-18T15:00:42.192784",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Das Abenteuer geht weiter in unserer App",
+	"ORDERS_ALLTIME": 43,
 	"item_name": "Plüschbär mit LED 25cm",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=347184d1-69c9-466e-b3c3-2adf18f59dc0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4016833118788",
 	"item_code": "PP-000010908",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000010908",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Plüschtiere",
+	"BARCODE": "4016833118788",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "7.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "7.99"
+	"ORDERS_30D": 11
 }

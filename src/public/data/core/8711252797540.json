@@ -1,4 +1,5 @@
 {
+	"item_group": "Werkzeug",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8711252797540.jpg",
 	"creation": "2018-02-13T18:49:06.290758",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 3,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 131,
 	"item_name": "Schleifpap. 15,2x22,9cm 11stk",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=95e15cc1-93eb-4538-988c-7342d8966bca",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252797540",
 	"item_code": "PP-000000367",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000000367",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Werkzeug",
+	"BARCODE": "8711252797540",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.69",
 	"current_gross_selling_price": 0.69,
-	"base_price": "0.69"
+	"ORDERS_30D": 16
 }

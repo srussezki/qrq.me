@@ -1,4 +1,5 @@
 {
+	"item_group": "Kinderbekleidung",
 	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/8711252381176.jpg",
 	"creation": "2018-07-18T15:00:40.917686",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": 80,
 	"item_name": "Sicherheitsweste Kinder gelb",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1c468626-e677-4bab-b80a-a02cce4f5dab",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252381176",
 	"item_code": "PP-000010873",
-	"current_stock_001_kaufpark_eiche": 41,
 	"name": "PP-000010873",
+	"current_stock_001_kaufpark_eiche": 41,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kinderbekleidung",
+	"BARCODE": "8711252381176",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 8
 }

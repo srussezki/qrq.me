@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekoration",
 	"current_stock_003_halle_altstadt": 47,
 	"image": "/files/8711252029054.jpg",
 	"creation": "2018-07-18T15:00:42.229269",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Pimp your Home",
+	"ORDERS_ALLTIME": 101,
 	"item_name": "Traumfänger 8cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=da2b05d0-b07b-4a8e-a74d-03f8ba2a96ee",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252029054",
 	"item_code": "PP-000010910",
-	"current_stock_001_kaufpark_eiche": 15,
 	"name": "PP-000010910",
+	"current_stock_001_kaufpark_eiche": 15,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekoration",
+	"BARCODE": "8711252029054",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": 29
 }

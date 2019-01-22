@@ -1,4 +1,5 @@
 {
+	"item_group": "Autopflege",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/8711252036915.jpg",
 	"creation": "2018-05-02T18:33:42.489354",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-05-02",
+	"ORDERS_7D": 6,
 	"marketing_text": "Pimp dein Auto, auch online auf factorymarket",
+	"ORDERS_ALLTIME": 68,
 	"item_name": "Dunlop Feuchttücher f. Innenraumreinigumg",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3ffc6595-bb9e-4dea-95c0-042899b249c7",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252036915",
 	"item_code": "PP-000008321",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000008321",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Autopflege",
+	"BARCODE": "8711252036915",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 8
 }

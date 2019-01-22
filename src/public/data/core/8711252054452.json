@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 7,
+	"item_group": "Kleinmöbel",
+	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/8711252054452.jpg",
 	"creation": "2018-07-18T15:00:42.299084",
 	"website_image": "/files/8711252054452.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Dekorieren bis zum Umfallen in der App",
+	"ORDERS_ALLTIME": 59,
 	"item_name": "Schubladen Organizer 4stk 4x40cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252054452",
 	"item_code": "PP-000010912",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000010912",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kleinmöbel",
+	"BARCODE": "8711252054452",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 7
 }

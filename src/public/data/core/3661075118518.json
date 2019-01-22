@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 21,
+	"item_group": "Raucherbedarf",
+	"current_stock_003_halle_altstadt": 20,
 	"image": "/files/3661075118518.png",
 	"creation": "2018-09-13T15:30:55.048133",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 144,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 6,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 49,
 	"item_name": "Max Zigarettenfilter klein",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=361a0520-bc33-4490-a218-70e40c360924",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3661075118518",
 	"item_code": "PP-000013344",
-	"current_stock_001_kaufpark_eiche": 48,
 	"name": "PP-000013344",
+	"current_stock_001_kaufpark_eiche": 48,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Raucherbedarf",
+	"BARCODE": "3661075118518",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 11
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Werkzeug",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-04-09T11:04:45.864394",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-20",
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 3,
 	"item_name": "Felxibler Link-Anschluss f. Bohrer",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=81e81cf7-920c-471b-a8d1-b725ec3637ad",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000006464",
 	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006464",
+	"_timestamp": "20190122 150229.711",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Werkzeug",
+	"BARCODE": "2100000002030",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 0
 }

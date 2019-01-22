@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 20,
 	"image": "/files/8711252178851.jpg",
 	"creation": "2018-02-14T09:13:46.585599",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 72,
 	"first_time_ordered_on_": "2017-10-18",
+	"ORDERS_7D": 5,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 55,
 	"item_name": "Spielkarten",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3f90cff7-7cda-4a89-907f-b92543816d5f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252178851",
 	"item_code": "PP-000000123",
-	"current_stock_001_kaufpark_eiche": 28,
 	"name": "PP-000000123",
+	"current_stock_001_kaufpark_eiche": 28,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8711252178851",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.89"
+	"ORDERS_30D": 21
 }

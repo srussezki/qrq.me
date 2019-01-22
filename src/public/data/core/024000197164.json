@@ -1,4 +1,5 @@
 {
+	"item_group": "Süßigkeiten & Kaugummi",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/24000197164.png",
 	"creation": "2018-03-14T16:33:06.299296",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-06",
+	"ORDERS_7D": 19,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 355,
 	"item_name": "Del Monte Peach Slices Syrup & Pulp 420gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=039e6a39-e8e1-4056-8af2-903d9694c39a",
@@ -24,8 +27,14 @@
 	"item_code": "PP-000005145",
 	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000005145",
+	"_timestamp": "20190122 150229.316",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "024000197164",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.21",
 	"current_gross_selling_price": 0.29,
-	"base_price": "0.21"
+	"ORDERS_30D": 266,
+	"top10": "Süßigkeiten & Kaugummi",
+	"top100": "Snacks & Getränke"
 }

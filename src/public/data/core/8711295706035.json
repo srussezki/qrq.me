@@ -1,4 +1,5 @@
 {
+	"item_group": "Office",
 	"current_stock_003_halle_altstadt": 9,
 	"image": "/files/8711295706035.png",
 	"creation": "2018-02-14T09:14:07.912836",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 72,
 	"first_time_ordered_on_": "2017-11-22",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 65,
 	"item_name": "Pinnwand 60X45cm",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=99a4bdf7-3379-4d19-b711-8ba6f23b886d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295706035",
 	"item_code": "PP-000003245",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000003245",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Office",
+	"BARCODE": "8711295706035",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.39",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.39"
+	"ORDERS_30D": 36
 }

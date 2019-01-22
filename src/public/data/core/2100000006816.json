@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 10,
+	"item_group": "Smartphone- & Tabletzubehör",
+	"current_stock_003_halle_altstadt": 9,
 	"image": "/files/2100000006816.jpg",
 	"creation": "2018-08-07T16:43:27.176959",
 	"website_image": "/files/2100000006816.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 580,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 13,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 314,
 	"item_name": "3 in 1 Ladekabel mit LED 1m 1.4A",
 	"level_0_item_group": "Elektro",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9d8411ce-0299-4ede-95bf-5353be0ef1e0",
@@ -24,8 +27,14 @@
 	"item_code": "PP-000012121",
 	"current_stock_001_kaufpark_eiche": 48,
 	"name": "PP-000012121",
+	"_timestamp": "20190122 150230.304",
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Smartphone- & Tabletzubehör",
+	"BARCODE": "2100000006816",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 69,
+	"top10": "Smartphone- & Tabletzubehör",
+	"top100": "Elektro"
 }

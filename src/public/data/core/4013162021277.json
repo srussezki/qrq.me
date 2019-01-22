@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Wäschepflege",
 	"current_stock_003_halle_altstadt": 8,
 	"image": null,
 	"creation": "2018-02-13T18:48:41.543168",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-11-02",
+	"ORDERS_7D": 6,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 54,
 	"item_name": "Kuschelweich Weichspüler Karib. Traum 990ml",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=609fc7c2-fb04-4615-a0cd-96082aeabd62",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4013162021277",
 	"item_code": "PP-000001331",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000001331",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "FMCG Wäschepflege",
+	"BARCODE": "4013162021277",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.89",
 	"current_gross_selling_price": 1.89,
-	"base_price": "1.89"
+	"ORDERS_30D": 13
 }

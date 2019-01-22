@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 69,
+	"item_group": "Servietten",
+	"current_stock_003_halle_altstadt": 68,
 	"image": "/files/8714572245029.jpg",
 	"creation": "2018-08-31T09:42:40.560459",
 	"website_image": "/files/8714572245029.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 37,
 	"item_name": "Peppa Pig Servietten 20stk",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6a180157-7cf0-4df6-83f0-9aea4cb1abd5",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714572245029",
 	"item_code": "PP-000013025",
-	"current_stock_001_kaufpark_eiche": 30,
 	"name": "PP-000013025",
+	"current_stock_001_kaufpark_eiche": 30,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Servietten",
+	"BARCODE": "8714572245029",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 12
 }

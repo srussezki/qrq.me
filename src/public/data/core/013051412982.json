@@ -1,4 +1,5 @@
 {
+	"item_group": "Ballons",
 	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/0013051412982.png",
 	"creation": "2018-08-27T13:14:31.032656",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 28,
 	"item_name": "Deko-Spiralen Prinzessin 61 & 46 cm 6stk",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2e414460-3aae-4bfe-b69b-f3b0be7d5935",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000012871",
 	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000012871",
+	"_timestamp": "20190122 150229.261",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Ballons",
+	"BARCODE": "013051412982",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 4
 }

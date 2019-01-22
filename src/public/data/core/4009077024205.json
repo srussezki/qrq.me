@@ -1,4 +1,5 @@
 {
+	"item_group": "Süßigkeiten & Kaugummi",
 	"current_stock_003_halle_altstadt": 18,
 	"image": "/files/4009077024205.jpg",
 	"creation": "2018-11-08T15:07:37.894245",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 100,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": "Alles für die Naschkatzen bei factorymarket",
+	"ORDERS_ALLTIME": 6,
 	"item_name": "Em Eukal Zitrone zuckerfrei 75g",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7930f18d-0ad9-48af-92b9-fcaa6b9c0d40",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4009077024205",
 	"item_code": "PP-000015423",
-	"current_stock_001_kaufpark_eiche": 19,
 	"name": "PP-000015423",
+	"current_stock_001_kaufpark_eiche": 16,
+	"ORDERS_TODAY": 3,
 	"shelf_number": null,
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "4009077024205",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 5
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 10,
+	"item_group": "Weihnachten",
+	"current_stock_003_halle_altstadt": 8,
 	"image": "/files/4022222590172.jpg",
 	"creation": "2018-09-21T17:15:01.038497",
 	"website_image": "/files/4022222590172.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 96,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 106,
 	"item_name": "Türwindstopper Sterne",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5d51142f-3153-4684-880c-7a5ef25ae674",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4022222590172",
 	"item_code": "PP-000013873",
-	"current_stock_001_kaufpark_eiche": 25,
 	"name": "PP-000013873",
+	"current_stock_001_kaufpark_eiche": 25,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Weihnachten",
+	"BARCODE": "4022222590172",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.74",
 	"current_gross_selling_price": 3.49,
-	"base_price": "1.74"
+	"ORDERS_30D": 23
 }

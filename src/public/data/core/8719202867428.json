@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 16,
+	"item_group": "Nähzubehör",
+	"current_stock_003_halle_altstadt": 14,
 	"image": "/files/8719202867428.jpg",
 	"creation": "2018-07-22T21:43:01.954569",
 	"website_image": "/files/8719202867428.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 7,
 	"marketing_text": "Die neusten Trends auch in unserer App",
+	"ORDERS_ALLTIME": 48,
 	"item_name": "Nähset 50tlg",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f049d00e-6454-4c73-81ab-a301346f6ebe",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202867428",
 	"item_code": "PP-000011370",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000011370",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Nähzubehör",
+	"BARCODE": "8719202867428",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 1.99,
-	"base_price": null
+	"ORDERS_30D": 27
 }

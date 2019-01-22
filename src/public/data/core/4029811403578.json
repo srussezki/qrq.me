@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 66,
+	"item_group": "Spielwaren Unisex",
+	"current_stock_003_halle_altstadt": 65,
 	"image": "/files/4029811403578.png",
 	"creation": "2018-09-24T13:11:44.560246",
 	"website_image": "/files/4029811403578.png",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 7,
 	"item_name": "Knetschleim, Einhorn-Pups, Ø=7cm",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5715f7aa-1ba7-44f6-91f7-8f4bd22cca21",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4029811403578",
 	"item_code": "PP-000013914",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000013914",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "4029811403578",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 7
 }

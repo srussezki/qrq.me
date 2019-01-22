@@ -1,4 +1,5 @@
 {
+	"item_group": "Sportaccessoires",
 	"current_stock_003_halle_altstadt": 8,
 	"image": "/files/4010126001733.jpg",
 	"creation": "2018-06-25T15:14:03.385539",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 16,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 25,
 	"item_name": "Gürteltasche Neopren",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a34d156f-bbaa-4fb7-b8b8-0e82fc751f52",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4010126001733",
 	"item_code": "PP-000009840",
-	"current_stock_001_kaufpark_eiche": 32,
 	"name": "PP-000009840",
+	"current_stock_001_kaufpark_eiche": 32,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Sportaccessoires",
+	"BARCODE": "4010126001733",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 4
 }

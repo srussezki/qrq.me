@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 37,
 	"image": "/files/8711252052700.jpg",
 	"creation": "2018-02-14T16:00:50.205952",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-19",
+	"ORDERS_7D": 2,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 28,
 	"item_name": "Eiseimer 33x28x31cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e9e1878a-9dc7-4ac5-ad9d-46514bdabc8d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252052700",
 	"item_code": "PP-000003355",
-	"current_stock_001_kaufpark_eiche": 24,
 	"name": "PP-000003355",
+	"current_stock_001_kaufpark_eiche": 24,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Küchenhelfer",
+	"BARCODE": "8711252052700",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 7
 }

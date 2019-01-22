@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Reinigungsmittel",
 	"current_stock_003_halle_altstadt": 15,
 	"image": null,
 	"creation": "2018-02-13T18:55:47.518403",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 260,
 	"first_time_ordered_on_": "2018-01-29",
+	"ORDERS_7D": 6,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 210,
 	"item_name": "Domestos Pink Fresh 750ml",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=92e21a90-bf7c-4a9a-bd80-f54893f6abd4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5996358010714",
 	"item_code": "PP-000003749",
-	"current_stock_001_kaufpark_eiche": 16,
 	"name": "PP-000003749",
+	"current_stock_001_kaufpark_eiche": 15,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "FMCG Reinigungsmittel",
+	"BARCODE": "5996358010714",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.19",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.19"
+	"ORDERS_30D": 13
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Vorratsdosen",
 	"current_stock_003_halle_altstadt": 27,
 	"image": "/files/8719202233148.jpg",
 	"creation": "2018-02-14T09:14:49.295618",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 91,
 	"item_name": "Metalldose 9.3X5.9X2.2Cm 6 Sort.",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=be00c83e-434f-4529-86d3-c58cef253c6e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202233148",
 	"item_code": "PP-000002967",
-	"current_stock_001_kaufpark_eiche": 26,
 	"name": "PP-000002967",
+	"current_stock_001_kaufpark_eiche": 26,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Vorratsdosen",
+	"BARCODE": "8719202233148",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.69",
 	"current_gross_selling_price": 0.69,
-	"base_price": "0.69"
+	"ORDERS_30D": 8
 }

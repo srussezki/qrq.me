@@ -1,4 +1,5 @@
 {
+	"item_group": "Trinkflaschen",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/699965367879.jpg",
 	"creation": "2018-09-10T12:23:28.316324",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 47,
 	"item_name": "Bodum Travel Mug 0,45l / Proffesionell",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6a8947da-dd90-46d5-a1b7-5a71f280bfa4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "699965367879",
 	"item_code": "PP-000013097",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000013097",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Trinkflaschen",
+	"BARCODE": "699965367879",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 14
 }

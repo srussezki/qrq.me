@@ -1,4 +1,5 @@
 {
+	"item_group": "Plüschtiere",
 	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/8410779400116.jpg",
 	"creation": "2018-07-18T15:00:43.784123",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 12,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 83,
 	"item_name": "Biene Maya Plüschfigur",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8410779400116",
 	"item_code": "PP-000010934",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000010934",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Plüschtiere",
+	"BARCODE": "8410779400116",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 10
 }

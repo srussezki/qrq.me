@@ -1,12 +1,15 @@
 {
+	"item_group": "Ballons",
 	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/4038732712065.jpg",
 	"creation": "2018-06-01T11:13:40.193043",
 	"website_image": "/files/4038732712065.jpg",
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 6,
+	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 6,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 91,
 	"item_name": "Folienballon Buchstabe A Silber 80cm",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=274f0863-6894-4d29-bb7b-d54399fe85f2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4038732712065",
 	"item_code": "PP-000009460",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000009460",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Ballons",
+	"BARCODE": "4038732712065",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 19
 }

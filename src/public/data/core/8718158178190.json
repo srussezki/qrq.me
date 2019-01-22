@@ -1,4 +1,5 @@
 {
+	"item_group": "Hunde",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8718158178190.jpg",
 	"creation": "2018-07-22T21:42:58.379028",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weiter 250.000 Tierartikel online",
+	"ORDERS_ALLTIME": 20,
 	"item_name": "Kühldecke für Hunde",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1b1aed42-5a97-43f0-b26d-56d49d965231",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158178190",
 	"item_code": "PP-000011352",
-	"current_stock_001_kaufpark_eiche": 16,
 	"name": "PP-000011352",
+	"current_stock_001_kaufpark_eiche": 16,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hunde",
+	"BARCODE": "8718158178190",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 5.99,
-	"base_price": null
+	"ORDERS_30D": 1
 }

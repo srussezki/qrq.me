@@ -1,4 +1,5 @@
 {
+	"item_group": "Hunde",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711252065687.jpg",
 	"creation": "2018-04-12T12:45:02.065961",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-09",
+	"ORDERS_7D": 3,
 	"marketing_text": "Weiter 250.000 Tierartikel online",
+	"ORDERS_ALLTIME": 192,
 	"item_name": "Kalziumknochen Hühnchen 85gr",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=db2f7fbd-12fe-4b02-a23d-22ae08238bfb",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252065687",
 	"item_code": "PP-000007290",
-	"current_stock_001_kaufpark_eiche": -1,
 	"name": "PP-000007290",
+	"current_stock_001_kaufpark_eiche": -1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hunde",
+	"BARCODE": "8711252065687",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.75",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.75"
+	"ORDERS_30D": 8
 }

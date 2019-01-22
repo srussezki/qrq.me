@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 25,
+	"item_group": "Küchenhelfer",
+	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8711252792163.jpg",
 	"creation": "2018-02-13T18:49:10.373340",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 96,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 8,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 223,
 	"item_name": "Küchenreibe",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=129c98e2-793c-4666-8d78-3e9362706340",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252792163",
 	"item_code": "PP-000000350",
-	"current_stock_001_kaufpark_eiche": 29,
 	"name": "PP-000000350",
+	"current_stock_001_kaufpark_eiche": 29,
+	"ORDERS_TODAY": 2,
 	"shelf_number": "2",
-	"item_group": "Küchenhelfer",
+	"BARCODE": "8711252792163",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.89"
+	"ORDERS_30D": 26
 }

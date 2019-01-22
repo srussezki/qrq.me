@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 2,
+	"item_group": "Geschenkverpackungen",
+	"current_stock_003_halle_altstadt": 1,
 	"image": null,
 	"creation": "2018-08-08T19:19:52.439356",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 35,
 	"item_name": "Lieblingsmensch Box weiß 20x20cm",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5e54fd08-9c12-4d1c-994f-b029e491dcc1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4029811403486",
 	"item_code": "PP-000012339",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000012339",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Geschenkverpackungen",
+	"BARCODE": "4029811403486",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.49,
-	"base_price": "3.99"
+	"ORDERS_30D": 4
 }

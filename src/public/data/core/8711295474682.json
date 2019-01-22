@@ -1,4 +1,5 @@
 {
+	"item_group": "Weihnachten",
 	"current_stock_003_halle_altstadt": 27,
 	"image": "/files/8711295474682.jpg",
 	"creation": "2018-07-22T21:42:34.951701",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 527,
 	"item_name": "Tannenzapfen Dekomix",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=abe538ab-d006-472e-bca2-107c0d309e17",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295474682",
 	"item_code": "PP-000011185",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000011185",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Weihnachten",
+	"BARCODE": "8711295474682",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.29,
-	"base_price": "0.99"
+	"ORDERS_30D": 11
 }

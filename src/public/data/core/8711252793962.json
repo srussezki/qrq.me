@@ -1,4 +1,5 @@
 {
+	"item_group": "Autozubehör",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8711252793962.jpg",
 	"creation": "2018-06-20T18:47:20.561408",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Pimp dein Auto, auch online auf factorymarket",
+	"ORDERS_ALLTIME": 4,
 	"item_name": "Lufterfrischer, Kronen, Vanille ",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=059ad70d-c533-4f96-b1b1-823003e9feb6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252793962",
 	"item_code": "PP-000010040",
-	"current_stock_001_kaufpark_eiche": 44,
 	"name": "PP-000010040",
+	"current_stock_001_kaufpark_eiche": 44,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Autozubehör",
+	"BARCODE": "8711252793962",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 2
 }

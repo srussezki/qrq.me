@@ -1,4 +1,5 @@
 {
+	"item_group": "Autozubehör",
 	"current_stock_003_halle_altstadt": 65,
 	"image": null,
 	"creation": "2018-08-01T20:38:14.126791",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 12,
 	"marketing_text": "App, App Hura! Noch mehr Auswahl!",
+	"ORDERS_ALLTIME": 76,
 	"item_name": "Autositztasche 2stk",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=62d49b4f-a78c-47e8-b2c3-4a0977a5e5b6",
@@ -22,10 +25,16 @@
 	"brand": null,
 	"barcode": "2100000006007",
 	"item_code": "PP-000011994",
-	"current_stock_001_kaufpark_eiche": 64,
+	"current_stock_001_kaufpark_eiche": 61,
 	"name": "PP-000011994",
+	"_timestamp": "20190122 150230.152",
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Autozubehör",
+	"BARCODE": "2100000006007",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 62,
+	"top10": "Autozubehör",
+	"top100": "Auto"
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Glas",
 	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/8711252434032.jpg",
 	"creation": "2018-06-20T18:47:24.711884",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 60,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Die besten Küchenhelfer, auch in unserer App",
+	"ORDERS_ALLTIME": 35,
 	"item_name": "Babybecher",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=46863399-f0f0-49ce-8055-145d08f255ac",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252434032",
 	"item_code": "PP-000010063",
-	"current_stock_001_kaufpark_eiche": 14,
 	"name": "PP-000010063",
+	"current_stock_001_kaufpark_eiche": 14,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Glas",
+	"BARCODE": "8711252434032",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 4
 }

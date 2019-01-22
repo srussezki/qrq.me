@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Reinigungsmittel",
 	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/4000869055223.jpg",
 	"creation": "2018-02-13T18:51:13.344794",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 17,
 	"first_time_ordered_on_": "2017-12-27",
+	"ORDERS_7D": 1,
 	"marketing_text": "Wecke den Putzteufel in Dir!",
+	"ORDERS_ALLTIME": 85,
 	"item_name": "Spülmaschinensalz",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=07d41c81-b4a9-4153-a694-0b940bc12a4f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4000869055223",
 	"item_code": "PP-000001155",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000001155",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "FMCG Reinigungsmittel",
+	"BARCODE": "4000869055223",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.6",
 	"current_gross_selling_price": 1.19,
-	"base_price": "0.6"
+	"ORDERS_30D": 5
 }

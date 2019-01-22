@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Jungs",
 	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/6938242954024.jpg",
 	"creation": "2018-11-01T16:02:44.095819",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 25,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 13,
 	"item_name": "Sluban Feuerwehr kleine Drehleiter",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9f1d22eb-5c8f-47df-82d1-e2579a26a6a0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "6938242954024",
 	"item_code": "PP-000015016",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000015016",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Jungs",
+	"BARCODE": "6938242954024",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 8
 }

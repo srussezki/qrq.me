@@ -1,4 +1,5 @@
 {
+	"item_group": "Garten",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711295384455.jpg",
 	"creation": "2018-02-14T09:14:15.228912",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 43,
 	"item_name": "Gartenfigur 12,5x6x10cm",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=03cb4fc0-be0b-42d2-bab6-7bc966577497",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295384455",
 	"item_code": "PP-000004339",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000004339",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Garten",
+	"BARCODE": "8711295384455",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.25",
 	"current_gross_selling_price": 1.49,
-	"base_price": "2.25"
+	"ORDERS_30D": 0
 }

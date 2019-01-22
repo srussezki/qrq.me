@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekoration",
 	"current_stock_003_halle_altstadt": 20,
 	"image": "/files/4020607624788.jpg",
 	"creation": "2018-07-17T09:58:31.934245",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Dekorieren bis zum Umfallen in der App",
+	"ORDERS_ALLTIME": 7,
 	"item_name": "Box Goldy Eisen lackiert Rosa L10cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4b32116f-7aaf-459f-8c17-892eb121863d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4020607624788",
 	"item_code": "PP-000010808",
-	"current_stock_001_kaufpark_eiche": 45,
 	"name": "PP-000010808",
+	"current_stock_001_kaufpark_eiche": 45,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekoration",
+	"BARCODE": "4020607624788",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 0
 }

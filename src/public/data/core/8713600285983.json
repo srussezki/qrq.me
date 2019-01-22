@@ -1,4 +1,5 @@
 {
+	"item_group": "Süßigkeiten & Kaugummi",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8713600285983.jpg",
 	"creation": "2018-03-23T21:05:35.510121",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-23",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 72,
 	"item_name": "Candy Pizza Mini 85gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=16ecfb1a-3700-4fbd-914b-adea683a8d7d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8713600285983",
 	"item_code": "PP-000006366",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006366",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "8713600285983",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.57",
 	"current_gross_selling_price": 2.19,
-	"base_price": "2.57"
+	"ORDERS_30D": 0
 }

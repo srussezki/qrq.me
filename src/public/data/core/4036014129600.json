@@ -1,4 +1,5 @@
 {
+	"item_group": "Wolle",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4036014129600.png",
 	"creation": "2018-02-13T19:01:17.016258",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-29",
+	"ORDERS_7D": 0,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 25,
 	"item_name": "Wolle - Hot Socks - Bunt 50gr",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e5e1f791-f1b5-4744-841e-5584cd1aeb0f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4036014129600",
 	"item_code": "PP-000004235",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000004235",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Wolle",
+	"BARCODE": "4036014129600",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.99",
 	"current_gross_selling_price": 2.49,
-	"base_price": "5.99"
+	"ORDERS_30D": 3
 }

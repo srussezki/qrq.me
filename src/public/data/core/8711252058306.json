@@ -1,4 +1,5 @@
 {
+	"item_group": "Bastelbedarf",
 	"current_stock_003_halle_altstadt": 28,
 	"image": "/files/8711252058306.jpg",
 	"creation": "2018-06-20T18:47:23.109396",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 12,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 193,
 	"item_name": "Diamant Pailetten 120Stk.",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5092d834-3792-447a-a26d-c4388f5f00b2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252058306",
 	"item_code": "PP-000010055",
-	"current_stock_001_kaufpark_eiche": 27,
 	"name": "PP-000010055",
+	"current_stock_001_kaufpark_eiche": 27,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Bastelbedarf",
+	"BARCODE": "8711252058306",
+	"ORDERS_YESTERDAY": 6,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 23
 }

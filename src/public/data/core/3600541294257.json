@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T18:58:56.034054",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-04",
+	"ORDERS_7D": 0,
 	"marketing_text": "Noch mehr Beauty auf factorymarket.de",
+	"ORDERS_ALLTIME": 12,
 	"item_name": "Garnier Fructis Serum Spitzen Held 50ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f4aed231-d592-4cac-a0f3-b99d3e9ae006",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3600541294257",
 	"item_code": "PP-000003586",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000003586",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "3600541294257",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.79",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.79"
+	"ORDERS_30D": 0
 }

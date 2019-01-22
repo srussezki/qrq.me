@@ -1,4 +1,5 @@
 {
+	"item_group": "Sticker & Stempel",
 	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/4008525161004.jpg",
 	"creation": "2018-05-15T12:22:40.474213",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 6,
 	"item_name": "Kreativ  Accessoires",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5227e8aa-e732-46c3-88d6-4699a6721757",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008525161004",
 	"item_code": "PP-000008963",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000008963",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Sticker & Stempel",
+	"BARCODE": "4008525161004",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 1
 }

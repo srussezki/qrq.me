@@ -1,4 +1,5 @@
 {
+	"item_group": "Beautyaccessoires",
 	"current_stock_003_halle_altstadt": 54,
 	"image": "/files/2100000004669.jpg",
 	"creation": "2018-07-04T16:39:54.487249",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 150,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": "Die neusten Beautyprodukte jetzt bei uns",
+	"ORDERS_ALLTIME": 52,
 	"item_name": "3D Makeup Schwamm Ei",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b7134123-2a0a-46bd-ad68-4562c5f76ba3",
@@ -24,8 +27,14 @@
 	"item_code": "PP-000010272",
 	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000010272",
+	"_timestamp": "20190122 150229.987",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Beautyaccessoires",
+	"BARCODE": "2100000004669",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.79",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.79"
+	"ORDERS_30D": 12,
+	"top10": "Beautyaccessoires",
+	"top100": "Health & Beauty"
 }

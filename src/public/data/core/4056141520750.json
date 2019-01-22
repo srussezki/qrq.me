@@ -1,12 +1,15 @@
 {
+	"item_group": "Vorratsdosen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4056141520750.jpg",
 	"creation": "2019-01-17T11:59:31.165614",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 0,
+	"current_stock_wh_ludwigsfelde": 72,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Vorratsdose Coffee Atlanta",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4056141520750",
 	"item_code": "PP-000017389",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000017389",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Vorratsdosen",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": null
 }

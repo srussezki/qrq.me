@@ -1,4 +1,5 @@
 {
+	"item_group": "Bettwaren",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4022378133513.jpg",
 	"creation": "2018-02-21T13:34:09.029818",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-08",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 24,
 	"item_name": "Bettwäsche Sterne Taube 80x80&135x200cm",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4bc1e066-a961-4ff8-a003-dac30dbb5777",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4022378133513",
 	"item_code": "PP-000004867",
-	"current_stock_001_kaufpark_eiche": 15,
 	"name": "PP-000004867",
+	"current_stock_001_kaufpark_eiche": 15,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Bettwaren",
+	"BARCODE": "4022378133513",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "6.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "6.99"
+	"ORDERS_30D": 0
 }

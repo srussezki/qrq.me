@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 41,
+	"item_group": "Strümpfe",
+	"current_stock_003_halle_altstadt": 40,
 	"image": "/files/5055201323217.jpg",
 	"creation": "2018-02-13T19:01:30.737685",
 	"website_image": "/files/5055201323217.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 305,
 	"first_time_ordered_on_": "2017-10-30",
+	"ORDERS_7D": 10,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 740,
 	"item_name": "Stanley Socks",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b9f84963-4da7-4c6b-8bd5-5403119f5c57",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5055201323217",
 	"item_code": "PP-000001796",
-	"current_stock_001_kaufpark_eiche": 45,
 	"name": "PP-000001796",
+	"current_stock_001_kaufpark_eiche": 44,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Strümpfe",
+	"BARCODE": "5055201323217",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "1.95",
 	"current_gross_selling_price": 2.49,
-	"base_price": "1.95"
+	"ORDERS_30D": 51
 }

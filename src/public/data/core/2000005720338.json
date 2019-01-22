@@ -1,4 +1,5 @@
 {
+	"item_group": "Weihnachten",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/2000005720338.jpg",
 	"creation": "2018-09-13T12:00:52.038361",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Noch mehr Auswahl online",
+	"ORDERS_ALLTIME": 105,
 	"item_name": "Weihnachtszug Set mit Musik 22tlg.",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a5f93c76-7175-4dd8-a735-cf7835430919",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000013363",
 	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000013363",
+	"_timestamp": "20190122 150229.489",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Weihnachten",
+	"BARCODE": "2000005720338",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 0
 }

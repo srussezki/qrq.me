@@ -1,4 +1,5 @@
 {
+	"item_group": "Kerzen & -zubehör",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4008495204459.jpg",
 	"creation": "2018-02-13T18:47:50.140492",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-19",
+	"ORDERS_7D": 0,
 	"marketing_text": "Kerzen ohne Ende in unserer App",
+	"ORDERS_ALLTIME": 83,
 	"item_name": "Stumpenkerze weiß 70x200mm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ce65293c-28ed-489f-b72d-883ffff447d0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008495204459",
 	"item_code": "PP-000002519",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000002519",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "5",
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": "4008495204459",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.89",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.89"
+	"ORDERS_30D": 0
 }

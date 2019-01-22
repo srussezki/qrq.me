@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 56,
+	"item_group": "Bastelbedarf",
+	"current_stock_003_halle_altstadt": 55,
 	"image": "/files/8718158647238.png",
 	"creation": "2018-02-13T18:49:31.124926",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 72,
 	"first_time_ordered_on_": "2017-11-20",
+	"ORDERS_7D": 6,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 192,
 	"item_name": "Washitape versch. Muster 4m",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0df7be91-fb5f-4ac3-b7e0-5f896f6ab4fb",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158647238",
 	"item_code": "PP-000002742",
-	"current_stock_001_kaufpark_eiche": 107,
 	"name": "PP-000002742",
+	"current_stock_001_kaufpark_eiche": 107,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "2",
-	"item_group": "Bastelbedarf",
+	"BARCODE": "8718158647238",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.69,
-	"base_price": "0.89"
+	"ORDERS_30D": 11
 }

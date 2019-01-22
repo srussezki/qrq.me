@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Reinigungsmittel",
 	"current_stock_003_halle_altstadt": 25,
 	"image": "/files/4008284805034.jpg",
 	"creation": "2018-02-13T18:51:20.705435",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-11-02",
+	"ORDERS_7D": 11,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 250,
 	"item_name": "Müllbeutel mit Zugband 60l 20stk",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b148a3d0-a279-4652-a5c3-77084027e9f8",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008284805034",
 	"item_code": "PP-000001124",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000001124",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "1",
-	"item_group": "FMCG Reinigungsmittel",
+	"BARCODE": "4008284805034",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "1.19",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.19"
+	"ORDERS_30D": 45
 }

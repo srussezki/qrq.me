@@ -1,4 +1,5 @@
 {
+	"item_group": "Aufbewahrung",
 	"current_stock_003_halle_altstadt": 8,
 	"image": "/files/8711252149417.jpg",
 	"creation": "2018-02-13T18:48:16.444326",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 18,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 29,
 	"item_name": "Universal Schuhablage",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fb64b429-d2c0-4f61-a13d-c6c1e32916a9",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252149417",
 	"item_code": "PP-000001892",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000001892",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Aufbewahrung",
+	"BARCODE": "8711252149417",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.49",
 	"current_gross_selling_price": 3.49,
-	"base_price": "3.49"
+	"ORDERS_30D": 2
 }

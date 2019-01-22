@@ -1,4 +1,5 @@
 {
+	"item_group": "Salzige Snacks",
 	"current_stock_003_halle_altstadt": 23,
 	"image": "/files/7613035151383.jpg",
 	"creation": "2018-03-14T16:33:32.366311",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-13",
+	"ORDERS_7D": 0,
 	"marketing_text": "Für den Hunger zwischendurch und danach",
+	"ORDERS_ALLTIME": 3,
 	"item_name": "Maggi Genießersuppe Broccoli",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fba359aa-7c39-4f86-af2b-9eaf189e78ce",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "7613035151383",
 	"item_code": "PP-000005329",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000005329",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Salzige Snacks",
+	"BARCODE": "7613035151383",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.49",
 	"current_gross_selling_price": 0.49,
-	"base_price": "0.49"
+	"ORDERS_30D": 0
 }

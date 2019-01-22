@@ -1,4 +1,5 @@
 {
+	"item_group": "Badtextilien",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/2100000004898.jpg",
 	"creation": "2018-07-04T16:39:59.163253",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 12,
 	"item_name": "Wandaufhängung Dusche Kuh",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=edd5eba9-b73d-4ef3-9d1c-eb7995444222",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000010295",
 	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000010295",
+	"_timestamp": "20190122 150230.014",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Badtextilien",
+	"BARCODE": "2100000004898",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.59",
 	"current_gross_selling_price": 1.99,
-	"base_price": "2.59"
+	"ORDERS_30D": 0
 }

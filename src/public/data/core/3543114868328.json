@@ -1,4 +1,5 @@
 {
+	"item_group": "Herrenbekleidung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/3543114868328.jpg",
 	"creation": "2018-04-23T15:23:58.451802",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-24",
+	"ORDERS_7D": 0,
 	"marketing_text": "Noch mehr Auswahl online",
+	"ORDERS_ALLTIME": 3,
 	"item_name": "Herren T-Shirt Blau Gr.XL",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a087e7c4-75a0-4ee6-bab6-5a6c03e52b3e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3543114868328",
 	"item_code": "PP-000007771",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000007771",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Herrenbekleidung",
+	"BARCODE": "3543114868328",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 0
 }

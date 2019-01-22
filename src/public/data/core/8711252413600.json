@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 86,
+	"item_group": "Schmuck",
+	"current_stock_003_halle_altstadt": 84,
 	"image": "/files/8711252413600.jpg",
 	"creation": "2018-03-14T16:33:19.066987",
 	"website_image": "/files/8711252413600.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 96,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 5,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 70,
 	"item_name": "Haargummi 2Varianten 4Versch. Farben",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=bd1e17a8-19ba-467c-b58f-53c07d698c88",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252413600",
 	"item_code": "PP-000005647",
-	"current_stock_001_kaufpark_eiche": 43,
 	"name": "PP-000005647",
+	"current_stock_001_kaufpark_eiche": 43,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Schmuck",
+	"BARCODE": "8711252413600",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 10
 }

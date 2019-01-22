@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/8711252051116.jpg",
 	"creation": "2018-06-07T12:25:50.601223",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Das Abenteuer geht weiter in unserer App",
+	"ORDERS_ALLTIME": 64,
 	"item_name": "Puzzle Tiere versch. Varianten",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ea53e005-11af-47ef-a786-417f2ac0fba1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252051116",
 	"item_code": "PP-000009627",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000009627",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8711252051116",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 10
 }

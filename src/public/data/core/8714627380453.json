@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 22,
 	"image": "/files/8714627380453.jpg",
 	"creation": "2018-05-24T13:02:02.198639",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": "Das Abenteuer geht weiter in unserer App",
+	"ORDERS_ALLTIME": 122,
 	"item_name": "Kinderwerkzeugset",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=df1f58a7-eb67-41d0-aea9-ccc6c68a9a97",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627380453",
 	"item_code": "PP-000009118",
-	"current_stock_001_kaufpark_eiche": 23,
 	"name": "PP-000009118",
+	"current_stock_001_kaufpark_eiche": 23,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8714627380453",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.39",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.39"
+	"ORDERS_30D": 29
 }

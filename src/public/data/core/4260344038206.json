@@ -1,4 +1,5 @@
 {
+	"item_group": "Backen",
 	"current_stock_003_halle_altstadt": 26,
 	"image": "/files/4260344038206.jpg",
 	"creation": "2018-08-07T16:43:32.786096",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 16,
 	"item_name": "Streichpaletten klein",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ab50f7fe-b248-427a-b8d1-15e314b6b77b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4260344038206",
 	"item_code": "PP-000012277",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000012277",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Backen",
+	"BARCODE": "4260344038206",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.49",
 	"current_gross_selling_price": 3.49,
-	"base_price": "3.49"
+	"ORDERS_30D": 2
 }

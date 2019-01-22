@@ -1,4 +1,5 @@
 {
+	"item_group": "Leuchtmittel",
 	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/8711252068930.jpg",
 	"creation": "2018-07-18T15:00:42.404287",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Für die Profiköche gehts online weiter",
+	"ORDERS_ALLTIME": 38,
 	"item_name": "Sicherheitslicht 8led",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f3fa300e-e4c4-4961-867d-f215317927db",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252068930",
 	"item_code": "PP-000010915",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000010915",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Leuchtmittel",
+	"BARCODE": "8711252068930",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 6
 }

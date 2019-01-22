@@ -1,4 +1,5 @@
 {
+	"item_group": "Glas",
 	"current_stock_003_halle_altstadt": 8,
 	"image": "/files/8719202216820.jpg",
 	"creation": "2018-02-13T18:52:44.609705",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 16,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 58,
 	"item_name": "Servierschale",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d358a63c-27e5-4698-bae9-5d435f8d28fb",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202216820",
 	"item_code": "PP-000000898",
-	"current_stock_001_kaufpark_eiche": 14,
 	"name": "PP-000000898",
+	"current_stock_001_kaufpark_eiche": 14,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "Glas",
+	"BARCODE": "8719202216820",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 1
 }

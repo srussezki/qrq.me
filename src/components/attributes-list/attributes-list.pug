@@ -1,0 +1,9 @@
+.attributes-list.container
+    .attributes-box.container
+    each group in groups
+      h6 #{group}
+        
+        each attr, i in attributes.filter( function(a) {return group == a['attribute-group-name']} )
+          .row.attribute-row
+            .col-4 #{attr['attribute-name']}
+            .col-8 #{attr['attribute-value']}

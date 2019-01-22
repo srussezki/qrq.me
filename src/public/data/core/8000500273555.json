@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 33,
+	"item_group": "Kekse & Backwaren",
+	"current_stock_003_halle_altstadt": 32,
 	"image": "/files/8000500273555.jpg",
 	"creation": "2018-10-02T17:13:36.685347",
 	"website_image": "/files/8000500273555.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 14,
 	"marketing_text": "Alles für die Naschkatzen bei factorymarket",
+	"ORDERS_ALLTIME": 161,
 	"item_name": "Hanuta Einzel",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3b075f7e-1db0-432b-b6f7-5310e0216f49",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8000500273555",
 	"item_code": "PP-000014396",
-	"current_stock_001_kaufpark_eiche": 35,
 	"name": "PP-000014396",
+	"current_stock_001_kaufpark_eiche": 35,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Kekse & Backwaren",
+	"BARCODE": "8000500273555",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.39",
 	"current_gross_selling_price": 0.39,
-	"base_price": "0.39"
+	"ORDERS_30D": 26
 }

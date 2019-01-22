@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 71,
 	"image": "/files/4032037606555.jpg",
 	"creation": "2018-04-09T09:25:38.633765",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 80,
 	"first_time_ordered_on_": "2018-04-05",
+	"ORDERS_7D": 1,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 205,
 	"item_name": "Platzmatte \"Sprüche\" 44X28,5Cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=098f7fb0-771b-421b-8f38-70b0265544a1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4032037606555",
 	"item_code": "PP-000006705",
-	"current_stock_001_kaufpark_eiche": 69,
 	"name": "PP-000006705",
+	"current_stock_001_kaufpark_eiche": 69,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Küchenhelfer",
+	"BARCODE": "4032037606555",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 31
 }

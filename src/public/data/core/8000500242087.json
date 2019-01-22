@@ -1,4 +1,5 @@
 {
+	"item_group": "Schokolade",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8000500242087.jpg",
 	"creation": "2018-03-23T21:05:56.258476",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-19",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 59,
 	"item_name": "Ferrero Kinder Joy 60gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e4fcb75b-32b8-4709-8bc3-82a8755e9974",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8000500242087",
 	"item_code": "PP-000006069",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006069",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schokolade",
+	"BARCODE": "8000500242087",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.81",
 	"current_gross_selling_price": 3.49,
-	"base_price": "5.81"
+	"ORDERS_30D": 0
 }

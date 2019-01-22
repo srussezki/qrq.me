@@ -1,4 +1,5 @@
 {
+	"item_group": "Badtextilien",
 	"current_stock_003_halle_altstadt": 11,
 	"image": null,
 	"creation": "2018-10-09T15:00:36.549375",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 13,
 	"item_name": "Kinderbadetuch mit Kapuze Rentier Motiv",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c69bcb10-1e6a-422f-b93b-d802fa6ad042",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "2100000009732",
 	"item_code": "PP-000014657",
-	"current_stock_001_kaufpark_eiche": 18,
 	"name": "PP-000014657",
+	"current_stock_001_kaufpark_eiche": 18,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Badtextilien",
+	"BARCODE": "2100000009732",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 5.99,
-	"base_price": null
+	"ORDERS_30D": 10
 }

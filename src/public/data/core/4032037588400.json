@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 94,
+	"item_group": "Ballons",
+	"current_stock_003_halle_altstadt": 93,
 	"image": "/files/4032037588400.jpg",
 	"creation": "2018-04-19T17:05:44.764814",
 	"website_image": "/files/4032037588400.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": "2018-04-18",
+	"ORDERS_7D": 4,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 78,
 	"item_name": "Folienballon Teddy klein 40cmH",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4592987b-0be9-4e9f-92ea-677a37b7190f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4032037588400",
 	"item_code": "PP-000007462",
-	"current_stock_001_kaufpark_eiche": 20,
 	"name": "PP-000007462",
+	"current_stock_001_kaufpark_eiche": 20,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Ballons",
+	"BARCODE": "4032037588400",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 10
 }

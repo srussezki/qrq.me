@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflanzen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5055128605151.png",
 	"creation": "2018-02-16T09:50:07.253693",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-06",
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 60,
 	"item_name": "Schnellwachsender Samen 1kg",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e0844dad-184b-4ab2-be62-66c6552cfca4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5055128605151",
 	"item_code": "PP-000004716",
-	"current_stock_001_kaufpark_eiche": 25,
 	"name": "PP-000004716",
+	"current_stock_001_kaufpark_eiche": 25,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflanzen",
+	"BARCODE": "5055128605151",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 0
 }

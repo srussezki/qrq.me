@@ -1,4 +1,5 @@
 {
+	"item_group": "Nähzubehör",
 	"current_stock_003_halle_altstadt": 21,
 	"image": "/files/4036014014647.png",
 	"creation": "2018-02-13T18:48:08.498293",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 1,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 34,
 	"item_name": "Häkelnadel 2mm",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=dc9a787b-e766-4723-a1cc-826dcf18fd17",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4036014014647",
 	"item_code": "PP-000002191",
-	"current_stock_001_kaufpark_eiche": 21,
 	"name": "PP-000002191",
+	"current_stock_001_kaufpark_eiche": 20,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "5",
-	"item_group": "Nähzubehör",
+	"BARCODE": "4036014014647",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.85",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.85"
+	"ORDERS_30D": 5
 }

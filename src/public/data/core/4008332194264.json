@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 97,
+	"item_group": "Spielwaren Jungs",
+	"current_stock_003_halle_altstadt": 96,
 	"image": "/files/4008332194264.jpg",
 	"creation": "2018-03-01T14:56:13.318507",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-28",
+	"ORDERS_7D": 7,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 83,
 	"item_name": "Scout Pfeile",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f3db29d4-0185-4240-98ae-afe219210493",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008332194264",
 	"item_code": "PP-000005069",
-	"current_stock_001_kaufpark_eiche": 79,
 	"name": "PP-000005069",
+	"current_stock_001_kaufpark_eiche": 79,
+	"ORDERS_TODAY": 3,
 	"shelf_number": null,
-	"item_group": "Spielwaren Jungs",
+	"BARCODE": "4008332194264",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "2.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 35
 }

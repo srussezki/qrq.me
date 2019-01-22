@@ -1,4 +1,5 @@
 {
+	"item_group": "Getränke",
 	"current_stock_003_halle_altstadt": 58,
 	"image": "/files/8718612000166.png",
 	"creation": "2018-02-14T16:00:27.526574",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 228,
 	"first_time_ordered_on_": "2018-01-05",
+	"ORDERS_7D": 2,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 991,
 	"item_name": "Arizona Pomegranate 0,5l",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8201822a-38c0-496a-b242-96cbd2b8eb96",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718612000166",
 	"item_code": "PP-000003771",
-	"current_stock_001_kaufpark_eiche": 52,
 	"name": "PP-000003771",
+	"current_stock_001_kaufpark_eiche": 52,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "8718612000166",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 10
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-08-07T16:43:26.605714",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Las die Party nie enden: Shoppe online",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Hot Wheels Girlande",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=691daae1-c74e-4c94-af17-5cfa6a7b7eb7",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008110302607",
 	"item_code": "PP-000012104",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000012104",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": null,
 	"current_gross_selling_price": 0.99,
-	"base_price": null
+	"ORDERS_30D": null
 }

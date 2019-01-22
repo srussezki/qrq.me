@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 10,
+	"item_group": "Küchenhelfer",
+	"current_stock_003_halle_altstadt": 8,
 	"image": null,
 	"creation": "2018-11-12T12:23:00.331434",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Dekorieren bis zum Umfallen in der App",
+	"ORDERS_ALLTIME": 16,
 	"item_name": "Serviettenhalter",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4ea40e99-ae1c-4ad9-b820-fa7e8bda50fa",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4010385235283",
 	"item_code": "PP-000015844",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000015844",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Küchenhelfer",
+	"BARCODE": "4010385235283",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 11
 }

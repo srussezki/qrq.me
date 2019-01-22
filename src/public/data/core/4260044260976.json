@@ -1,4 +1,5 @@
 {
+	"item_group": "Nahrungsergänzungsmittel",
 	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/4260044260976.jpg",
 	"creation": "2018-04-19T18:07:53.236615",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 4,
 	"first_time_ordered_on_": "2018-04-13",
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 45,
 	"item_name": "Power System Weightgainer Vanille 1000g",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7381c55e-b498-4804-b60e-245199ede89d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4260044260976",
 	"item_code": "PP-000007425",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000007425",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Nahrungsergänzungsmittel",
+	"BARCODE": "4260044260976",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 9.99,
-	"base_price": "0.89"
+	"ORDERS_30D": 5
 }

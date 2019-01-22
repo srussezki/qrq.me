@@ -1,4 +1,5 @@
 {
+	"item_group": "Aufbewahrung",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8711252157870.jpg",
 	"creation": "2018-03-14T16:33:26.692604",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 6,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 98,
 	"item_name": "Aufbewahrungsbox 4Versch. Farben",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=64f700e0-acc4-441a-a4d2-f937024380cd",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252157870",
 	"item_code": "PP-000005464",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000005464",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Aufbewahrung",
+	"BARCODE": "8711252157870",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 22
 }

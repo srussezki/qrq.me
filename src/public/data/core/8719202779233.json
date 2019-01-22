@@ -1,4 +1,5 @@
 {
+	"item_group": "Weihnachten",
 	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/8719202779233.jpg",
 	"creation": "2018-07-22T21:42:35.555708",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 28,
 	"item_name": "LED Projektor IP44",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=42603547-75bb-413d-8621-42dc5356487c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202779233",
 	"item_code": "PP-000011203",
-	"current_stock_001_kaufpark_eiche": 18,
 	"name": "PP-000011203",
+	"current_stock_001_kaufpark_eiche": 18,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Weihnachten",
+	"BARCODE": "8719202779233",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "6.49",
 	"current_gross_selling_price": 2.99,
-	"base_price": "6.49"
+	"ORDERS_30D": 0
 }

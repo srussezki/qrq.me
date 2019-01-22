@@ -1,4 +1,5 @@
 {
+	"item_group": "Süßigkeiten & Kaugummi",
 	"current_stock_003_halle_altstadt": 18,
 	"image": "/files/7610700947753.jpg",
 	"creation": "2018-11-08T15:07:37.548199",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 90,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": "Alles für die Naschkatzen bei factorymarket",
+	"ORDERS_ALLTIME": 27,
 	"item_name": "Ricola Bonbons Honig+Alpensalbei zuckerfr. 75g",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=472c38f5-760f-4b6a-9594-07a8370eb126",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "7610700947753",
 	"item_code": "PP-000015413",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000015413",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "7610700947753",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 12
 }

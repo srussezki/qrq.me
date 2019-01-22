@@ -1,4 +1,5 @@
 {
+	"item_group": "Süßigkeiten & Kaugummi",
 	"current_stock_003_halle_altstadt": 200,
 	"image": "/files/5026418156936.jpg",
 	"creation": "2018-09-18T12:52:47.908829",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Alles für die Naschkatzen bei factorymarket",
+	"ORDERS_ALLTIME": 453,
 	"item_name": "Brain Blasterz Candy Sour",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=95fd63e4-0cf1-4f8b-9f94-e5240fcbe52c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5026418156936",
 	"item_code": "PP-000013659",
-	"current_stock_001_kaufpark_eiche": 200,
 	"name": "PP-000013659",
+	"current_stock_001_kaufpark_eiche": 200,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "5026418156936",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.19",
 	"current_gross_selling_price": 0.19,
-	"base_price": "0.19"
+	"ORDERS_30D": 0
 }

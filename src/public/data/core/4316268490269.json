@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekokissen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-14T16:00:45.522735",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-06",
+	"ORDERS_7D": null,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Nackenrolle Gelb/Orange Blumen",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=89b7f398-bbcc-4d7b-839f-26bd8955cfc0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4316268490269",
 	"item_code": "PP-000004581",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004581",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Dekokissen",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": null
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Hefte & Blöcke",
 	"current_stock_003_halle_altstadt": 8,
 	"image": null,
 	"creation": "2018-11-07T12:10:56.614211",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 12,
 	"item_name": "Vokabelheft A5, 32 Blatt LIN 53",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2d1d6c09-0543-4da6-b41e-621794a3e945",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4006144574540",
 	"item_code": "PP-000015702",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015702",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hefte & Blöcke",
+	"BARCODE": "4006144574540",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 5
 }

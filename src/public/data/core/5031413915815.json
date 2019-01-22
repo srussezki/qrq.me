@@ -1,4 +1,5 @@
 {
+	"item_group": "Hygieneartikel",
 	"current_stock_003_halle_altstadt": 18,
 	"image": "/files/5031413915815.jpg",
 	"creation": "2018-02-13T18:50:57.427747",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-11-02",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 46,
 	"item_name": "Pretty Intimate Damenbinden 8stk",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d9934068-c0ef-487a-a58c-a9fb94fc925b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5031413915815",
 	"item_code": "PP-000001240",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000001240",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Hygieneartikel",
+	"BARCODE": "5031413915815",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 3
 }

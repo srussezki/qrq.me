@@ -1,4 +1,5 @@
 {
+	"item_group": "Damenbekleidung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4040073024509.jpg",
 	"creation": "2018-08-24T13:32:18.151616",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 23,
 	"item_name": "Damen Pijama Snoopy 40-42",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7d418f35-0f74-4a24-b164-21f527b56367",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4040073024509",
 	"item_code": "PP-000012835",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000012835",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Damenbekleidung",
+	"BARCODE": "4040073024509",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 18
 }

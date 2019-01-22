@@ -1,4 +1,5 @@
 {
+	"item_group": "Schreibwaren Schule",
 	"current_stock_003_halle_altstadt": 1,
 	"image": "/files/4002372103927.jpg",
 	"creation": "2018-11-07T12:10:18.235898",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 14,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 89,
 	"item_name": "Idena College Block A4 kariert beids.Rand",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d22717e2-e844-4445-b9f2-5ec5e8d5bf28",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002372103927",
 	"item_code": "PP-000015476",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015476",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Schreibwaren Schule",
+	"BARCODE": "4002372103927",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 30
 }

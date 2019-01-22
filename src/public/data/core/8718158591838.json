@@ -1,4 +1,5 @@
 {
+	"item_group": "Saisonale Spielwaren",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/8718158591838.jpg",
 	"creation": "2018-02-13T19:01:26.883956",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 72,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 56,
 	"item_name": "Stretchball farbig sortiert",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1cb5e290-c176-4cf7-87a7-8f57ddec945e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158591838",
 	"item_code": "PP-000003058",
-	"current_stock_001_kaufpark_eiche": 17,
 	"name": "PP-000003058",
+	"current_stock_001_kaufpark_eiche": 17,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Saisonale Spielwaren",
+	"BARCODE": "8718158591838",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 0
 }

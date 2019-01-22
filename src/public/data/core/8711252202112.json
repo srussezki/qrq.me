@@ -1,4 +1,5 @@
 {
+	"item_group": "Katzen",
 	"current_stock_003_halle_altstadt": 13,
 	"image": "/files/8711252202112.jpg",
 	"creation": "2018-04-19T18:43:34.286954",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-09",
+	"ORDERS_7D": 5,
 	"marketing_text": "Alles für Hund, Katze, Maus gibts auch online",
+	"ORDERS_ALLTIME": 130,
 	"item_name": "Katzenhalsband versch. Varianten",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=95052a1d-e0a8-4a12-9c33-baa4ab60a74d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252202112",
 	"item_code": "PP-000007496",
-	"current_stock_001_kaufpark_eiche": 17,
 	"name": "PP-000007496",
+	"current_stock_001_kaufpark_eiche": 17,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Katzen",
+	"BARCODE": "8711252202112",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 19
 }

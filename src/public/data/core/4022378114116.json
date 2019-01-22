@@ -1,4 +1,5 @@
 {
+	"item_group": "Bettwaren",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4022378114116.jpg",
 	"creation": "2018-02-21T13:34:09.001360",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-08",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 48,
 	"item_name": "Kopfkissen 80x80cm",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fc0e1731-96b7-4520-8d05-11dab333b7b3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4022378114116",
 	"item_code": "PP-000004866",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004866",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Bettwaren",
+	"BARCODE": "4022378114116",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "8.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "8.99"
+	"ORDERS_30D": 0
 }

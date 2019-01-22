@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekoration",
 	"current_stock_003_halle_altstadt": 2,
 	"image": null,
 	"creation": "2018-03-14T16:33:05.614516",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-07",
+	"ORDERS_7D": 1,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 64,
 	"item_name": "Wandboard",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8a14611d-1ecd-429f-b90e-75f3a8b5b38d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4031456531066",
 	"item_code": "PP-000005162",
-	"current_stock_001_kaufpark_eiche": 31,
 	"name": "PP-000005162",
+	"current_stock_001_kaufpark_eiche": 31,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekoration",
+	"BARCODE": "4031456531066",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 1
 }

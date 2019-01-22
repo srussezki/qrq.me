@@ -1,4 +1,5 @@
 {
+	"item_group": "Kerzen & -zubehör",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4008495445449.png",
 	"creation": "2018-02-14T09:13:52.968688",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 5,
 	"item_name": "Duftkerzen Lemon 12stk",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=23fecf4b-44fc-4a9c-a7a4-496a0d7451bc",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008495445449",
 	"item_code": "PP-000002679",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000002679",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": "4008495445449",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.49",
 	"current_gross_selling_price": 0.49,
-	"base_price": "0.49"
+	"ORDERS_30D": 1
 }

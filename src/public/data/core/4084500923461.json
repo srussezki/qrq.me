@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4084500923461.png",
 	"creation": "2018-02-13T18:53:57.198185",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-22",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 86,
 	"item_name": "Old Spice Deo Spray 125ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=11b6bf61-c727-432a-b880-43c76269c680",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4084500923461",
 	"item_code": "PP-000000605",
-	"current_stock_001_kaufpark_eiche": 40,
 	"name": "PP-000000605",
+	"current_stock_001_kaufpark_eiche": 40,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "4084500923461",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 1
 }

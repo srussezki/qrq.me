@@ -1,4 +1,5 @@
 {
+	"item_group": "Saisonale Spielwaren",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711295201394.jpg",
 	"creation": "2018-02-14T09:14:35.638976",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 72,
 	"item_name": "Wassergewehr Mit Pumpe",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0418b34d-aa52-4577-a4c2-8b413cc4972c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295201394",
 	"item_code": "PP-000004493",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004493",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Saisonale Spielwaren",
+	"BARCODE": "8711295201394",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.49",
 	"current_gross_selling_price": 0.89,
-	"base_price": "5.49"
+	"ORDERS_30D": 0
 }

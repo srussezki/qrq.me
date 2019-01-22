@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 16,
+	"item_group": "Küchenhelfer",
+	"current_stock_003_halle_altstadt": 15,
 	"image": "/files/8711252908038.jpg",
 	"creation": "2018-02-13T18:48:59.480641",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 192,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 10,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 489,
 	"item_name": "Schneebesen",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b256d045-3df8-4e83-ae72-90d04ed70916",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252908038",
 	"item_code": "PP-000000417",
-	"current_stock_001_kaufpark_eiche": 24,
 	"name": "PP-000000417",
+	"current_stock_001_kaufpark_eiche": 24,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "4",
-	"item_group": "Küchenhelfer",
+	"BARCODE": "8711252908038",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "1.29",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.29"
+	"ORDERS_30D": 26
 }

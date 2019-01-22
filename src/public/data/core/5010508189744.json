@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Raumduft",
 	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/5010508189744.jpg",
 	"creation": "2018-02-13T18:51:18.371612",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-19",
+	"ORDERS_7D": 1,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 20,
 	"item_name": "Raumspray Charm Lily White Flowers",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8c6125a0-44c0-4dd7-a0d8-29bf5db23c74",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5010508189744",
 	"item_code": "PP-000001134",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000001134",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "4",
-	"item_group": "FMCG Raumduft",
+	"BARCODE": "5010508189744",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.45",
 	"current_gross_selling_price": 1.09,
-	"base_price": "0.45"
+	"ORDERS_30D": 3
 }

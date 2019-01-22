@@ -1,4 +1,5 @@
 {
+	"item_group": "Spardosen",
 	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/8717794811263.jpg",
 	"creation": "2018-06-05T17:07:37.593025",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Pimp your Home",
+	"ORDERS_ALLTIME": 59,
 	"item_name": "Fotorahmen&Spardose 11,5x16,5x5,5cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=828ac36d-932a-40bc-8d2a-ef4d6586d07d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8717794811263",
 	"item_code": "PP-000009560",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000009560",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spardosen",
+	"BARCODE": "8717794811263",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 3.99,
-	"base_price": "2.49"
+	"ORDERS_30D": 10
 }

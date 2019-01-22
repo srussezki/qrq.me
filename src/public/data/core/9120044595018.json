@@ -1,4 +1,5 @@
 {
+	"item_group": "Badtextilien",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/9120044595018.png",
 	"creation": "2018-02-13T18:48:20.404868",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-15",
+	"ORDERS_7D": 0,
 	"marketing_text": "Wecke den Putzteufel in Dir!",
+	"ORDERS_ALLTIME": 204,
 	"item_name": "Waschhandschuh Braun 16x21cm",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2d111829-da64-4935-8b04-7b648cfede5b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "9120044595018",
 	"item_code": "PP-000002497",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000002497",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "Badtextilien",
+	"BARCODE": "9120044595018",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.39",
 	"current_gross_selling_price": 0.39,
-	"base_price": "0.39"
+	"ORDERS_30D": 0
 }

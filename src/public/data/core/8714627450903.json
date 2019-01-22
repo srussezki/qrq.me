@@ -1,4 +1,5 @@
 {
+	"item_group": "Sticker & Stempel",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8714627450903.jpg",
 	"creation": "2018-03-14T16:33:12.149228",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 9,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 197,
 	"item_name": "Tattoo Stickerbuch 6 Variationen 280stk",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=53f8b4a3-1234-478d-99a6-05629102ca5f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627450903",
 	"item_code": "PP-000005822",
-	"current_stock_001_kaufpark_eiche": 26,
 	"name": "PP-000005822",
+	"current_stock_001_kaufpark_eiche": 25,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Sticker & Stempel",
+	"BARCODE": "8714627450903",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 11
 }

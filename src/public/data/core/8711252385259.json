@@ -1,4 +1,5 @@
 {
+	"item_group": "Raucherbedarf",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711252385259.jpg",
 	"creation": "2018-02-13T18:57:08.642112",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 5,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 276,
 	"item_name": "Gasfeuerzeug nachfüllb. 250ml",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=135dbf73-a419-432f-967f-a49ed5929598",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252385259",
 	"item_code": "PP-000000185",
-	"current_stock_001_kaufpark_eiche": 65,
 	"name": "PP-000000185",
+	"current_stock_001_kaufpark_eiche": 65,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Raucherbedarf",
+	"BARCODE": "8711252385259",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.31",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.31"
+	"ORDERS_30D": 58
 }

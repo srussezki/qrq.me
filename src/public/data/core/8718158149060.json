@@ -1,4 +1,5 @@
 {
+	"item_group": "Deko LED",
 	"current_stock_003_halle_altstadt": 9,
 	"image": "/files/8718158149060.jpg",
 	"creation": "2018-08-08T19:19:54.789050",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 6,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 4,
 	"item_name": "LED Lampion Lichterkette",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2af20f50-d810-40bb-8cd5-9b8fa894839a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158149060",
 	"item_code": "PP-000012383",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000012383",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Deko LED",
+	"BARCODE": "8718158149060",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "14.99",
 	"current_gross_selling_price": 14.99,
-	"base_price": "14.99"
+	"ORDERS_30D": 0
 }

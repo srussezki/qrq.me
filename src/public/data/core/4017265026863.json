@@ -1,4 +1,5 @@
 {
+	"item_group": "Garten",
 	"current_stock_003_halle_altstadt": 3,
 	"image": null,
 	"creation": "2018-09-27T13:34:54.987707",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 25,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Tauche ein in die Auswahl von factorymarket!",
+	"ORDERS_ALLTIME": 1,
 	"item_name": "Vogelfutterhaus Windmühle, rot, sort.",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c43c6c2e-d27c-4880-9089-cb655cfeccb2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4017265026863",
 	"item_code": "PP-000014139",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000014139",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Garten",
+	"BARCODE": "4017265026863",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "14.99",
 	"current_gross_selling_price": 14.99,
-	"base_price": "14.99"
+	"ORDERS_30D": 0
 }

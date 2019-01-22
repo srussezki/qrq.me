@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 10,
+	"item_group": "Unterwäsche & Bademode",
+	"current_stock_003_halle_altstadt": 8,
 	"image": null,
 	"creation": "2018-10-08T15:40:47.962262",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 17,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 44,
 	"item_name": "Simply Me Damen Unterwäsche 3stk mit Druck",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c46b02ad-8dc3-45bd-9808-11fa3299ea0e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3614000335030",
 	"item_code": "PP-000014649",
-	"current_stock_001_kaufpark_eiche": 67,
 	"name": "PP-000014649",
+	"current_stock_001_kaufpark_eiche": 67,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Unterwäsche & Bademode",
+	"BARCODE": "3614000335030",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "3.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 38
 }

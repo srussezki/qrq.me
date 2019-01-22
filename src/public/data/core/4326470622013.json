@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 49,
+	"item_group": "Schmuck",
+	"current_stock_003_halle_altstadt": 47,
 	"image": "/files/4326470622013.jpg",
 	"creation": "2018-02-13T18:50:44.973165",
 	"website_image": "/files/4326470622013.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 150,
 	"first_time_ordered_on_": "2017-12-27",
+	"ORDERS_7D": 13,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 304,
 	"item_name": "Haargummis",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5580514b-64e9-45e5-aa6a-6be5c6c1f900",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470622013",
 	"item_code": "PP-000001301",
-	"current_stock_001_kaufpark_eiche": 37,
 	"name": "PP-000001301",
+	"current_stock_001_kaufpark_eiche": 36,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "2",
-	"item_group": "Schmuck",
+	"BARCODE": "4326470622013",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.69",
 	"current_gross_selling_price": 0.69,
-	"base_price": "0.69"
+	"ORDERS_30D": 50
 }

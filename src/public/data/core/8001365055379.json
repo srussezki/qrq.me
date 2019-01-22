@@ -1,4 +1,5 @@
 {
+	"item_group": "Autopflege",
 	"current_stock_003_halle_altstadt": 42,
 	"image": "/files/8001365055379.jpg",
 	"creation": "2018-03-14T16:33:23.301198",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 480,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 18,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 390,
 	"item_name": "Lufterfrischer Zitrone",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5e4d85fc-bf64-4028-ad03-c12810d4791d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8001365055379",
 	"item_code": "PP-000005545",
-	"current_stock_001_kaufpark_eiche": 22,
 	"name": "PP-000005545",
+	"current_stock_001_kaufpark_eiche": 21,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Autopflege",
+	"BARCODE": "8001365055379",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 61
 }

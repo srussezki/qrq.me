@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 7,
+	"item_group": "Reinigung hart",
+	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/8711252158952.png",
 	"creation": "2018-02-14T09:13:47.818707",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-22",
+	"ORDERS_7D": 5,
 	"marketing_text": "Wecke den Putzteufel in Dir!",
+	"ORDERS_ALLTIME": 28,
 	"item_name": "Staubwedel",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1358c20f-addf-44ec-922f-1996ea911305",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252158952",
 	"item_code": "PP-000001634",
-	"current_stock_001_kaufpark_eiche": 18,
 	"name": "PP-000001634",
+	"current_stock_001_kaufpark_eiche": 18,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "0",
-	"item_group": "Reinigung hart",
+	"BARCODE": "8711252158952",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 6
 }

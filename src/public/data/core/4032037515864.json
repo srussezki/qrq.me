@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 12,
+	"item_group": "Deko LED",
+	"current_stock_003_halle_altstadt": 11,
 	"image": "#REF!",
 	"creation": "2019-01-03T12:18:56.196136",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 60,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 2,
 	"item_name": "LED Teelicht flackernd 4stk weiß",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4032037515864",
 	"item_code": "PP-000016814",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000016814",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Deko LED",
+	"BARCODE": "4032037515864",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 2
 }

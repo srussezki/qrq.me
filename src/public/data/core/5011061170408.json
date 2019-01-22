@@ -1,4 +1,5 @@
 {
+	"item_group": "Süßigkeiten & Kaugummi",
 	"current_stock_003_halle_altstadt": 27,
 	"image": "/files/5011061170408.jpg",
 	"creation": "2018-04-25T16:23:14.157312",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 150,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 15,
 	"marketing_text": "Für den Hunger zwischendurch und danach",
+	"ORDERS_ALLTIME": 331,
 	"item_name": "Gum Powder Bubble Gum",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=40b0ed11-63f0-4e80-88c5-445081366918",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5011061170408",
 	"item_code": "PP-000007954",
-	"current_stock_001_kaufpark_eiche": 33,
 	"name": "PP-000007954",
+	"current_stock_001_kaufpark_eiche": 33,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "5011061170408",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.39",
 	"current_gross_selling_price": 0.39,
-	"base_price": "0.39"
+	"ORDERS_30D": 35
 }

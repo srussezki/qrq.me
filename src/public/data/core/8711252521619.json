@@ -1,4 +1,5 @@
 {
+	"item_group": "Camping",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711252521619.jpg",
 	"creation": "2018-03-14T16:33:22.842106",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 52,
 	"item_name": "Mückenstich Schmerzstiller",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b2d31156-adbf-4521-a924-6f6493554fa6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252521619",
 	"item_code": "PP-000005556",
-	"current_stock_001_kaufpark_eiche": 23,
 	"name": "PP-000005556",
+	"current_stock_001_kaufpark_eiche": 23,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Camping",
+	"BARCODE": "8711252521619",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.99"
+	"ORDERS_30D": 0
 }

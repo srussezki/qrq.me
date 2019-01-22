@@ -1,4 +1,5 @@
 {
+	"item_group": "Nähzubehör",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4036014153827.png",
 	"creation": "2018-02-13T18:49:46.373408",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 1,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 38,
 	"item_name": "Nadelmaß Für Stricknadeln",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=011da5b4-404c-4e62-a980-4e8ae8015b11",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4036014153827",
 	"item_code": "PP-000002243",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000002243",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "4",
-	"item_group": "Nähzubehör",
+	"BARCODE": "4036014153827",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 1
 }

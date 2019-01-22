@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8718158434821.png",
 	"creation": "2018-02-13T18:53:18.878095",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": "2017-11-01",
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 96,
 	"item_name": "Party-Masken",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=081208e4-5e9c-4900-a30a-428aabfaf90c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158434821",
 	"item_code": "PP-000000768",
-	"current_stock_001_kaufpark_eiche": 20,
 	"name": "PP-000000768",
+	"current_stock_001_kaufpark_eiche": 20,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "5",
-	"item_group": "Partyartikel",
+	"BARCODE": "8718158434821",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 0
 }

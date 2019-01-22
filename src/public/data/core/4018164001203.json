@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 40,
+	"item_group": "FMCG Haushalt",
+	"current_stock_003_halle_altstadt": 38,
 	"image": "/files/4018164001203.jpg",
 	"creation": "2018-08-02T11:47:53.849438",
 	"website_image": "/files/4018164001203.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 250,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": "Über 600.000 weiterer Küchenhelfer online",
+	"ORDERS_ALLTIME": 65,
 	"item_name": "Frühstücksbeutel, 100 Stk., 17x24cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=33f21105-768f-4a13-96c8-7ab0230ab4e7",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4018164001203",
 	"item_code": "PP-000011888",
-	"current_stock_001_kaufpark_eiche": 20,
 	"name": "PP-000011888",
+	"current_stock_001_kaufpark_eiche": 20,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "FMCG Haushalt",
+	"BARCODE": "4018164001203",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 18
 }

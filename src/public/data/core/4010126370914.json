@@ -1,4 +1,5 @@
 {
+	"item_group": "Autozubehör",
 	"current_stock_003_halle_altstadt": 8,
 	"image": "/files/4010126370914.jpg",
 	"creation": "2018-06-25T15:14:00.452038",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 20,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 33,
 	"item_name": "Frischluftgitter für Autofenster",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9b6d40ae-c61a-4b87-b051-ee3f72100668",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4010126370914",
 	"item_code": "PP-000009801",
-	"current_stock_001_kaufpark_eiche": 15,
 	"name": "PP-000009801",
+	"current_stock_001_kaufpark_eiche": 15,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Autozubehör",
+	"BARCODE": "4010126370914",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 4
 }

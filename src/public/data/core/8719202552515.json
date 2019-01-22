@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekoration",
 	"current_stock_003_halle_altstadt": 4,
 	"image": "/files/8719202552515.jpg",
 	"creation": "2018-03-23T21:08:13.017872",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-15",
+	"ORDERS_7D": 4,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 56,
 	"item_name": "Dekoration Steine Klein Versch. Varianten",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d8bd898c-bb00-43a6-81a1-0c73d5fd2b1b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202552515",
 	"item_code": "PP-000005991",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000005991",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekoration",
+	"BARCODE": "8719202552515",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 8
 }

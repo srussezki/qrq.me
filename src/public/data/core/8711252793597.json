@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 44,
+	"item_group": "Werkzeug",
+	"current_stock_003_halle_altstadt": 43,
 	"image": "/files/8711252793597.jpg",
 	"creation": "2018-02-13T18:49:09.795492",
 	"website_image": "/files/8711252793597.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 192,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 5,
 	"marketing_text": "Alles Rund um das Auto auch online",
+	"ORDERS_ALLTIME": 277,
 	"item_name": "Abdeckfolie 4x5m",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=39dc6019-8da3-4219-b450-2835ad8dc85b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252793597",
 	"item_code": "PP-000000353",
-	"current_stock_001_kaufpark_eiche": 24,
 	"name": "PP-000000353",
+	"current_stock_001_kaufpark_eiche": 24,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "3",
-	"item_group": "Werkzeug",
+	"BARCODE": "8711252793597",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 15
 }

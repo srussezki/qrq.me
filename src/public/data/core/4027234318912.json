@@ -1,4 +1,5 @@
 {
+	"item_group": "Kunstblumen",
 	"current_stock_003_halle_altstadt": 33,
 	"image": "/files/4027234318912.jpg",
 	"creation": "2018-08-03T13:26:26.620182",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 6,
 	"marketing_text": "Pimp your Home",
+	"ORDERS_ALLTIME": 62,
 	"item_name": "Promotion-Rose, versch. Farben, 62 cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=41374da9-74d7-4d48-ab4a-f8d81759713e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4027234318912",
 	"item_code": "PP-000012010",
-	"current_stock_001_kaufpark_eiche": 45,
 	"name": "PP-000012010",
+	"current_stock_001_kaufpark_eiche": 45,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kunstblumen",
+	"BARCODE": "4027234318912",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 11
 }

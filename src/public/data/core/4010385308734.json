@@ -1,4 +1,5 @@
 {
+	"item_group": "Kerzen & -zubehör",
 	"current_stock_003_halle_altstadt": 60,
 	"image": "/files/4010385308734.jpg",
 	"creation": "2018-10-04T12:38:10.991176",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 23,
 	"item_name": "Leuchter Blume 10cm Metalleinsatz",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b1329028-077a-483e-9669-7da638c96b72",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4010385308734",
 	"item_code": "PP-000014268",
-	"current_stock_001_kaufpark_eiche": 69,
 	"name": "PP-000014268",
+	"current_stock_001_kaufpark_eiche": 69,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": "4010385308734",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 8
 }

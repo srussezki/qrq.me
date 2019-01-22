@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 11,
+	"item_group": "Werkzeug",
+	"current_stock_003_halle_altstadt": 9,
 	"image": "/files/4326470410580.jpg",
 	"creation": "2018-02-13T18:48:11.859956",
 	"website_image": "/files/4326470410580.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-11-02",
+	"ORDERS_7D": 6,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 116,
 	"item_name": "Koffer- & Gepäckschloss",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ed924e51-8924-4b5e-ace4-afe86f7b4ea5",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470410580",
 	"item_code": "PP-000001180",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000001180",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Werkzeug",
+	"BARCODE": "4326470410580",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 17
 }

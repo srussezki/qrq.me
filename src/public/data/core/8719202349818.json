@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 23,
+	"item_group": "Partyartikel",
+	"current_stock_003_halle_altstadt": 21,
 	"image": "/files/8719202349818.jpg",
 	"creation": "2018-02-13T18:59:22.249758",
 	"website_image": "/files/8719202349818.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 216,
 	"first_time_ordered_on_": "2017-11-22",
+	"ORDERS_7D": 7,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 147,
 	"item_name": "Flaggenleine 3,5m",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ebee1b79-779b-43cc-b47a-65078a4ba0bb",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202349818",
 	"item_code": "PP-000003252",
-	"current_stock_001_kaufpark_eiche": 22,
 	"name": "PP-000003252",
+	"current_stock_001_kaufpark_eiche": 22,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Partyartikel",
+	"BARCODE": "8719202349818",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 17
 }

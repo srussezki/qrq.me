@@ -1,4 +1,5 @@
 {
+	"item_group": "Schuhe",
 	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/8718051561877.jpg",
 	"creation": "2018-09-10T15:27:15.694514",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 3,
 	"item_name": "XQ Mädchen Winterschuhe leo.braun",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c515f632-698b-4658-b05a-18b21f7ec582",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718051561877",
 	"item_code": "PP-000013196",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000013196",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schuhe",
+	"BARCODE": "8718051561877",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "16.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "16.99"
+	"ORDERS_30D": 2
 }

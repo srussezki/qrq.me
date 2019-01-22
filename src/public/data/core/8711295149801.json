@@ -1,4 +1,5 @@
 {
+	"item_group": "Garten",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711295149801.jpg",
 	"creation": "2018-02-14T09:14:26.279777",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 56,
 	"item_name": "Thermometer Holz 22cm",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=75a3f4bf-6eed-4bcf-8833-eeab3a8f5ea4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295149801",
 	"item_code": "PP-000004429",
-	"current_stock_001_kaufpark_eiche": 15,
 	"name": "PP-000004429",
+	"current_stock_001_kaufpark_eiche": 15,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Garten",
+	"BARCODE": "8711295149801",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.89"
+	"ORDERS_30D": 3
 }

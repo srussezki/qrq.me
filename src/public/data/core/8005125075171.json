@@ -1,12 +1,15 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/8005125075171.png",
 	"creation": "2018-08-20T16:45:27.698050",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 32,
+	"current_stock_wh_ludwigsfelde": 26,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": "Spielzeug für Groß und Klein auch online",
+	"ORDERS_ALLTIME": 33,
 	"item_name": "Disney Frozen Puzzle 100 Teile",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3466d917-7231-476b-8413-4e4a66ea613b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8005125075171",
 	"item_code": "PP-000012667",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000012667",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8005125075171",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 6
 }

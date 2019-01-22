@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 18,
+	"item_group": "Ballons",
+	"current_stock_003_halle_altstadt": 17,
 	"image": "/files/8714572053853.jpg",
 	"creation": "2018-09-17T18:47:12.113386",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 29,
 	"item_name": "Folat Ballon Verkehrsschilder \"60\"",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0516b86e-8c5f-4cb5-a335-7d9dc4ced5a8",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714572053853",
 	"item_code": "PP-000013590",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000013590",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Ballons",
+	"BARCODE": "8714572053853",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 18
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Decken",
 	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/4038732302570.jpg",
 	"creation": "2018-04-30T11:15:04.461471",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 96,
 	"first_time_ordered_on_": "2018-03-21",
+	"ORDERS_7D": 4,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 125,
 	"item_name": "Kuscheldecke \"Meerjungfrau\" pink 55x132cm",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4038732302570",
 	"item_code": "PP-000008233",
-	"current_stock_001_kaufpark_eiche": 50,
 	"name": "PP-000008233",
+	"current_stock_001_kaufpark_eiche": 49,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Decken",
+	"BARCODE": "4038732302570",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.49",
 	"current_gross_selling_price": 4.49,
-	"base_price": "4.49"
+	"ORDERS_30D": 18
 }

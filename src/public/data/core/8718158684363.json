@@ -1,4 +1,5 @@
 {
+	"item_group": "Weihnachten",
 	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/8718158684363.jpg",
 	"creation": "2018-07-22T21:42:40.864195",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 1356,
 	"item_name": "Silberdraht 40 LED WW BO Kaskade",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=51a2babc-3906-4d43-8937-d6688edd0051",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158684363",
 	"item_code": "PP-000011235",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000011235",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Weihnachten",
+	"BARCODE": "8718158684363",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.74",
 	"current_gross_selling_price": 0.29,
-	"base_price": "0.74"
+	"ORDERS_30D": 124
 }

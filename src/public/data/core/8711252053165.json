@@ -1,12 +1,15 @@
 {
+	"item_group": "Glas",
 	"current_stock_003_halle_altstadt": 11,
 	"image": null,
 	"creation": "2018-02-14T16:00:50.267106",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 166,
+	"current_stock_wh_ludwigsfelde": 160,
 	"first_time_ordered_on_": "2017-12-19",
+	"ORDERS_7D": 2,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 184,
 	"item_name": "Vorratsgläser 4X580Ml",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=39165d1b-9409-4f2e-9bd6-28116ce98455",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252053165",
 	"item_code": "PP-000003357",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000003357",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Glas",
+	"BARCODE": "8711252053165",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 14
 }

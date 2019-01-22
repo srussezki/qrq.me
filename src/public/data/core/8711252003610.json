@@ -1,4 +1,5 @@
 {
+	"item_group": "Ballons",
 	"current_stock_003_halle_altstadt": 84,
 	"image": "/files/8711252003610.jpg",
 	"creation": "2018-02-13T18:50:32.386428",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 72,
 	"first_time_ordered_on_": "2017-11-28",
+	"ORDERS_7D": 8,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 385,
 	"item_name": "Folienballon Happy Birthday",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9e253091-f26b-4b29-9502-b995544c4a31",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252003610",
 	"item_code": "PP-000001588",
-	"current_stock_001_kaufpark_eiche": 24,
 	"name": "PP-000001588",
+	"current_stock_001_kaufpark_eiche": 24,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Ballons",
+	"BARCODE": "8711252003610",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.69",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.69"
+	"ORDERS_30D": 26
 }

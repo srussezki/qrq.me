@@ -1,4 +1,5 @@
 {
+	"item_group": "Beautyaccessoires",
 	"current_stock_003_halle_altstadt": 72,
 	"image": "/files/4326470631060.jpg",
 	"creation": "2018-02-13T18:48:44.088548",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 240,
 	"first_time_ordered_on_": "2018-11-02",
+	"ORDERS_7D": 3,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 176,
 	"item_name": "Hornhautfeile Elina",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1dd2e0ca-863a-4687-bf34-b9e6aa75ee36",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470631060",
 	"item_code": "PP-000001313",
-	"current_stock_001_kaufpark_eiche": 77,
 	"name": "PP-000001313",
+	"current_stock_001_kaufpark_eiche": 77,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Beautyaccessoires",
+	"BARCODE": "4326470631060",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.59",
 	"current_gross_selling_price": 0.59,
-	"base_price": "0.59"
+	"ORDERS_30D": 11
 }

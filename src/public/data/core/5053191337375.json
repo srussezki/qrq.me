@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 72,
+	"item_group": "Hygieneartikel",
+	"current_stock_003_halle_altstadt": 71,
 	"image": "/files/5053191337375.jpg",
 	"creation": "2018-02-14T16:00:29.320483",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-27",
+	"ORDERS_7D": 3,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 133,
 	"item_name": "Paw Patrol Feuchttücher",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f5a648e8-23ae-4bd6-b9ab-4a9da3be57c6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5053191337375",
 	"item_code": "PP-000004187",
-	"current_stock_001_kaufpark_eiche": 18,
 	"name": "PP-000004187",
+	"current_stock_001_kaufpark_eiche": 17,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Hygieneartikel",
+	"BARCODE": "5053191337375",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 9
 }

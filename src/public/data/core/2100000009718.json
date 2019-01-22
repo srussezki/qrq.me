@@ -1,4 +1,5 @@
 {
+	"item_group": "Damenbekleidung",
 	"current_stock_003_halle_altstadt": 16,
 	"image": null,
 	"creation": "2018-10-02T17:35:12.412538",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 13,
 	"item_name": "Damen Winterjacke sortiert ",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0d9e74cf-7525-4fdb-b4af-ff1cb60d1358",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "2100000009718",
 	"item_code": "PP-000014399",
-	"current_stock_001_kaufpark_eiche": 20,
 	"name": "PP-000014399",
+	"current_stock_001_kaufpark_eiche": 20,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Damenbekleidung",
+	"BARCODE": "2100000009718",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "24.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "24.99"
+	"ORDERS_30D": 12
 }

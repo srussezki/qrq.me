@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 11,
+	"item_group": "FMCG Raumduft",
+	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/4010385225659.jpg",
 	"creation": "2018-10-04T12:38:07.592023",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 36,
 	"item_name": "Raumduft ROSE 100ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e3e34224-ffc9-4c4f-a921-c1003fd696c9",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4010385225659",
 	"item_code": "PP-000014251",
-	"current_stock_001_kaufpark_eiche": 34,
 	"name": "PP-000014251",
+	"current_stock_001_kaufpark_eiche": 33,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "FMCG Raumduft",
+	"BARCODE": "4010385225659",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 12
 }

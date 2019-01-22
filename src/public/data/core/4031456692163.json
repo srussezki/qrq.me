@@ -1,4 +1,5 @@
 {
+	"item_group": "Bilder- & rahmen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-04-09T09:25:39.425566",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-05",
+	"ORDERS_7D": 0,
 	"marketing_text": "Dekorieren bis zum Umfallen in der App",
+	"ORDERS_ALLTIME": 12,
 	"item_name": "Bilderrahmen Zum Hängen 47x47x3cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5d35d5c6-8af5-458f-b45c-27fe36944fb5",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4031456692163",
 	"item_code": "PP-000006730",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006730",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Bilder- & rahmen",
+	"BARCODE": "4031456692163",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 0
 }

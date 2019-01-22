@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Reinigungsmittel",
 	"current_stock_003_halle_altstadt": 9,
 	"image": "/files/4002448109082.jpg",
 	"creation": "2018-10-05T14:39:23.694519",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 6,
 	"item_name": "Calgon tabs+Sagrotan Machine Cleaner 250ml",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=218e534f-a8fa-44e3-80ba-4533f70202f8",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002448109082",
 	"item_code": "PP-000014591",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000014591",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "FMCG Reinigungsmittel",
+	"BARCODE": "4002448109082",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 3
 }

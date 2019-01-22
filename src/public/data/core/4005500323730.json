@@ -1,4 +1,5 @@
 {
+	"item_group": "Salzige Snacks",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4005500323730.jpg",
 	"creation": "2018-09-18T12:52:40.567940",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Maggi Tomatencreme Suppe",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b9521c33-d871-4eec-a873-38afc12db52b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4005500323730",
 	"item_code": "PP-000013622",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000013622",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Salzige Snacks",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": null
 }

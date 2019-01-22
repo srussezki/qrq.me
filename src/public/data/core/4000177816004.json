@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 166,
+	"item_group": "Getränke",
+	"current_stock_003_halle_altstadt": 142,
 	"image": "/files/4000177816004.png",
 	"creation": "2018-02-13T18:49:39.668355",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 1420,
 	"first_time_ordered_on_": "2017-12-04",
+	"ORDERS_7D": 118,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 5075,
 	"item_name": "Capri Sun Orange",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5206fdf1-5598-4120-a28a-813fe9320476",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4000177816004",
 	"item_code": "PP-000002340",
-	"current_stock_001_kaufpark_eiche": 174,
 	"name": "PP-000002340",
+	"current_stock_001_kaufpark_eiche": 170,
+	"ORDERS_TODAY": 2,
 	"shelf_number": "1,2",
-	"item_group": "Getränke",
+	"BARCODE": "4000177816004",
+	"ORDERS_YESTERDAY": 30,
+	"base_price": "0.14",
 	"current_gross_selling_price": 0.29,
-	"base_price": "0.14"
+	"ORDERS_30D": 258
 }

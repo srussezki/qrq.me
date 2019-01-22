@@ -1,4 +1,5 @@
 {
+	"item_group": "Mundpflege",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-10-04T10:37:40.799532",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 39,
 	"item_name": "Corega Tabs 48 Bio Aktive Sprudelkraft",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a6fb0af5-722a-4911-8eb6-044d10351585",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5054563030559",
 	"item_code": "PP-000014407",
-	"current_stock_001_kaufpark_eiche": 31,
 	"name": "PP-000014407",
+	"current_stock_001_kaufpark_eiche": 31,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Mundpflege",
+	"BARCODE": "5054563030559",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.89,
-	"base_price": "1.99"
+	"ORDERS_30D": 10
 }

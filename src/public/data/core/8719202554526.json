@@ -1,4 +1,5 @@
 {
+	"item_group": "Garten",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8719202554526.jpg",
 	"creation": "2018-02-22T10:39:00.030515",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 76,
 	"item_name": "Gartenstecker Papagei",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d77e5cbe-63d7-42ec-bf87-8f287e9ccd2f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202554526",
 	"item_code": "PP-000004771",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000004771",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Garten",
+	"BARCODE": "8719202554526",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.49"
+	"ORDERS_30D": 0
 }

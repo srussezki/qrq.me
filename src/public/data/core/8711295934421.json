@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekouhren",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8711295934421.jpg",
 	"creation": "2018-03-23T21:08:15.285595",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-15",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 71,
 	"item_name": "Wanduhr Vintage Bondstreet",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7b29db9c-2d2e-4d68-a3b9-2faf9036f2c4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295934421",
 	"item_code": "PP-000006044",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006044",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekouhren",
+	"BARCODE": "8711295934421",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 0
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 14,
+	"item_group": "Reinigung hart",
+	"current_stock_003_halle_altstadt": 13,
 	"image": "/files/2100000006496.jpg",
 	"creation": "2018-08-07T16:43:29.800329",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 9,
 	"marketing_text": "Die besten Küchenhelfer, auch in unserer App",
+	"ORDERS_ALLTIME": 110,
 	"item_name": "Mülleimer \"Swing\" mit Schwingdeckel 8,25l",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b7d3a5c1-95c4-4052-b09f-0e98766848b9",
@@ -24,8 +27,14 @@
 	"item_code": "PP-000012174",
 	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000012174",
+	"_timestamp": "20190122 150230.244",
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Reinigung hart",
+	"BARCODE": "2100000006496",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 50,
+	"top10": "Reinigung hart",
+	"top100": "Haushalt"
 }

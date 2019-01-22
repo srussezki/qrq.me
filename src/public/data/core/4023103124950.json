@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 131,
+	"item_group": "Reinigung hart",
+	"current_stock_003_halle_altstadt": 126,
 	"image": "/files/4023103124950.jpg",
 	"creation": "2018-11-07T16:58:19.280178",
 	"website_image": "/files/4023103124950.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 31,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 33,
 	"item_name": "Vileda Microfasertuch 1stk",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3ad0c65e-e2ae-461f-a3f4-079d3511a558",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4023103124950",
 	"item_code": "PP-000015791",
-	"current_stock_001_kaufpark_eiche": 183,
 	"name": "PP-000015791",
+	"current_stock_001_kaufpark_eiche": 180,
+	"ORDERS_TODAY": 3,
 	"shelf_number": null,
-	"item_group": "Reinigung hart",
+	"BARCODE": "4023103124950",
+	"ORDERS_YESTERDAY": 7,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.49"
+	"ORDERS_30D": 33
 }

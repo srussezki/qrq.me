@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Mädchen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5702015866170.jpg",
 	"creation": "2018-04-19T18:07:46.115022",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-13",
+	"ORDERS_7D": 0,
 	"marketing_text": "Das Abenteuer geht weiter in unserer App",
+	"ORDERS_ALLTIME": 9,
 	"item_name": "LEGO Friends Welpensalon",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a2579a29-405b-45e5-ba32-15ec8c8e5b4a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5702015866170",
 	"item_code": "PP-000007388",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000007388",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Mädchen",
+	"BARCODE": "5702015866170",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 0
 }

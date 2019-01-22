@@ -1,4 +1,5 @@
 {
+	"item_group": "Geschenkverpackungen",
 	"current_stock_003_halle_altstadt": 65,
 	"image": "/files/4018164003016.jpg",
 	"creation": "2018-10-12T14:39:25.295892",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 139,
 	"item_name": "Geschenkpapier \"Classic\" 2mx70cm",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=bb592ef6-abb0-475b-97cc-5356ded62515",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4018164003016",
 	"item_code": "PP-000014703",
-	"current_stock_001_kaufpark_eiche": 67,
 	"name": "PP-000014703",
+	"current_stock_001_kaufpark_eiche": 67,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Geschenkverpackungen",
+	"BARCODE": "4018164003016",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 20
 }

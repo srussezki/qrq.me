@@ -1,4 +1,5 @@
 {
+	"item_group": "Plüschtiere",
 	"current_stock_003_halle_altstadt": 9,
 	"image": "/files/8711252081809.jpg",
 	"creation": "2018-07-18T15:00:48.528751",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 14,
 	"item_name": "Plüschtier Meerjungfrau 55cm",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=16a63f0f-a03d-4bb8-9410-6d9d30d05864",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252081809",
 	"item_code": "PP-000010960",
-	"current_stock_001_kaufpark_eiche": 16,
 	"name": "PP-000010960",
+	"current_stock_001_kaufpark_eiche": 16,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Plüschtiere",
+	"BARCODE": "8711252081809",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 1
 }

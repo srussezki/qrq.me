@@ -1,4 +1,5 @@
 {
+	"item_group": "Camping",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8719202538243.jpg",
 	"creation": "2018-08-08T19:19:55.272035",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Kühltasche PP 24x16x15cm",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c8697d46-c2c6-4ba5-af65-faac82a53d2d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202538243",
 	"item_code": "PP-000012385",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000012385",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Camping",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": null
 }

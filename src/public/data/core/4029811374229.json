@@ -1,4 +1,5 @@
 {
+	"item_group": "Lampen",
 	"current_stock_003_halle_altstadt": 30,
 	"image": "/files/4029811374229.png",
 	"creation": "2018-07-03T10:01:19.294910",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 4,
 	"marketing_text": "Do it yourself, mit unserer App",
+	"ORDERS_ALLTIME": 29,
 	"item_name": "Aromalampe Home Sweet Home Keramik",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b3f83559-ce61-485d-abe1-abb7b2ec7a28",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4029811374229",
 	"item_code": "PP-000010403",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000010403",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Lampen",
+	"BARCODE": "4029811374229",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 5
 }

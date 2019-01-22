@@ -1,4 +1,5 @@
 {
+	"item_group": "Salzige Snacks",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4013300031236.png",
 	"creation": "2018-03-14T16:32:26.213660",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-07",
+	"ORDERS_7D": 0,
 	"marketing_text": "Für den Hunger zwischendurch und danach",
+	"ORDERS_ALLTIME": 65,
 	"item_name": "Knorr Schlemmersauce Knoblauch 250ml",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b86a78de-42b6-4d99-ae55-42701a50fbf1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4013300031236",
 	"item_code": "PP-000005188",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000005188",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Salzige Snacks",
+	"BARCODE": "4013300031236",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.43",
 	"current_gross_selling_price": 1.09,
-	"base_price": "0.43"
+	"ORDERS_30D": 1
 }

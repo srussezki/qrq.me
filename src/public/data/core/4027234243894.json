@@ -1,4 +1,5 @@
 {
+	"item_group": "Kunstblumen",
 	"current_stock_003_halle_altstadt": 60,
 	"image": "/files/4027234243894.jpg",
 	"creation": "2018-08-03T13:26:27.603879",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 120,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": "Pimp your Home",
+	"ORDERS_ALLTIME": 149,
 	"item_name": "Orchideen im Topf, versch. Farben, 18 cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8c64b4f8-ad9b-44f5-a39a-64800c967df4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4027234243894",
 	"item_code": "PP-000012024",
-	"current_stock_001_kaufpark_eiche": 20,
 	"name": "PP-000012024",
+	"current_stock_001_kaufpark_eiche": 20,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kunstblumen",
+	"BARCODE": "4027234243894",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 35
 }

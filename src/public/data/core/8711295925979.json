@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 15,
+	"item_group": "Trinkflaschen",
+	"current_stock_003_halle_altstadt": 14,
 	"image": "/files/8711295925979.jpg",
 	"creation": "2018-02-13T18:53:07.618374",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-01",
+	"ORDERS_7D": 2,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 92,
 	"item_name": "Thermosflasche 0,5L",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=18b8aacb-acc1-41fa-8bbc-4f646c8fb10c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295925979",
 	"item_code": "PP-000000813",
-	"current_stock_001_kaufpark_eiche": 15,
 	"name": "PP-000000813",
+	"current_stock_001_kaufpark_eiche": 15,
+	"ORDERS_TODAY": 2,
 	"shelf_number": "0",
-	"item_group": "Trinkflaschen",
+	"BARCODE": "8711295925979",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 3
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T18:57:18.022040",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-01",
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 61,
 	"item_name": "Konfetti Kanone",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c8edc72e-2bc5-4d0a-be09-b571dd7da4af",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202352207",
 	"item_code": "PP-000000924",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000000924",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1, 2",
-	"item_group": "Partyartikel",
+	"BARCODE": "8719202352207",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.79",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.79"
+	"ORDERS_30D": 0
 }

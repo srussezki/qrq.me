@@ -1,4 +1,5 @@
 {
+	"item_group": "Bastelbedarf",
 	"current_stock_003_halle_altstadt": 9,
 	"image": null,
 	"creation": "2018-04-12T14:44:58.248027",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-12",
+	"ORDERS_7D": 0,
 	"marketing_text": "Billiger gibts nur in der App!",
+	"ORDERS_ALLTIME": 12,
 	"item_name": "Design Bastelschere spitz",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fa4454f8-2c4f-40ed-a993-261596d814b5",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008110299532",
 	"item_code": "PP-000007109",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000007109",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Bastelbedarf",
+	"BARCODE": "4008110299532",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.39",
 	"current_gross_selling_price": 1.49,
-	"base_price": "2.39"
+	"ORDERS_30D": 0
 }

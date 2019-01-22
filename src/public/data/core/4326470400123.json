@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 11,
+	"item_group": "FMCG Reinigungsmittel",
+	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/4326470400123.jpg",
 	"creation": "2018-02-13T18:48:11.331208",
 	"website_image": "/files/4326470400123.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": "2018-11-02",
+	"ORDERS_7D": 6,
 	"marketing_text": "Wecke den Putzteufel in Dir!",
+	"ORDERS_ALLTIME": 97,
 	"item_name": "Elina Wc-Duftspüler Fl. Div. Sorten 3X50ml",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=73ed58ce-d8ba-43ca-93ec-7c2e7a3fe12e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470400123",
 	"item_code": "PP-000001170",
-	"current_stock_001_kaufpark_eiche": 20,
 	"name": "PP-000001170",
+	"current_stock_001_kaufpark_eiche": 19,
+	"ORDERS_TODAY": 2,
 	"shelf_number": "3",
-	"item_group": "FMCG Reinigungsmittel",
+	"BARCODE": "4326470400123",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.86",
 	"current_gross_selling_price": 1.29,
-	"base_price": "0.86"
+	"ORDERS_30D": 12
 }

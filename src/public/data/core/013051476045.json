@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/013051476045.jpg",
 	"creation": "2018-04-09T18:13:46.739876",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-28",
+	"ORDERS_7D": 2,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 28,
 	"item_name": "Fluffy-Dekobälle Rosa 3stk",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8815b89d-e664-4227-9789-20b649605813",
@@ -24,8 +27,13 @@
 	"item_code": "PP-000007055",
 	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000007055",
+	"_timestamp": "20190122 150229.269",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": "013051476045",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 4.99,
-	"base_price": "1.49"
+	"ORDERS_30D": 4,
+	"top10": "Partyartikel"
 }

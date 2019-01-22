@@ -1,4 +1,5 @@
 {
+	"item_group": "Reinigung hart",
 	"current_stock_003_halle_altstadt": 15,
 	"image": "/files/8711252401898.jpg",
 	"creation": "2018-02-13T18:51:23.521414",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 72,
 	"first_time_ordered_on_": "2018-11-02",
+	"ORDERS_7D": 11,
 	"marketing_text": "Wecke den Putzteufel in Dir!",
+	"ORDERS_ALLTIME": 145,
 	"item_name": "Kleiderrolle",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=361de024-9011-443d-8e3f-1c7cf55dbe8f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252401898",
 	"item_code": "PP-000001110",
-	"current_stock_001_kaufpark_eiche": 21,
 	"name": "PP-000001110",
+	"current_stock_001_kaufpark_eiche": 20,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "5",
-	"item_group": "Reinigung hart",
+	"BARCODE": "8711252401898",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.89"
+	"ORDERS_30D": 23
 }

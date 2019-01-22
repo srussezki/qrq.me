@@ -1,4 +1,5 @@
 {
+	"item_group": "Kerzen & -zubehör",
 	"current_stock_003_halle_altstadt": 5,
 	"image": "/files/8719202542202.jpg",
 	"creation": "2018-02-14T09:14:17.558523",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-09",
+	"ORDERS_7D": 5,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 166,
 	"item_name": "Duftkerze",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=eec8d292-a1b9-45ee-9c83-37257fedf24c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202542202",
 	"item_code": "PP-000004367",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000004367",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": "8719202542202",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "1.05",
 	"current_gross_selling_price": 0.19,
-	"base_price": "1.05"
+	"ORDERS_30D": 39
 }

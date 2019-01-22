@@ -1,4 +1,5 @@
 {
+	"item_group": "Hunde",
 	"current_stock_003_halle_altstadt": 5,
 	"image": "/files/8711252388427.jpg",
 	"creation": "2018-02-14T09:13:47.066394",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 88,
 	"first_time_ordered_on_": "2017-10-18",
+	"ORDERS_7D": 3,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 143,
 	"item_name": "Kissen Für Hund",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e8868171-e544-4529-a58f-b3ebebb5db49",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252388427",
 	"item_code": "PP-000000190",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000000190",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Hunde",
+	"BARCODE": "8711252388427",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "12.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "12.99"
+	"ORDERS_30D": 17
 }

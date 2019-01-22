@@ -1,4 +1,5 @@
 {
+	"item_group": "Künstlerbedarf",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-05-09T12:31:49.861281",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Billiger gibts nur in der App!",
+	"ORDERS_ALLTIME": 10,
 	"item_name": "Pinsel S 23 8",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=30ff0c76-f4b9-4487-92db-22fb34477fc9",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4012700711069",
 	"item_code": "PP-000008646",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000008646",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Künstlerbedarf",
+	"BARCODE": "4012700711069",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 1
 }

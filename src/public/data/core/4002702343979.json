@@ -1,4 +1,5 @@
 {
+	"item_group": "Strümpfe",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4002702343979.jpg",
 	"creation": "2018-06-13T12:31:18.688706",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Das perfekte Outfit gibts auch online",
+	"ORDERS_ALLTIME": null,
 	"item_name": "NC56 men socks flag chilli pepper 39-42",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=de3bff93-23aa-4580-aebd-ad17b861d218",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002702343979",
 	"item_code": "PP-000009698",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000009698",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Strümpfe",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "1.89",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.89"
+	"ORDERS_30D": null
 }

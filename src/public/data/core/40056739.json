@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 58,
+	"item_group": "Schokolade",
+	"current_stock_003_halle_altstadt": 55,
 	"image": "/files/40056739.png",
 	"creation": "2018-09-09T11:34:14.892833",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 104,
 	"marketing_text": "Für den Hunger zwischendurch und danach",
+	"ORDERS_ALLTIME": 227,
 	"item_name": "Smarties Riesenrolle 130gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0cf29088-1518-49f0-84ee-dd007cc587b9",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "40056739",
 	"item_code": "PP-000013179",
-	"current_stock_001_kaufpark_eiche": 72,
 	"name": "PP-000013179",
+	"current_stock_001_kaufpark_eiche": 69,
+	"ORDERS_TODAY": 7,
 	"shelf_number": null,
-	"item_group": "Schokolade",
+	"BARCODE": "40056739",
+	"ORDERS_YESTERDAY": 10,
+	"base_price": "1.29",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.29"
+	"ORDERS_30D": 136
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Sportbekleidung",
 	"current_stock_003_halle_altstadt": 30,
 	"image": null,
 	"creation": "2018-10-02T13:33:14.038191",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Damen Fitness-Shirt",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ae3e75db-67e8-4fd0-b974-405c2a80a859",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "2100000009664",
 	"item_code": "PP-000014368",
-	"current_stock_001_kaufpark_eiche": 30,
 	"name": "PP-000014368",
+	"current_stock_001_kaufpark_eiche": 30,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Sportbekleidung",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "5.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "5.99"
+	"ORDERS_30D": null
 }

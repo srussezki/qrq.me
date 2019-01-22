@@ -1,4 +1,5 @@
 {
+	"item_group": "Schuhzubehör",
 	"current_stock_003_halle_altstadt": 48,
 	"image": "/files/8711252258003.jpg",
 	"creation": "2018-02-13T18:50:24.910988",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-28",
+	"ORDERS_7D": 4,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 177,
 	"item_name": "Einlegesohlen Wolle Schneidbar",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a7cf0d1d-ec23-4cd7-9a6c-64a4b241fbc6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252258003",
 	"item_code": "PP-000001639",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000001639",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "4",
-	"item_group": "Schuhzubehör",
+	"BARCODE": "8711252258003",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 21
 }

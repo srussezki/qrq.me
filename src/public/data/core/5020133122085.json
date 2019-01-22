@@ -1,12 +1,15 @@
 {
+	"item_group": "Unterwäsche & Bademode",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/5020133122085.jpg",
 	"creation": "2018-10-04T16:37:59.108267",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 16,
+	"current_stock_wh_ludwigsfelde": 8,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 16,
 	"item_name": "Jungen Briefs 7stk ",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1fe8464c-947d-4f11-91b1-77c403ace856",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5020133122085",
 	"item_code": "PP-000014532",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000014532",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Unterwäsche & Bademode",
+	"BARCODE": "5020133122085",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 8
 }

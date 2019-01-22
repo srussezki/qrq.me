@@ -1,4 +1,5 @@
 {
+	"item_group": "Hefte & Blöcke",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4044186405088.jpg",
 	"creation": "2018-06-14T19:08:13.100591",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 53,
 	"item_name": "Heftbox DIN A4 transparent",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=eb17460a-7f7b-4506-9223-95f43e60d4db",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4044186405088",
 	"item_code": "PP-000009979",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000009979",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hefte & Blöcke",
+	"BARCODE": "4044186405088",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.59",
 	"current_gross_selling_price": 1.59,
-	"base_price": "1.59"
+	"ORDERS_30D": 14
 }

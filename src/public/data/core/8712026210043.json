@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8712026210043.jpg",
 	"creation": "2018-04-27T13:15:16.557765",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-26",
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 9,
 	"item_name": "Tattoo Sleeve Tribal",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1ea60747-b6ce-42fb-8b7a-e59069f11cd1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8712026210043",
 	"item_code": "PP-000008028",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000008028",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": "8712026210043",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.59",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.59"
+	"ORDERS_30D": 2
 }

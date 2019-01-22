@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Jungs",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/6938242953300.jpg",
 	"creation": "2018-06-22T15:27:56.838092",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel für die Kleinenin unserer App",
+	"ORDERS_ALLTIME": 3,
 	"item_name": "Sluban Spielzeug-Blumengeschäft",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ee852093-9907-44b8-b64b-644678fab292",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "6938242953300",
 	"item_code": "PP-000010229",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000010229",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Jungs",
+	"BARCODE": "6938242953300",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.99",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.99"
+	"ORDERS_30D": 0
 }

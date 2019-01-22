@@ -1,4 +1,5 @@
 {
+	"item_group": "Weihnachtsschokolade",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/7622210989260.jpg",
 	"creation": "2018-11-01T12:48:01.661112",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Alles für die Naschkatzen bei factorymarket",
+	"ORDERS_ALLTIME": 87,
 	"item_name": "Milka Weihnachtsmann Alpenmilch 100gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=045a3fc1-bc85-44dc-98b0-027b262b25e9",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "7622210989260",
 	"item_code": "PP-000015030",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015030",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Weihnachtsschokolade",
+	"BARCODE": "7622210989260",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 0
 }

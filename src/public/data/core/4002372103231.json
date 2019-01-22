@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 9,
+	"item_group": "Werkzeug",
+	"current_stock_003_halle_altstadt": 8,
 	"image": "/files/4002372103231.jpg",
 	"creation": "2018-11-07T12:10:32.089794",
 	"website_image": "/files/4002372103231.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 11,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 36,
 	"item_name": "Idena Packband 50mm x 66m braun",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=497c0eb8-e990-417c-8e0f-b199ae9428d0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002372103231",
 	"item_code": "PP-000015580",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015580",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Werkzeug",
+	"BARCODE": "4002372103231",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "1.19",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.19"
+	"ORDERS_30D": 18
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 36,
+	"item_group": "Partyartikel",
+	"current_stock_003_halle_altstadt": 34,
 	"image": "/files/8711252329772.jpg",
 	"creation": "2018-02-13T19:01:49.385428",
 	"website_image": "/files/8711252329772.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 288,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 3,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 299,
 	"item_name": "Trinkhalme flexibel 150stk",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fd6b63f8-f746-4c6b-832e-bea987ef9445",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252329772",
 	"item_code": "PP-000000178",
-	"current_stock_001_kaufpark_eiche": 34,
 	"name": "PP-000000178",
+	"current_stock_001_kaufpark_eiche": 34,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Partyartikel",
+	"BARCODE": "8711252329772",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 17
 }

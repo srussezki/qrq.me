@@ -1,4 +1,5 @@
 {
+	"item_group": "Süßigkeiten & Kaugummi",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8590311103344.jpg",
 	"creation": "2018-03-23T21:05:35.726623",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-23",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 188,
 	"item_name": "Gum Fries Kaugummi In Pommesform",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2da86cbe-1e26-4a56-ba97-2a85ec3ceb31",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8590311103344",
 	"item_code": "PP-000006361",
-	"current_stock_001_kaufpark_eiche": 18,
 	"name": "PP-000006361",
+	"current_stock_001_kaufpark_eiche": 18,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "8590311103344",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.49",
 	"current_gross_selling_price": 0.49,
-	"base_price": "0.49"
+	"ORDERS_30D": 0
 }

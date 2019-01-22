@@ -1,4 +1,5 @@
 {
+	"item_group": "Office",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4008115971501.jpg",
 	"creation": "2018-04-12T14:45:01.059027",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 18,
 	"first_time_ordered_on_": "2018-04-12",
+	"ORDERS_7D": 0,
 	"marketing_text": "Billiger gibts nur in der App!",
+	"ORDERS_ALLTIME": 13,
 	"item_name": "Trennblatt Kraftkarton schwarz A4 10stk",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c5dc57e0-fd06-4082-a32a-eedcfb785d65",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008115971501",
 	"item_code": "PP-000007186",
-	"current_stock_001_kaufpark_eiche": 14,
 	"name": "PP-000007186",
+	"current_stock_001_kaufpark_eiche": 14,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Office",
+	"BARCODE": "4008115971501",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.15",
 	"current_gross_selling_price": 1.59,
-	"base_price": "0.15"
+	"ORDERS_30D": 2
 }

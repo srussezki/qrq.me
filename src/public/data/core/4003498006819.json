@@ -1,4 +1,5 @@
 {
+	"item_group": "Lacke",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4003498006819.png",
 	"creation": "2018-02-13T18:57:48.565203",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-04",
+	"ORDERS_7D": 0,
 	"marketing_text": "10 000 Artikel für die, die´s selber machen",
+	"ORDERS_ALLTIME": 5,
 	"item_name": "Supernova Fliesenlack",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b1290b73-7122-4d0f-865b-b54bc99b36f0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4003498006819",
 	"item_code": "PP-000002865",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000002865",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "5",
-	"item_group": "Lacke",
+	"BARCODE": "4003498006819",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.19",
 	"current_gross_selling_price": 9.99,
-	"base_price": "1.19"
+	"ORDERS_30D": 0
 }

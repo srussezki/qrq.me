@@ -1,4 +1,5 @@
 {
+	"item_group": "Kinderschreibwaren",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T18:57:42.799519",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 62,
 	"item_name": "Disney Frozen Notebook&Stift",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b63f6665-0f69-46b9-814f-1e5d6bc48d00",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718375538999",
 	"item_code": "PP-000003476",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000003476",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kinderschreibwaren",
+	"BARCODE": "8718375538999",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 0
 }

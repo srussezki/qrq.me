@@ -1,4 +1,5 @@
 {
+	"item_group": "Schreibwaren Schule",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4008525203933.jpg",
 	"creation": "2018-05-15T12:22:39.357761",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Für Bürohelden und Heldinnen!",
+	"ORDERS_ALLTIME": 20,
 	"item_name": "3D-Schultüten-Bastelset Easy Line \"Einhorn\"",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f9e6baaf-7d3e-4c75-81b1-e6001fd9f4cc",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4008525203933",
 	"item_code": "PP-000008957",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000008957",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schreibwaren Schule",
+	"BARCODE": "4008525203933",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "7.59",
 	"current_gross_selling_price": 9.99,
-	"base_price": "7.59"
+	"ORDERS_30D": 0
 }

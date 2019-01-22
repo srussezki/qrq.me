@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 14,
+	"item_group": "Kerzen & -zubehör",
+	"current_stock_003_halle_altstadt": 13,
 	"image": "/files/8711252057194.jpg",
 	"creation": "2018-03-14T16:33:24.557461",
 	"website_image": "/files/8711252057194.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 88,
 	"item_name": "Kerzenhalter 6x7cm 4Versch. Varianten",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1f175348-2889-4f08-ad77-530b2360844d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252057194",
 	"item_code": "PP-000005516",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000005516",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": "8711252057194",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.49,
-	"base_price": "0.99"
+	"ORDERS_30D": 6
 }

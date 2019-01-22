@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 28,
+	"item_group": "Glas",
+	"current_stock_003_halle_altstadt": 20,
 	"image": "/files/8680233569431.jpg",
 	"creation": "2018-02-13T19:02:08.257660",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 15,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 227,
 	"item_name": "Schüssel Crystaline klein",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0c4b284a-7fd2-47de-b037-467ec8c55d4c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8680233569431",
 	"item_code": "PP-000000037",
-	"current_stock_001_kaufpark_eiche": 22,
 	"name": "PP-000000037",
+	"current_stock_001_kaufpark_eiche": 22,
+	"ORDERS_TODAY": 15,
 	"shelf_number": "1",
-	"item_group": "Glas",
+	"BARCODE": "8680233569431",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.29",
 	"current_gross_selling_price": 0.29,
-	"base_price": "0.29"
+	"ORDERS_30D": 16
 }

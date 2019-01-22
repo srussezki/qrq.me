@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Raumduft",
 	"current_stock_003_halle_altstadt": 8,
 	"image": "/files/4326470402752.png",
 	"creation": "2018-02-13T18:51:09.981048",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 192,
 	"first_time_ordered_on_": "2018-11-02",
+	"ORDERS_7D": 6,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 124,
 	"item_name": "Lufterfrischer Raumduft",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=120cfe73-4df7-428d-93a3-7f0c3c567a47",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470402752",
 	"item_code": "PP-000001174",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000001174",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "FMCG Raumduft",
+	"BARCODE": "4326470402752",
+	"ORDERS_YESTERDAY": 4,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 20
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Kerzen & -zubehör",
 	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/4010385215773.png",
 	"creation": "2018-10-04T12:38:04.196271",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 105,
 	"item_name": "Teelichthlt. Stern silber ",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6656eb89-c83d-46ab-8935-800385c249a4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4010385215773",
 	"item_code": "PP-000014235",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000014235",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": "4010385215773",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 9
 }

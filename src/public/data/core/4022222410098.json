@@ -1,4 +1,5 @@
 {
+	"item_group": "Mützen, Schals & Handschuhe",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4022222410098.jpg",
 	"creation": "2018-02-14T16:00:45.983795",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-06",
+	"ORDERS_7D": 0,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 46,
 	"item_name": "Herren Gürtel",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=070ad9aa-52d5-4d02-a4c2-d6b75bf58cf3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4022222410098",
 	"item_code": "PP-000004564",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000004564",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Mützen, Schals & Handschuhe",
+	"BARCODE": "4022222410098",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 0
 }

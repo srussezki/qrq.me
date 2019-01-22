@@ -1,35 +1,55 @@
 .product-card.container
-    h5.title Product #{name}
+    h5.title #{name}
     
-    //- if otherImages
-    //-   img(src=otherImages[0]).rounded.mx-auto.d-block.img-thumbnail
-    //- else 
-    //-   img(src=image).rounded.mx-auto.d-block.img-thumbnail
-      
     #product-carousel.carousel.slide
       ol.carousel-indicators
         each img, i in images
           li(data-target='#product-carousel', data-slide-to=i)(class= i==0 ? 'active' : '')
       .carousel-inner
         each img, i in images
-          .carousel-item(class=i === 0 ? 'active' : '').img-wrapper
+          .carousel-item(class= i==0 ? 'active' : '').img-wrapper
                 img.d-block.rounded.mx-auto.d-block.img-thumbnail(src=img)
       a.carousel-control-prev(href='#product-carousel', role='button', data-slide='prev')
         span.carousel-control-prev-icon(aria-hidden='true')
-        span.sr-only Previous
       a.carousel-control-next(href='#product-carousel', role='button', data-slide='next')
         span.carousel-control-next-icon(aria-hidden='true')
-        span.sr-only Next
-
 
     .price-box.container
         .row
-            .col-4.price-color-label Preis:
+            .col-4.font-s Preis:
             .col-8
-                .price-color-value EUR #{price}
+                .price-color EUR #{price}
         .row
-            .col-4.price-color-label Mit Apprabatt:
+            .col-4.font-s Mit Apprabatt:
             .col-8
-                .price-color-value EUR #{appPrice}              
-                .disclaimer Alle Angabe inkl. MwSt.
+                .price-color.font-l EUR #{appPrice}              
+                .font-s Alle Angabe inkl. MwSt.
+    
+    if marketing_text
+      .marketing-box.container 
+        blockquote.blockquote.text-center #{marketing_text}
+
+    .top-categories-box.container        
+        if top10
+          .row 
+            .col-4 
+              .badge.badge-danger Top 
+                .badge.badge-light 10
+            .col-8.font-s Top 10 Produkt in #{top10}
+        if top100
+          .row 
+            .col-4 
+              .badge.badge-primary Top 
+                .badge.badge-light 100
+            .col-8.font-s Top 100 Produkt in #{top100}
+        if orders_yesterday >= 10
+          .row 
+            .col-4 
+              .badge.badge-success Trending 
+            .col-8.font-s 
+              div Gestern #{orders_yesterday} mal verkauft
               
+          
+          
+          
+          

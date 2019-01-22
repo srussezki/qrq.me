@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekorative Kosmetik",
 	"current_stock_003_halle_altstadt": 5,
 	"image": "/files/5055339902155.jpg",
 	"creation": "2018-07-10T08:50:18.314530",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": "120.800 weitere Beautyartikel in der App",
+	"ORDERS_ALLTIME": 105,
 	"item_name": "Mascara Saffron Long Lash wasserfest 6ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=1d1404cf-1869-4758-9dd1-db1861e1b36c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5055339902155",
 	"item_code": "PP-000010502",
-	"current_stock_001_kaufpark_eiche": 22,
 	"name": "PP-000010502",
+	"current_stock_001_kaufpark_eiche": 22,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekorative Kosmetik",
+	"BARCODE": "5055339902155",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 36
 }

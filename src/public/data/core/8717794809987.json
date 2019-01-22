@@ -1,4 +1,5 @@
 {
+	"item_group": "Vasen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8717794809987.jpg",
 	"creation": "2018-06-05T17:07:33.611496",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Verschönere dein Zuhause, jetzt auch online",
+	"ORDERS_ALLTIME": 24,
 	"item_name": "Vase Blatt 15x20cm 4stk",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=288b03a8-c2d0-429c-852d-1589183e4d71",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8717794809987",
 	"item_code": "PP-000009543",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000009543",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Vasen",
+	"BARCODE": "8717794809987",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "4.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "4.49"
+	"ORDERS_30D": 12
 }

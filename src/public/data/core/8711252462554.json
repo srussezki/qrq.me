@@ -1,4 +1,5 @@
 {
+	"item_group": "Garten",
 	"current_stock_003_halle_altstadt": 15,
 	"image": "/files/8711252462554.jpg",
 	"creation": "2018-02-14T16:00:51.580220",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-19",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 4,
 	"item_name": "Zink Eimer & Tablett Weiß 3-Teilig",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=47fac75f-963c-4c8b-a0df-1fbc53225fc3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252462554",
 	"item_code": "PP-000003425",
-	"current_stock_001_kaufpark_eiche": 56,
 	"name": "PP-000003425",
+	"current_stock_001_kaufpark_eiche": 56,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Garten",
+	"BARCODE": "8711252462554",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 1
 }

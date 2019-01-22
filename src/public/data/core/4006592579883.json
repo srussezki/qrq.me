@@ -1,12 +1,15 @@
 {
+	"item_group": "Spielwaren Mädchen",
 	"current_stock_003_halle_altstadt": 10,
 	"image": "/files/4006592579883.jpg",
 	"creation": "2018-07-11T19:01:36.998068",
 	"website_image": null,
 	"disabled": 0,
-	"current_stock_wh_ludwigsfelde": 84,
+	"current_stock_wh_ludwigsfelde": 72,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Spielzeug für Groß und Klein auch online",
+	"ORDERS_ALLTIME": 7,
 	"item_name": "EVI Love Summertime",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8be0b5cb-7fcd-4e0d-9a0d-ce1966df9bc8",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4006592579883",
 	"item_code": "PP-000010579",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000010579",
+	"current_stock_001_kaufpark_eiche": 19,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Mädchen",
+	"BARCODE": "4006592579883",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 2
 }

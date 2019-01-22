@@ -1,4 +1,5 @@
 {
+	"item_group": "Saisonale Dekoration",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-09-21T17:15:00.791802",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 12,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 18,
 	"item_name": "Wohndekoration Winter 150x200cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5a7ad177-72c8-4d3e-ab77-1ec97864c858",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4022222547411",
 	"item_code": "PP-000013870",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000013870",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Saisonale Dekoration",
+	"BARCODE": "4022222547411",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "8.99",
 	"current_gross_selling_price": 8.99,
-	"base_price": "8.99"
+	"ORDERS_30D": 0
 }

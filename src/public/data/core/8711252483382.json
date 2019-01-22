@@ -1,4 +1,5 @@
 {
+	"item_group": "OTC / Gesundheit",
 	"current_stock_003_halle_altstadt": 1,
 	"image": "/files/8711252483382.jpg",
 	"creation": "2018-02-13T18:50:22.184448",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-28",
+	"ORDERS_7D": 0,
 	"marketing_text": "Pflege für Sie & Ihn in der App",
+	"ORDERS_ALLTIME": 237,
 	"item_name": "Pflaster 50stk",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f6fafc42-9b0d-45b9-a60c-c3739fede15e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252483382",
 	"item_code": "PP-000001656",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000001656",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "OTC / Gesundheit",
+	"BARCODE": "8711252483382",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 0
 }

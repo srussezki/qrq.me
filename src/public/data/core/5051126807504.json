@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 19,
 	"image": "/files/5051126807504.png",
 	"creation": "2018-07-27T14:20:48.875660",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 31,
 	"item_name": "Jumbo Seiher Nylon 37cm ",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8ce7e0ae-399a-4ca0-86e8-477935c18e96",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5051126807504",
 	"item_code": "PP-000011570",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000011570",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Küchenhelfer",
+	"BARCODE": "5051126807504",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 3
 }

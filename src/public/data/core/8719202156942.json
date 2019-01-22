@@ -1,4 +1,5 @@
 {
+	"item_group": "Kunstblumen",
 	"current_stock_003_halle_altstadt": 191,
 	"image": "/files/8719202156942.jpg",
 	"creation": "2018-02-13T18:53:46.298050",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 13,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 223,
 	"item_name": "Kunstblume",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=cd8909cc-2b37-47d1-881a-c7b4c9dfd9d1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202156942",
 	"item_code": "PP-000000644",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000000644",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1,2,3,4",
-	"item_group": "Kunstblumen",
+	"BARCODE": "8719202156942",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "2.79",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.79"
+	"ORDERS_30D": 33
 }

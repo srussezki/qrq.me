@@ -1,4 +1,5 @@
 {
+	"item_group": "Hunde",
 	"current_stock_003_halle_altstadt": 35,
 	"image": "/files/8711252036793.jpg",
 	"creation": "2018-02-14T16:00:49.836643",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-19",
+	"ORDERS_7D": 4,
 	"marketing_text": "Alles für den Wuffi & die Mieze",
+	"ORDERS_ALLTIME": 73,
 	"item_name": "Hundespielseil 34x18x7cm",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=bb01f7c4-79b4-44d0-920c-41d63d2138d7",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252036793",
 	"item_code": "PP-000003341",
-	"current_stock_001_kaufpark_eiche": 30,
 	"name": "PP-000003341",
+	"current_stock_001_kaufpark_eiche": 30,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Hunde",
+	"BARCODE": "8711252036793",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 14
 }

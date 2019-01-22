@@ -1,4 +1,5 @@
 {
+	"item_group": "Bilder- & rahmen",
 	"current_stock_003_halle_altstadt": 17,
 	"image": "/files/4029811353750.png",
 	"creation": "2018-09-13T12:00:50.988637",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 6,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 4,
 	"item_name": "Kunststoff-Bilderrahmen Nostalgie 41x33cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3043a81c-707c-4e5a-9280-9ec23785d26f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4029811353750",
 	"item_code": "PP-000013319",
-	"current_stock_001_kaufpark_eiche": 32,
 	"name": "PP-000013319",
+	"current_stock_001_kaufpark_eiche": 32,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Bilder- & rahmen",
+	"BARCODE": "4029811353750",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "7.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "7.99"
+	"ORDERS_30D": 0
 }

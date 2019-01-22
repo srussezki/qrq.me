@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 4,
 	"image": "/files/8005610460178.jpg",
 	"creation": "2018-08-08T12:23:20.555197",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 51,
 	"item_name": "Bruno Banani Geschenkset Women's Best",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3cd48a6b-f792-4d0c-8993-9f5cc44a36b6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8005610460178",
 	"item_code": "PP-000012345",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000012345",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "8005610460178",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 0
 }

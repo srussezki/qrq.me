@@ -1,4 +1,5 @@
 {
+	"item_group": "Kerzen & -zubehör",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-04-08T22:22:40.327471",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-06",
+	"ORDERS_7D": 0,
 	"marketing_text": "Kerzen ohne Ende in unserer App",
+	"ORDERS_ALLTIME": 6,
 	"item_name": "Candra Teelichte Maxi 12stk",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2def266a-2d5c-4eb4-9a12-64709c1e9927",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718964028061",
 	"item_code": "PP-000007019",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000007019",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": "8718964028061",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.14",
 	"current_gross_selling_price": 1.79,
-	"base_price": "0.14"
+	"ORDERS_30D": 0
 }

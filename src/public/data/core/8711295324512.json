@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflanzen",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8711295324512.jpg",
 	"creation": "2018-03-23T21:08:11.584756",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-15",
+	"ORDERS_7D": 4,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 52,
 	"item_name": "Blumensteckschaum Ø 14x7cm",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f91c0834-53c9-4b4a-8380-3a3b03bda91f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295324512",
 	"item_code": "PP-000005959",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000005959",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflanzen",
+	"BARCODE": "8711295324512",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 4
 }

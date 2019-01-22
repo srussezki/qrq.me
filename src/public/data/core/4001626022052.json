@@ -1,4 +1,5 @@
 {
+	"item_group": "Decken",
 	"current_stock_003_halle_altstadt": 9,
 	"image": "/files/4001626022052.jpg",
 	"creation": "2018-10-22T17:22:09.007572",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 92,
 	"item_name": "Decke Felloptik 150x200cm natur-braun",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d7450ac9-6149-4612-87fc-a95d3705503d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4001626022052",
 	"item_code": "PP-000014926",
-	"current_stock_001_kaufpark_eiche": 17,
 	"name": "PP-000014926",
+	"current_stock_001_kaufpark_eiche": 17,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Decken",
+	"BARCODE": "4001626022052",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "14.99",
 	"current_gross_selling_price": 17.99,
-	"base_price": "14.99"
+	"ORDERS_30D": 1
 }

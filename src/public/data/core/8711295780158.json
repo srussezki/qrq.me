@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Haushalt",
 	"current_stock_003_halle_altstadt": 13,
 	"image": "/files/8711295780158.jpg",
 	"creation": "2018-07-22T21:42:55.546263",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Für die Profiköche gehts online weiter",
+	"ORDERS_ALLTIME": 32,
 	"item_name": "Kaffeefilter",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c1d3b2b5-9fc9-4257-b14e-9fdb3b22d1aa",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295780158",
 	"item_code": "PP-000011339",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000011339",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "FMCG Haushalt",
+	"BARCODE": "8711295780158",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.9900",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.9900"
+	"ORDERS_30D": 7
 }

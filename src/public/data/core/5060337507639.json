@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 35,
+	"item_group": "Getränke",
+	"current_stock_003_halle_altstadt": 34,
 	"image": "/files/5060337507639.png",
 	"creation": "2018-07-26T12:44:14.994656",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 8,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 170,
 	"item_name": "Monster Ult. Citro 0,50 Ds Dpg",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=31a702ef-faf8-4eb0-ba3f-71f081067861",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5060337507639",
 	"item_code": "PP-000011602",
-	"current_stock_001_kaufpark_eiche": 160,
 	"name": "PP-000011602",
+	"current_stock_001_kaufpark_eiche": 159,
+	"ORDERS_TODAY": 3,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "5060337507639",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "2.18",
 	"current_gross_selling_price": 1.49,
-	"base_price": "2.18"
+	"ORDERS_30D": 39
 }

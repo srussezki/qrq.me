@@ -1,4 +1,5 @@
 {
+	"item_group": "Autozubehör",
 	"current_stock_003_halle_altstadt": 9,
 	"image": "/files/8711252417639.jpg",
 	"creation": "2018-02-13T18:50:23.924767",
@@ -6,12 +7,14 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": "2017-11-28",
+	"ORDERS_7D": 4,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 87,
 	"item_name": "Autositzbezüge 6stk",
 	"level_0_item_group": "Auto",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=77e1dd62-7b85-4801-a675-98883600b839",
 	"is_sales_item": 1,
-	"current_stock_002_halle_neustadt": 15,
+	"current_stock_002_halle_neustadt": 14,
 	"rack_number": "214",
 	"item_group_level_0": null,
 	"base_price_text": "7.99€ je Set",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252417639",
 	"item_code": "PP-000001648",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000001648",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "5",
-	"item_group": "Autozubehör",
+	"BARCODE": "8711252417639",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "7.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "7.99"
+	"ORDERS_30D": 14
 }

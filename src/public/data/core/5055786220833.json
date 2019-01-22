@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekorative Kosmetik",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5055786220833.jpg",
 	"creation": "2018-05-25T15:28:19.212391",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Die neusten Beautyprodukte jetzt bei uns",
+	"ORDERS_ALLTIME": 4,
 	"item_name": "ColourFreedom Auswaschb. Tönung Purple",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d3be9439-b8e6-43d6-a1bc-0d1deb6ba4da",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5055786220833",
 	"item_code": "PP-000009227",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000009227",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekorative Kosmetik",
+	"BARCODE": "5055786220833",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 0
 }

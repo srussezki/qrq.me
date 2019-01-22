@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 28,
+	"item_group": "Reinigung hart",
+	"current_stock_003_halle_altstadt": 26,
 	"image": "/files/8711295158759.jpg",
 	"creation": "2018-02-13T18:53:38.391658",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 56,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 3,
 	"marketing_text": "Wecke den Putzteufel in Dir!",
+	"ORDERS_ALLTIME": 171,
 	"item_name": "Topfreiniger 10St",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ae0b0566-20f0-4b09-884f-ff28732d676b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295158759",
 	"item_code": "PP-000000671",
-	"current_stock_001_kaufpark_eiche": 28,
 	"name": "PP-000000671",
+	"current_stock_001_kaufpark_eiche": 28,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "4",
-	"item_group": "Reinigung hart",
+	"BARCODE": "8711295158759",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.49",
 	"current_gross_selling_price": 0.49,
-	"base_price": "0.49"
+	"ORDERS_30D": 3
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Hygieneartikel",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4014995228840.jpg",
 	"creation": "2018-04-08T22:22:38.692726",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-06",
+	"ORDERS_7D": 0,
 	"marketing_text": "Pflege für Sie & Ihn in der App",
+	"ORDERS_ALLTIME": 4,
 	"item_name": "Motiv Taschentuch Freudentränen 10stk",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=bf3659f4-f51f-44e8-903f-a4305018490d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4014995228840",
 	"item_code": "PP-000006967",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000006967",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Hygieneartikel",
+	"BARCODE": "4014995228840",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.59",
 	"current_gross_selling_price": 0.59,
-	"base_price": "0.59"
+	"ORDERS_30D": 0
 }

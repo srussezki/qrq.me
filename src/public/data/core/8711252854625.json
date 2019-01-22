@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Mädchen",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8711252854625.jpg",
 	"creation": "2018-07-18T15:00:41.747003",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 8,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 93,
 	"item_name": "Kleine Prinzessin 4tlg",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=86dd4253-4693-42dd-b814-d39f00ee15a2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252854625",
 	"item_code": "PP-000010896",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000010896",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Mädchen",
+	"BARCODE": "8711252854625",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 21
 }

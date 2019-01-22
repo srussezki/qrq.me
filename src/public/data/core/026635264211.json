@@ -1,4 +1,5 @@
 {
+	"item_group": "Ballons",
 	"current_stock_003_halle_altstadt": 9,
 	"image": "/files/026635264211.jpg",
 	"creation": "2018-10-05T16:57:53.326458",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 5,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 10,
 	"item_name": "My Little Pony Folienballon 43cm",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0552629c-fe59-48e5-9e39-cb385697e254",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000014632",
 	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000014632",
+	"_timestamp": "20190122 150229.327",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Ballons",
+	"BARCODE": "026635264211",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 5
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 54,
+	"item_group": "Getränke",
+	"current_stock_003_halle_altstadt": 53,
 	"image": "/files/40413198.jpg",
 	"creation": "2018-07-26T12:44:14.567359",
 	"website_image": "/files/40413198.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 570,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 17,
 	"marketing_text": "Lösch den Spardurst in dir, auf factorymarket",
+	"ORDERS_ALLTIME": 141,
 	"item_name": "Wesergold Orange 0,20L",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5edb0634-3fde-493a-a453-635b75ab215e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "40413198",
 	"item_code": "PP-000011590",
-	"current_stock_001_kaufpark_eiche": 43,
 	"name": "PP-000011590",
+	"current_stock_001_kaufpark_eiche": 43,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "40413198",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": null,
 	"current_gross_selling_price": 0.25,
-	"base_price": null
+	"ORDERS_30D": 48
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 9,
+	"item_group": "Spielwaren Jungs",
+	"current_stock_003_halle_altstadt": 4,
 	"image": "/files/8714627305203.jpg",
 	"creation": "2018-02-13T18:54:59.942542",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 144,
 	"first_time_ordered_on_": "2017-11-07",
+	"ORDERS_7D": 8,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 208,
 	"item_name": "Roboforces Transformer",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a7f4bc5b-8709-4adf-90ec-2c8224d2b9ff",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627305203",
 	"item_code": "PP-000003274",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000003274",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Spielwaren Jungs",
+	"BARCODE": "8714627305203",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 21
 }

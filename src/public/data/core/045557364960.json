@@ -1,4 +1,5 @@
 {
+	"item_group": "Plüschtiere",
 	"current_stock_003_halle_altstadt": 1,
 	"image": null,
 	"creation": "2018-08-02T10:22:03.278373",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Spielzeug für Groß und Klein auch online",
+	"ORDERS_ALLTIME": 47,
 	"item_name": "Findet Dorie Plüschtier Dorie",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=73c696df-af85-4e2d-abae-705f606aba24",
@@ -24,8 +27,14 @@
 	"item_code": "PP-000011689",
 	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000011689",
+	"_timestamp": "20190122 150229.406",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Plüschtiere",
+	"BARCODE": "045557364960",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 6,
+	"top10": "Plüschtiere",
+	"top100": "Spielwaren"
 }

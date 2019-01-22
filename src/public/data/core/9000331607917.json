@@ -1,4 +1,5 @@
 {
+	"item_group": "Süßigkeiten & Kaugummi",
 	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/9000331607917.jpg",
 	"creation": "2018-09-18T12:52:49.782407",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Für den Hunger zwischendurch und danach",
+	"ORDERS_ALLTIME": 30,
 	"item_name": "Manner Neapolit.-Waffeln 400G",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0d02913e-3fe4-438a-8b4a-19b75640ec77",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "9000331607917",
 	"item_code": "PP-000013673",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000013673",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "9000331607917",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.79",
 	"current_gross_selling_price": 2.79,
-	"base_price": "2.79"
+	"ORDERS_30D": 6
 }

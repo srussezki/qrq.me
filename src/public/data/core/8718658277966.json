@@ -1,4 +1,5 @@
 {
+	"item_group": "Bilder- & rahmen",
 	"current_stock_003_halle_altstadt": 2,
 	"image": null,
 	"creation": "2018-08-02T10:22:02.723043",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Dekorieren bis zum Umfallen in der App",
+	"ORDERS_ALLTIME": 24,
 	"item_name": "Geburtstagskalender weiß ",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c6d9e7eb-89fc-4673-92fc-d08203c60ff7",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718658277966",
 	"item_code": "PP-000011683",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000011683",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Bilder- & rahmen",
+	"BARCODE": "8718658277966",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 2.99,
-	"base_price": "1.49"
+	"ORDERS_30D": 3
 }

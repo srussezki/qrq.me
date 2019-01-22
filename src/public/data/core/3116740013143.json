@@ -1,4 +1,5 @@
 {
+	"item_group": "Süßigkeiten & Kaugummi",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/3116740013143.jpg",
 	"creation": "2018-09-18T12:52:46.539571",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Lutti Tubble Tube Tutti Gum",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c1867e0b-9f1f-46ac-9ebe-979ab2fc235e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3116740013143",
 	"item_code": "PP-000013651",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000013651",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.79,
-	"base_price": "0.79"
+	"ORDERS_30D": null
 }

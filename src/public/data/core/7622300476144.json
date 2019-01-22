@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 20,
+	"item_group": "Schokolade",
+	"current_stock_003_halle_altstadt": 19,
 	"image": "/files/7622300476144.jpg",
 	"creation": "2018-06-25T12:13:59.425976",
 	"website_image": "/files/7622300476144.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 6,
 	"marketing_text": "Für den Hunger zwischendurch und danach",
+	"ORDERS_ALLTIME": 197,
 	"item_name": "MIKADO Sticks Milch 75g",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5c0c6e6d-ec73-4656-9b8f-151d241a194c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "7622300476144",
 	"item_code": "PP-000009896",
-	"current_stock_001_kaufpark_eiche": 21,
 	"name": "PP-000009896",
+	"current_stock_001_kaufpark_eiche": 21,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schokolade",
+	"BARCODE": "7622300476144",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.72",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.72"
+	"ORDERS_30D": 24
 }

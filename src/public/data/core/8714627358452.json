@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 23,
 	"image": "/files/8714627358452.jpg",
 	"creation": "2018-09-11T18:04:58.477153",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 40,
 	"item_name": "Weicher Ball Einhornmotiv",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=898f9494-ac09-4f28-8b76-915e599bdf9f",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627358452",
 	"item_code": "PP-000013249",
-	"current_stock_001_kaufpark_eiche": 36,
 	"name": "PP-000013249",
+	"current_stock_001_kaufpark_eiche": 36,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8714627358452",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 1.49,
-	"base_price": "0.99"
+	"ORDERS_30D": 5
 }

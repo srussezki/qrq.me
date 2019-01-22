@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 26,
+	"item_group": "Schreibwaren Schule",
+	"current_stock_003_halle_altstadt": 25,
 	"image": "/files/4014519020776.jpg",
 	"creation": "2018-11-07T12:10:19.554670",
 	"website_image": "/files/4014519020776.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 19,
 	"item_name": "Tinte LAMY T10 blau Großraum-Tintenpatrone",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0dc9cf93-5f53-41da-bfaf-75064d95d2f8",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4014519020776",
 	"item_code": "PP-000015513",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000015513",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schreibwaren Schule",
+	"BARCODE": "4014519020776",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 4
 }

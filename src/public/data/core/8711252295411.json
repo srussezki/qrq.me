@@ -1,4 +1,5 @@
 {
+	"item_group": "Schuhzubehör",
 	"current_stock_003_halle_altstadt": 24,
 	"image": null,
 	"creation": "2018-06-20T18:47:31.545741",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Die neusten Trends auch in unserer App",
+	"ORDERS_ALLTIME": 41,
 	"item_name": "Farbige Schnürsenkel 12tlg.",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=998318a9-a17f-45ee-9ce9-f53d9067573d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252295411",
 	"item_code": "PP-000010097",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000010097",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Schuhzubehör",
+	"BARCODE": "8711252295411",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 7
 }

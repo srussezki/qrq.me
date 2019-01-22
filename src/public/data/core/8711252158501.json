@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 18,
+	"item_group": "Backen",
+	"current_stock_003_halle_altstadt": 17,
 	"image": "/files/8711252158501.jpg",
 	"creation": "2018-03-14T16:33:26.318578",
 	"website_image": "/files/8711252158501.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 15,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 116,
 	"item_name": "Backform 36,5X24,5X5Cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4495139a-2319-4c7a-abab-454258783811",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252158501",
 	"item_code": "PP-000005474",
-	"current_stock_001_kaufpark_eiche": 15,
 	"name": "PP-000005474",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Backen",
+	"BARCODE": "8711252158501",
+	"ORDERS_YESTERDAY": 5,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 39
 }

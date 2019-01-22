@@ -1,4 +1,5 @@
 {
+	"item_group": "Einwegartikel",
 	"current_stock_003_halle_altstadt": 24,
 	"image": "/files/8711252014159.jpg",
 	"creation": "2018-02-13T18:57:45.263169",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 84,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 3,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 263,
 	"item_name": "Einwegteller Plastik 23cm 50stk",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fcbb9c14-83b2-4344-ae7c-2f8d6a7b3b41",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252014159",
 	"item_code": "PP-000003324",
-	"current_stock_001_kaufpark_eiche": 26,
 	"name": "PP-000003324",
+	"current_stock_001_kaufpark_eiche": 26,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Einwegartikel",
+	"BARCODE": "8711252014159",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.49",
 	"current_gross_selling_price": 3.49,
-	"base_price": "3.49"
+	"ORDERS_30D": 21
 }

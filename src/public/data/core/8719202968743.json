@@ -1,4 +1,5 @@
 {
+	"item_group": "Saisonale Dekoration",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8719202968743.jpg",
 	"creation": "2018-08-08T19:19:52.815851",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Verschönere dein Zuhause, jetzt auch online",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Dekofigur Boot 12x5x22cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=3de365e5-3cb1-4d3f-ab5c-3906d031c4d9",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202968743",
 	"item_code": "PP-000012366",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000012366",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Saisonale Dekoration",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "7.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "7.99"
+	"ORDERS_30D": null
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Werkzeug",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8718158030931.jpg",
 	"creation": "2018-08-08T19:19:53.775966",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Wir haben 160.000 weitere Sportartikel online",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Gartenschere aus Carbonstahl",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b2022ca9-2522-4d71-9e8b-64ebed25e627",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158030931",
 	"item_code": "PP-000012378",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000012378",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Werkzeug",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": null
 }

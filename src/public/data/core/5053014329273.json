@@ -1,4 +1,5 @@
 {
+	"item_group": "Damenbekleidung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5053014329273.jpg",
 	"creation": "2018-03-23T21:07:05.682885",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-20",
+	"ORDERS_7D": 0,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": 4,
 	"item_name": "Leggins Pretty Blue Diamonds",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fbc563c2-ff89-4f93-9567-ae1674e11064",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5053014329273",
 	"item_code": "PP-000006163",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000006163",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Damenbekleidung",
+	"BARCODE": "5053014329273",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.49"
+	"ORDERS_30D": 0
 }

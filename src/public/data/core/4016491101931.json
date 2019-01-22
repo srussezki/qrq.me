@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 335,
+	"item_group": "Getränke",
+	"current_stock_003_halle_altstadt": 333,
 	"image": "/files/4016491101931.jpg",
 	"creation": "2018-10-15T14:11:53.172597",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 19,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 347,
 	"item_name": "Sympathie Red Trocken 0.25l",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=be7d0c7a-316e-48b8-bfe5-d7756fa9563b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4016491101931",
 	"item_code": "PP-000014736",
-	"current_stock_001_kaufpark_eiche": 559,
 	"name": "PP-000014736",
+	"current_stock_001_kaufpark_eiche": 559,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Getränke",
+	"BARCODE": "4016491101931",
+	"ORDERS_YESTERDAY": 4,
+	"base_price": null,
 	"current_gross_selling_price": 0.99,
-	"base_price": null
+	"ORDERS_30D": 104
 }

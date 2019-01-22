@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 39,
 	"image": "/files/8719202472295.jpg",
 	"creation": "2018-02-14T09:14:23.825614",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-09",
+	"ORDERS_7D": 13,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 118,
 	"item_name": "Besteckset 4Tlg",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ef11b7f4-5835-4ad2-932c-c3277f8a9a65",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202472295",
 	"item_code": "PP-000004412",
-	"current_stock_001_kaufpark_eiche": 65,
 	"name": "PP-000004412",
+	"current_stock_001_kaufpark_eiche": 65,
+	"ORDERS_TODAY": 13,
 	"shelf_number": null,
-	"item_group": "Küchenhelfer",
+	"BARCODE": "8719202472295",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.49",
 	"current_gross_selling_price": 0.49,
-	"base_price": "0.49"
+	"ORDERS_30D": 24
 }

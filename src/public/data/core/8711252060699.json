@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 27,
+	"item_group": "Reinigung hart",
+	"current_stock_003_halle_altstadt": 25,
 	"image": "/files/8711252060699.jpg",
 	"creation": "2018-02-13T18:50:26.505963",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 48,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 5,
 	"marketing_text": "Wecke den Putzteufel in Dir!",
+	"ORDERS_ALLTIME": 176,
 	"item_name": "Schaufel &amp; Besen",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=292eaeef-5d7a-4bd0-92e2-e2e8bcdb95d6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252060699",
 	"item_code": "PP-000001625",
-	"current_stock_001_kaufpark_eiche": 22,
 	"name": "PP-000001625",
+	"current_stock_001_kaufpark_eiche": 22,
+	"ORDERS_TODAY": 2,
 	"shelf_number": "0",
-	"item_group": "Reinigung hart",
+	"BARCODE": "8711252060699",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.29",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.29"
+	"ORDERS_30D": 10
 }

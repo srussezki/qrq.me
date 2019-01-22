@@ -1,4 +1,5 @@
 {
+	"item_group": "Salzige Snacks",
 	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/4001257154009.jpg",
 	"creation": "2018-09-18T12:52:41.349836",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Für den Hunger zwischendurch und danach",
+	"ORDERS_ALLTIME": 22,
 	"item_name": "Meßmer Kamille 25St",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5e837911-b3c1-427c-afe8-f9cef1d99e8b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4001257154009",
 	"item_code": "PP-000013626",
-	"current_stock_001_kaufpark_eiche": 11,
 	"name": "PP-000013626",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Salzige Snacks",
+	"BARCODE": "4001257154009",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 3
 }

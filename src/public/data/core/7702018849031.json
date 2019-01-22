@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/7702018849031.jpg",
 	"creation": "2018-02-13T18:54:04.662717",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-22",
+	"ORDERS_7D": 1,
 	"marketing_text": "Pflege für Sie & Ihn in der App",
+	"ORDERS_ALLTIME": 112,
 	"item_name": "Gillette Blue II 5stk",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8b15142a-5bc5-41d4-93f8-bf6deaea9793",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "7702018849031",
 	"item_code": "PP-000000581",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000000581",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "7702018849031",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 3
 }

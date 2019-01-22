@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 17,
+	"item_group": "Spielwaren Unisex",
+	"current_stock_003_halle_altstadt": 16,
 	"image": null,
 	"creation": "2018-02-13T18:58:16.918671",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 30,
 	"first_time_ordered_on_": "2017-12-27",
+	"ORDERS_7D": 1,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 122,
 	"item_name": "Holzpuzzle 15-Teilig 6var",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ebc737cc-7203-4b03-85ce-d626e202cc74",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158535122",
 	"item_code": "PP-000003093",
-	"current_stock_001_kaufpark_eiche": 56,
 	"name": "PP-000003093",
+	"current_stock_001_kaufpark_eiche": 56,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8718158535122",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 5
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 19,
 	"image": "/files/8711700962438.jpg",
 	"creation": "2018-10-04T10:37:40.317048",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 53,
 	"item_name": "Duschdas Duschgel Heavenly Vanilla",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=bd14fc24-18c6-4cb2-b65b-4c5da7f80c6b",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711700962438",
 	"item_code": "PP-000014405",
-	"current_stock_001_kaufpark_eiche": 20,
 	"name": "PP-000014405",
+	"current_stock_001_kaufpark_eiche": 20,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "8711700962438",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.89"
+	"ORDERS_30D": 7
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Vorratsdosen",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/8718158317261.png",
 	"creation": "2018-02-13T18:54:33.963867",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 60,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 95,
 	"item_name": "Vorratsdosen 10stk",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=549ac594-bd16-4fbf-84a6-f05011fbc228",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8718158317261",
 	"item_code": "PP-000000639",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000000639",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Vorratsdosen",
+	"BARCODE": "8718158317261",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 0
 }

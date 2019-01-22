@@ -1,4 +1,5 @@
 {
+	"item_group": "Ballons",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/8719202244571.jpg",
 	"creation": "2018-02-13T19:01:11.362696",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 216,
 	"first_time_ordered_on_": "2017-11-22",
+	"ORDERS_7D": 7,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 167,
 	"item_name": "Lichtballon",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a15aff31-41b6-45bc-9cf8-71195df353c0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202244571",
 	"item_code": "PP-000003130",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000003130",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Ballons",
+	"BARCODE": "8719202244571",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 31
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-02-13T18:53:56.481956",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-22",
+	"ORDERS_7D": 0,
 	"marketing_text": "Pflege für Sie & Ihn in der App",
+	"ORDERS_ALLTIME": 119,
 	"item_name": "Palmolive Flüssigseife 500ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7391f50a-023f-4be0-95ca-aa4fdc203483",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714789572543",
 	"item_code": "PP-000000607",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000000607",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "8714789572543",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.19",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.19"
+	"ORDERS_30D": 0
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Kameras",
 	"current_stock_003_halle_altstadt": 9,
 	"image": "/files/8711252412412.png",
 	"creation": "2018-02-13T18:51:46.972460",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": "2017-11-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 12,
 	"item_name": "Attrappe Überwachunskamera",
 	"level_0_item_group": "Elektro",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c901e68b-5168-4862-b185-705487b2d7a4",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252412412",
 	"item_code": "PP-000000199",
-	"current_stock_001_kaufpark_eiche": 27,
 	"name": "PP-000000199",
+	"current_stock_001_kaufpark_eiche": 27,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "1",
-	"item_group": "Kameras",
+	"BARCODE": "8711252412412",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 0
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Sportaccessoires",
 	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/8715349011014.jpg",
 	"creation": "2018-02-14T16:04:37.879365",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 60,
 	"first_time_ordered_on_": "2018-02-02",
+	"ORDERS_7D": 1,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 50,
 	"item_name": "Super Grip Ball",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7d6428b9-8d77-4f39-8eb4-e11d30f0b0ff",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8715349011014",
 	"item_code": "PP-000002078",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000002078",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Sportaccessoires",
+	"BARCODE": "8715349011014",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 1
 }

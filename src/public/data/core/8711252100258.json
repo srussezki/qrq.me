@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/8711252100258.jpg",
 	"creation": "2018-09-18T12:53:07.000572",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 16,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 10,
 	"item_name": "Piñata geburtstagstorte PA",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=aeaf6942-cddd-4efa-a0ed-732a711074f7",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252100258",
 	"item_code": "PP-000013769",
-	"current_stock_001_kaufpark_eiche": 7,
 	"name": "PP-000013769",
+	"current_stock_001_kaufpark_eiche": 7,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": "8711252100258",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 6
 }

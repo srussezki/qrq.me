@@ -1,4 +1,5 @@
 {
+	"item_group": "Beautyaccessoires",
 	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/8711252036991.jpg",
 	"creation": "2018-05-02T18:33:42.826199",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": "2018-05-02",
+	"ORDERS_7D": 6,
 	"marketing_text": "Alles Rund um das Auto auch online",
+	"ORDERS_ALLTIME": 150,
 	"item_name": "PET/PP Sprühflasche",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=397bf273-cdb4-4369-9d3e-f9936094d266",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252036991",
 	"item_code": "PP-000008323",
-	"current_stock_001_kaufpark_eiche": 15,
 	"name": "PP-000008323",
+	"current_stock_001_kaufpark_eiche": 14,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Beautyaccessoires",
+	"BARCODE": "8711252036991",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.59",
 	"current_gross_selling_price": 0.59,
-	"base_price": "0.59"
+	"ORDERS_30D": 23
 }

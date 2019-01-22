@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Unisex",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8714627350135.jpg",
 	"creation": "2018-03-14T16:33:09.220429",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 0,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 3,
 	"item_name": "XXL-Furzkissen 2er-Set",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7611aea2-a9ee-4b39-9db1-3cf2b45410c2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627350135",
 	"item_code": "PP-000005893",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000005893",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Unisex",
+	"BARCODE": "8714627350135",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "4.49",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.49"
+	"ORDERS_30D": 0
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Batterien",
 	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/887930952049.png",
 	"creation": "2018-02-13T18:58:46.274285",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-04",
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 184,
 	"item_name": "Kodak Xtralife Bttr. Alkaline C 2stk",
 	"level_0_item_group": "Elektro",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=65c9a961-91c3-45e2-a64f-f70438b68899",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "887930952049",
 	"item_code": "PP-000003644",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000003644",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Batterien",
+	"BARCODE": "887930952049",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.29",
 	"current_gross_selling_price": 1.29,
-	"base_price": "1.29"
+	"ORDERS_30D": 21
 }

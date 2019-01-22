@@ -1,4 +1,5 @@
 {
+	"item_group": "Unterwäsche & Bademode",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5051746674043.jpg",
 	"creation": "2018-05-22T15:28:06.234403",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Noch mehr Auswahl online",
+	"ORDERS_ALLTIME": 25,
 	"item_name": "Speedo Herrenbadehose BV Graphic S",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=044e6847-15c8-45d8-8d6d-be8a0633328c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5051746674043",
 	"item_code": "PP-000009070",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000009070",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Unterwäsche & Bademode",
+	"BARCODE": "5051746674043",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "6.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "6.99"
+	"ORDERS_30D": 0
 }

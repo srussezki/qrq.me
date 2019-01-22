@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 13,
+	"item_group": "Ballons",
+	"current_stock_003_halle_altstadt": 12,
 	"image": "/files/4038732711754.jpg",
 	"creation": "2018-06-01T11:13:39.848941",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 20,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 1,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 52,
 	"item_name": "Folienballon Ziffer 7 Gold 80cm",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=696d3656-daa5-4496-8c7e-737bb665bc0c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4038732711754",
 	"item_code": "PP-000009458",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000009458",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Ballons",
+	"BARCODE": "4038732711754",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 11
 }

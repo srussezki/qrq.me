@@ -1,4 +1,5 @@
 {
+	"item_group": "Sportaccessoires",
 	"current_stock_003_halle_altstadt": 23,
 	"image": "/files/8711295847592.jpg",
 	"creation": "2018-02-14T09:14:16.323750",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-09",
+	"ORDERS_7D": 1,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 74,
 	"item_name": "Sportflasche 1l",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=9ffb578d-eb46-4183-9ec3-f194a9b0b464",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711295847592",
 	"item_code": "PP-000004347",
-	"current_stock_001_kaufpark_eiche": 24,
 	"name": "PP-000004347",
+	"current_stock_001_kaufpark_eiche": 24,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Sportaccessoires",
+	"BARCODE": "8711295847592",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 1
 }

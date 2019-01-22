@@ -1,4 +1,5 @@
 {
+	"item_group": "Kerzen & -zubehör",
 	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/8719202391220.jpg",
 	"creation": "2018-02-14T09:14:24.973491",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": "2018-02-09",
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 1,
 	"item_name": "Teelichthalter Glas 7cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=84b1e204-5be4-43fe-a3a1-9259619083ec",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202391220",
 	"item_code": "PP-000004420",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000004420",
+	"current_stock_001_kaufpark_eiche": 12,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Kerzen & -zubehör",
+	"BARCODE": "8719202391220",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 5.99,
-	"base_price": "0.89"
+	"ORDERS_30D": 0
 }

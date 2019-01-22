@@ -1,4 +1,5 @@
 {
+	"item_group": "Nähzubehör",
 	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/4044186407204.png",
 	"creation": "2018-06-14T19:08:03.410286",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 6,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 40,
 	"item_name": "Bindfaden 30m",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ea96d797-a133-4d9f-a23c-0b1996530870",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4044186407204",
 	"item_code": "PP-000009933",
-	"current_stock_001_kaufpark_eiche": 13,
 	"name": "PP-000009933",
+	"current_stock_001_kaufpark_eiche": 13,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Nähzubehör",
+	"BARCODE": "4044186407204",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 7
 }

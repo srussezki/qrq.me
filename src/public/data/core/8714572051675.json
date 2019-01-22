@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/8714572051675.jpg",
 	"creation": "2018-09-17T18:47:10.840884",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 60,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 38,
 	"item_name": "Wimpelkette Verkehrsschilder \"18\"",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=79c48c0f-52dd-4d83-b665-9185186ab7a6",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714572051675",
 	"item_code": "PP-000013584",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000013584",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": "8714572051675",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 14
 }

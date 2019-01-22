@@ -1,4 +1,5 @@
 {
+	"item_group": "Servietten",
 	"current_stock_003_halle_altstadt": 11,
 	"image": "/files/4018164092430.jpg",
 	"creation": "2018-08-02T11:48:02.959025",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 28,
 	"item_name": "Servietten m. Motiv, 3-lg.,33x33cm, Astro-Dinos, 20 Stk.",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c6336f9d-9f6a-4d0f-a994-b7bb06cc4388",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4018164092430",
 	"item_code": "PP-000011930",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000011930",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Servietten",
+	"BARCODE": "4018164092430",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.79",
 	"current_gross_selling_price": 0.89,
-	"base_price": "0.79"
+	"ORDERS_30D": 6
 }

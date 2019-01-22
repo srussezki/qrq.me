@@ -1,4 +1,5 @@
 {
+	"item_group": "Künstlerbedarf",
 	"current_stock_003_halle_altstadt": 115,
 	"image": "/files/8719202138344.jpg",
 	"creation": "2018-02-14T09:14:26.571384",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-09",
+	"ORDERS_7D": 4,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 32,
 	"item_name": "Pinselset Rund",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=07fec8e8-24d7-4c64-af0c-96f39a261e0d",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202138344",
 	"item_code": "PP-000004432",
-	"current_stock_001_kaufpark_eiche": 33,
 	"name": "PP-000004432",
+	"current_stock_001_kaufpark_eiche": 31,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Künstlerbedarf",
+	"BARCODE": "8719202138344",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.89",
 	"current_gross_selling_price": 1.19,
-	"base_price": "0.89"
+	"ORDERS_30D": 6
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 4,
+	"item_group": "Koffer",
+	"current_stock_003_halle_altstadt": 1,
 	"image": null,
 	"creation": "2018-02-14T16:00:25.680441",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 1,
 	"first_time_ordered_on_": "2018-01-27",
+	"ORDERS_7D": 6,
 	"marketing_text": "Fashion Week, jetzt auch in der App",
+	"ORDERS_ALLTIME": 25,
 	"item_name": "Reisetrolley Navyblau 28 Zoll",
 	"level_0_item_group": "Accessoires",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=391dd5d7-a80a-4fc3-bd47-c5309e3166cf",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5053191411358",
 	"item_code": "PP-000004178",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000004178",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 3,
 	"shelf_number": null,
-	"item_group": "Koffer",
+	"BARCODE": "5053191411358",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.89",
 	"current_gross_selling_price": 29.99,
-	"base_price": "0.89"
+	"ORDERS_30D": 6
 }

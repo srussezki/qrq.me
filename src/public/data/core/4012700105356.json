@@ -1,4 +1,5 @@
 {
+	"item_group": "Künstlerbedarf",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4012700105356.jpg",
 	"creation": "2018-05-09T12:31:48.191248",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Billiger gibts nur in der App!",
+	"ORDERS_ALLTIME": 10,
 	"item_name": "Malschürze Girl rot MSG",
 	"level_0_item_group": "Hobby",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=057c5b75-72ec-43fb-a9b3-7b1f2a6d12a2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4012700105356",
 	"item_code": "PP-000008638",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000008638",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Künstlerbedarf",
+	"BARCODE": "4012700105356",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.49",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.49"
+	"ORDERS_30D": 0
 }

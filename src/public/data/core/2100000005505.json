@@ -1,4 +1,5 @@
 {
+	"item_group": "Glas",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-07-16T16:12:23.889467",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 18,
 	"item_name": "Aufrechte Schüssel",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=fea7ae10-e220-49d9-842f-6831f2b97313",
@@ -24,8 +27,13 @@
 	"item_code": "PP-000010779",
 	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000010779",
+	"_timestamp": "20190122 150230.107",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Glas",
+	"BARCODE": "2100000005505",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 1,
+	"top10": "Glas"
 }

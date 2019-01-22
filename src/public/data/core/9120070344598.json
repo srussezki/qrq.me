@@ -1,4 +1,5 @@
 {
+	"item_group": "Bettwaren",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-08-20T16:45:28.188125",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 4,
 	"item_name": "Schlafwohl Microfaser Bettwäsche Set 10tlg",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4d3b0e86-8e07-4934-8f9a-f42e06ebecff",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "9120070344598",
 	"item_code": "PP-000012682",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000012682",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Bettwaren",
+	"BARCODE": "9120070344598",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "39.99",
 	"current_gross_selling_price": 39.99,
-	"base_price": "39.99"
+	"ORDERS_30D": 1
 }

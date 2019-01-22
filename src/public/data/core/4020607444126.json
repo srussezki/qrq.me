@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekoration",
 	"current_stock_003_halle_altstadt": 7,
 	"image": null,
 	"creation": "2018-07-17T09:58:35.797103",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 66,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": "Pimp your Home",
+	"ORDERS_ALLTIME": 40,
 	"item_name": "Box Tönning Weiß L12cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0817e41e-2eef-4357-9f7b-c945f1308c96",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4020607444126",
 	"item_code": "PP-000010830",
-	"current_stock_001_kaufpark_eiche": 17,
 	"name": "PP-000010830",
+	"current_stock_001_kaufpark_eiche": 17,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekoration",
+	"BARCODE": "4020607444126",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 12
 }

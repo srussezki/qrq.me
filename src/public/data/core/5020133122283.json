@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 35,
+	"item_group": "Unterwäsche & Bademode",
+	"current_stock_003_halle_altstadt": 33,
 	"image": null,
 	"creation": "2018-10-04T16:37:59.195544",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 8,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 5,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 29,
 	"item_name": "Mädchen Briefs 7stk",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d4622293-3611-488a-b7eb-ff4e9e01e283",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5020133122283",
 	"item_code": "PP-000014535",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000014535",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 2,
 	"shelf_number": null,
-	"item_group": "Unterwäsche & Bademode",
+	"BARCODE": "5020133122283",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "4.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 15
 }

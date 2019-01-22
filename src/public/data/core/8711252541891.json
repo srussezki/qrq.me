@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 31,
+	"item_group": "Aufbewahrung",
+	"current_stock_003_halle_altstadt": 30,
 	"image": "/files/8711252541891.jpg",
 	"creation": "2018-02-13T18:56:16.017827",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 6,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 290,
 	"item_name": "Teebox 6 Fächer",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=976cbd97-4d95-4f11-ac6f-22182ebb9dfe",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252541891",
 	"item_code": "PP-000000294",
-	"current_stock_001_kaufpark_eiche": 15,
 	"name": "PP-000000294",
+	"current_stock_001_kaufpark_eiche": 15,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Aufbewahrung",
+	"BARCODE": "8711252541891",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "2.29",
 	"current_gross_selling_price": 2.29,
-	"base_price": "2.29"
+	"ORDERS_30D": 63
 }

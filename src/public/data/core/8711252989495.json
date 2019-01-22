@@ -1,4 +1,5 @@
 {
+	"item_group": "Saisonale Dekoration",
 	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/8711252989495.jpg",
 	"creation": "2018-02-14T16:00:19.383598",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-02",
+	"ORDERS_7D": 3,
 	"marketing_text": "Technik ohne Ende auf factorymarket.de",
+	"ORDERS_ALLTIME": 185,
 	"item_name": "Lichterkette",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=7c49dc67-929f-4723-9398-18e321b7b75a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252989495",
 	"item_code": "PP-000002070",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000002070",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Saisonale Dekoration",
+	"BARCODE": "8711252989495",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "5.59",
 	"current_gross_selling_price": 5.99,
-	"base_price": "5.59"
+	"ORDERS_30D": 13
 }

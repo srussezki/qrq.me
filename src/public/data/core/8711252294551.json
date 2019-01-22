@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 21,
+	"item_group": "Hunde",
+	"current_stock_003_halle_altstadt": 20,
 	"image": "/files/8711252294551.jpg",
 	"creation": "2018-04-19T18:43:34.633388",
 	"website_image": "/files/8711252294551.jpg",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 96,
 	"first_time_ordered_on_": "2018-04-09",
+	"ORDERS_7D": 20,
 	"marketing_text": "Alles für Hund, Katze, Maus gibts auch online",
+	"ORDERS_ALLTIME": 340,
 	"item_name": "Kaurollen weiß 80g",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=12978faa-831f-4ad9-b38b-dfb273822e52",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252294551",
 	"item_code": "PP-000007498",
-	"current_stock_001_kaufpark_eiche": 35,
 	"name": "PP-000007498",
+	"current_stock_001_kaufpark_eiche": 35,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Hunde",
+	"BARCODE": "8711252294551",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "1.73",
 	"current_gross_selling_price": 0.99,
-	"base_price": "1.73"
+	"ORDERS_30D": 49
 }

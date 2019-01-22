@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4326470636324.jpg",
 	"creation": "2018-02-13T18:56:50.062421",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-11-02",
+	"ORDERS_7D": 2,
 	"marketing_text": "Pflege für Sie & Ihn in der App",
+	"ORDERS_ALLTIME": 40,
 	"item_name": "Elina Shampoo Aloe Vera 250ml",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ff6be594-544a-4f9d-b522-f0f581fc5b92",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470636324",
 	"item_code": "PP-000001266",
-	"current_stock_001_kaufpark_eiche": 9,
 	"name": "PP-000001266",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "0",
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "4326470636324",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 8
 }

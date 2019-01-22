@@ -1,4 +1,5 @@
 {
+	"item_group": "Töpfe & Pfannen",
 	"current_stock_003_halle_altstadt": 6,
 	"image": "/files/8711252076065.jpg",
 	"creation": "2018-06-07T12:25:50.962905",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 30,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Die besten Küchenhelfer, auch in unserer App",
+	"ORDERS_ALLTIME": 36,
 	"item_name": "Bratpfanne 28cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=82d8b6f3-6ba4-444e-8a2c-cd71f9a46a94",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252076065",
 	"item_code": "PP-000009637",
-	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000009637",
+	"current_stock_001_kaufpark_eiche": 6,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Töpfe & Pfannen",
+	"BARCODE": "8711252076065",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.99",
 	"current_gross_selling_price": 7.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 0
 }

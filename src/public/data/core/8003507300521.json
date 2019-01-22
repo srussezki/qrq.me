@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 4,
+	"item_group": "Aufbewahrung",
+	"current_stock_003_halle_altstadt": 3,
 	"image": "/files/8003507300521.png",
 	"creation": "2018-02-13T18:57:45.711811",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 7,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 69,
 	"item_name": "Wäschekorb Moka 50l",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f1ab6942-a5ff-45de-814f-b6c927ac3b27",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8003507300521",
 	"item_code": "PP-000003314",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000003314",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Aufbewahrung",
+	"BARCODE": "8003507300521",
+	"ORDERS_YESTERDAY": 3,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": 13
 }

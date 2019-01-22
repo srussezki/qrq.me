@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Reinigungsmittel",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4015000962018.jpg",
 	"creation": "2018-08-09T15:32:47.391959",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-04-13",
+	"ORDERS_7D": 0,
 	"marketing_text": "App, App Hura! Noch mehr Auswahl!",
+	"ORDERS_ALLTIME": 9,
 	"item_name": "Pril Spülmittel Zitrus Kraftgel 500ml",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5cbc8bf9-fb81-48fa-b1aa-11fa01a1cf85",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4015000962018",
 	"item_code": "PP-000012460",
-	"current_stock_001_kaufpark_eiche": 3,
 	"name": "PP-000012460",
+	"current_stock_001_kaufpark_eiche": 3,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "FMCG Reinigungsmittel",
+	"BARCODE": "4015000962018",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.29",
 	"current_gross_selling_price": 1.19,
-	"base_price": "0.29"
+	"ORDERS_30D": 0
 }

@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 29,
+	"item_group": "Aufbewahrung",
+	"current_stock_003_halle_altstadt": 28,
 	"image": "/files/8711252974767.jpg",
 	"creation": "2018-02-13T18:48:56.093570",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 157,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 3,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 264,
 	"item_name": "Aufbewahrungsbox 760Ml 4St",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6d486343-6268-4a9b-bc86-60a34023a8b2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252974767",
 	"item_code": "PP-000000442",
-	"current_stock_001_kaufpark_eiche": 47,
 	"name": "PP-000000442",
+	"current_stock_001_kaufpark_eiche": 47,
+	"ORDERS_TODAY": 1,
 	"shelf_number": "1",
-	"item_group": "Aufbewahrung",
+	"BARCODE": "8711252974767",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 14
 }

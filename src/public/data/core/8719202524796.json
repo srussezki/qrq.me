@@ -1,4 +1,5 @@
 {
+	"item_group": "Office",
 	"current_stock_003_halle_altstadt": 24,
 	"image": null,
 	"creation": "2018-03-23T21:08:13.373233",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-15",
+	"ORDERS_7D": 0,
 	"marketing_text": "Die App für Bürohelden und Heldinnen",
+	"ORDERS_ALLTIME": 8,
 	"item_name": "Dokumentenmappe A4",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2ee69690-95d8-4084-b9d0-d20ecc7313e3",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202524796",
 	"item_code": "PP-000005999",
-	"current_stock_001_kaufpark_eiche": 16,
 	"name": "PP-000005999",
+	"current_stock_001_kaufpark_eiche": 16,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Office",
+	"BARCODE": "8719202524796",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 3
 }

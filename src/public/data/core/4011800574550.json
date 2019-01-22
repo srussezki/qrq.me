@@ -1,4 +1,5 @@
 {
+	"item_group": "Süßigkeiten & Kaugummi",
 	"current_stock_003_halle_altstadt": 13,
 	"image": null,
 	"creation": "2018-11-02T12:47:02.716440",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 408,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 9,
 	"marketing_text": "Alles für die Naschkatzen bei factorymarket",
+	"ORDERS_ALLTIME": 29,
 	"item_name": "Corny Big Brownie Limited Edition",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a774359a-6999-4d75-bcf8-05839df1121a",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4011800574550",
 	"item_code": "PP-000015307",
-	"current_stock_001_kaufpark_eiche": 12,
 	"name": "PP-000015307",
+	"current_stock_001_kaufpark_eiche": 11,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Süßigkeiten & Kaugummi",
+	"BARCODE": "4011800574550",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.42",
 	"current_gross_selling_price": 0.42,
-	"base_price": "0.42"
+	"ORDERS_30D": 28
 }

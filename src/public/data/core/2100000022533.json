@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 88,
+	"item_group": "Partyartikel",
+	"current_stock_003_halle_altstadt": 86,
 	"image": "/files/2100000020812.jpg",
 	"creation": "2019-01-16T10:43:51.284577",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 16,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 16,
 	"item_name": "Factory Market App-Artikel",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "2100000022533",
 	"item_code": "PP-000017284",
-	"current_stock_001_kaufpark_eiche": 99,
 	"name": "PP-000017284",
+	"current_stock_001_kaufpark_eiche": 99,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": "2100000022533",
+	"ORDERS_YESTERDAY": 8,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 16
 }

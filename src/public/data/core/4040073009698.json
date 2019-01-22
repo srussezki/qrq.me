@@ -1,4 +1,5 @@
 {
+	"item_group": "Babybekleidung",
 	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/4040073009698.jpg",
 	"creation": "2018-08-24T13:32:14.609920",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Die neusten Trends auch in unserer App",
+	"ORDERS_ALLTIME": 18,
 	"item_name": "Baby Minni Slips 2er Set 86-92",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=d0970cf9-d220-4c76-8358-7e47d55a8b77",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4040073009698",
 	"item_code": "PP-000012794",
-	"current_stock_001_kaufpark_eiche": 14,
 	"name": "PP-000012794",
+	"current_stock_001_kaufpark_eiche": 14,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Babybekleidung",
+	"BARCODE": "4040073009698",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.49",
 	"current_gross_selling_price": 2.99,
-	"base_price": "3.49"
+	"ORDERS_30D": 7
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Schreibwaren Schule",
 	"current_stock_003_halle_altstadt": 22,
 	"image": "/files/8711252865317.png",
 	"creation": "2018-02-13T18:49:02.402564",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 3,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 141,
 	"item_name": "Spiral Art Set 37stk",
 	"level_0_item_group": "Schreibwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4d261bd4-6ee2-4452-9045-0ec1b139de63",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252865317",
 	"item_code": "PP-000000395",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000000395",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Schreibwaren Schule",
+	"BARCODE": "8711252865317",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.49",
 	"current_gross_selling_price": 3.49,
-	"base_price": "3.49"
+	"ORDERS_30D": 22
 }

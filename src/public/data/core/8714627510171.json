@@ -1,4 +1,5 @@
 {
+	"item_group": "Partyartikel",
 	"current_stock_003_halle_altstadt": 25,
 	"image": "/files/8714627510171.jpg",
 	"creation": "2018-02-13T18:48:02.240706",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 24,
 	"first_time_ordered_on_": "2017-11-10",
+	"ORDERS_7D": 3,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 237,
 	"item_name": "Beer Pong Bälle Emoji Design",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c2a8f616-c198-46bc-84dc-a788693a077e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627510171",
 	"item_code": "PP-000001499",
-	"current_stock_001_kaufpark_eiche": 30,
 	"name": "PP-000001499",
+	"current_stock_001_kaufpark_eiche": 30,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Partyartikel",
+	"BARCODE": "8714627510171",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 1.49,
-	"base_price": "0.99"
+	"ORDERS_30D": 26
 }

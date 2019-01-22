@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 3,
+	"item_group": "Salzige Snacks",
+	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/4003586000316.jpg",
 	"creation": "2018-03-14T16:33:32.247847",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-13",
+	"ORDERS_7D": 7,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 189,
 	"item_name": "funnyfrisch Chipsfrisch ungarisch 175gr",
 	"level_0_item_group": "Snacks & Getränke",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=310bb2da-046d-4d03-9934-b48f02bb84de",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4003586000316",
 	"item_code": "PP-000005332",
-	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000005332",
+	"current_stock_001_kaufpark_eiche": 1,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Salzige Snacks",
+	"BARCODE": "4003586000316",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.49",
 	"current_gross_selling_price": 0.49,
-	"base_price": "0.49"
+	"ORDERS_30D": 15
 }

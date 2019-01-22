@@ -1,4 +1,5 @@
 {
+	"item_group": "Garten",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4016002054343.png",
 	"creation": "2018-05-22T14:22:53.540001",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 20,
 	"item_name": "FloraSun Gartenschlauch Flexi 7,5m",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=599942c0-6b07-4c02-8406-ff77c27d7dbb",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4016002054343",
 	"item_code": "PP-000008995",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000008995",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Garten",
+	"BARCODE": "4016002054343",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "9.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "9.99"
+	"ORDERS_30D": 0
 }

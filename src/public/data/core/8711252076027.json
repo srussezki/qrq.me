@@ -1,4 +1,5 @@
 {
+	"item_group": "Sportaccessoires",
 	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/8711252076027.jpg",
 	"creation": "2018-02-14T16:04:37.505005",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-02",
+	"ORDERS_7D": 1,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 128,
 	"item_name": "Tischtennisbälle",
 	"level_0_item_group": "Sport",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a109bbf5-0abc-4a91-949a-019bd1438f11",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252076027",
 	"item_code": "PP-000001889",
-	"current_stock_001_kaufpark_eiche": 14,
 	"name": "PP-000001889",
+	"current_stock_001_kaufpark_eiche": 14,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Sportaccessoires",
+	"BARCODE": "8711252076027",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.69",
 	"current_gross_selling_price": 0.69,
-	"base_price": "0.69"
+	"ORDERS_30D": 4
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "Vasen",
 	"current_stock_003_halle_altstadt": 20,
 	"image": "/files/8713368198013.jpg",
 	"creation": "2018-03-14T16:33:30.789667",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 64,
 	"first_time_ordered_on_": "2018-03-13",
+	"ORDERS_7D": 2,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 85,
 	"item_name": "Glasvase cube 8x8x8cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=f08f4920-84df-43d4-b680-74bfd7f62718",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8713368198013",
 	"item_code": "PP-000005367",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000005367",
+	"current_stock_001_kaufpark_eiche": 9,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Vasen",
+	"BARCODE": "8713368198013",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "1.49",
 	"current_gross_selling_price": 1.49,
-	"base_price": "1.49"
+	"ORDERS_30D": 16
 }

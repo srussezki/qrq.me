@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 31,
+	"item_group": "Unterwäsche & Bademode",
+	"current_stock_003_halle_altstadt": 29,
 	"image": null,
 	"creation": "2018-10-08T15:40:49.172648",
 	"website_image": null,
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 16,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 41,
 	"item_name": "Midi Damen Unterwäsche 2stk schwarz",
 	"level_0_item_group": "Fashion",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=76626d11-e61d-4721-ba27-59e7e7359260",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3614000466321",
 	"item_code": "PP-000014654",
-	"current_stock_001_kaufpark_eiche": 21,
 	"name": "PP-000014654",
+	"current_stock_001_kaufpark_eiche": 21,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Unterwäsche & Bademode",
+	"BARCODE": "3614000466321",
+	"ORDERS_YESTERDAY": 6,
+	"base_price": "3.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 35
 }

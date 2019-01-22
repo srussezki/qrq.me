@@ -1,4 +1,5 @@
 {
+	"item_group": "Trinkflaschen",
 	"current_stock_003_halle_altstadt": 8,
 	"image": "/files/5054061115093.png",
 	"creation": "2018-08-23T17:08:32.768366",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 38,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": 6,
 	"item_name": "Coffee2Go Becher Herz",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0bedf350-c7e4-4882-8d80-67e9fa7932a2",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5054061115093",
 	"item_code": "PP-000012711",
-	"current_stock_001_kaufpark_eiche": 10,
 	"name": "PP-000012711",
+	"current_stock_001_kaufpark_eiche": 10,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Trinkflaschen",
+	"BARCODE": "5054061115093",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 4
 }

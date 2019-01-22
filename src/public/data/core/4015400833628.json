@@ -1,4 +1,5 @@
 {
+	"item_group": "Babypflege",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4015400833628.jpg",
 	"creation": "2018-02-13T18:48:12.766762",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-11-01",
+	"ORDERS_7D": 0,
 	"marketing_text": "Online schon der Knaller, jetzt bei uns",
+	"ORDERS_ALLTIME": 23,
 	"item_name": "Pampers Windeln Baby-Dry Gr.4 30stk",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=a676bb9a-f14b-4d66-bf57-34e74759b8ef",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4015400833628",
 	"item_code": "PP-000002106",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000002106",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "2",
-	"item_group": "Babypflege",
+	"BARCODE": "4015400833628",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 0
 }

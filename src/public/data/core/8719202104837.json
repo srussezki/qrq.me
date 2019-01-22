@@ -1,4 +1,5 @@
 {
+	"item_group": "Aufbewahrung",
 	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/8719202104837.jpg",
 	"creation": "2018-02-14T09:13:45.344956",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-02-08",
+	"ORDERS_7D": 17,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 130,
 	"item_name": "Aufbewahrungsbox",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=5ddfe14e-7099-4511-8ae0-75077112706e",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8719202104837",
 	"item_code": "PP-000000704",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000000704",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Aufbewahrung",
+	"BARCODE": "8719202104837",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": 51
 }

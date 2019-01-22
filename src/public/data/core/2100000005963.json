@@ -1,4 +1,5 @@
 {
+	"item_group": "Aufbewahrung",
 	"current_stock_003_halle_altstadt": 0,
 	"image": null,
 	"creation": "2018-08-01T20:28:43.497506",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "App, App Hura! Noch mehr Auswahl!",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Ordnungshilfe Schuhe 6stk",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=71bbac24-4e23-4d0f-94ff-7d08ce7d62f3",
@@ -24,8 +27,12 @@
 	"item_code": "PP-000011992",
 	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000011992",
+	"_timestamp": "20190122 150230.144",
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Aufbewahrung",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "4.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "4.99"
+	"ORDERS_30D": null
 }

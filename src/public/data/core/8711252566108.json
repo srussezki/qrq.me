@@ -1,4 +1,5 @@
 {
+	"item_group": "Servietten",
 	"current_stock_003_halle_altstadt": 35,
 	"image": "/files/8711252566108.jpg",
 	"creation": "2018-03-14T16:33:17.768175",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 36,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 10,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 87,
 	"item_name": "Papierservetten 33x33cm 6Versch. Farben",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=ecf0691f-2dfa-4615-94f7-cd55656ceb27",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252566108",
 	"item_code": "PP-000005679",
-	"current_stock_001_kaufpark_eiche": 33,
 	"name": "PP-000005679",
+	"current_stock_001_kaufpark_eiche": 33,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Servietten",
+	"BARCODE": "8711252566108",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.19",
 	"current_gross_selling_price": 1.19,
-	"base_price": "1.19"
+	"ORDERS_30D": 13
 }

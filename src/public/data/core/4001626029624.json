@@ -1,4 +1,5 @@
 {
+	"item_group": "Dekokissen",
 	"current_stock_003_halle_altstadt": 39,
 	"image": null,
 	"creation": "2018-08-10T16:29:13.608903",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 2,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 26,
 	"item_name": "Kissenhülle 2er Stk., 48x48cm, anthra",
 	"level_0_item_group": "Heimtextilien",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=c5ab0683-a1f0-4219-ae17-b16275ed68c0",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4001626029624",
 	"item_code": "PP-000012548",
-	"current_stock_001_kaufpark_eiche": 20,
 	"name": "PP-000012548",
+	"current_stock_001_kaufpark_eiche": 20,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Dekokissen",
+	"BARCODE": "4001626029624",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": null,
 	"current_gross_selling_price": 2.49,
-	"base_price": null
+	"ORDERS_30D": 6
 }

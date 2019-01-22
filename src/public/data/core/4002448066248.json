@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Reinigungsmittel",
 	"current_stock_003_halle_altstadt": 5,
 	"image": "/files/4002448066248.jpg",
 	"creation": "2018-02-14T09:13:38.545182",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-28",
+	"ORDERS_7D": 4,
 	"marketing_text": "Wecke den Putzteufel in Dir!",
+	"ORDERS_ALLTIME": 91,
 	"item_name": "Finish Machinecleaner Citrus 250ml",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=0006d93f-18b6-43fc-b7cd-d2aa0d1ae796",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4002448066248",
 	"item_code": "PP-000003576",
-	"current_stock_001_kaufpark_eiche": 2,
 	"name": "PP-000003576",
+	"current_stock_001_kaufpark_eiche": 2,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "FMCG Reinigungsmittel",
+	"BARCODE": "4002448066248",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.79",
 	"current_gross_selling_price": 1.99,
-	"base_price": "0.79"
+	"ORDERS_30D": 6
 }

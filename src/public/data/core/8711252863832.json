@@ -1,4 +1,5 @@
 {
+	"item_group": "Kleinmöbel",
 	"current_stock_003_halle_altstadt": 2,
 	"image": "/files/8711252863832.jpg",
 	"creation": "2018-02-14T16:00:51.933815",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2017-12-19",
+	"ORDERS_7D": 3,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 14,
 	"item_name": "Schuhregal 27x70x88cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=dc52c2b6-ee18-45a6-97d8-5b4a8ac5d791",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252863832",
 	"item_code": "PP-000003446",
-	"current_stock_001_kaufpark_eiche": 5,
 	"name": "PP-000003446",
+	"current_stock_001_kaufpark_eiche": 5,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Kleinmöbel",
+	"BARCODE": "8711252863832",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "17.99",
 	"current_gross_selling_price": 17.99,
-	"base_price": "17.99"
+	"ORDERS_30D": 5
 }

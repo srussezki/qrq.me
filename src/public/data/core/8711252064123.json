@@ -1,4 +1,5 @@
 {
+	"item_group": "Hunde",
 	"current_stock_003_halle_altstadt": 23,
 	"image": "/files/8711252064123.jpg",
 	"creation": "2018-02-13T18:49:06.785494",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 216,
 	"first_time_ordered_on_": "2018-01-12",
+	"ORDERS_7D": 0,
 	"marketing_text": "Pflege für Sie & Ihn in der App",
+	"ORDERS_ALLTIME": 36,
 	"item_name": "Haustier Zahnpflege Stick 80g",
 	"level_0_item_group": "Tierbedarf",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252064123",
 	"item_code": "PP-000001880",
-	"current_stock_001_kaufpark_eiche": 38,
 	"name": "PP-000001880",
+	"current_stock_001_kaufpark_eiche": 38,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Hunde",
+	"BARCODE": "8711252064123",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.48",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.48"
+	"ORDERS_30D": 0
 }

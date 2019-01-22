@@ -1,4 +1,5 @@
 {
+	"item_group": "Spielwaren Jungs",
 	"current_stock_003_halle_altstadt": 23,
 	"image": "/files/8714627200904.jpg",
 	"creation": "2018-03-14T16:33:14.347889",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 1,
 	"marketing_text": "481.983 weiterer Artikel in unserer App",
+	"ORDERS_ALLTIME": 39,
 	"item_name": "Raumschiff Fallschirm & Licht",
 	"level_0_item_group": "Spielwaren",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=eee96c13-2846-4e6b-b20e-3aa5b2e62103",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8714627200904",
 	"item_code": "PP-000005768",
-	"current_stock_001_kaufpark_eiche": 23,
 	"name": "PP-000005768",
+	"current_stock_001_kaufpark_eiche": 23,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Spielwaren Jungs",
+	"BARCODE": "8714627200904",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "2.99",
 	"current_gross_selling_price": 2.99,
-	"base_price": "2.99"
+	"ORDERS_30D": 4
 }

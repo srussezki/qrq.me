@@ -1,4 +1,5 @@
 {
+	"item_group": "Saisonale Dekoration",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/013051498535.jpg",
 	"creation": "2018-04-09T18:13:46.255838",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-28",
+	"ORDERS_7D": 0,
 	"marketing_text": "Party Hard!",
+	"ORDERS_ALLTIME": 11,
 	"item_name": "Fluffy-Dekobälle Gold 3stk",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=bb0b9077-f3dd-4b7e-b3f9-0143a24b12f2",
@@ -24,8 +27,14 @@
 	"item_code": "PP-000007040",
 	"current_stock_001_kaufpark_eiche": 1,
 	"name": "PP-000007040",
+	"_timestamp": "20190122 150229.270",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Saisonale Dekoration",
+	"BARCODE": "013051498535",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 4.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 1,
+	"top10": "Saisonale Dekoration",
+	"top100": "Home & Deko"
 }

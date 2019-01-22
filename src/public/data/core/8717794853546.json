@@ -1,4 +1,5 @@
 {
+	"item_group": "Bilder- & rahmen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8717794853546.jpg",
 	"creation": "2018-09-27T13:47:20.441890",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": null,
 	"marketing_text": "Mehr Artikel online in der App",
+	"ORDERS_ALLTIME": null,
 	"item_name": "Bilderrahmen schwarz 15x20cm",
 	"level_0_item_group": "Home & Deko",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=4d6cfe57-f43f-4e2e-b986-17670086fefc",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8717794853546",
 	"item_code": "PP-000014045",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000014045",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": null,
 	"shelf_number": null,
-	"item_group": "Bilder- & rahmen",
+	"BARCODE": null,
+	"ORDERS_YESTERDAY": null,
+	"base_price": "2.49",
 	"current_gross_selling_price": 2.49,
-	"base_price": "2.49"
+	"ORDERS_30D": null
 }

@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Wäschepflege",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4015000352703.png",
 	"creation": "2018-03-14T16:32:26.480796",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-07",
+	"ORDERS_7D": 0,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 570,
 	"item_name": "Persil Color Pulver 130Wäschen",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=2cae6e03-8f00-4dbf-bd27-2cd15c23b8d7",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4015000352703",
 	"item_code": "PP-000005181",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000005181",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "FMCG Wäschepflege",
+	"BARCODE": "4015000352703",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "14.99",
 	"current_gross_selling_price": 14.99,
-	"base_price": "14.99"
+	"ORDERS_30D": 0
 }

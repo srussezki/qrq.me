@@ -1,4 +1,5 @@
 {
+	"item_group": "Küchenhelfer",
 	"current_stock_003_halle_altstadt": 7,
 	"image": "/files/2100000006113.jpg",
 	"creation": "2018-08-07T16:43:28.371529",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 60,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 8,
 	"marketing_text": "Die besten Küchenhelfer, auch in unserer App",
+	"ORDERS_ALLTIME": 35,
 	"item_name": "Shaker mit Sieb",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=99f428ac-d037-470e-ac91-d09c1058bc09",
@@ -24,8 +27,13 @@
 	"item_code": "PP-000012136",
 	"current_stock_001_kaufpark_eiche": 6,
 	"name": "PP-000012136",
+	"_timestamp": "20190122 150230.171",
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Küchenhelfer",
+	"BARCODE": "2100000006113",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.79",
 	"current_gross_selling_price": 1.79,
-	"base_price": "1.79"
+	"ORDERS_30D": 14,
+	"top10": "Küchenhelfer"
 }

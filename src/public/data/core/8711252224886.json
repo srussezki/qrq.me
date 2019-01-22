@@ -1,4 +1,5 @@
 {
+	"item_group": "Reinigung hart",
 	"current_stock_003_halle_altstadt": 29,
 	"image": "/files/8711252224886.jpg",
 	"creation": "2018-03-14T16:33:20.599884",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-14",
+	"ORDERS_7D": 5,
 	"marketing_text": "Wir können noch billiger! In der App!",
+	"ORDERS_ALLTIME": 39,
 	"item_name": "Wäschekorb 34x34x54cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": null,
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8711252224886",
 	"item_code": "PP-000005610",
-	"current_stock_001_kaufpark_eiche": 23,
 	"name": "PP-000005610",
+	"current_stock_001_kaufpark_eiche": 22,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Reinigung hart",
+	"BARCODE": "8711252224886",
+	"ORDERS_YESTERDAY": 4,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 10
 }

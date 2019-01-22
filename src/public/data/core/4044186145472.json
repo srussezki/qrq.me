@@ -1,12 +1,15 @@
 {
-	"current_stock_003_halle_altstadt": 10,
+	"item_group": "Partyartikel",
+	"current_stock_003_halle_altstadt": 8,
 	"image": "/files/4044186145472.png",
 	"creation": "2018-08-02T11:43:05.978113",
 	"website_image": "/files/4044186145472.png",
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 3,
 	"marketing_text": "App, App Hura! Noch mehr Auswahl!",
+	"ORDERS_ALLTIME": 80,
 	"item_name": "Partykronen, 6 Stück",
 	"level_0_item_group": "Party",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=20f30306-09d4-408b-94d9-5d5a9333cf62",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4044186145472",
 	"item_code": "PP-000012254",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000012254",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 1,
 	"shelf_number": null,
-	"item_group": "Partyartikel",
+	"BARCODE": "4044186145472",
+	"ORDERS_YESTERDAY": 1,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 13
 }

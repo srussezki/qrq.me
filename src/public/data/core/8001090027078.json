@@ -1,4 +1,5 @@
 {
+	"item_group": "FMCG Wäschepflege",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/8001090027078.png",
 	"creation": "2018-06-19T11:04:20.472241",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-06-19",
+	"ORDERS_7D": 0,
 	"marketing_text": null,
+	"ORDERS_ALLTIME": 79,
 	"item_name": "Lenor Unstoppables Wäscheparfüm Lavish180g",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b3e707dc-e511-4d2b-b45d-791d1cf0463c",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "8001090027078",
 	"item_code": "PP-000009846",
-	"current_stock_001_kaufpark_eiche": 4,
 	"name": "PP-000009846",
+	"current_stock_001_kaufpark_eiche": 4,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "FMCG Wäschepflege",
+	"BARCODE": "8001090027078",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "3.99",
 	"current_gross_selling_price": 3.99,
-	"base_price": "3.99"
+	"ORDERS_30D": 0
 }

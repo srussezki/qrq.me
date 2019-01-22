@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4326470424266.jpg",
 	"creation": "2018-02-13T18:50:51.498757",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-11-02",
+	"ORDERS_7D": 2,
 	"marketing_text": "Die neusten Beautyprodukte jetzt bei uns",
+	"ORDERS_ALLTIME": 28,
 	"item_name": "Arganöl Body Milk",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=49d16299-6f0a-4382-9289-5ea8f9cf41ec",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4326470424266",
 	"item_code": "PP-000001268",
-	"current_stock_001_kaufpark_eiche": 28,
 	"name": "PP-000001268",
+	"current_stock_001_kaufpark_eiche": 27,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "3",
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "4326470424266",
+	"ORDERS_YESTERDAY": 2,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 4
 }

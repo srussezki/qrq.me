@@ -1,4 +1,5 @@
 {
+	"item_group": "Pflegende Kosmetik",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/4030409091060.jpg",
 	"creation": "2018-02-13T18:55:30.036236",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-04",
+	"ORDERS_7D": 2,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 51,
 	"item_name": "Cosnature Regenerationsöl Granatapfel",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=6aba1745-a20d-4ea5-9bb4-0a9925fb2886",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "4030409091060",
 	"item_code": "PP-000003541",
-	"current_stock_001_kaufpark_eiche": 8,
 	"name": "PP-000003541",
+	"current_stock_001_kaufpark_eiche": 8,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Pflegende Kosmetik",
+	"BARCODE": "4030409091060",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "1.99",
 	"current_gross_selling_price": 1.99,
-	"base_price": "1.99"
+	"ORDERS_30D": 7
 }

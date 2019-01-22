@@ -1,4 +1,5 @@
 {
+	"item_group": "Garten",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/6942138925944.jpg",
 	"creation": "2018-02-14T16:04:38.732223",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-03-31",
+	"ORDERS_7D": 0,
 	"marketing_text": "Sportlich geht’s weiter auf unserer App",
+	"ORDERS_ALLTIME": 80,
 	"item_name": "Schwimmtier Flamingo",
 	"level_0_item_group": "DIY & Outdoor",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=b13ead0c-c3d9-4604-903a-2fb91868dba1",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "6942138925944",
 	"item_code": "PP-000001813",
-	"current_stock_001_kaufpark_eiche": 14,
 	"name": "PP-000001813",
+	"current_stock_001_kaufpark_eiche": 14,
+	"ORDERS_TODAY": 0,
 	"shelf_number": "0",
-	"item_group": "Garten",
+	"BARCODE": "6942138925944",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "12.99",
 	"current_gross_selling_price": 9.99,
-	"base_price": "12.99"
+	"ORDERS_30D": 0
 }

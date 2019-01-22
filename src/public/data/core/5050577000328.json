@@ -1,4 +1,5 @@
 {
+	"item_group": "OTC / Gesundheit",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/5050577000328.jpg",
 	"creation": "2018-02-14T16:00:31.314342",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": "2018-01-26",
+	"ORDERS_7D": 0,
 	"marketing_text": "Pflege für Sie & Ihn in der App",
+	"ORDERS_ALLTIME": 48,
 	"item_name": "Versen Bandage",
 	"level_0_item_group": "Health & Beauty",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=e69b02d4-bf37-466a-b9ce-53d41d80be07",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "5050577000328",
 	"item_code": "PP-000003797",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000003797",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "OTC / Gesundheit",
+	"BARCODE": "5050577000328",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "0.99",
 	"current_gross_selling_price": 0.99,
-	"base_price": "0.99"
+	"ORDERS_30D": 0
 }

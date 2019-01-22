@@ -1,4 +1,5 @@
 {
+	"item_group": "Töpfe & Pfannen",
 	"current_stock_003_halle_altstadt": 0,
 	"image": "/files/3168430223615.png",
 	"creation": "2018-07-26T12:44:16.966601",
@@ -6,7 +7,9 @@
 	"disabled": 0,
 	"current_stock_wh_ludwigsfelde": 0,
 	"first_time_ordered_on_": null,
+	"ORDERS_7D": 0,
 	"marketing_text": "Weitere 400.000 Artikel in der App",
+	"ORDERS_ALLTIME": 5,
 	"item_name": "Jamie Oliver Servierpfanne 25Cm",
 	"level_0_item_group": "Haushalt",
 	"qrcode_fm02": "https://factorymarket.app.link/TOpTVY79qR?product_id=8902c0be-048c-4222-bdcb-dc9e98f2ac21",
@@ -22,10 +25,13 @@
 	"brand": null,
 	"barcode": "3168430223615",
 	"item_code": "PP-000011626",
-	"current_stock_001_kaufpark_eiche": 0,
 	"name": "PP-000011626",
+	"current_stock_001_kaufpark_eiche": 0,
+	"ORDERS_TODAY": 0,
 	"shelf_number": null,
-	"item_group": "Töpfe & Pfannen",
+	"BARCODE": "3168430223615",
+	"ORDERS_YESTERDAY": 0,
+	"base_price": "29.9900",
 	"current_gross_selling_price": 29.99,
-	"base_price": "29.9900"
+	"ORDERS_30D": 0
 }
