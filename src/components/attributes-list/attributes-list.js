@@ -11,8 +11,6 @@ module.exports = function(data) {
         return arr;
       }, []);
 
-    console.log('groups', groups);
-    console.log('attributes', attributes);
     return tpl({
       attributes: attributes,
       groups: groups,

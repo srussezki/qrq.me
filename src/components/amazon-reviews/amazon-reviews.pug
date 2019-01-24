@@ -1,0 +1,15 @@
+.amazon-reviews.container
+  h5 Amazon Reviews
+    each review in reviews
+      .amazon-review.container
+        .row
+          h6.col-8 #{review['review-title']}
+          .star-rating.col-4.font-s
+            - var i=0;
+            while i++ < 5
+              span.fa.fa-star(class= i<=review['review-rating'] ? 'checked' : '')
+              
+        .reviewer von #{review['reviewer-name']}
+        .review 
+          q #{review['review-text'].replace(/<br>/g, '\n')}
+      

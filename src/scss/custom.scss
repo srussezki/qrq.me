@@ -9,3 +9,31 @@
 .font-l {
   font-size: larger;
 }
+
+.fa-star.checked {
+  color: gold;
+}
+
+.fa-star {
+  color: silver;
+}
+
+.hidden {
+  display: none;
+}
+
+
+.carousel-indicators {
+  bottom: -32px;
+
+  li {
+    background-color: #999;
+  }
+  .active   {
+    background-color: #444;
+  }
+}
+
+body {
+  background: #eee;
+}

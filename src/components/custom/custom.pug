@@ -1,0 +1,29 @@
+each topic in custom
+  .container.card
+    if topic.title
+      .h5 #{topic.title}
+    if topic.text1
+      p #{topic.text1}
+
+    if topic.text2
+      p #{topic.text2}
+    if topic.text3
+      p #{topic.text3}
+    if topic.text4
+      p #{topic.text4}
+    
+    if topic.list
+      p
+        ul
+          each bullet in topic.list
+            li bullet
+            
+    if topic.images
+      each img, i in topic.images
+        p
+          img.d-block.w-100.img-thumbnail(src='https://storage.googleapis.com/qrq-me-data/images/'+img)  
+          
+    if topic.youtube
+      p!= topic.youtube
+    
+          

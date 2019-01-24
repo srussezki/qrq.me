@@ -1,14 +1,18 @@
 .product-card.container
-    h5.title #{name}
+    h5 #{name}
     
     #product-carousel.carousel.slide
-      ol.carousel-indicators
-        each img, i in images
-          li(data-target='#product-carousel', data-slide-to=i)(class= i==0 ? 'active' : '')
+      if images.length > 1
+        ol.carousel-indicators
+          each img, i in images
+            li(data-target='#product-carousel', data-slide-to=i)(class= i==0 ? 'active' : '')
       .carousel-inner
-        each img, i in images
-          .carousel-item(class= i==0 ? 'active' : '').img-wrapper
-                img.d-block.rounded.mx-auto.d-block.img-thumbnail(src=img)
+        if images.length > 0 
+          each img, i in images
+            .carousel-item(class= i==0 ? 'active' : '').img-wrapper
+                  img.d-block.rounded.mx-auto.d-block.img-thumbnail(src=img)
+        else 
+          img(src='public/images/no-product-image.png')
       a.carousel-control-prev(href='#product-carousel', role='button', data-slide='prev')
         span.carousel-control-prev-icon(aria-hidden='true')
       a.carousel-control-next(href='#product-carousel', role='button', data-slide='next')
@@ -42,14 +46,12 @@
               .badge.badge-primary Top 
                 .badge.badge-light 100
             .col-8.font-s Top 100 Produkt in #{top100}
-        if orders_yesterday >= 10
+        if orders_yesterday >= 5
           .row 
             .col-4 
-              .badge.badge-success Trending 
+              .badge.badge-success Im Trend 
             .col-8.font-s 
               div Gestern #{orders_yesterday} mal verkauft
               
-          
-          
           
           

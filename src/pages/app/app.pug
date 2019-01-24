@@ -1,13 +1,20 @@
 .app
   .header.site-header.sticky-top.py-1
     img(src='./public/images/headerLogo.svg')
-  
+    
   if productData
     .card!= productData
+  if customCard
+    div!= customCard
   if productAtributes
     .card!= productAtributes
   if priceComparison
     .card!= priceComparison
+  .similarProducts.card.container.hidden
+    h5 Kunden kaufen auch
   if youtubeVideo
     .card!= youtubeVideo
+  if amazonReviews
+    .card!= amazonReviews
+
     

@@ -9,7 +9,12 @@ module.exports = function(data, externalData) {
     images = [];
 
   if (data.image) {
-    images.push('https://fama-erp.strongops.de/' + data.image);
+    if (data.image.match(/^http/)) {
+      images.push(data.image);
+    } else {
+      images.push('https://fama-erp.strongops.de/' + data.image);
+    }
+
     images = images.concat(otherImages);
   }
 
