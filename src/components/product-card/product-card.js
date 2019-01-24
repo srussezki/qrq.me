@@ -1,12 +1,16 @@
 require('./product-card.scss');
 var tpl = require('./product-card.pug');
 
-module.exports = function(data, externalData) {
-  var otherImages =
-      externalData && externalData['external-images']
-        ? externalData['external-images']
-        : [],
+module.exports = function(data) {
+  var otherImages = [],
     images = [];
+
+  if (
+    data['product_external_data'] &&
+    data['product_external_data']['external-images']
+  ) {
+    otherImages = data['product_external_data']['external-images'];
+  }
 
   if (data.image) {
     if (data.image.match(/^http/)) {

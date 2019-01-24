@@ -14,9 +14,11 @@ const renderFn = require('./app.pug');
 
 const urlParams = new URLSearchParams(window.location.search);
 const ean = urlParams.get('e') || urlParams.get('p');
-const storeId = urlParams.get('s');
 
-var appData = {};
+var allData = {
+  ean: ean,
+  storeId: urlParams.get('s'),
+};
 
 if (ean && ean.match(/^\d+$/)) {
   var $productRequest = $.get(
@@ -27,44 +29,24 @@ if (ean && ean.match(/^\d+$/)) {
     ),
     $upsellDataRequest = $.get(`./public/data/upsell.json`);
 
-  console.log(storeId);
+  $productRequest.then($.extend.bind(null, allData)).then(render);
 
-  $productRequest.then(data => {
-    console.log('masterData', data);
-    appData.productData = ProductCard(data);
+  $externalDataRequest.then($.extend.bind(null, allData)).then(render);
 
-    if (data.custom) {
-      appData.customCard = CustomCard(data.custom);
-    }
-
-    render();
-  });
-
-  $externalDataRequest.then(data => {
-    var productData = data && data.product_external_data;
-    console.log('insightsData', productData);
-
-    appData.youtubeVideo = YoutubeVideosCard(productData);
-    appData.priceComparison = PriceComparisonCard(productData);
-    appData.productAtributes = ProductAttributes(productData);
-    appData.amazonReviews = AmazonReviews(productData);
-
-    render();
-  });
-
-  $.when($productRequest, $externalDataRequest).then((d1, d2) => {
-    var productData = d2[0] && d2[0].product_external_data;
-    appData.productData = ProductCard(d1[0], productData);
-    render();
-  });
-
+  // rendered asynchronous
   $upsellDataRequest.then(UpsellProducts.bind(null, ean));
 }
 
-render();
-render();
-
 function render() {
-  var html = renderFn(appData);
+  var data = {};
+
+  data.productData = ProductCard(allData);
+  data.youtubeVideo = YoutubeVideosCard(allData.product_external_data);
+  data.priceComparison = PriceComparisonCard(allData.product_external_data);
+  data.productAtributes = ProductAttributes(allData.product_external_data);
+  data.amazonReviews = AmazonReviews(allData.product_external_data);
+  data.customCard = CustomCard(allData.custom);
+
+  var html = renderFn(data);
   $('#app').html(html);
 }

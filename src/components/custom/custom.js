@@ -4,6 +4,10 @@ var tpl = require('./custom.pug');
 const YoutubeVideosCard = require('./../../components/youtube-video/youtube-video');
 
 module.exports = function(data) {
+  if (!data || !Array.isArray(data)) {
+    return;
+  }
+
   data = data.map(topic => {
     var images = [];
     if (topic.image) images.push(topic.image);
@@ -19,8 +23,6 @@ module.exports = function(data) {
         'youtube-videos': [topic.video],
       });
     }
-
-    console.log(topic);
 
     return topic;
   });
