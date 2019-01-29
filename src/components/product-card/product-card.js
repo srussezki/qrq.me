@@ -26,7 +26,9 @@ module.exports = function(data) {
     name: data.item_name,
     category: data.level_0_item_group,
     image: 'https://fama-erp.strongops.de/' + data.image,
-    price: String(data.current_gross_selling_price).replace('.', ','),
+    price: Number(data.current_gross_selling_price)
+      .toFixed(2)
+      .replace('.', ','),
     appPrice: (data.current_gross_selling_price * 0.9)
       .toFixed(2)
       .replace('.', ','),

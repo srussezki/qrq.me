@@ -1,13 +1,18 @@
-.app
-  .header.site-header.sticky-top.py-1
-    img(src='./public/images/headerLogo.svg')
-    
+
+.app(class= storeId == 'mg' ? 'mac-geiz' : '')
+  if storeId == 'mg'
+    .header.site-header.sticky-top.py-1
+      img(src='./public/images/Mac-Geiz.svg.png')
+  else
+    .header.site-header.sticky-top.py-1
+      img(src='./public/images/headerLogo.svg')
+  
   if productData
     .card!= productData
   if customCard
     div!= customCard
   if productAtributes
-    .card!= productAtributes
+    != productAtributes
   if priceComparison
     .card!= priceComparison
   .similarProducts.card.container.hidden

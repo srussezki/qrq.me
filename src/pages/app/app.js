@@ -10,14 +10,15 @@ const AmazonReviews = require('./../../components/amazon-reviews/amazon-reviews'
 const UpsellProducts = require('./../../components/upsell-products/upsell-products');
 const CustomCard = require('./../../components/custom/custom');
 
-const renderFn = require('./app.pug');
+const appTpl = require('./app.pug');
 
 const urlParams = new URLSearchParams(window.location.search);
 const ean = urlParams.get('e') || urlParams.get('p');
+const storeId = urlParams.get('s');
 
 var allData = {
   ean: ean,
-  storeId: urlParams.get('s'),
+  storeId: storeId,
 };
 
 if (ean && ean.match(/^\d+$/)) {
@@ -29,16 +30,34 @@ if (ean && ean.match(/^\d+$/)) {
     ),
     $upsellDataRequest = $.get(`./public/data/upsell.json`);
 
-  $productRequest.then($.extend.bind(null, allData)).then(render);
+  $productRequest.then(d => $.extend(allData, d)).then(render);
 
-  $externalDataRequest.then($.extend.bind(null, allData)).then(render);
+  $externalDataRequest.then(d => $.extend(allData, d)).then(render);
 
-  // rendered asynchronous
+  // asynchronous load/*global ga:true*/ing
   $upsellDataRequest.then(UpsellProducts.bind(null, ean));
+
+  // custom handling for mg showcase
+  if (storeId == 'mg') {
+    console.log('MG mode');
+    setTimeout(() => {
+      let url = `https://storage.googleapis.com/qrq-me-data/mg/${ean}.json`;
+      $.get(url)
+        .then(
+          d => $.extend(allData, d),
+          err => {
+            console.error(`could not load ${url}`, err.statusText);
+          }
+        )
+        .then(render);
+    }, 300);
+  }
 }
 
 function render() {
-  var data = {};
+  var data = {
+    storeId: storeId,
+  };
 
   data.productData = ProductCard(allData);
   data.youtubeVideo = YoutubeVideosCard(allData.product_external_data);
@@ -47,6 +66,17 @@ function render() {
   data.amazonReviews = AmazonReviews(allData.product_external_data);
   data.customCard = CustomCard(allData.custom);
 
-  var html = renderFn(data);
+  var html = appTpl(data);
   $('#app').html(html);
 }
+
+$(document).ready(function() {
+  /*global ga:true*/
+  if (ean) {
+    ga('send', 'event', 'product-view', ean, storeId);
+  }
+
+  $('body').on('click', '.offer-link', function() {
+    ga('send', 'event', 'offer-click-out', ean, $(this).attr('href'));
+  });
+});

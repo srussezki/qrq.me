@@ -1,5 +1,6 @@
 .app {
   .header {
+    height: 60px;
     width: 100%;
     background-color: rgba(255, 242, 0,0.9);
     text-align: center;
@@ -7,7 +8,7 @@
     border-bottom: 1px solid rgba(0, 0, 0, 0.125);
 
     img {
-      width: 80%;
+      height: 80%;
       margin: 5px;
     }
   }
@@ -17,4 +18,10 @@
     padding-top: 10px;
     // background-color: #f9f9f9;
   }
+}
+
+
+
+.mac-geiz .header {
+  background-color: rgba(240, 0, 22, 0.9) !important;
 }

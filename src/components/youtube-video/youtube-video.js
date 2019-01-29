@@ -13,10 +13,8 @@ module.exports = function(data) {
   var ids = videos.map(getId).filter(id => id != undefined);
 
   if (ids.length > 0) {
-    // var randomId = ids[Math.floor(Math.random() * ids.length)];
-
     return tpl({
-      video: 'http://www.youtube.com/embed/' + ids[0],
+      ids: ids,
     });
   }
 };

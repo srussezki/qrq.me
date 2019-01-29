@@ -9,4 +9,4 @@
             .col-3
                 span= (offer['offer-price']*1).toFixed(2).replace('.',',') + " €"
             .col-6
-                a(href=offer['offer-link'])= offer['shop-name']
+                a.offer-link(href=offer['offer-link'] target='_blank')= offer['shop-name']

@@ -20,14 +20,14 @@
 
     .price-box.container
         .row
-            .col-4.font-s Preis:
+            .col-4 Preis:
             .col-8
                 .price-color EUR #{price}
-        .row
-            .col-4.font-s Mit Apprabatt:
-            .col-8
-                .price-color.font-l EUR #{appPrice}              
-                .font-s Alle Angabe inkl. MwSt.
+        //- .row
+        //-     .col-4.font-s Mit Apprabatt:
+        //-     .col-8
+        //-         .price-color.font-l EUR #{appPrice}              
+        //-         .font-s Alle Angabe inkl. MwSt.
     
     if marketing_text
       .marketing-box.container 
@@ -37,19 +37,19 @@
         if top10
           .row 
             .col-4 
-              .badge.badge-danger Top 
+              .top-badge.badge.badge-danger Top 
                 .badge.badge-light 10
             .col-8.font-s Top 10 Produkt in #{top10}
         if top100
           .row 
             .col-4 
-              .badge.badge-primary Top 
+              .top-badge.badge.badge-primary Top 
                 .badge.badge-light 100
             .col-8.font-s Top 100 Produkt in #{top100}
         if orders_yesterday >= 5
           .row 
             .col-4 
-              .badge.badge-success Im Trend 
+              .top-badge.badge.badge-success Im Trend 
             .col-8.font-s 
               div Gestern #{orders_yesterday} mal verkauft
               
