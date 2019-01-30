@@ -23,8 +23,9 @@
             .col-4 Preis:
             .col-8
                 .price-color EUR #{price}
-        .row
-            .col-4.font-s Mit Apprabatt:
+        if appPrice
+          .row
+            .col-4 Mit Apprabatt:
             .col-8
                 .price-color.font-l EUR #{appPrice}              
                 .font-s Alle Angabe inkl. MwSt.

@@ -1,6 +1,10 @@
 require('./product-card.scss');
 var tpl = require('./product-card.pug');
 
+// TODO: re-factor
+const urlParams = new URLSearchParams(window.location.search);
+const storeId = urlParams.get('s');
+
 module.exports = function(data) {
   var otherImages = [],
     images = [];
@@ -29,9 +33,10 @@ module.exports = function(data) {
     price: Number(data.current_gross_selling_price)
       .toFixed(2)
       .replace('.', ','),
-    appPrice: (data.current_gross_selling_price * 0.9)
-      .toFixed(2)
-      .replace('.', ','),
+    appPrice:
+      storeId == 'mg'
+        ? null
+        : (data.current_gross_selling_price * 0.9).toFixed(2).replace('.', ','),
     images: images,
     top10: data.top10,
     top100: data.top100,
